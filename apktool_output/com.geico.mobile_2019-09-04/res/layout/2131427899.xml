@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" id="@id/2131298682" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" background="#ffffffff" padding="16.0dip" layout_height="wrap_content" style="@style/2131820783">
+            <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Serious accidents can happen to anybody. Get extra protection today." />
+            <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="What is umbrella insurance?" />
+            <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131756271" />
+            <ImageView src="@drawable/APKTOOL_DUMMY_431" contentDescription="" style="@style/2131820832" />
+            <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="How does umbrella insurance work?" />
+            <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="@string/2131756230" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" background="#fff2f0ec" padding="16.0dip" layout_height="wrap_content" style="@style/2131820783">
+            <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Do you need umbrella insurance?" />
+            <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="@string/2131756218" />
+            <TextView text="@string/2131756283" style="@style/2131820759" />
+            <TextView text="@string/2131756243" style="@style/2131820759" />
+            <TextView text="@string/2131756198" style="@style/2131820759" />
+            <TextView text="@string/2131756216" style="@style/2131820759" />
+            <TextView text="@string/2131756182" style="@style/2131820759" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <LinearLayout orientation="vertical" background="#ffffffff" padding="16.0dip" layout_height="wrap_content" style="@style/2131820783">
+                <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Why buy umbrella insurance?" />
+                <TextView id="@id/2131298948" text="@string/2131756261" style="@style/2131820759" />
+                <TextView text="@string/2131756281" style="@style/2131820759" />
+                <TextView text="Liability claims are often expensive. You might have to work for years to pay one off." style="@style/2131820759" />
+                <TextView text="You can be sued even if you're not wealthy. Lawsuits are more common than you might think." style="@style/2131820759" />
+                <TextView layout_marginBottom="16.0dip" text="@string/2131756202" style="@style/2131820759" />
+                <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="*Other policy limits are also available." />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" padding="16.0dip" layout_height="wrap_content" style="@style/2131820783">
+            <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="@string/2131756247" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" background="#ffffffff" padding="16.0dip" layout_height="wrap_content" style="@style/2131820783">
+            <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Call (866) 272-5192 to speak to an agent." />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

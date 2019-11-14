@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820758" layout_gravity="center_vertical" id="@id/2131298899" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" />
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What's covered?" style="@style/2131820882" />
+    <TextView text="You're protected against damage to your home and personal property due to causes like fire, theft and accidents." style="@style/2131820881" />
+    <TextView text="What do standard policies usually provide?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Coverage for damage to your personal property" style="@style/2131820773" />
+        <TextView text="Coverage for additional costs you might incur" style="@style/2131820773" />
+        <TextView text="Limited coverage for jewelry stolen from your home" style="@style/2131820773" />
+        <TextView text="Coverage for personal liability exposures that arise from being a homeowner" style="@style/2131820773" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="color_chooser_unlock_separator_merchants">
+        <item quantity="other">Pay with LevelUp at &lt;b>%d businesses&lt;/b> to unlock:</item>
+        <item quantity="one">Pay with LevelUp at &lt;b>one new business&lt;/b> to unlock:</item>
+    </plurals>
+    <plurals name="color_chooser_unlock_separator_orders">
+        <item quantity="other">Pay with LevelUp &lt;b>%d times&lt;/b> to unlock:</item>
+        <item quantity="one">Pay with LevelUp &lt;b>once&lt;/b> to unlock:</item>
+    </plurals>
+    <plurals name="levelup_location_rewards_count">
+        <item quantity="other">%d Rewards</item>
+        <item quantity="one">%d Reward</item>
+    </plurals>
+    <plurals name="levelup_loyalty_progress_bar_view_savings_and_visits_format">
+        <item quantity="other">You’ve saved &lt;font color=#82c653>%1$s&lt;/font> across &lt;font color=#82c653>%2$d&lt;/font> visits here.</item>
+        <item quantity="one">You’ve saved &lt;font color=#82c653>%1$s&lt;/font> across &lt;font color=#82c653>%2$d&lt;/font> visit here.</item>
+    </plurals>
+    <plurals name="levelup_mile">
+        <item quantity="other">Miles</item>
+        <item quantity="one">Mile</item>
+    </plurals>
+    <plurals name="levelup_order_ahead_option_group_title_format">
+        <item quantity="other">%1$s: %2$s</item>
+        <item quantity="zero">%1$s</item>
+    </plurals>
+    <plurals name="levelup_order_ahead_review_order_ready_time_since_no_fuzz">
+        <item quantity="other">%1$s mins ago</item>
+        <item quantity="one">%1$s min ago</item>
+    </plurals>
+    <plurals name="levelup_order_ahead_review_order_ready_time_wait_until_no_fuzz">
+        <item quantity="other">%1$s mins</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="levelup_place">
+        <item quantity="other">places</item>
+        <item quantity="one">place</item>
+    </plurals>
+    <plurals name="levelup_rewards_feed_progress_item_visit_progress_format">
+        <item quantity="other">%1$s more visits to go</item>
+        <item quantity="one">%1$s more visits to go</item>
+    </plurals>
+    <plurals name="levelup_user_profile_header_rewards_summary_returning_user">
+        <item quantity="other">You’ve visited &lt;font color=#ff8d00>%1$d&lt;/font> places and saved &lt;font color=#ff8d00>%2$s&lt;/font></item>
+        <item quantity="one">You’ve visited &lt;font color=#ff8d00>%1$d&lt;/font> place and saved &lt;font color=#ff8d00>%2$s&lt;/font></item>
+    </plurals>
+    <plurals name="levelup_user_profile_header_rewards_summary_returning_user_no_rewards">
+        <item quantity="other">You’ve visited &lt;font color=#ff8d00>%1$d&lt;/font> places</item>
+        <item quantity="one">You’ve visited &lt;font color=#ff8d00>%1$d&lt;/font> place</item>
+    </plurals>
+</resources>

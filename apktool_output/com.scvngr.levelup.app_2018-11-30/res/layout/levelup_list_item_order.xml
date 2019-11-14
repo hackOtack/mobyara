@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_list_item_order"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="top" android:id="@id/levelup_list_item_order_refunded_mark" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/levelup_refunded_mark" android:contentDescription="" />
+    <TextView android:id="@android:id/text1" android:layout_width="@dimen/levelup_list_item_order_date_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/levelup_layout_margin_end" style="@style/levelup_transaction_history_row_date" />
+    <TextView android:id="@android:id/text2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" style="@style/levelup_transaction_history_row_title" />
+    <TextView android:gravity="right" android:id="@id/levelup_list_item_order_text3" android:paddingRight="@dimen/levelup_padding_end" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_transaction_history_row_amount" />
+</LinearLayout>

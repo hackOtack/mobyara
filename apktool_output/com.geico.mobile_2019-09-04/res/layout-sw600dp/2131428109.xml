@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297311" layout_width="fill_parent" layout_height="wrap_content">
+        <include layout="@layout/2131427678" />
+    </LinearLayout>
+    <include id="@id/2131298372" layout="@layout/2131428108" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820889">
+        <LinearLayout gravity="center_horizontal" orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" layout_column="1">
+            <TextView id="@id/2131296994" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" style="@style/2131820873" />
+            <FrameLayout layout_width="450.0dip" layout_height="260.0dip" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" layout_marginBottom="2.0dip" layout_alignParentLeft="true" layout_alignParentBottom="true">
+                <LinearLayout orientation="vertical" id="@id/2131298371" layout_width="fill_parent" layout_height="fill_parent" />
+            </FrameLayout>
+            <TextView textAppearance="@style/2131820756" id="@id/2131297174" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297175" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button layout_gravity="right" id="@id/2131298373" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="10.0dip" text="Postpone Payment" onClick="onPostponePaymentButtonClicked" />
+</LinearLayout>

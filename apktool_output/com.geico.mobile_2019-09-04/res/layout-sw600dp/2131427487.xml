@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" background="#fff2f0ec" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView id="@id/2131299279" layout_width="fill_parent" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+    <GridView id="@id/2131297003" layout_width="fill_parent" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

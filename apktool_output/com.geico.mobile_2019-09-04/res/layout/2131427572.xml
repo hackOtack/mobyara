@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131297111" background="@drawable/2131231437" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="-4.0dip" layout_marginRight="34.0dip" layout_alignParentTop="true" layout_alignParentRight="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297112" layout_width="60.0dip" layout_height="60.0dip" layout_marginBottom="60.0dip" src="@drawable/2131231173" layout_alignParentTop="true" layout_alignParentRight="true" />
+    <TextView id="@id/2131297108" layout_width="wrap_content" layout_height="wrap_content" text="Need Help? Just Ask." layout_below="@id/2131297112" layout_alignParentLeft="true" style="@style/2131820839" />
+    <TextView id="@id/2131297109" layout_width="wrap_content" layout_height="wrap_content" text="Type or speak your question." layout_below="@id/2131297108" layout_alignLeft="@id/2131297108" style="@style/2131820996" />
+</RelativeLayout>

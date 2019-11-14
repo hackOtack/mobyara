@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout layout_gravity="center" tag="layout/explore_details_gas_station_0" background="@drawable/2131231210" padding="16.0dip" focusable="true" focusableInTouchMode="true" clickable="true" layout_width="wrap_content" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821112" textStyle="bold" id="@id/2131297546" tag="binding_1" layout_width="0.0dip" layout_height="wrap_content" maxWidth="260.0dip" layout_marginEnd="16.0dip" 2130968840="@id/2131296783" 2130968858="2131298157" 2130968861="2131298157" />
+    <TextView textAppearance="@style/2131820998" textStyle="italic" id="@id/2131297100" tag="binding_2" layout_width="wrap_content" layout_height="wrap_content" layout_marginEnd="16.0dip" 2130968840="@id/2131296783" 2130968848="0.0" 2130968858="2131298157" 2130968860="@id/2131297546" />
+    <ImageButton id="@id/2131296783" layout_width="wrap_content" layout_height="wrap_content" contentDescription="CLOSE" 2130968839="2131298157" 2130968861="2131298157" 2130968978="@drawable/2131231213" />
+    <include id="@id/2131297534" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" 2130968858="2131298157" 2130968860="@id/2131297100" layout="@layout/2131427707" />
+    <include id="@id/2131297532" layout_width="wrap_content" layout_height="wrap_content" layout_marginStart="16.0dip" 2130968834="@id/2131297534" 2130968839="2131298157" 2130968857="@id/2131297534" 2130968860="@id/2131297534" layout="@layout/2131427707" />
+    <include id="@id/2131297533" layout_width="wrap_content" layout_height="wrap_content" 2130968858="2131298157" 2130968860="@id/2131297532" layout="@layout/2131427707" />
+    <include id="@id/2131297530" layout_width="wrap_content" layout_height="wrap_content" layout_marginStart="16.0dip" 2130968834="@id/2131297533" 2130968839="2131298157" 2130968857="@id/2131297533" 2130968860="@id/2131297533" layout="@layout/2131427707" />
+    <include id="@id/2131297771" layout_width="0.0dip" layout_height="wrap_content" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297530" layout="@layout/2131427691" />
+</android.support.constraint.ConstraintLayout>

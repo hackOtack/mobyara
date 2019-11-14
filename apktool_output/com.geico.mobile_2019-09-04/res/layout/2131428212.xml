@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar theme="@style/2131821103" id="@id/2131299004" background="#ffef7014" layout_width="fill_parent" layout_height="34.0dip" elevation="4.0dip" 2130968706="0.0dip" 2130968710="0.0dip" 2130968944="@style/2131821108" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView layout_gravity="left" id="@id/2131299000" paddingLeft="10.0dip" layout_width="wrap_content" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_a4" tint="#ffffffff" />
+    <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="17.0dip" textColor="#ffffffff" gravity="center|left" id="@id/2131299001" paddingLeft="5.0dip" layout_width="wrap_content" layout_height="fill_parent" text="AUTO" />
+    <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="17.0dip" textColor="#ffffffff" layout_gravity="center" id="@id/2131299080" layout_width="wrap_content" layout_height="wrap_content" />
+    <ImageView layout_gravity="center" id="@id/2131299003" visibility="gone" layout_width="wrap_content" layout_height="fill_parent" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" src="@drawable/APKTOOL_DUMMY_a" layout_centerHorizontal="true" />
+    <LinearLayout gravity="center_vertical" layout_gravity="right" orientation="horizontal" id="@id/2131296447" paddingRight="10.0dip" layout_width="wrap_content" layout_height="fill_parent">
+        <ImageView id="@id/2131299002" paddingRight="10.0dip" layout_width="wrap_content" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_a6" tint="#ffffffff" />
+    </LinearLayout>
+</android.support.v7.widget.Toolbar>

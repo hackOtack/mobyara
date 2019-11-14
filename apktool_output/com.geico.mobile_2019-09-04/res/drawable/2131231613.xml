@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_pressed="true" drawable="@color/2131099873" />
+    <item state_selected="true" drawable="@color/2131099873" />
+    <item state_enabled="false" drawable="@color/2131099785" />
+    <item drawable="@color/2131099871" />
+</selector>

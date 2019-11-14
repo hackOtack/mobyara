@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296562" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820789"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131296537" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" text="This is a one time change to your due date.\nFuture payment dates have not been changed." />
+    <TextView textAppearance="@style/2131820994" id="@id/2131296536" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" text="Next Auto Payment Date" style="@style/2131820834" />
+    <RelativeLayout id="@id/2131299268" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginBottom="10.0dip">
+        <TextView textAppearance="@style/2131820756" id="@id/2131296497" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="2.0dip" text="" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298374" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="" layout_toRightOf="@id/2131296497" layout_alignParentRight="@id/2131296497" />
+    </RelativeLayout>
+    <TextView textAppearance="@style/2131820994" id="@id/2131298033" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" text="Choose New Payment Date" style="@style/2131820834" />
+</LinearLayout>

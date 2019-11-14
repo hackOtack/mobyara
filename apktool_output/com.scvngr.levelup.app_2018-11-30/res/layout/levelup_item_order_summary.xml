@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:paddingTop="@dimen/padding1" android:paddingBottom="@dimen/padding1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/CardContent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textAppearance="@style/SubheadingGray1" android:ellipsize="end" android:id="@id/levelup_item_order_summary_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" app:layout_constraintEnd_toStartOf="@id/levelup_item_order_summary_price" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toStartOf="parent" />
+    <TextView android:textAppearance="@style/SubheadingGray1" android:id="@id/levelup_item_order_summary_price" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" />
+</android.support.constraint.ConstraintLayout>

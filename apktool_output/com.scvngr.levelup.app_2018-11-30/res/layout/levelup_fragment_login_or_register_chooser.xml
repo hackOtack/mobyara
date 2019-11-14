@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_app_bottom_button_container"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="0.0dip" android:text="@string/levelup_logged_out_landing_get_started_button_text" style="@style/levelup_button_neutral" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131299221" background="@drawable/2131231749" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" foreground="?android:selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView gravity="center" id="@id/2131297997" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="12.0dip" layout_marginTop="16.0dip" layout_marginRight="8.0dip" layout_marginBottom="16.0dip" src="@drawable/APKTOOL_DUMMY_43d" tint="?APKTOOL_DUMMY_c9" minWidth="32.0dip" minHeight="32.0dip" />
+    <RelativeLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="?android:textAppearanceButton" textColor="@color/2131099962" id="@id/2131299173" layout_width="fill_parent" layout_height="wrap_content" text="Vehicle Care" layout_alignParentLeft="true" layout_alignParentTop="true" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131299172" layout_width="fill_parent" layout_height="wrap_content" text="Access your car's service history, recall alerts, service reminders and more!" layout_below="@id/2131299173" layout_alignParentLeft="true" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298380" paddingTop="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Powered by" layout_below="@id/2131299172" layout_alignParentLeft="true" />
+        <ImageView id="@id/2131297978" paddingLeft="8.0dip" paddingTop="12.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_319" layout_toRightOf="@id/2131298380" layout_below="@id/2131299172" />
+    </RelativeLayout>
+</LinearLayout>

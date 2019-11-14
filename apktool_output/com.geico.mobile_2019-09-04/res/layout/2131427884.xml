@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Not sure you need ATV insurance?" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Not to be a downer, but as an ATV owner, there are a couple of things you need to keep in mind:" />
+    <TextView text="ATVs have a high theft rate" style="@style/2131820759" />
+    <TextView text="Your homeowner's insurance may not cover your ATV if you ride it off your property or if you trailer your ATV to another location" style="@style/2131820759" />
+    <TextView text="If you use your ATV in a state-owned or public park, ATV insurance may be required" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="We know that ATV insurance isn't as fun as a little mud slinging, but it's just as important as wearing a helmet. GEICO makes it easy on your budget too!" />
+    <ImageView src="@drawable/2131231461" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="As an off-roader, what does ATV insurance get you?" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Here is a rundown of the coverages included in our customized ATV policy:" />
+    <TextView text="@string/2131756196" style="@style/2131820759" />
+    <TextView text="@string/2131756250" style="@style/2131820759" />
+    <TextView text="@string/2131756186" style="@style/2131820759" />
+    <TextView text="@string/2131756201" style="@style/2131820759" />
+    <TextView text="@string/2131756239" style="@style/2131820759" />
+    <TextView text="@string/2131756262" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (800) 442-9253 to speak to an agent." />
+</LinearLayout>

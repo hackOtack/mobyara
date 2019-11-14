@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout/telematics_fragment_0" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="0.0dip" layout_marginBottom="@dimen/2131165336" layout_weight="0.5">
+        <ImageView id="@id/2131297144" paddingBottom="16.0dip" layout_width="156.0dip" layout_height="80.0dip" layout_marginTop="@dimen/2131165336" src="@drawable/2131231413" scaleType="fitXY" layout_above="@id/2131297605" layout_centerHorizontal="true" contentDescription="Drive Logo" />
+        <TextView gravity="center_horizontal" id="@id/2131297605" paddingTop="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="We're taking you to\n the DriveEasy app." layout_above="@id/2131298884" style="@style/2131820837" />
+        <TextView gravity="center_horizontal" id="@id/2131298884" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Thanks for helping create a better driving\n experience for everyone on the road!" layout_alignParentBottom="true" style="@style/2131820756" />
+    </RelativeLayout>
+    <RelativeLayout layout_width="fill_parent" layout_height="0.0dip" layout_weight="0.5">
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_240" layout_above="@id/2131296585" layout_alignParentTop="true" layout_centerHorizontal="true" contentDescription="Geico Car" />
+        <Button id="@id/2131296585" tag="binding_1" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Continue to the App" layout_alignParentBottom="true" textAllCaps="true" style="@style/2131820937" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" id="@id/2131298349" visibility="gone" layout_width="0.0dip" layout_height="wrap_content" layout_weight="2.0">
+        <Button id="@id/2131298773" layout_width="0.0dip" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Current Policy Term" layout_weight="1.0" onClick="onClickViewOfficialOldTermIdCard" />
+        <Button id="@id/2131298772" layout_width="0.0dip" layout_height="wrap_content" layout_marginBottom="16.0dip" text="New Policy Term" layout_weight="1.0" onClick="onClickViewOfficialNewTermIdCard" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" id="@id/2131299235" visibility="gone" layout_width="0.0dip" layout_height="wrap_content" layout_weight="2.0">
+        <Space layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" />
+        <Button id="@id/2131299234" layout_width="0.0dip" layout_height="wrap_content" text="View Official ID Card" layout_weight="1.0" onClick="onClickViewOfficialIdCard" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

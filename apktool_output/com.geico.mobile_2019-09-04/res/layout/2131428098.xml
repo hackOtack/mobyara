@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout theme="@style/2131820835" gravity="center" orientation="vertical" background="@drawable/2131231749" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820758" id="@id/2131296969" layout_width="wrap_content" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820840" textColor="#ff4ba449" id="@id/2131296935" layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip" />
+    <include layout="@layout/2131427493" />
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0dip" android:color="@color/button_positive_normal" />
+            <solid android:color="@color/button_positive_normal" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0dip" android:color="@color/button_disabled" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0dip" android:color="@color/button_positive_normal" />
+            <solid android:color="@color/button_positive_normal" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0dip" android:color="@color/button_positive_disabled" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="1.0dip" android:color="@color/button_positive_normal" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+</selector>

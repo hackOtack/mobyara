@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296916" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131297314" background="@drawable/2131231824" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131821111" textColor="#ffffffff" id="@id/2131297317" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="We're Sorry" layout_alignParentLeft="true" />
+        <ImageView id="@id/2131297315" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_81" layout_alignParentRight="true" layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297314" style="@style/2131820889">
+        <TextView id="@id/2131297316" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="You have exceeded the maximum number of attempts to verify your current password. This transaction has been cancelled." style="@style/2131820873" />
+        <Button theme="@style/2131820769" id="@id/2131297313" layout_width="fill_parent" layout_height="@dimen/2131165503" layout_margin="10.0dip" text="Return Home" layout_below="@id/2131297316" onClick="onPolicyDashBoardButtonClicked" />
+    </RelativeLayout>
+</LinearLayout>

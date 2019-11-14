@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297079" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297168" paddingTop="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Is your vehicle..." layout_alignParentTop="true" contentDescription="Drivetrain Question Text" />
+    <Spinner id="@id/2131297169" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297168" contentDescription="Drivetrain Dropdown" />
+</RelativeLayout>

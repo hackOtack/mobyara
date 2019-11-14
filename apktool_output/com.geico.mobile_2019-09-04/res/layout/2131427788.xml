@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820990" gravity="center_horizontal" id="@id/2131297596" layout_width="fill_parent" layout_height="wrap_content" text="Have you already created an online account?" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" weightSum="2.0">
+        <Button id="@id/2131299315" layout_width="0.0dip" layout_height="wrap_content" layout_margin="16.0dip" text="Yes" layout_weight="1.0" onClick="onActivateAccountYesClicked" style="@style/2131820547" />
+        <Button id="@id/2131298041" layout_width="0.0dip" layout_height="wrap_content" layout_margin="16.0dip" text="No" layout_weight="1.0" onClick="onActivateAccountNoClicked" style="@style/2131820547" />
+    </LinearLayout>
+</LinearLayout>

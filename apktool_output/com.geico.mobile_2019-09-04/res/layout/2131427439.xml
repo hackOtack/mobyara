@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297571" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131296735" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment name="o.ҝι" id="@id/2131296734" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" />
+    </FrameLayout>
+    <include id="@id/2131296746" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296735" layout="@layout/2131427440" />
+    <android.support.v7.widget.RecyclerView orientation="vertical" id="@id/2131297980" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_below="@id/2131296746" />
+</RelativeLayout>

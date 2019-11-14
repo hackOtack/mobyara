@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout padding="20.0dip" layout_width="fill_parent" layout_height="wrap_content" minHeight="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298596" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" text="Return Home" onClick="onReturnHomeClicked" />
+    <Button id="@id/2131298759" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" layout_below="@id/2131298596" onClick="onShareIdCardsActionButtonClicked" style="@style/2131820980" />
+</RelativeLayout>

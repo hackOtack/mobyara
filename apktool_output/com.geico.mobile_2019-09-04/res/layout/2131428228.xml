@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" paddingTop="32.0dip" layout_width="280.0dip" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="?android:textAppearanceMedium" id="@id/2131296702" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131757293" />
+    <TextView ellipsize="end" id="@id/2131296703" layout_width="wrap_content" layout_height="wrap_content" lines="1" />
+    <LinearLayout paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <Button id="@id/2131298764" layout_width="0.0dip" layout_height="wrap_content" text="@string/2131757330" layout_weight="0.33" style="?android:borderlessButtonStyle" />
+        <Button id="@id/2131296857" layout_width="0.0dip" layout_height="wrap_content" text="@string/2131757314" layout_weight="0.33" style="?android:borderlessButtonStyle" />
+        <Button enabled="false" id="@id/2131298103" layout_width="0.0dip" layout_height="wrap_content" text="@string/2131757336" layout_weight="0.33" style="?android:borderlessButtonStyle" />
+    </LinearLayout>
+    <ListView id="@id/2131296704" layout_width="wrap_content" layout_height="wrap_content" />
+</LinearLayout>

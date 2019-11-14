@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:paddingLeft="@dimen/padding2" android:paddingTop="@dimen/padding3" android:paddingRight="@dimen/padding2" android:paddingBottom="@dimen/padding3" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/levelup_rewards_feed_info_star_icon" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin1" android:text="@string/levelup_rewards_feed_info_header1" style="@style/Body2Gray1" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin0_5" android:text="@string/levelup_rewards_feed_info_body1" style="@style/SubheadingGray2" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin4" android:text="@string/levelup_rewards_feed_info_header2" style="@style/CaptionPrimary" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin0_5" android:text="@string/levelup_rewards_feed_info_body2" style="@style/SubheadingGray2" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin4" android:text="@string/levelup_rewards_feed_info_header3" style="@style/CaptionPrimary" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin0_5" android:text="@string/levelup_rewards_feed_info_body3" style="@style/SubheadingGray2" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin4" android:text="@string/levelup_rewards_feed_info_header4" style="@style/Body2Gray1" />
+        <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/margin0_5" android:text="@string/levelup_rewards_feed_info_body4" style="@style/SubheadingGray2" />
+    </LinearLayout>
+</ScrollView>

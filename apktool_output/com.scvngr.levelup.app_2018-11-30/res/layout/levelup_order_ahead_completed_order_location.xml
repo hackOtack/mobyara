@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.gms.maps.MapView android:id="@id/levelup_order_ahead_completed_order_location_map" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_order_ahead_completed_order_location_map_height" app:liteMode="true" />
+        <View android:background="@android:color/black" style="@style/levelup_divider" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_section">
+            <TextView android:id="@id/levelup_order_ahead_completed_order_location_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_location_title" />
+            <TextView android:id="@id/levelup_order_ahead_completed_order_location_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_location_subtitle" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/levelup_order_ahead_completed_order_location_map_buttons" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/levelup_layout_margin_end" app:layout_anchor="@id/levelup_order_ahead_completed_order_location_map" app:layout_anchorGravity="end|bottom|center">
+        <android.support.design.widget.FloatingActionButton android:theme="@style/levelup_order_ahead_floating_button" android:id="@id/levelup_order_ahead_completed_order_location_directions" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0dip" app:srcCompat="@drawable/levelup_ic_navigate" />
+        <android.support.design.widget.FloatingActionButton android:theme="@style/levelup_order_ahead_floating_button" android:id="@id/levelup_order_ahead_completed_order_location_phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0dip" app:srcCompat="@drawable/levelup_ic_phone" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

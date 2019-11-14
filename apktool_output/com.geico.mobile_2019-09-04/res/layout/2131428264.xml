@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingLeft="@dimen/2131165271" paddingRight="@dimen/2131165271" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297222" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Email Address" style="@style/2131820876" />
+    <TextView id="@id/2131297237" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" style="@style/2131820994" />
+    <TextView id="@id/2131297215" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="The changes you made to your email address will apply to each policy selected below." style="@style/2131820754" />
+    <TableLayout id="@id/2131298304" layout_height="wrap_content" layout_marginBottom="8.0dip" style="@style/2131820887" />
+    <TextView id="@id/2131297226" layout_width="fill_parent" layout_height="wrap_content" text="Note:" style="@style/2131820756" />
+    <TextView id="@id/2131297225" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="You will continue to receive emails regarding policy related transactions regardless of the email subscriptions that are chosen." style="@style/2131820876" />
+    <TextView id="@id/2131297230" layout_width="fill_parent" layout_height="wrap_content" text="If you are signed up for Paperless Billing and/or Paperless Policy, you will continue to receive email notifications when these documents are available to view online." style="@style/2131820876" />
+</LinearLayout>

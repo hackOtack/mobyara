@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131297304" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText id="@id/2131297305" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" />
+</LinearLayout>

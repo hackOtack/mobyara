@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131298096" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131298098" layout_width="fill_parent" layout_height="fill_parent" layout_above="@id/2131298097">
+        <ImageView id="@id/2131298092" layout_width="fill_parent" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_88" scaleType="fitXY" adjustViewBounds="true" />
+    </LinearLayout>
+    <RelativeLayout orientation="vertical" id="@id/2131298097" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true">
+        <TextView textAppearance="@style/2131821112" id="@id/2131298094" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" text="Be Connected to Help" layout_centerHorizontal="true" />
+        <TextView textAppearance="@style/2131820757" id="@id/2131298091" layout_width="wrap_content" layout_height="wrap_content" text="We'll come to the rescue. Just enable location \n services to let us know where you are!" layout_below="@id/2131298094" layout_centerHorizontal="true" />
+        <Button theme="@style/2131820911" id="@id/2131298090" layout_width="wrap_content" layout_height="wrap_content" text="Got It" layout_below="@id/2131298091" layout_centerHorizontal="true" />
+        <Button id="@id/2131298093" background="#00000000" layout_width="wrap_content" layout_height="wrap_content" text="Not Now" layout_below="@id/2131298090" layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

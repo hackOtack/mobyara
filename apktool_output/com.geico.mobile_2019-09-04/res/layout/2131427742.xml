@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297875" layout_width="fill_parent" layout_height="0.0dip" layout_weight="0.6">
+        <fragment id="@id/2131298911" layout_width="fill_parent" layout_height="fill_parent" class="com.google.android.gms.maps.SupportMapFragment" />
+        <ImageView id="@id/2131297691" layout_width="fill_parent" layout_height="fill_parent" src="#00000000" />
+        <TextView textColor="#ffffffff" layout_gravity="center" id="@id/2131298621" background="@drawable/APKTOOL_DUMMY_40a" focusable="false" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="30.0dip" text="Lyft is not available here" />
+    </FrameLayout>
+    <Button layout_gravity="center" id="@id/2131296850" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" text="Continue" />
+</LinearLayout>

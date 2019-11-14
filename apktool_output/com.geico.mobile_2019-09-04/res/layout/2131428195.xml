@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298896" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" tint="?APKTOOL_DUMMY_c9" minWidth="32.0dip" minHeight="32.0dip" layout_marginStart="12.0dip" layout_marginEnd="8.0dip" />
+</merge>

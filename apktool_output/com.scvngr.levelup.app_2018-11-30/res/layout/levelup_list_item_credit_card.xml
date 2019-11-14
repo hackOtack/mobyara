@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center|left" style="@style/levelup_list_item_not_focusable"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:layout_gravity="center|right" android:id="@id/levelup_credit_card_selected" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/levelup_credit_card_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginRight="@dimen/levelup_layout_margin_end" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/text_size_normal" android:textStyle="bold" android:id="@id/levelup_credit_card_number" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_caption_text_light" />
+        <TextView android:id="@id/levelup_credit_card_expiration" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_caption_text_light" />
+    </LinearLayout>
+</LinearLayout>

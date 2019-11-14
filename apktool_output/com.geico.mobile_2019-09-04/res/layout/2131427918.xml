@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="@dimen/2131165271" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297270" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820997" id="@id/2131298478" tag="enableTouchIdFieldText" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="To enable Touch ID, you’ll first need to log out of your policy. Then log back in with your user ID and password." />
+        <LinearLayout orientation="horizontal" id="@id/2131297268" layout_width="fill_parent" layout_height="wrap_content">
+            <Switch id="@id/2131297269" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" layout_marginEnd="10.0dip" />
+            <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297267" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable Fingerprint Login" />
+        </LinearLayout>
+        <include background="#ff000000" layout="@layout/2131427577" />
+    </LinearLayout>
+    <include id="@id/2131297311" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427678" />
+    <include layout="@layout/2131427925" />
+    <include layout="@layout/2131427919" />
+    <include layout="@layout/2131427921" />
+</LinearLayout>

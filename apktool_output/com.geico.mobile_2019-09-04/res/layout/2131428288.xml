@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131299171" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131296904" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Create a MyCarfax Account" style="@style/2131820937" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297978" layout_width="wrap_content" layout_height="wrap_content" text="powered by" drawablePadding="4.0dip" drawableEnd="@drawable/APKTOOL_DUMMY_319" />
+</LinearLayout>

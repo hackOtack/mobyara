@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" focusable="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131296402" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" layout="@layout/2131427381" />
+    <LinearLayout orientation="vertical" id="@id/2131296314" layout_height="wrap_content" style="@style/2131820886">
+        <Spinner id="@id/2131296315" layout_width="fill_parent" layout_height="wrap_content" />
+        <LinearLayout id="@id/2131296317" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView id="@id/2131296311" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820756" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131296316" visibility="visible" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820754" id="@id/2131297815" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="Password" />
+            <EditText id="@id/2131297814" layout_width="fill_parent" layout_height="wrap_content" inputType="textPassword" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297812" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="Email Address" />
+            <EditText id="@id/2131297813" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" inputType="textEmailAddress" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297816" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="Re-enter Email Address" />
+            <EditText id="@id/2131297817" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" inputType="textEmailAddress" />
+            <RelativeLayout layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820756" id="@id/2131296309" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="Please email me information regarding products, policy services, newsletters, and special offers from GEICO" layout_toLeftOf="@id/2131296306" />
+                <CheckBox id="@id/2131296306" layout_width="wrap_content" layout_height="wrap_content" layout_alignBottom="@id/2131296309" layout_alignParentRight="true" />
+            </RelativeLayout>
+            <include layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" layout="@layout/2131427607" />
+            <LinearLayout style="@style/2131820885">
+                <Button id="@id/2131297797" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="LINK ACCOUNT" layout_weight="1.0" onClick="onLinkAccountClicked" style="@style/2131820937" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout style="@style/2131820885">
+            <Button id="@id/2131296310" padding="16.0dip" layout_width="0.0dip" layout_height="wrap_content" text="NO THANKS, ACTIVATE NEW ACCOUNT" layout_weight="1.0" onClick="onNoThanksActivateAccountClicked" style="@style/2131820980" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

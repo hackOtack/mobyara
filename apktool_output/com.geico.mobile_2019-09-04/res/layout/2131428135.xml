@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/2131820946"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298827" layout_width="0.0dip" layout_height="wrap_content" text="Start A New Quote" layout_weight="1.0" onClick="onStartNewQuoteClicked" />
+</LinearLayout>

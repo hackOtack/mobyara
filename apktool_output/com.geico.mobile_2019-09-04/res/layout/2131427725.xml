@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297518" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="Fuel Grade" />
+    <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip">
+        <Button id="@id/2131297521" layout_width="wrap_content" layout_height="wrap_content" text="Regular" onClick="onRegularClicked" style="@style/APKTOOL_DUMMY_10f" />
+        <Button id="@id/2131297519" layout_width="wrap_content" layout_height="wrap_content" text="Midgrade" onClick="onMidgradeClicked" style="@style/APKTOOL_DUMMY_10f" />
+        <Button id="@id/2131297520" layout_width="wrap_content" layout_height="wrap_content" text="Premium" onClick="onPremiumClicked" style="@style/APKTOOL_DUMMY_10f" />
+        <Button id="@id/2131297517" layout_width="wrap_content" layout_height="wrap_content" text="Diesel" onClick="onDieselClicked" style="@style/APKTOOL_DUMMY_10f" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820756" id="@id/2131297528" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="Sort By" />
+    <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip">
+        <Button id="@id/2131297526" layout_width="wrap_content" layout_height="wrap_content" minWidth="120.0dip" text="Cheapest" onClick="onCheapestClicked" style="@style/APKTOOL_DUMMY_10f" />
+        <Button id="@id/2131297527" layout_width="wrap_content" layout_height="wrap_content" minWidth="120.0dip" text="Closest" onClick="onClosestClicked" style="@style/APKTOOL_DUMMY_10f" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip">
+        <CheckBox textAppearance="@style/2131820756" layout_gravity="center" id="@id/2131297516" layout_width="wrap_content" layout_height="wrap_content" text="Include cash payment prices" onClick="onCashOnlyClicked" />
+        <ImageView layout_gravity="center_vertical" id="@id/2131297522" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2ce" tint="#ff977fcc" onClick="onHelpClicked" />
+    </LinearLayout>
+</LinearLayout>

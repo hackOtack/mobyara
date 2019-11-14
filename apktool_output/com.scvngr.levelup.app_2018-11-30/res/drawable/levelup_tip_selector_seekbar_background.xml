@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="1.0dip" android:insetRight="1.0dip" android:insetTop="0.0dip" android:insetBottom="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape>
+        <stroke android:width="@dimen/levelup_tip_selector_seekbar_border" android:color="@color/levelup_seekbar_border" />
+        <corners android:radius="@dimen/levelup_tip_selector_seekbar_background_radius" />
+    </shape>
+</inset>

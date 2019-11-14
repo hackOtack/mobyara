@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" id="@id/2131297964" layout_width="wrap_content" layout_height="wrap_content" text="Model" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297965" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131299184" layout_width="wrap_content" layout_height="wrap_content" text="Vehicle Identification Number (VIN)" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299185" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131299207" layout_width="wrap_content" layout_height="wrap_content" text="Vehicle Purchase Date" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299208" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131299191" layout_width="wrap_content" layout_height="wrap_content" text="Vehicle Location" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299194" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298529" layout_width="wrap_content" layout_height="wrap_content" text="Registered State" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298530" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298527" layout_width="wrap_content" layout_height="wrap_content" text="Registered Owner" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298528" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298525" layout_width="wrap_content" layout_height="wrap_content" text="Registered Co-Owner" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298526" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131296507" layout_width="fill_parent" layout_height="wrap_content" text="Anti-Lock Brakes" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296508" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+</LinearLayout>

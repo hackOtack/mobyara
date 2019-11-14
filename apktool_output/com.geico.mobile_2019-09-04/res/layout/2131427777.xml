@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099957" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297540" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView layout_gravity="center_vertical" id="@id/2131297630" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_44e" />
+        <LinearLayout layout_gravity="center_vertical" orientation="vertical" paddingTop="5.0dip" paddingBottom="5.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131297539" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

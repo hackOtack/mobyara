@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821181"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.urbanairship.iam.view.MediaView id="@id/2131297919" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821195" />
+    <TextView id="@id/2131297604" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821189" />
+    <TextView id="@id/2131296573" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821175" />
+</LinearLayout>

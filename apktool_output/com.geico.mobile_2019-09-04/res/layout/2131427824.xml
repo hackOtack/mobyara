@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" background="@drawable/2131231827" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131297311" paddingLeft="10.0dip" paddingRight="10.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" layout_marginBottom="10.0dip">
+        <include layout="@layout/2131427678" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <include layout="@layout/2131427825" />
+    <include layout="@layout/2131427857" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

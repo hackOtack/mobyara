@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="2131099655">@android:color/black</color>
+    <color name="2131099661">#ff7fa87f</color>
+    <color name="2131099662">@android:color/black</color>
+    <color name="2131099663">@android:color/black</color>
+    <color name="2131099672">#ff80cbc4</color>
+    <color name="2131099673">#ff009688</color>
+    <color name="2131099674">#fff6f6f6</color>
+    <color name="2131099675">#fff6f6f6</color>
+    <color name="2131099677">#ffffffff</color>
+    <color name="2131099678">#ff23252e</color>
+    <color name="2131099679">#ff0495c9</color>
+    <color name="2131099680">#ff0495c9</color>
+    <color name="2131099681">#ffb6091a</color>
+    <color name="2131099682">#ff9d82da</color>
+    <color name="2131099683">#ff747373</color>
+    <color name="2131099685">#ff3773ca</color>
+    <color name="2131099686">#ffffffff</color>
+    <color name="2131099691">#ff393d4b</color>
+    <color name="2131099692">#ffededed</color>
+    <color name="2131099693">#ffeaeaea</color>
+    <color name="2131099695">#ff424242</color>
+    <color name="2131099696">@android:color/white</color>
+    <color name="2131099697">#ff303030</color>
+    <color name="2131099698">#fffafafa</color>
+    <color name="2131099699">#ff000000</color>
+    <color name="2131099701">#ff33b5e5</color>
+    <color name="2131099702">#ff3773ca</color>
+    <color name="2131099704">#ff3773ca</color>
+    <color name="2131099705">#ffffffff</color>
+    <color name="2131099706">#ffbcbec0</color>
+    <color name="2131099707">#ff00b3db</color>
+    <color name="2131099708">#80ffffff</color>
+    <color name="2131099709">#80000000</color>
+    <color name="2131099710">@android:color/black</color>
+    <color name="2131099711">@android:color/white</color>
+    <color name="2131099712">@android:color/white</color>
+    <color name="2131099713">@android:color/black</color>
+    <color name="2131099714">#ffb6b6b6</color>
+    <color name="2131099715">#ff5a595b</color>
+    <color name="2131099716">#ffd6d7d7</color>
+    <color name="2131099717">#ff81ac40</color>
+    <color name="2131099718">#ff5d9632</color>
+    <color name="2131099719">#ffffffff</color>
+    <color name="2131099720">#ff81ac40</color>
+    <color name="2131099721">#ff5d9632</color>
+    <color name="2131099722">#335d9632</color>
+    <color name="2131099723">#ff81ac40</color>
+    <color name="2131099724">#ff5d9632</color>
+    <color name="2131099725">#ff393d4b</color>
+    <color name="2131099726">#ff0495c9</color>
+    <color name="2131099727">#ff00b3db</color>
+    <color name="2131099729">#ff424242</color>
+    <color name="2131099730">#ffffffff</color>
+    <color name="2131099731">#03000000</color>
+    <color name="2131099732">#37000000</color>
+    <color name="2131099733">#ffe7e8e9</color>
+    <color name="2131099734">#ffb6091a</color>
+    <color name="2131099735">#ff850815</color>
+    <color name="2131099736">#ffcccccc</color>
+    <color name="2131099737">#ffef7014</color>
+    <color name="2131099738">#ffa74e0e</color>
+    <color name="2131099741">@android:color/white</color>
+    <color name="2131099742">#1f000000</color>
+    <color name="2131099743">@android:color/black</color>
+    <color name="2131099744">@android:color/white</color>
+    <color name="2131099746">#90000000</color>
+    <color name="2131099747">#1f000000</color>
+    <color name="2131099748">#90000000</color>
+    <color name="2131099749">#de000000</color>
+    <color name="2131099752">#ff000000</color>
+    <color name="2131099753">#ff0495c9</color>
+    <color name="2131099757">#ff60574a</color>
+    <color name="2131099758">#ff3e3a3a</color>
+    <color name="2131099759">#ff393d4b</color>
+    <color name="2131099760">#ff0099cc</color>
+    <color name="2131099761">#ff669900</color>
+    <color name="2131099762">#ffff8800</color>
+    <color name="2131099763">#ff9933cc</color>
+    <color name="2131099764">#ffcc0000</color>
+    <color name="2131099765">#ff4789b6</color>
+    <color name="2131099767">#ff32607f</color>
+    <color name="2131099768">#14000000</color>
+    <color name="2131099770">@android:color/transparent</color>
+    <color name="2131099771">#14000000</color>
+    <color name="2131099772">#44000000</color>
+    <color name="2131099773">#0a000000</color>
+    <color name="2131099774">#0f000000</color>
+    <color name="2131099775">#1affffff</color>
+    <color name="2131099776">#2effffff</color>
+    <color name="2131099777">#ff323232</color>
+    <color name="2131099781">#80bebebe</color>
+    <color name="2131099782">#80323232</color>
+    <color name="2131099783">#ffbebebe</color>
+    <color name="2131099784">#ff323232</color>
+    <color name="2131099785">#18000000</color>
+    <color name="2131099786">#38000000</color>
+    <color name="2131099787">#ffb6b6b6</color>
+    <color name="2131099788">#ff888888</color>
+    <color name="2131099789">#fffafafa</color>
+    <color name="2131099790">#ffffffff</color>
+    <color name="2131099791">#fff4511e</color>
+    <color name="2131099792">#ff37b0ca</color>
+    <color name="2131099793">#ffc44b89</color>
+    <color name="2131099794">#ff885ee6</color>
+    <color name="2131099795">#ff2e8d2c</color>
+    <color name="2131099796">#ff977fcc</color>
+    <color name="2131099798">#ff69598e</color>
+    <color name="2131099802">#ffffffff</color>
+    <color name="2131099803">#ffffffff</color>
+    <color name="2131099804">@android:color/white</color>
+    <color name="2131099805">@android:color/black</color>
+    <color name="2131099808">#ff4ba449</color>
+    <color name="2131099809">#ff387a36</color>
+    <color name="2131099812">#ff154995</color>
+    <color name="2131099813">#ff0d2f5f</color>
+    <color name="2131099814">#ff0f3368</color>
+    <color name="2131099815">#ffff8800</color>
+    <color name="2131099816">#ff444444</color>
+    <color name="2131099817">#ffbbbbbb</color>
+    <color name="2131099818">#ff000000</color>
+    <color name="2131099819">#ffffffff</color>
+    <color name="2131099820">#ff999999</color>
+    <color name="2131099821">#ff666666</color>
+    <color name="2131099823">#ff808080</color>
+    <color name="2131099824">#ff747373</color>
+    <color name="2131099825">#ff99cc00</color>
+    <color name="2131099827">#ff76a1c9</color>
+    <color name="2131099828">#ffef7014</color>
+    <color name="2131099829">#ff4a4f61</color>
+    <color name="2131099830">#ff000000</color>
+    <color name="2131099831">#ff000000</color>
+    <color name="2131099832">#ffffffff</color>
+    <color name="2131099833">#ff0495c9</color>
+    <color name="2131099834">#ffffffff</color>
+    <color name="2131099835">#6680cbc4</color>
+    <color name="2131099836">#66009688</color>
+    <color name="2131099837">#ff999999</color>
+    <color name="2131099839">#ff103873</color>
+    <color name="2131099841">#ff9e9586</color>
+    <color name="2131099842">#ff60574a</color>
+    <color name="2131099844">#ff222222</color>
+    <color name="2131099848">#ffbab4ab</color>
+    <color name="2131099849">#60bab4ab</color>
+    <color name="2131099850">#fff2f0ec</color>
+    <color name="2131099852">#ffd3d6d7</color>
+    <color name="2131099854">#ffff8d1b</color>
+    <color name="2131099856">#ff017afd</color>
+    <color name="2131099858">#ff393d4b</color>
+    <color name="2131099859">#ff000000</color>
+    <color name="2131099860">#ffffffff</color>
+    <color name="2131099862">#ff3773ca</color>
+    <color name="2131099867">#ff154995</color>
+    <color name="2131099868">#ff0f3368</color>
+    <color name="2131099869">#ffef7014</color>
+    <color name="2131099870">#ff81ac40</color>
+    <color name="2131099871">#ffef7014</color>
+    <color name="2131099873">#ffb9550d</color>
+    <color name="2131099875">#ff4285f4</color>
+    <color name="2131099876">#ff37474f</color>
+    <color name="2131099877">#ff263238</color>
+    <color name="2131099878">#ff21272b</color>
+    <color name="2131099879">#ff80cbc4</color>
+    <color name="2131099880">#ff009688</color>
+    <color name="2131099881">#fff5f5f5</color>
+    <color name="2131099882">#ffe0e0e0</color>
+    <color name="2131099883">#fffafafa</color>
+    <color name="2131099884">#ff757575</color>
+    <color name="2131099885">#ff424242</color>
+    <color name="2131099886">#ff303030</color>
+    <color name="2131099887">#ff212121</color>
+    <color name="2131099888">#ff9c9586</color>
+    <color name="2131099890">#ffef5621</color>
+    <color name="2131099892">#8a000000</color>
+    <color name="2131099893">#ff9e9e9e</color>
+    <color name="2131099894">#ff424242</color>
+    <color name="2131099895">#ffffbb33</color>
+    <color name="2131099896">#fff6bc32</color>
+    <color name="2131099897">#ffcdcdcd</color>
+    <color name="2131099898">#80000000</color>
+    <color name="2131099899">#ff3e3a3a</color>
+    <color name="2131099900">#fffcf9cf</color>
+    <color name="2131099901">#fff6bc32</color>
+    <color name="2131099902">#ff41ab8e</color>
+    <color name="2131099903">#ffffffff</color>
+    <color name="2131099904">#ff333333</color>
+    <color name="2131099905">#ffffffff</color>
+    <color name="2131099906">#ffffffff</color>
+    <color name="2131099907">#fff6bc32</color>
+    <color name="2131099908">#ffffffff</color>
+    <color name="2131099910">#ff41ab8e</color>
+    <color name="2131099911">#ff393d4b</color>
+    <color name="2131099912">#fff6bc32</color>
+    <color name="2131099913">#ff0495c9</color>
+    <color name="2131099914">#ff41ab8e</color>
+    <color name="2131099915">#ff9c9ea5</color>
+    <color name="2131099916">#ffe7e8e9</color>
+    <color name="2131099917">#ff0495c9</color>
+    <color name="2131099918">#ff393d4b</color>
+    <color name="2131099919">#ffffffff</color>
+    <color name="2131099921">#ffef7014</color>
+    <color name="2131099922">#ff393d4b</color>
+    <color name="2131099923">#ff212121</color>
+    <color name="2131099924">#ff757575</color>
+    <color name="2131099925">#ff757575</color>
+    <color name="2131099926">#ffbdbdbd</color>
+    <color name="2131099927">#ff212121</color>
+    <color name="2131099928">#1f000000</color>
+    <color name="2131099929">#ff0495c9</color>
+    <color name="2131099930">#c0ffbd21</color>
+    <color name="2131099932">#fff3effc</color>
+    <color name="2131099935">@android:color/black</color>
+    <color name="2131099936">#ff757575</color>
+    <color name="2131099937">#ff212121</color>
+    <color name="2131099938">#fff5f5f5</color>
+    <color name="2131099942">#ffffffff</color>
+    <color name="2131099943">#de000000</color>
+    <color name="2131099944">#4dffffff</color>
+    <color name="2131099945">#39000000</color>
+    <color name="2131099946">#ffaa66cc</color>
+    <color name="2131099947">#ffff4444</color>
+    <color name="2131099949">#ffc0c0c0</color>
+    <color name="2131099950">#c099cc00</color>
+    <color name="2131099951">#ffffffff</color>
+    <color name="2131099952">#b0000000</color>
+    <color name="2131099953">#ffffffff</color>
+    <color name="2131099954">#ffffffff</color>
+    <color name="2131099955">#33ffffff</color>
+    <color name="2131099956">#1f000000</color>
+    <color name="2131099957">#ffef5621</color>
+    <color name="2131099959">#ffa73c17</color>
+    <color name="2131099960">#ffe6e3e6</color>
+    <color name="2131099961">#ff2e8b57</color>
+    <color name="2131099963">#b3ffffff</color>
+    <color name="2131099964">#8a000000</color>
+    <color name="2131099965">#36ffffff</color>
+    <color name="2131099966">#24000000</color>
+    <color name="2131099967">#ff393d4b</color>
+    <color name="2131099968">#ffc0c0c0</color>
+    <color name="2131099969">#ffffffff</color>
+    <color name="2131099970">#ff1fb2e6</color>
+    <color name="2131099972">#ffffffff</color>
+    <color name="2131099973">#ff393d4b</color>
+    <color name="2131099975">#ff41ab8e</color>
+    <color name="2131099977">#ff616161</color>
+    <color name="2131099978">#ffbdbdbd</color>
+    <color name="2131099981">#ffbdbdbd</color>
+    <color name="2131099982">#fff1f1f1</color>
+    <color name="2131099985">#ff7e7e7e</color>
+    <color name="2131099987">#e6616161</color>
+    <color name="2131099988">#e6ffffff</color>
+    <color name="2131099989">#00000000</color>
+    <color name="2131099992">#99000000</color>
+    <color name="2131099993">#ffffffff</color>
+    <color name="2131099994">#ffffffff</color>
+    <color name="2131099995">#ff4789b6</color>
+    <color name="2131099996">#ff309fb0</color>
+    <color name="2131099997">#00000000</color>
+    <color name="2131099998">#00000000</color>
+    <color name="2131099999">#ffef7014</color>
+    <color name="2131100004">#ffffffff</color>
+    <color name="2131100005">#ff977fcc</color>
+    <color name="2131100008">#ff4ba449</color>
+    <color name="2131100009">#ff347233</color>
+    <color name="2131100010">#ff4789b6</color>
+    <color name="2131100012">#ff32607f</color>
+    <color name="2131100013">#ff4789b6</color>
+    <color name="2131100016">#903a89cf</color>
+    <color name="2131100017">#b0000000</color>
+    <color name="2131100018">#ff1976d2</color>
+    <color name="2131100019">#60000000</color>
+    <color name="2131100020">#c0ffbd21</color>
+    <color name="2131100021">#fff2f0ec</color>
+    <color name="2131100022">#ffffffff</color>
+    <color name="2131100023">#b0000000</color>
+    <color name="2131100024">#ffffffff</color>
+    <color name="2131100025">#00000000</color>
+    <color name="2131100026">#ffcc0000</color>
+    <color name="2131100027">#60000000</color>
+    <item type="color" name="APKTOOL_DUMMY_1c">false</item>
+    <item type="color" name="APKTOOL_DUMMY_24">false</item>
+    <item type="color" name="APKTOOL_DUMMY_27">false</item>
+    <item type="color" name="APKTOOL_DUMMY_28">false</item>
+    <item type="color" name="APKTOOL_DUMMY_29">false</item>
+    <item type="color" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="color" name="APKTOOL_DUMMY_2e">false</item>
+    <item type="color" name="APKTOOL_DUMMY_34">false</item>
+    <item type="color" name="APKTOOL_DUMMY_37">false</item>
+    <item type="color" name="APKTOOL_DUMMY_50">false</item>
+    <item type="color" name="APKTOOL_DUMMY_5b">false</item>
+    <item type="color" name="APKTOOL_DUMMY_67">false</item>
+    <item type="color" name="APKTOOL_DUMMY_6a">false</item>
+    <item type="color" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="color" name="APKTOOL_DUMMY_6c">false</item>
+    <item type="color" name="APKTOOL_DUMMY_76">false</item>
+    <item type="color" name="APKTOOL_DUMMY_83">false</item>
+    <item type="color" name="APKTOOL_DUMMY_84">false</item>
+    <item type="color" name="APKTOOL_DUMMY_95">false</item>
+    <item type="color" name="APKTOOL_DUMMY_97">false</item>
+    <item type="color" name="APKTOOL_DUMMY_9e">false</item>
+    <item type="color" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="color" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="color" name="APKTOOL_DUMMY_ae">false</item>
+    <item type="color" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="color" name="APKTOOL_DUMMY_be">false</item>
+    <item type="color" name="APKTOOL_DUMMY_c0">false</item>
+    <item type="color" name="APKTOOL_DUMMY_c3">false</item>
+    <item type="color" name="APKTOOL_DUMMY_c5">false</item>
+    <item type="color" name="APKTOOL_DUMMY_c6">false</item>
+    <item type="color" name="APKTOOL_DUMMY_c7">false</item>
+    <item type="color" name="APKTOOL_DUMMY_cb">false</item>
+    <item type="color" name="APKTOOL_DUMMY_cd">false</item>
+    <item type="color" name="APKTOOL_DUMMY_cf">false</item>
+    <item type="color" name="APKTOOL_DUMMY_d1">false</item>
+    <item type="color" name="APKTOOL_DUMMY_d7">false</item>
+    <item type="color" name="APKTOOL_DUMMY_d8">false</item>
+    <item type="color" name="APKTOOL_DUMMY_d9">false</item>
+    <item type="color" name="APKTOOL_DUMMY_da">false</item>
+    <item type="color" name="APKTOOL_DUMMY_e0">false</item>
+    <item type="color" name="APKTOOL_DUMMY_e2">false</item>
+    <item type="color" name="APKTOOL_DUMMY_f1">false</item>
+    <item type="color" name="APKTOOL_DUMMY_f3">false</item>
+    <item type="color" name="APKTOOL_DUMMY_105">false</item>
+    <item type="color" name="APKTOOL_DUMMY_11b">false</item>
+    <item type="color" name="APKTOOL_DUMMY_11d">false</item>
+    <item type="color" name="APKTOOL_DUMMY_12c">false</item>
+    <item type="color" name="APKTOOL_DUMMY_136">false</item>
+    <item type="color" name="APKTOOL_DUMMY_143">false</item>
+    <item type="color" name="APKTOOL_DUMMY_146">false</item>
+    <item type="color" name="APKTOOL_DUMMY_148">false</item>
+    <item type="color" name="APKTOOL_DUMMY_14f">false</item>
+    <item type="color" name="APKTOOL_DUMMY_152">false</item>
+    <item type="color" name="APKTOOL_DUMMY_156">false</item>
+    <item type="color" name="APKTOOL_DUMMY_157">false</item>
+    <item type="color" name="APKTOOL_DUMMY_160">false</item>
+    <item type="color" name="APKTOOL_DUMMY_161">false</item>
+    <item type="color" name="APKTOOL_DUMMY_162">false</item>
+    <item type="color" name="APKTOOL_DUMMY_163">false</item>
+    <item type="color" name="APKTOOL_DUMMY_166">false</item>
+    <item type="color" name="APKTOOL_DUMMY_167">false</item>
+    <item type="color" name="APKTOOL_DUMMY_16b">false</item>
+    <item type="color" name="APKTOOL_DUMMY_16e">false</item>
+    <item type="color" name="APKTOOL_DUMMY_16f">false</item>
+</resources>

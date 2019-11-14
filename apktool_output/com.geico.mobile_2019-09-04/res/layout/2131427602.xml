@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820758" id="@id/2131298335" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Thank you, you are paid in full." />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginRight="@dimen/2131165265" text="This information may not reflect scheduled payments or payments made in the last 24 hours" />
+        <TextView textAppearance="@style/2131820758" id="@id/2131298232" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="16.0dip" layout_marginRight="@dimen/2131165265" text="Payment history is not available at this time" />
+        <android.support.v7.widget.CardView id="@id/2131298248" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820758" id="@id/2131298249" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="Pending Payments" />
+                <include layout="@layout/2131428197" />
+                <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131298673" layout_width="fill_parent" layout_height="wrap_content" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView id="@id/2131298211" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820758" id="@id/2131298212" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Past Payments" />
+                <include layout="@layout/2131428197" />
+                <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131298210" layout_width="fill_parent" layout_height="wrap_content" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

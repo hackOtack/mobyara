@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298452" layout_width="fill_parent" layout_height="wrap_content" onClick="goToMostAskedFaq" style="@style/2131820985"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298449" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_225" tint="#ff154995" layout_alignParentTop="true" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="8.0dip" layout_toEndOf="@id/2131298449">
+        <TextView textColor="@android:color/black" id="@id/2131297969" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Can I change my payment due date?" />
+        <View id="@id/2131297119" background="#ffd3d6d7" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout theme="@style/2131820933" gravity="center_vertical" orientation="vertical" id="@id/2131296970" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_vertical" orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground">
+        <include layout="@layout/2131427513" />
+        <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginStart="16.0dip">
+            <include layout="@layout/2131427515" />
+            <include layout="@layout/2131427514" />
+        </LinearLayout>
+    </LinearLayout>
+    <include id="@id/2131298908" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout="@layout/2131428197" />
+    <include id="@id/2131296929" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427505" />
+    <include layout_width="fill_parent" layout_height="0.5dip" layout="@layout/2131428197" />
+    <Button id="@id/2131296962" layout_width="wrap_content" layout_height="wrap_content" text="Manage your policy" layout_marginStart="4.0dip" style="@style/2131820980" />
+    <include id="@id/2131296963" layout_width="fill_parent" layout_height="0.5dip" layout="@layout/2131428197" />
+</LinearLayout>

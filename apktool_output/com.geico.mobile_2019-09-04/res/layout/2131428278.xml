@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout paddingBottom="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" background="#ff154995" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentLeft="true" layout_alignParentTop="true">
+        <TextView textAppearance="@style/2131820838" textColor="#ffffffff" id="@id/2131299150" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Customize your experience" contentDescription="User Settings Heading" />
+        <TextView textAppearance="@style/2131820754" textColor="#ffffffff" id="@id/2131299149" layout_width="fill_parent" layout_height="wrap_content" text="Enter basic details now to save time if you ever need roadside assistance." contentDescription="User Settings Subheading" />
+    </LinearLayout>
+</RelativeLayout>

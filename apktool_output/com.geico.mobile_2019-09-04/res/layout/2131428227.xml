@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="horizontal" background="#ffdedede" layout_width="fill_parent" layout_height="60.0dip" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131299066" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" onClick="onTutorialBackButtonClicked">
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" src="@drawable/APKTOOL_DUMMY_2ea" tint="#ff666666" />
+        <TextView textColor="#ff666666" layout_width="wrap_content" layout_height="wrap_content" text="BACK" style="@style/2131820758" />
+    </LinearLayout>
+    <LinearLayout gravity="center" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+        <include id="@id/2131298145" layout_width="wrap_content" layout_height="wrap_content" layout="@layout/2131428008" />
+    </LinearLayout>
+    <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131299068" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="@dimen/2131165336" onClick="onTutorialNextButtonClicked">
+        <TextView textColor="#ff666666" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" text="NEXT" style="@style/2131820758" />
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3c9" tint="#ff666666" />
+        <TextView id="@id/2131296616" visibility="invisible" layout_width="0.0dip" layout_height="0.0dip" />
+    </LinearLayout>
+</LinearLayout>

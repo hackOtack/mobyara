@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout background="#ff977fcc" paddingLeft="16.0dip" paddingTop="0.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View id="@id/2131297486" focusable="true" focusableInTouchMode="true" layout_width="1.0dip" layout_height="1.0dip" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="horizontal" background="@drawable/2131231827" layout_width="fill_parent" layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView id="@id/2131298687" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_3ec" tint="#ffd3d6d7" />
+        <EditText textColor="#ff686362" id="@id/2131297036" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" hint="City, State" singleLine="true" layout_toLeftOf="@id/2131297575" layout_toRightOf="@id/2131298687" imeOptions="actionGo" />
+        <ImageView id="@id/2131297575" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginRight="16.0dip" src="@drawable/APKTOOL_DUMMY_86" tint="#ff686362" layout_alignParentRight="true" onClick="onGpsClick" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

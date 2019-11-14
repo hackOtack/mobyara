@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131296807" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="4.0dip" layout_marginBottom="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131296806" padding="4.0dip" layout_width="50.0dip" layout_height="50.0dip" src="@drawable/APKTOOL_DUMMY_3cf" tint="?APKTOOL_DUMMY_c9" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298746" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" text="Processing" layout_toRightOf="@id/2131296806" layout_centerVertical="true" contentDescription="Service Status Text" layout_toEndOf="@id/2131296806" />
+</RelativeLayout>

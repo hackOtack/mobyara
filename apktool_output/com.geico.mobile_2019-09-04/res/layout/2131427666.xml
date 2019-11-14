@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298843" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+    <TextView textAppearance="@style/2131820994" gravity="center" id="@id/2131298300" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Please stay with your vehicle" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298842" layout_width="fill_parent" layout_height="wrap_content" text="Our service providers require that you stay with your vehicle before they can be dispatched." />
+</LinearLayout>

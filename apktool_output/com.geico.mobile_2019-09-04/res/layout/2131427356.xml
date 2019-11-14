@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" id="@id/2131298680" tag="layout/account_activate_confirm_fragment_layout_0" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131820886" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" tag="binding_1" padding="16.0dip" layout_height="wrap_content" style="@style/2131820886">
+        <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout="@layout/2131427679" />
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip">
+            <TextView textAppearance="@style/2131820838" id="@id/2131296388" tag="binding_2" layout_width="wrap_content" layout_height="wrap_content" text="Enter Your Information" />
+            <TextView textAppearance="@style/2131820838" id="@id/2131298040" tag="binding_3" layout_width="wrap_content" layout_height="wrap_content" text="Looks like your account isn't set up." />
+            <TextView textAppearance="@style/2131820756" id="@id/2131298297" tag="binding_4" layout_width="wrap_content" layout_height="wrap_content" text="Please enter your information." />
+        </LinearLayout>
+        <TextView textAppearance="@style/2131820754" id="@id/2131296410" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Policy Number" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceDigitsOnlyEditText id="@id/2131298332" tag="binding_5" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" tint="#ffb6091a" singleLine="true" maxLength="10" inputType="number" 2130969074="10" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296409" tag="binding_6" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296383" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Date of Birth" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.dateOfBirth.AceBasicDateOfBirth id="@id/2131296569" tag="binding_7" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296427" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Mailing Zip Code" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceDigitsOnlyEditText id="@id/2131299330" tag="binding_8" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" hint="5 digits" singleLine="true" maxLength="5" inputType="number" 2130969074="5" />
+        <LinearLayout orientation="vertical" id="@id/2131298791" tag="binding_9" layout_height="wrap_content" style="@style/2131820886">
+            <TextView textAppearance="@style/2131820838" id="@id/2131298789" layout_width="wrap_content" layout_height="wrap_content" text="We found your policy!" />
+            <TextView textAppearance="@style/2131820997" id="@id/2131298792" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="For your security, enter the last 4 digits of your SSN:" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131296422" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Social Security # (last 4 digits only)" />
+            <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceDigitsOnlyEditText id="@id/2131298788" tag="binding_10" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" singleLine="true" maxLength="4" inputType="numberPassword" 2130969074="4" 2130969075="false" />
+        </LinearLayout>
+        <LinearLayout style="@style/2131820885">
+            <Button id="@id/2131296385" tag="binding_11" layout_width="0.0dip" layout_height="wrap_content" text="Continue" layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+                <TextView android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_registration_optional_user_info_header" style="@style/levelup_text_in_frame" />
+                <EditText android:id="@id/levelup_user_date_of_birth" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_date_of_birth" android:inputType="text" android:imeOptions="actionNext" />
+                <EditText android:id="@id/levelup_user_gender" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_gender" android:inputType="text" android:imeOptions="actionNext" />
+                <include layout="@layout/levelup_optional_user_info_custom_attributes" />
+            </LinearLayout>
+            <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_optional_user_info_continue_button" style="@style/levelup_button_positive" />
+            <Button android:id="@android:id/button2" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_generic_skip" style="@style/levelup_button_neutral" />
+            <View style="@style/levelup_spacer" />
+            <include layout="@layout/levelup_whitelabel_logo" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:background="@color/levelup_payment_method_detail_header_image_background" android:padding="@dimen/levelup_payment_method_detail_header_image_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center" android:id="@id/levelup_payment_method_detail_header_image" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_payment_method_detail_header_image_height" android:scaleType="fitCenter" android:adjustViewBounds="true" />
+                    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="@dimen/levelup_payment_method_detail_none_text_size" android:textColor="@color/levelup_payment_method_header_image_none_text" android:layout_gravity="center" android:id="@id/levelup_payment_method_detail_none_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_payment_method_none" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="bottom|center|left" android:id="@id/levelup_payment_method_detail_card_type_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_payment_method_detail_header_text_padding" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="bottom|center|right" android:id="@id/levelup_payment_method_detail_card_last_4_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_payment_method_detail_header_text_padding" />
+                </FrameLayout>
+            </FrameLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/levelup_payment_method_detail_items" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame" />
+            <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_payment_method_change_payment_method_button" style="@style/levelup_button_positive" />
+            <Button android:id="@android:id/button2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_payment_method_change_payment_preference_button" style="@style/levelup_button_positive" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

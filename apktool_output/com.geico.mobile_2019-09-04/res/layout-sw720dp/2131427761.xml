@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298712" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+        <EditText enabled="true" id="@id/2131298709" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" maxLength="50" inputType="text" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298713" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+        <EditText enabled="true" id="@id/2131298710" layout_width="fill_parent" layout_height="wrap_content" maxLength="50" inputType="text" />
+    </LinearLayout>
+</LinearLayout>

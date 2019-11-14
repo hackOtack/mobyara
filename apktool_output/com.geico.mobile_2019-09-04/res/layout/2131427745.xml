@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297419" background="@drawable/2131231283" padding="16.0dip" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v7.widget.SearchView id="@id/2131297458" background="#ffffffff" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" style="@style/2131820894" />
+        <ImageView layout_gravity="center_vertical" id="@id/2131297457" padding="8.0dip" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_86" tint="#ff7a7a7a" />
+    </LinearLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131297456" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" divider="#ff999999" dividerHeight="1.0dip" layout_below="@id/2131297458" />
+</LinearLayout>

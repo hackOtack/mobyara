@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298839" layout_width="fill_parent" layout_height="128.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297630" layout_width="128.0dip" layout_height="128.0dip" scaleType="centerCrop" />
+    <include layout_width="48.0dip" layout_height="48.0dip" layout_marginLeft="2.0dip" layout_marginRight="2.0dip" layout_alignParentRight="true" layout_alignParentEnd="true" layout="@layout/2131427981" />
+    <LinearLayout orientation="horizontal" id="@id/2131298073" paddingTop="0.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="128.0dip" minHeight="64.0dip" layout_toLeftOf="@id/2131296654" layout_marginStart="128.0dip" layout_toStartOf="@id/2131296654">
+        <FrameLayout id="@id/2131298072" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="12.0dip" layout_marginRight="8.0dip" layout_marginBottom="8.0dip" layout_weight="1.0" layout_marginStart="12.0dip" layout_marginEnd="8.0dip" />
+        <FrameLayout id="@id/2131298628" paddingTop="4.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" layout_marginEnd="8.0dip">
+            <DateTimeView textAppearance="@style/2131821059" layout_gravity="end|center|top" id="@id/2131298985" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" />
+            <Chronometer textAppearance="@style/2131821059" layout_gravity="end|center|top" id="@id/2131296725" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" />
+            <TextView textAppearance="@style/2131821054" layout_gravity="end|bottom|center" id="@id/2131297708" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297920" layout_width="fill_parent" layout_height="48.0dip" layout_marginLeft="12.0dip" layout_marginRight="12.0dip" layout_toRightOf="@id/2131297630" layout_alignParentBottom="true" layoutDirection="ltr" layout_toEndOf="@id/2131297630" />
+    <ImageView id="@id/2131296367" background="?android:dividerHorizontal" layout_width="fill_parent" layout_height="1.0dip" layout_toRightOf="@id/2131297630" layout_above="@id/2131297920" layout_toEndOf="@id/2131297630" />
+</RelativeLayout>

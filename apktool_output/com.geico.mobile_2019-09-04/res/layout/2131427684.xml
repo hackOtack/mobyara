@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297341" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427932" />
+    <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.ersIdCard.AceErsCourtesyCardFragment" id="@id/2131297348" layout_width="fill_parent" layout_height="fill_parent" />
+</LinearLayout>

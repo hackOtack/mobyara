@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:ellipsize="end" android:id="@id/category_text" android:paddingLeft="@dimen/levelup_padding_start" android:paddingTop="@dimen/levelup_padding_top" android:paddingRight="@dimen/levelup_padding_end" android:paddingBottom="@dimen/levelup_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="?android:spinnerItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

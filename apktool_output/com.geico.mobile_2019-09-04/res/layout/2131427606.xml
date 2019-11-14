@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff154995" id="@id/2131297229" layout_width="wrap_content" layout_height="wrap_content" text="Email Notifications" contentDescription="Email Notifications Heading Text" style="@style/2131820758" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131297227" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Select the types of emails you would like to receive from GEICO." layout_below="@id/2131297229" contentDescription="Email Notifications Information Text" />
+    <TextView id="@id/2131297214" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Email Address" layout_below="@id/2131297227" contentDescription="Email Address Label" labelFor="@id/2131297212" style="@style/2131820754" />
+    <LinearLayout orientation="horizontal" id="@id/2131297213" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" weightSum="1.0" layout_below="@id/2131297214">
+        <EditText textAppearance="@style/2131820758" id="@id/2131297212" tag="email" layout_width="0.0dip" layout_height="wrap_content" singleLine="true" layout_weight="0.8" inputType="textEmailAddress" contentDescription="Email Address Edit" />
+    </LinearLayout>
+    <RelativeLayout id="@id/2131297228" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="12.0dip" layout_below="@id/2131297213" layout_alignLeft="@id/2131297229">
+        <CheckBox id="@id/2131297233" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" checked="false" layout_alignParentLeft="true" contentDescription="Email Products Checkbox" />
+        <TextView id="@id/2131297234" layout_width="fill_parent" layout_height="wrap_content" text="Products" layout_toRightOf="@id/2131297233" contentDescription="Email Products Checkbox Label" labelFor="@id/2131297233" style="@style/2131820758" />
+        <TextView id="@id/2131297235" layout_width="fill_parent" layout_height="wrap_content" text="Information about additional GEICO Products." layout_toRightOf="@id/2131297233" layout_below="@id/2131297234" contentDescription="Email Products Description Text" style="@style/2131820754" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131297243" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="12.0dip" layout_below="@id/2131297228" layout_alignLeft="@id/2131297229">
+        <CheckBox id="@id/2131298341" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" checked="false" layout_alignParentLeft="true" contentDescription="Email Policy Services Checkbox" />
+        <TextView id="@id/2131298342" layout_width="fill_parent" layout_height="wrap_content" text="Policy Services" layout_toRightOf="@id/2131298341" contentDescription="Email Policy Services Checkbox Label" labelFor="@id/2131298341" style="@style/2131820758" />
+        <TextView id="@id/2131297242" layout_width="fill_parent" layout_height="wrap_content" text="Notifications about managing my GEICO policy." layout_toRightOf="@id/2131298341" layout_below="@id/2131298342" contentDescription="Email Policy Services Description Text" style="@style/2131820754" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131297241" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="12.0dip" layout_below="@id/2131297243" layout_alignLeft="@id/2131297229">
+        <CheckBox id="@id/2131298030" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" checked="false" layout_alignParentLeft="true" contentDescription="Email Newsletter Checkbox" />
+        <TextView id="@id/2131297240" layout_width="fill_parent" layout_height="wrap_content" text="Newsletter" layout_toRightOf="@id/2131298030" contentDescription="Email Newsletter Checkbox Label" labelFor="@id/2131298030" style="@style/2131820758" />
+        <TextView id="@id/2131298031" layout_width="fill_parent" layout_height="wrap_content" text="Newsletters from GEICO." layout_toRightOf="@id/2131298030" layout_below="@id/2131297240" contentDescription="Email Newsletter Description Text" style="@style/2131820754" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131298806" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout_below="@id/2131297241">
+        <CheckBox id="@id/2131298803" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" checked="false" layout_alignParentLeft="true" contentDescription="Email Special Offers Checkbox" />
+        <TextView id="@id/2131298804" layout_width="fill_parent" layout_height="wrap_content" text="Special Offers" layout_toRightOf="@id/2131298803" contentDescription="Email Special Offers Checkbox Label" labelFor="@id/2131298803" style="@style/2131820758" />
+        <TextView id="@id/2131298805" layout_width="fill_parent" layout_height="wrap_content" text="Sweepstakes, discounts, special offers, special events, giveaways and surveys." layout_toRightOf="@id/2131298803" layout_below="@id/2131298804" contentDescription="Email Special Offers Description Text" style="@style/2131820754" />
+    </RelativeLayout>
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout_below="@id/2131298806">
+        <TextView textColor="#ff154995" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" text="Notice" contentDescription="Email Notice Heading Text" style="@style/2131820758" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" text="You will continue to receive emails regarding policy related transactions regardless of the email subscriptions that are chosen.\n\n If you are signed up for Paperless Billing and/or Paperless Policy, you will continue to receive email notifications when these documents are available to view online." contentDescription="Email Notice Text" />
+    </LinearLayout>
+</RelativeLayout>

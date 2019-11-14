@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/loyalty_available_credit" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_available_credit" />
+    <RelativeLayout android:layout_width="fill_parent" style="@style/levelup_rewards_progress_image_container">
+        <ImageView android:id="@id/levelup_rewards_progress_background_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerCrop" android:layout_centerInParent="true" android:contentDescription="@null" style="@style/levelup_rewards_progress_image_background" />
+        <ImageView android:id="@id/levelup_rewards_progress_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="centerInside" android:layout_centerInParent="true" android:contentDescription="@null" />
+    </RelativeLayout>
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/levelup_rewards_progress_current_spend" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_current_spend" />
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/levelup_rewards_progress_spend_total" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_must_spend" />
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/levelup_rewards_progress_earn" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_earn" />
+    <View android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" />
+</LinearLayout>

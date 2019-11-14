@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView id="@id/2131298683" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <include id="@id/2131298810" layout="@layout/2131428182" />
+        <View id="@id/2131298758" background="@drawable/APKTOOL_DUMMY_c" visibility="gone" layout_height="8.0dip" style="@style/2131820783" />
+        <include layout="@layout/2131427678" />
+        <include layout="@layout/2131428080" />
+        <include layout="@layout/2131428077" />
+        <include layout="@layout/2131428073" />
+        <include layout="@layout/2131428074" />
+    </LinearLayout>
+</ScrollView>

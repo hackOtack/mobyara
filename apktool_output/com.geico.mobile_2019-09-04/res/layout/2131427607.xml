@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297236" visibility="gone" layout_height="fill_parent" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131297228" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+        <TextView textAppearance="@style/2131820997" id="@id/2131297234" layout_width="fill_parent" layout_height="wrap_content" text="Products" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297235" layout_width="fill_parent" layout_height="wrap_content" text="Information about additional GEICO Products." layout_toLeftOf="@id/2131297233" layout_below="@id/2131297234" />
+        <View background="#ff9c9586" layout_width="wrap_content" layout_height="0.5dip" layout_marginTop="16.0dip" layout_below="@id/2131297235" />
+        <CheckBox id="@id/2131297233" tag="product" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentRight="true" layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131297232" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+        <TextView textAppearance="@style/2131820997" id="@id/2131298342" layout_width="fill_parent" layout_height="wrap_content" text="Policy Services" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297231" layout_width="fill_parent" layout_height="wrap_content" text="Notifications about managing my GEICO policy." layout_toLeftOf="@id/2131298341" layout_below="@id/2131298342" />
+        <View background="#ff9c9586" layout_width="wrap_content" layout_height="0.5dip" layout_marginTop="16.0dip" layout_below="@id/2131297231" />
+        <CheckBox id="@id/2131298341" tag="service" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentRight="true" layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131297224" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+        <TextView textAppearance="@style/2131820997" id="@id/2131297223" layout_width="fill_parent" layout_height="wrap_content" text="Newsletter" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298031" layout_width="fill_parent" layout_height="wrap_content" text="Newsletters from GEICO." layout_toLeftOf="@id/2131298030" layout_below="@id/2131297223" />
+        <View background="#ff9c9586" layout_width="wrap_content" layout_height="0.5dip" layout_marginTop="16.0dip" layout_below="@id/2131298031" />
+        <CheckBox id="@id/2131298030" tag="newsletter" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentRight="true" layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131298806" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip">
+        <TextView textAppearance="@style/2131820997" id="@id/2131298804" layout_width="fill_parent" layout_height="wrap_content" text="Special Offers" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298805" layout_width="fill_parent" layout_height="wrap_content" text="Sweepstakes, discounts, special offers, special events, giveaways and surveys." layout_toLeftOf="@id/2131298803" layout_below="@id/2131298804" />
+        <CheckBox id="@id/2131298803" tag="contests" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentRight="true" layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>

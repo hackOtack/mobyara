@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="#ffffffff" paddingTop="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentTop="true" paddingEnd="@dimen/2131165265"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0" />
+    <ImageButton id="@id/2131296782" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2b0" />
+</LinearLayout>

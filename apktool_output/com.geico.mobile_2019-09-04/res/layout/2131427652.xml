@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297482" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Spinner id="@id/2131298076" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" contentDescription="Number of Flat Tires Dropdown" />
+    <RelativeLayout id="@id/2131298099" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <View id="@id/2131298645" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+        <CheckBox textAppearance="@style/2131820756" id="@id/2131297586" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Do you have a good spare?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298645" onClick="onHaveGoodSpareClicked" contentDescription="Good Spare Checkbox" />
+        <RelativeLayout id="@id/2131297585" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297586">
+            <View id="@id/2131298641" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+            <CheckBox textAppearance="@style/2131820756" id="@id/2131297584" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Do you have custom wheels?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298641" onClick="onHaveCustomWheelsClicked" contentDescription="Custom Wheels Checkbox" />
+        </RelativeLayout>
+        <RelativeLayout id="@id/2131297590" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297585">
+            <View id="@id/2131298644" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+            <CheckBox textAppearance="@style/2131820756" id="@id/2131297589" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Do you have locking lug nuts?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298644" onClick="onHaveLockingLugNutsClicked" contentDescription="Locking Lug Nuts Checkbox" />
+        </RelativeLayout>
+        <RelativeLayout id="@id/2131297588" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297590">
+            <View id="@id/2131298643" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+            <CheckBox textAppearance="@style/2131820756" id="@id/2131297587" padding="12.0dip" layout_width="fill_parent" layout_height="wrap_content" checked="false" text="Do you have the key for the lug nuts?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298643" onClick="onHaveKeyForWheelsClicked" contentDescription="Have Key for Wheels Checkbox" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131297145" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <View id="@id/2131298640" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297168" paddingTop="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Is your vehicle..." layout_below="@id/2131298640" contentDescription="Drivetrain Question Text" />
+        <Spinner id="@id/2131297146" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" layout_below="@id/2131297168" contentDescription="Drivetrain Dropdown" />
+    </RelativeLayout>
+</LinearLayout>

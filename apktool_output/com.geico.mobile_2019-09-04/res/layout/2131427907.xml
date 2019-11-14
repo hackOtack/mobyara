@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" onClick="onChatClicked" 2130968673="@color/2131100004" 2130968674="10.0dip" 2130968675="10.0dip" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView layout_width="fill_parent" layout_height="wrap_content" src="@drawable/2131231474" scaleType="fitCenter" adjustViewBounds="true" contentDescription="Live Chat with an Agent" />
+        <include layout="@layout/2131427906" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

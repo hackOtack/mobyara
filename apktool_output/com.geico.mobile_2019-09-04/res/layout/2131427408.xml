@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge id="@id/2131296625" layout_width="fill_parent" layout_height="fill_parent" keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="center" id="@id/2131296634" layout_width="fill_parent" layout_height="fill_parent" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" baselineAligned="false" weightSum="15.0">
+        <FrameLayout background="#ff103873" layout_width="fill_parent" layout_height="0.0dip" layout_weight="2.0">
+            <TextView textAppearance="@style/2131820758" textColor="#ffffffff" gravity="center" layout_gravity="center" id="@id/2131296555" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" text="Scan Driver's License Barcode" textAllCaps="true" />
+            <TextView textAppearance="@style/2131820758" textColor="#ffffffff" layout_gravity="center|right" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginTop="4.0dip" layout_marginRight="16.0dip" layout_marginBottom="4.0dip" text="Cancel" onClick="onCancelClicked" textAllCaps="true" />
+        </FrameLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" padding="@dimen/2131165270" layout_width="fill_parent" layout_height="0.0dip" layout_weight="9.0">
+            <ImageView padding="10.0dip" layout_width="fill_parent" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_449" />
+            <View layout_gravity="center" id="@id/2131299242" background="@android:color/transparent" layout_width="0.0dip" layout_height="@dimen/2131165269" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" background="#ff000000" layout_width="fill_parent" layout_height="0.0dip" layout_weight="4.0" alpha="1.0">
+            <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="wrap_content" layout_height="wrap_content">
+                <TextView layout_gravity="center_vertical" id="@id/2131298141" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" text="Align VIN barcode within the rectangular scan area and hold your device steady." layout_centerHorizontal="true" style="@style/2131821209" />
+                <ToggleButton id="@id/2131296602" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298141" layout_alignRight="@id/2131298141" layout_alignParentRight="true" />
+                <TextView id="@id/2131297792" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" text="Light" layout_toLeftOf="@id/2131296602" layout_alignBaseline="@id/2131296602" layout_alignBottom="@id/2131296602" textAllCaps="true" style="@style/2131821209" />
+            </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    </LinearLayout>
+</merge>

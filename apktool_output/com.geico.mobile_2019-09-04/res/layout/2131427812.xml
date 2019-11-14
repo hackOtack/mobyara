@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout style="@style/2131820859"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout style="@style/2131820857">
+        <fragment id="@id/2131296553" layout_width="0.0dip" layout_height="fill_parent" layout_weight="75" class="o.lD" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

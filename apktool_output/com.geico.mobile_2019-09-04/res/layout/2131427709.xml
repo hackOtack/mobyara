@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout/explore_navigation_sheet_layout_0" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button textColor="#ff3773ca" id="@id/2131297574" tag="binding_1" background="#00000000" layout_width="fill_parent" layout_height="wrap_content" text="Google Maps" />
+    <Button textColor="#ff3773ca" id="@id/2131296856" tag="binding_2" background="#00000000" layout_width="fill_parent" layout_height="wrap_content" text="Copy address" />
+    <Button textColor="#ff3773ca" id="@id/2131296655" tag="binding_3" background="#00000000" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Cancel" />
+</LinearLayout>

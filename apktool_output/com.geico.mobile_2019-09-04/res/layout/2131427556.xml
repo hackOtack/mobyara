@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131820795"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131299264" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427568" />
+    <ScrollView id="@id/2131297103" background="#ffffffff" paddingRight="32.0dip" paddingBottom="24.0dip" layout_width="fill_parent" layout_height="0.0dip" layout_weight="1.0" fadeScrollbars="false">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131297866" background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <ImageView id="@id/2131297101" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231171" layout_centerInParent="true" />
+                <ImageView id="@id/2131297102" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231168" layout_centerInParent="true" layerType="hardware" />
+            </RelativeLayout>
+            <include id="@id/2131297104" layout_width="fill_parent" layout_height="fill_parent" layout="@layout/2131427569" />
+        </LinearLayout>
+    </ScrollView>
+    <include id="@id/2131299265" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427573" />
+    <View id="@id/2131296576" layout_width="fill_parent" layout_height="32.0dip" />
+</LinearLayout>

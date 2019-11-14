@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="15.0dip" style="@style/2131820885"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298596" padding="10.0dip" layout_width="wrap_content" layout_height="0.0dip" layout_margin="10.0dip" text="Return Home" layout_weight="1.0" onClick="onReturnHomeClicked" />
+    <Button id="@id/2131298759" padding="10.0dip" layout_width="wrap_content" layout_height="0.0dip" layout_margin="10.0dip" text="EMAIL TO ANOTHER ACCOUNT" layout_weight="1.0" onClick="onShareIdCardsActionButtonClicked" style="@style/2131820980" />
+</LinearLayout>

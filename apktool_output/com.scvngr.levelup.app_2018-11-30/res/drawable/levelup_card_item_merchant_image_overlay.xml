@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="@dimen/levelup_card_item_merchant_image_overlay_width" android:color="@color/levelup_card_item_merchant_image_overlay_stroke" />
+    <corners android:radius="@dimen/levelup_card_item_merchant_image_overlay_radius" />
+</shape>

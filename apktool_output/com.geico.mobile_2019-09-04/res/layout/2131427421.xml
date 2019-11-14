@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131296567" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="@dimen/2131165336" layout_marginRight="@dimen/2131165336">
+        <TextView id="@id/2131298963" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="We've processed your payment successfully!" layout_below="@id/2131298965" style="@style/2131820873" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

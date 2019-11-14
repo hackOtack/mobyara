@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_gravity="center" id="@id/2131297776" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout layout_gravity="center_horizontal" orientation="vertical" paddingBottom="@dimen/2131165336" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout theme="@style/2131820819" gravity="center_horizontal" layout_gravity="center_horizontal" orientation="vertical" background="?APKTOOL_DUMMY_c7" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView id="@id/2131299069" background="#00000000" layout_width="60.0dip" layout_height="60.0dip" layout_marginTop="@dimen/2131165336" src="@drawable/2131231462" />
+            <TextView textSize="24.0sp" textStyle="bold" textColor="#ff76a1c9" id="@id/2131299072" background="#00000000" layout_width="wrap_content" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Auto Insurance" />
+            <TextView gravity="center" id="@id/2131299071" visibility="gone" text="Error" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" style="@style/2131820881" />
+            <TextView gravity="center" id="@id/2131299070" visibility="gone" text="Error" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" style="@style/2131820881" />
+        </LinearLayout>
+        <LinearLayout layout_gravity="center_horizontal" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336">
+            <LinearLayout orientation="vertical" id="@id/2131297777" layout_width="fill_parent" layout_height="wrap_content" />
+            <TextView text="Have more questions?" style="@style/2131820882" />
+            <Button textSize="@dimen/2131165632" textColor="#ff4789b6" id="@id/2131297775" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="-13.0dip" text="@string/2131756237" textAllCaps="false" layout_marginStart="-13.0dip" style="@style/2131820980" />
+            <TextView id="@id/2131296616" visibility="invisible" layout_width="0.0dip" layout_height="0.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

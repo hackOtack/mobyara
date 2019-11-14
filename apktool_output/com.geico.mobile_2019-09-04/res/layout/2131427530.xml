@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="vertical" padding="5.0dip" layout_width="fill_parent" layout_height="wrap_content" elevation="4.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_vertical" orientation="vertical" background="#ffef5621" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout gravity="center_vertical" orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView layout_gravity="top" id="@id/2131297874" layout_width="50.0dip" layout_height="50.0dip" layout_marginRight="@dimen/2131165329" 2130968978="@drawable/APKTOOL_DUMMY_2fb" />
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820996" textStyle="bold" id="@id/2131298025" layout_width="fill_parent" layout_height="wrap_content" layout_weight="1.0" />
+                <TextView textAppearance="@style/2131820996" id="@id/2131297020" layout_width="fill_parent" layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout gravity="center_vertical" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+            <View layout_gravity="center_vertical" layout_width="0.0dip" layout_height="0.0dip" layout_marginRight="@dimen/2131165329" layout_weight="1.0" />
+            <Button textColor="#ffef5621" id="@id/2131297024" background="@drawable/2131231482" paddingLeft="8.0dip" paddingTop="1.0dip" paddingRight="8.0dip" paddingBottom="1.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" minWidth="0.0dip" minHeight="0.0dip" text="Learn More" style="@style/2131820980" />
+            <Button textColor="#ffffffff" id="@id/2131297021" layout_width="wrap_content" layout_height="wrap_content" text="Got It" style="@style/2131820980" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

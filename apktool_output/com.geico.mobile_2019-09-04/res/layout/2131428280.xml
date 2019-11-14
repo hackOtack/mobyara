@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131299159" layout="@layout/2131428281" />
+    <android.support.v7.widget.CardView id="@id/2131299116" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" 2130968714="@dimen/2131165656" style="@style/2131820828">
+        <include layout="@layout/2131428142" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

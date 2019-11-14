@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298795" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioGroup orientation="horizontal" id="@id/2131298796" layout_width="fill_parent" layout_height="wrap_content" weightSum="4.0" checkedButton="@id/2131297095">
+        <RadioButton id="@id/2131297095" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Distance" layout_weight="1.0" />
+        <RadioButton id="@id/2131298476" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Rating" layout_weight="1.0" />
+    </RadioGroup>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

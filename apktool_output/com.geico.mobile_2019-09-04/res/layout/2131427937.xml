@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131296715" focusable="false" focusableInTouchMode="false" layout_width="wrap_content" layout_height="wrap_content" checked="true" drawableLeft="@android:color/transparent" drawablePadding="4.0dip" />
+    <TextView id="@id/2131297065" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="36.0dip" />
+</LinearLayout>

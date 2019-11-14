@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton layout_gravity="right" id="@id/2131299111" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" onClick="onUpdateYourInfoEmailClicked" style="@style/2131820980" />
+        <ImageButton layout_gravity="right" id="@id/2131296618" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_b0" tint="?APKTOOL_DUMMY_c9" text="Call To Make Changes" onClick="onCallToMakeChangesClicked" style="@style/2131820980" />
+        <LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820997" id="@id/2131299319" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Your Email" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131296288" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Email" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297238" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" />
+        </LinearLayout>
+    </FrameLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="?android:listDivider" android:showDividers="middle" style="@style/levelup_navigation_drawer"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_section_one_title" style="@style/levelup_navigation_section_title" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_pay" android:drawableLeft="@drawable/levelup_ic_menu_pay" app:destination="@string/levelup_activity_home_screen" />
+    <fragment android:tag="com.scvngr.levelup.ui.fragment.navigation.NavigationListCreditFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.scvngr.levelup.ui.fragment.navigation.NavigationListCreditFragment" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_section_two_title" style="@style/levelup_navigation_section_title" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_profile" app:destination="@string/levelup_activity_user_profile" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_transaction_history" app:destination="@string/levelup_activity_transaction_history" />
+    <fragment android:tag="com.scvngr.levelup.ui.fragment.navigation.NavigationListGiftCardOrderFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.scvngr.levelup.ui.fragment.navigation.NavigationListGiftCardOrderFragment" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:id="@id/levelup_navigation_refer_a_friend" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_refer_a_friend" app:destination="@string/levelup_activity_refer_a_friend" />
+    <fragment android:tag="com.scvngr.levelup.ui.fragment.navigation.NavigationListPaymentMethodFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.scvngr.levelup.ui.fragment.navigation.NavigationListPaymentMethodFragment" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_scan" app:destination="@string/levelup_activity_scan" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_logout" app:destination="@string/levelup_activity_logout" />
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_section_three_title" style="@style/levelup_navigation_section_title" />
+    <fragment android:tag="com.scvngr.levelup.ui.fragment.navigation.NavigationListCreateLockFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.scvngr.levelup.ui.fragment.navigation.NavigationListCreateLockFragment" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_feedback" app:destination="@string/levelup_activity_support" />
+    <com.scvngr.levelup.ui.view.navigation.PlayStoreStartView android:id="@id/preference_rate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_setting_rate_title" />
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:padding="@dimen/levelup_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.scvngr.levelup.ui.view.navigation.BrowserStartView android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_terms_and_conditions" android:layout_weight="1.0" app:destination="@string/levelup_url_legal" style="@style/levelup_setting_footer_text" />
+            <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_attributions" android:layout_weight="1.0" app:destination="@string/levelup_activity_attributions" style="@style/levelup_setting_footer_text" />
+        </LinearLayout>
+        <com.scvngr.levelup.ui.view.VersionNumberView android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_setting_footer_text" />
+    </LinearLayout>
+</LinearLayout>

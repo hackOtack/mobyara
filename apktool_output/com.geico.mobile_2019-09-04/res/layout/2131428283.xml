@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingTop="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131299167" layout_width="wrap_content" layout_height="wrap_content" text="Welcome to GEICO Mobile!" contentDescription="Page Heading" style="@style/2131820838" />
+    <TextView textSize="14.0sp" id="@id/2131299166" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Select User" contentDescription="Page Subheading" style="@style/2131820763" />
+    <android.support.v7.widget.RecyclerView id="@id/2131299168" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

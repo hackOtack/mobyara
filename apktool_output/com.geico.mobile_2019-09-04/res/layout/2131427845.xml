@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131298552" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131298550" layout_width="fill_parent" layout_height="wrap_content" text="Will you be transferring the license plates and registration from another vehicle to this one?" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131298551" layout_width="fill_parent" layout_height="wrap_content" divider="@android:color/transparent" />
+    <View background="#ffbab4ab" layout_width="fill_parent" layout_height="2.0dip" layout_marginBottom="10.0dip" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

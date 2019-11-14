@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginRight="4.0dip" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout orientation="vertical" background="#ffffffff" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <RelativeLayout id="@id/2131299188" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView gravity="center" id="@id/2131299205" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" minWidth="60.0dip" minHeight="60.0dip" layout_alignParentLeft="true" layout_alignParentTop="true" contentDescription="Vehicle Image" />
+            <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131299218" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131299205" layout_alignParentTop="true" contentDescription="Vehicle Details" />
+            <TextView textAppearance="@style/2131820994" id="@id/2131299011" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131299218" layout_alignLeft="@id/2131299218" contentDescription="Vehicle Premium Text and Amount" />
+            <TextView textAppearance="@style/2131820756" textColor="#ffb6091a" id="@id/2131298311" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="This vehicle is in storage and DOES NOT carry the policy coverages listed above" layout_below="@id/2131299011" layout_alignLeft="@id/2131299218" contentDescription="Vehicle Storage Text" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131298042" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="This vehicle does not carry any physical damage coverage." layout_below="@id/2131299205" />
+        </RelativeLayout>
+        <include id="@id/2131296877" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131299188" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296878" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296877" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296879" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296878" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296880" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296879" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296881" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296880" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296882" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296881" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296883" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296882" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296884" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296883" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296885" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296884" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296886" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296885" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296887" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296886" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296888" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296887" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        <include id="@id/2131296889" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296888" layout_alignParentLeft="true" layout="@layout/2131427479" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

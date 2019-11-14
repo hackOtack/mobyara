@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/levelup_view_loading_medium" />
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/levelup_user_profile_header_greeting_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:src="@drawable/levelup_good_morning" />
+        <TextView android:layout_gravity="center" android:id="@id/levelup_user_profile_header_greeting" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" style="@style/levelup_user_profile_header_greeting" />
+        <TextView android:layout_gravity="center" android:id="@id/levelup_user_profile_header_reward_summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin" style="@style/levelup_user_profile_header_rewards_summary" />
+        <Button android:layout_gravity="center" android:id="@id/levelup_user_profile_header_edit_profile_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:layout_marginBottom="@dimen/levelup_user_profile_header_bottom_margin" android:text="@string/levelup_user_profile_header_edit_profile_button" style="@style/levelup_user_profile_header_button" />
+    </LinearLayout>
+</FrameLayout>

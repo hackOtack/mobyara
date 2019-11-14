@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView gravity="center" layout_gravity="center" id="@id/2131298045" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="No Results Found" />
+    <android.support.v7.widget.CardView id="@id/2131299116" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginRight="8.0dip" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" style="@style/2131820827">
+        <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131296915" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView id="@id/2131297690" padding="8.0dip" layout_width="36.0dip" layout_height="36.0dip" src="@drawable/APKTOOL_DUMMY_2f3" tint="#fff2f0ec" />
+            <TextView layout_width="wrap_content" layout_height="wrap_content" text="Use Current Location" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

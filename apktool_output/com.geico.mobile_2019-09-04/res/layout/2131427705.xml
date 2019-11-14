@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView layout_width="fill_parent" layout_height="wrap_content" text="Before you get started..." style="@style/2131820790" />
+        <TextView textColor="#ff000000" layout_width="fill_parent" layout_height="wrap_content" text="We need some augmented reality (AR) permissions enabled for GEICO Explore to work. All of these permissions can be disabled in your phone settings." style="@style/2131820994" />
+        <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Permissions to enable" style="@style/2131821111" />
+        <android.support.v7.widget.CardView id="@id/2131297250" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099704" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout gravity="center_vertical" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820995" textColor="#ffffffff" id="@id/2131296633" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" text="Camera Permission" />
+                <TextView textAppearance="@style/2131820994" textColor="#ffffffff" id="@id/2131296632" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" text="You can't take a picture without a view finder, and we can't see your world without a lens. We don't save or store anything." />
+                <TextView textAppearance="@style/2131820758" textColor="#ff3773ca" gravity="center_vertical" layout_gravity="right" id="@id/2131296631" background="#ffffffff" paddingLeft="16.0dip" paddingTop="8.0dip" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Enable Camera" drawableLeft="@drawable/APKTOOL_DUMMY_129" drawablePadding="16.0dip" textAllCaps="true" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView id="@id/2131296626" padding="8.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099808" 2130968675="@dimen/2131165286" 2130968678="true">
+            <android.support.constraint.ConstraintLayout gravity="center_vertical" background="#ffffffff" padding="8.0dip" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="10.0dip">
+                <TextView textAppearance="@style/2131820995" textColor="#ff4ba449" id="@id/2131296629" paddingLeft="8.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Camera Permission Enabled" 2130968852="2131298157" 2130968861="2131298157" />
+                <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131296627" paddingLeft="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="44.0dip" text="You can't take a picture without a view finder, and we can't see your world without a lens. We don't save or store anything." 2130968833="2131298157" 2130968852="2131298157" 2130968860="@id/2131296629" />
+                <ImageView id="@id/2131296628" layout_width="52.0dip" layout_height="38.0dip" layout_margin="8.0dip" src="@drawable/APKTOOL_DUMMY_16f" tint="#334ba449" contentDescription="Camera Permission Enabled" 2130968833="2131298157" 2130968856="2131298157" />
+            </android.support.constraint.ConstraintLayout>
+        </android.support.v7.widget.CardView>
+        <Button enabled="false" textColor="#ffffffff" layout_gravity="center" id="@id/2131298826" background="@drawable/2131231256" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Start Geico Explore" />
+    </LinearLayout>
+</ScrollView>

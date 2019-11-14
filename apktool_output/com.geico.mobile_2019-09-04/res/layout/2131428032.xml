@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298234" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131296612" layout_width="21.0dip" layout_height="21.0dip" src="@drawable/APKTOOL_DUMMY_af" tint="#ff4ba449" layout_alignParentLeft="true" layout_centerInParent="true" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298222" paddingLeft="30.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Date of Birth" layout_toRightOf="@id/2131296612" layout_centerInParent="true" />
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape shape="rectangle">
+            <solid color="#ff154995" />
+        </shape>
+    </item>
+    <item>
+        <shape shape="oval">
+            <solid color="#ffffffff" />
+        </shape>
+    </item>
+    <item left="14.0dip" top="18.0dip" right="15.0dip" bottom="15.0dip">
+        <bitmap gravity="center" src="@drawable/APKTOOL_DUMMY_31c" tint="#ff154995" />
+    </item>
+</layer-list>

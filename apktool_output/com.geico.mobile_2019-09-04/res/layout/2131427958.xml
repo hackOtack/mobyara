@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="@drawable/APKTOOL_DUMMY_1ce" clickable="true" layout_width="fill_parent" layout_height="wrap_content" onClick="onNavigationDrawerClicked"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131299139" padding="16.0dip" layout_width="99.0dip" layout_height="99.0dip" src="@drawable/APKTOOL_DUMMY_439" layout_alignParentLeft="true" />
+    <Button textColor="?APKTOOL_DUMMY_ce" id="@id/2131297201" paddingRight="16.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Edit User" layout_alignTop="@id/2131299139" layout_alignRight="@id/2131299139" layout_alignBottom="@id/2131299139" layout_alignParentRight="true" style="@style/2131820980" />
+    <RelativeLayout id="@id/2131296920" clickable="true" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131299139">
+        <TextView textAppearance="@style/2131820754" textColor="#ffffffff" gravity="bottom|center|left" id="@id/2131296919" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" />
+        <ImageView gravity="bottom|center|right" id="@id/2131296524" padding="16.0dip" paddingTop="10.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1cd" layout_alignTop="@id/2131296919" layout_alignBottom="@id/2131296919" layout_alignParentRight="true" />
+    </RelativeLayout>
+    <ListView id="@id/2131297924" background="#ffffffff" clickable="true" layout_width="fill_parent" layout_height="fill_parent" foreground="?android:selectableItemBackground" divider="@null" choiceMode="singleChoice" layout_below="@id/2131296920" />
+    <ListView id="@id/2131299140" background="#ffffffff" visibility="gone" clickable="true" layout_width="fill_parent" layout_height="fill_parent" foreground="?android:selectableItemBackground" divider="@null" choiceMode="singleChoice" layout_below="@id/2131296920" />
+</RelativeLayout>

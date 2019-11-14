@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View id="@id/2131296688" background="#60bab4ab" layout_width="fill_parent" layout_height="1.0dip" layout_above="@id/2131298272" />
+    <LinearLayout orientation="vertical" id="@id/2131298272" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_alignParentTop="true">
+        <TextView textSize="16.0sp" textColor="#ff3773ca" id="@id/2131298273" paddingLeft="16.0dip" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textSize="14.0sp" textColor="#ff686362" id="@id/2131296838" paddingLeft="16.0dip" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <View id="@id/2131296689" background="#60bab4ab" layout_width="fill_parent" layout_height="1.0dip" layout_marginTop="16.0dip" layout_below="@id/2131298272" />
+</RelativeLayout>

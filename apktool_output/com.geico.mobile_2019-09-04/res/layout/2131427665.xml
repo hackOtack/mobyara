@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297147" paddingLeft="16.0dip" paddingRight="16.0dip" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131299187" layout_width="fill_parent" layout_height="wrap_content" text="Vehicle Info" contentDescription="Vehicle Info Title Text" />
+    <Spinner id="@id/2131299209" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" contentDescription="Select Vehicle Dropdown" />
+    <View id="@id/2131299210" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <Spinner id="@id/2131299174" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" />
+    <View id="@id/2131299175" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131299217" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Year" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131299220" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" hint="Choose Year" maxLines="1" singleLine="true" maxLength="4" inputType="number" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131299196" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Make" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131299197" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" hint="Choose Make" maxLines="1" singleLine="true" maxLength="40" inputType="text" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131299200" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Model" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131299201" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" hint="Choose Model" maxLines="1" singleLine="true" maxLength="40" inputType="text" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298646" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Class" />
+    <Spinner id="@id/2131298647" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" />
+    <View id="@id/2131298648" background="#ffd3d6d7" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299293" paddingTop="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="What color is the vehicle?" contentDescription="What Color is the Vehicle Text" />
+    <Spinner id="@id/2131296790" layout_width="fill_parent" layout_height="wrap_content" contentDescription="Color Dropdown" />
+    <View id="@id/2131296791" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296789" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" hint="Color" maxLines="1" singleLine="true" inputType="text" />
+</LinearLayout>

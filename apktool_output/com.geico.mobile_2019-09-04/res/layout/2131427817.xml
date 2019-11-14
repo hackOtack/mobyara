@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="@dimen/2131165271" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297253" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297252" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297251" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable Current Term Data if Unavailable" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297279" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297278" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297277" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable VINs to Mismatch" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297273" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297272" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297271" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable Vehicles to Mismatch" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297256" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297255" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297254" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable Automatic Property Card Creation" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297276" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297275" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297274" tag="enableViewPdfBeforePrinting" layout_width="wrap_content" layout_height="wrap_content" text="Enable View PDF Before Printing" />
+    </LinearLayout>
+</LinearLayout>

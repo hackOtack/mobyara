@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.SwipeRefreshLayout id="@id/2131298919" layout_width="fill_parent" layout_height="fill_parent">
+        <ListView scrollbarStyle="outsideOverlay" id="@android:id/list" clipToPadding="false" layout_width="fill_parent" layout_height="fill_parent" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <TextView layout_gravity="center" id="@android:id/empty" layout_width="wrap_content" layout_height="wrap_content" />
+</FrameLayout>

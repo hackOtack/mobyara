@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.zxing.client.android.BarcodeView id="@id/2131299339" layout_width="fill_parent" layout_height="fill_parent" />
+    <com.google.zxing.client.android.ViewfinderView id="@id/2131299359" layout_width="fill_parent" layout_height="fill_parent" />
+    <TextView textSize="20.0dip" textStyle="bold" textColor="#ffffffff" layout_gravity="center|top" id="@id/2131299356" background="#00000000" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="@string/2131757682" />
+    <ImageView layout_gravity="center" id="@id/2131299251" layout_width="fill_parent" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_12b" />
+    <View layout_gravity="center" id="@id/2131297872" background="#ffff4444" visibility="gone" layout_width="fill_parent" layout_height="5.0dip" />
+</merge>

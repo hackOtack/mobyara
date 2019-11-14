@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#ffffffff" paddingLeft="4.0dip" paddingRight="4.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820758" gravity="center_horizontal" id="@id/2131299016" layout_width="fill_parent" layout_height="wrap_content" layout_margin="12.0dip" text="GEICO covers one tow per breakdown" contentDescription="Tow Legal Disclaimer" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298048" layout_width="wrap_content" layout_height="wrap_content" layout_margin="12.0dip" text="We could not find any repair shops in your area" />
+    <RadioGroup orientation="horizontal" id="@id/2131297011" paddingLeft="16.0dip" layout_width="fill_parent" layout_height="wrap_content" checkedButton="@id/2131298797">
+        <RadioButton id="@id/2131298797" layout_width="0.0dip" layout_height="wrap_content" text="Distance" layout_weight="1.0" />
+        <RadioButton id="@id/2131298798" layout_width="0.0dip" layout_height="wrap_content" text="Name" layout_weight="1.0" />
+        <RadioButton id="@id/2131298799" layout_width="0.0dip" layout_height="wrap_content" text="Rating" layout_weight="1.0" />
+    </RadioGroup>
+    <TextView textAppearance="@style/2131820755" id="@id/2131297611" layout_width="wrap_content" layout_height="wrap_content" layout_margin="15.0dip" text="@string/2131755956" />
+    <ListView id="@android:id/list" layout_width="fill_parent" layout_height="wrap_content" divider="@android:color/transparent" />
+</LinearLayout>

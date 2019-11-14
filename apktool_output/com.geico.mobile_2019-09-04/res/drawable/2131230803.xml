@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@android:id/background" drawable="@drawable/APKTOOL_DUMMY_3b" />
+    <item id="@android:id/secondaryProgress" drawable="@drawable/APKTOOL_DUMMY_3e" />
+    <item id="@android:id/progress">
+        <bitmap src="@drawable/APKTOOL_DUMMY_3b" tileModeX="repeat" />
+    </item>
+</layer-list>

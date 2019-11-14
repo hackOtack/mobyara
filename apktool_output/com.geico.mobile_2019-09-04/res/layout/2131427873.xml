@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="@drawable/2131231749" padding="@dimen/2131165271" layout_width="fill_parent" layout_height="fill_parent" foreground="?android:selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297997" layout_width="32.0dip" layout_height="32.0dip" layout_marginBottom="24.0dip" src="@drawable/2131231417" tint="#ff977fcc" layout_marginEnd="@dimen/2131165336" />
+    <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820756" id="@id/2131297729" layout_width="wrap_content" layout_height="wrap_content" text="Personal Property Scanner" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297728" layout_width="wrap_content" layout_height="wrap_content" text="Get an estimate of your personal belongings to use in a Renters Quote." />
+    </LinearLayout>
+    <ImageView layout_gravity="center" layout_width="32.0dip" layout_height="32.0dip" layout_margin="@dimen/2131165337" layout_marginTop="@dimen/2131165337" src="@drawable/2131231400" tint="#ff977fcc" />
+    <TextView textColor="#ff977fcc" layout_gravity="center" layout_width="wrap_content" layout_height="wrap_content" text="AR" layout_marginEnd="24.0dip" />
+</LinearLayout>

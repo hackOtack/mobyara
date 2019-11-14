@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131296468" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_167" tint="#ff3773ca" layout_alignParentLeft="true" layout_alignParentTop="true" />
+    <ImageView id="@id/2131296708" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231086" tint="#ffffffff" layout_toRightOf="@id/2131296468" scaleX="-1.0" />
+    <LinearLayout id="@id/2131297930" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="@dimen/2131165301" layout_toRightOf="@id/2131296708" layout_alignParentTop="true" layout_alignParentRight="true">
+        <TextView textSize="@dimen/2131165632" textColor="#ff000000" textColorHighlight="#ffbab4ab" gravity="left" id="@id/2131297929" background="@drawable/2131231082" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" textIsSelectable="true" />
+        <View layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" />
+    </LinearLayout>
+    <TextView textSize="@dimen/2131165635" textColor="#ff686362" gravity="left" id="@id/2131296995" paddingLeft="4.0dip" paddingTop="1.0dip" paddingRight="4.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297930" layout_alignLeft="@id/2131297930" layout_alignParentBottom="true" />
+</RelativeLayout>

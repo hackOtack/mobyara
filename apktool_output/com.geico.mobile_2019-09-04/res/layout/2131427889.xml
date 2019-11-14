@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="How does homeowners insurance protect me?" />
+    <ImageView src="@drawable/APKTOOL_DUMMY_29f" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Fire, Theft, Accidents…" />
+    <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756256" />
+    <TextView text="@string/2131756188" style="@style/2131820759" />
+    <TextView text="@string/2131756213" style="@style/2131820759" />
+    <TextView text="@string/2131756236" style="@style/2131820759" />
+    <TextView text="@string/2131756205" style="@style/2131820759" />
+    <TextView text="Coverage for additional costs you might incur because of a covered loss (for example, if you need to temporarily live elsewhere if a fire makes your home uninhabitable)." style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (800) 841-2964 to speak to an agent." />
+</LinearLayout>

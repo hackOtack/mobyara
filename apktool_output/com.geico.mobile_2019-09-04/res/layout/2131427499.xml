@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="@drawable/2131231749" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout gravity="center_vertical" id="@id/2131298916" background="#ff4ba449" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_alignTop="@id/2131298920" layout_alignBottom="@id/2131298920">
+        <TextView textAppearance="@style/2131820792" gravity="center" id="@id/2131298455" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" text="$" layout_alignLeft="@id/2131298456" layout_alignRight="@id/2131298456" />
+        <TextView textAppearance="@style/2131820996" gravity="center" id="@id/2131298456" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_below="@id/2131298455" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131298920" background="#ffffffff" paddingLeft="16.0dip" paddingTop="12.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" id="@id/2131296938" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentLeft="true" layout_alignParentTop="true" />
+        <LinearLayout orientation="vertical" id="@id/2131296941" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" layout_below="@id/2131296938" layout_alignParentLeft="true">
+            <include layout="@layout/2131427492" />
+            <include layout="@layout/2131427494" />
+            <include layout="@layout/2131427491" />
+        </LinearLayout>
+        <Button id="@id/2131296964" layout_width="wrap_content" layout_height="wrap_content" text="Pay Now" layout_alignTop="@id/2131296941" layout_alignParentRight="true"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+        <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131298917" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131296941" layout_alignParentLeft="true">
+            <ImageView id="@id/2131298915" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_406" />
+            <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131298918" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginRight="16.0dip" text="Swipe To Pay Now" textAllCaps="true" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include layout_width="fill_parent" layout_height="0.5dip" layout_below="@id/2131298920" layout="@layout/2131428197" />
+</RelativeLayout>

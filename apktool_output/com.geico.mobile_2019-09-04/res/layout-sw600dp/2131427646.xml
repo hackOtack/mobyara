@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131299014" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+    <RelativeLayout id="@id/2131299017" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip">
+        <TextView textAppearance="@style/2131820994" id="@id/2131299015" layout_width="fill_parent" layout_height="wrap_content" text="Tow Destination" layout_alignParentLeft="true" layout_centerVertical="true" />
+        <ImageButton id="@id/2131297200" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_311" tint="#ffef5621" layout_alignParentTop="true" layout_alignParentRight="true" onClick="onTabThreeClicked" contentDescription="" />
+    </RelativeLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false" weightSum="2.0">
+        <Button theme="@style/2131820826" id="@id/2131296723" layout_width="0.0dip" layout_height="wrap_content" text="Choose Tow Destination" layout_weight="1.0" onClick="onChooseTowDestinationButtonClicked" style="@style/2131821002" />
+        <View background="#00000000" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" style="@style/2131820842" />
+    </LinearLayout>
+    <include layout="@layout/2131427647" />
+    <include layout="@layout/2131427614" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297624" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="How many people will be riding with the tow truck?" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298066" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="If you don't want to ride in the tow truck, select None and we can help you Find a Ride once your report is complete." />
+    <Spinner id="@id/2131298077" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

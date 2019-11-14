@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131299301" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground">
+        <TextView textAppearance="@style/2131820997" id="@id/2131298237" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" text="Automatic Payment Method" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297977" paddingBottom="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" text="You must Make a Payment before updating your card or check information." />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298239" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="16.0dip" text="Checking Account" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298235" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" text="Current Payment Plan" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298236" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" text="Current Payment Plan" />
+        <Button id="@id/2131297188" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginTop="16.0dip" text="Edit Account" style="@style/2131820937" />
+        <Button id="@id/2131298373" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Postpone Payment" style="@style/2131821002" />
+        <Button id="@id/2131299090" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Unenroll Automatic Payment" style="@style/2131821002" />
+    </LinearLayout>
+</ScrollView>

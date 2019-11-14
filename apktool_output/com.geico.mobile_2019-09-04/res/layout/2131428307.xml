@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131299273" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar id="@id/2131299274" layout_width="fill_parent" layout_height="10.0dip" max="100" style="?android:progressBarStyleHorizontal" />
+    <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.fullSite.AceClaimsWebViewFragment" id="@id/2131299272" layout_width="fill_parent" layout_height="fill_parent" />
+</LinearLayout>

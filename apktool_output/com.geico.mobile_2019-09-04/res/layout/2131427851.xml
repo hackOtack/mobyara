@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" text="You have chosen to view the official ID card for this vehicle." style="@style/2131820873" />
+    <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Electronic versions of your ID cards are provided as a courtesy display only." style="@style/2131820873" />
+    <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Displaying your ID card on a mobile device may not be accepted as valid proof of insurance." style="@style/2131820873" />
+    <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="If you are unable to view your ID cards, you may need to download Adobe Reader." style="@style/2131820873" />
+    <LinearLayout orientation="vertical" id="@id/2131298350" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip">
+        <View background="#ffbab4ab" layout_width="fill_parent" layout_height="2.0dip" />
+        <TextView id="@id/2131298351" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820873" />
+    </LinearLayout>
+</LinearLayout>

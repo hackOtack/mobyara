@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" id="@id/2131296337" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment id="@id/2131298582" layout_width="fill_parent" layout_height="fill_parent" class="com.geico.mobile.android.ace.geicoAppPresentation.resetPassword.AceResetPasswordRecoveryAccountFragment" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</ScrollView>

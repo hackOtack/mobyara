@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_address_search_item_background"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/address_search_current_location_item" android:paddingLeft="@dimen/levelup_layout_margin_extra" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin" android:layout_marginBottom="@dimen/levelup_layout_margin" android:text="@string/levelup_location_list_address_search_current_location" style="@style/levelup_address_search_current_location" />
+        <View android:background="@color/levelup_address_search_heavy_divider" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_address_search_divider_height" />
+    </LinearLayout>
+    <View android:id="@id/levelup_address_search_click" android:background="?android:selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+            <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+                <com.scvngr.levelup.ui.view.WebImageViewWithOverlay android:id="@id/levelup_receipt_webimageview" android:layout_width="fill_parent" style="@style/levelup_web_image_with_overlay" />
+                <TableLayout android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:shrinkColumns="0">
+                    <TableRow>
+                        <TextView android:text="@string/levelup_receipt_transaction_amount" style="@style/levelup_receipt_value_title" />
+                        <TextView android:id="@id/levelup_receipt_transaction_amount" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_receipt_value" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_tip_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_tip_row">
+                        <TextView android:text="@string/levelup_receipt_tip_amount" style="@style/levelup_receipt_value_title" />
+                        <TextView android:id="@id/levelup_receipt_tip_amount" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_receipt_value" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_contribution_divider" android:visibility="gone" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_contribution_container" android:visibility="gone">
+                        <TextView android:id="@id/levelup_receipt_contribution_title" android:text="@string/levelup_receipt_contribution" style="@style/levelup_receipt_value_title" />
+                        <TextView android:id="@id/levelup_receipt_contribution" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_receipt_value" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_credit_applied_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_credit_applied_row">
+                        <TextView android:text="@string/levelup_receipt_credit_applied" style="@style/levelup_receipt_value_title" />
+                        <TextView android:id="@id/levelup_receipt_credit_applied" android:layout_height="wrap_content" style="@style/levelup_receipt_value" />
+                    </TableRow>
+                    <View android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow>
+                        <TextView android:textColor="@color/levelup_positive_monetary_text" android:text="@string/levelup_receipt_total_spent" style="@style/levelup_receipt_value_title" />
+                        <TextView android:textColor="@color/levelup_positive_monetary_text" android:id="@id/levelup_receipt_total_spent" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_receipt_value" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_charged_to_card_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_charged_to_card_row">
+                        <TextView android:id="@id/levelup_receipt_charged_to_card" android:drawableLeft="@drawable/levelup_ic_receipt_totalspent" style="@style/levelup_receipt_caption_text" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_charged_later_to_card_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_charged_later_to_card_row">
+                        <TextView android:text="@string/levelup_receipt_charged_later_to_card" android:drawableLeft="@drawable/levelup_ic_receipt_charge_later" style="@style/levelup_receipt_caption_text" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_credit_used_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_credit_used_row">
+                        <TextView android:id="@id/levelup_receipt_credit_used_caption" android:drawableLeft="@drawable/levelup_ic_receipt_credit" style="@style/levelup_receipt_caption_text" />
+                    </TableRow>
+                    <View android:id="@id/levelup_receipt_loyalty_earned_divider" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+                    <TableRow android:id="@id/levelup_receipt_loyalty_earned_row">
+                        <TextView android:id="@id/levelup_receipt_loyalty_earned_caption" android:drawableLeft="@drawable/levelup_ic_receipt_earned_credit" style="@style/levelup_receipt_caption_text" />
+                    </TableRow>
+                </TableLayout>
+                <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_receipt_refunded" android:paddingLeft="@dimen/levelup_padding_inner" android:paddingRight="@dimen/levelup_padding_inner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_receipt_refunded" style="@style/levelup_receipt_refunded" />
+                <com.scvngr.levelup.ui.view.LoyaltySectionView android:orientation="vertical" android:id="@id/levelup_receipt_loyalty_section" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_padding_inner" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+    <Button android:id="@id/levelup_receipt_interstitial_button" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" style="@style/levelup_receipt_interstitial_button" />
+</LinearLayout>

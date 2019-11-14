@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout id="@id/2131297384" tag="layout/explore_game_fragment_0" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment name="o.dp" id="@id/2131296519" layout_width="0.0dip" layout_height="0.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" />
+    <ImageView layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" layout_marginStart="@dimen/2131165336" 2130968858="2131298157" 2130968861="2131298157" 2130968978="@drawable/2131231305" />
+    <ImageView tag="binding_1" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="100.0dip" src="@drawable/APKTOOL_DUMMY_1fa" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" />
+    <include id="@id/2131297724" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="130.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" layout="@layout/2131427701" />
+    <include id="@id/2131298084" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="200.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" layout="@layout/2131427703" />
+    <LinearLayout gravity="center" orientation="horizontal" id="@id/2131297543" visibility="visible" layout_width="fill_parent" layout_height="50.0dip" layout_marginBottom="32.0dip" 2130968833="2131298157" />
+    <ImageView tag="binding_2" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="10.0dip" src="@drawable/APKTOOL_DUMMY_23f" 2130968833="@id/2131297412" 2130968839="2131298157" 2130968858="2131298157" />
+    <include id="@id/2131297412" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="80.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" layout="@layout/2131427699" />
+    <include id="@id/2131297359" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="130.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" layout="@layout/2131427698" />
+    <ImageButton id="@id/2131296594" tag="binding_3" background="@drawable/2131231729" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" src="@drawable/2131231419" tint="@drawable/2131231730" layout_marginStart="@dimen/2131165336" 2130968833="2131298157" 2130968858="2131298157" />
+</android.support.constraint.ConstraintLayout>

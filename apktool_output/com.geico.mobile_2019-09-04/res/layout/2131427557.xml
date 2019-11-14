@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_marginLeft="150.0dip" layout_marginRight="150.0dip" style="@style/2131820787"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427751" />
+    <LinearLayout orientation="horizontal" id="@id/2131296607" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" layout_below="@id/2131297468" layout_alignLeft="@id/2131297468" layout_alignRight="@id/2131297468">
+        <View visibility="invisible" layout_width="0.0dip" layout_height="0.0dip" layout_weight="1.0" />
+        <Button textSize="@dimen/2131165632" textColor="#ff226f7b" id="@id/2131296655" layout_width="wrap_content" layout_height="wrap_content" text="Cancel" style="@style/2131820980" />
+    </LinearLayout>
+</RelativeLayout>

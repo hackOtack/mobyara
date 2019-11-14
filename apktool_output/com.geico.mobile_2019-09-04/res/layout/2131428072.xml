@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar id="@id/2131298288" padding="3.0dip" visibility="visible" indeterminate="true" indeterminateTint="#ff4184f3" indeterminateTintMode="src_atop"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

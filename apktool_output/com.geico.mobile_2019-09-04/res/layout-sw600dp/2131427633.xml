@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821111" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Paid out of pocket? Get reimbursed!" />
+    <TextView textAppearance="@style/2131820997" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Reimbursement Information" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756052" />
+    <TextView textAppearance="@style/2131820997" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Requests" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297350" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131755713" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297351" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Or, call us at 1-800-522-7775 if you have questions regarding reimbursement. Please have your policy number available when you call." />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" weightSum="1.0">
+        <Button id="@id/2131298596" layout_width="0.0dip" layout_height="wrap_content" text="Return Home" layout_weight="0.5" onClick="onReturnHomeClicked" style="@style/2131820937" />
+        <Button visibility="invisible" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="16.0dip" text="Return Home" layout_weight="0.5" onClick="onReturnHomeClicked" style="@style/2131820937" />
+    </LinearLayout>
+</LinearLayout>

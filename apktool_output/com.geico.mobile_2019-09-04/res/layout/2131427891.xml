@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What's covered?" style="@style/2131820882" />
+    <TextView text="ATV insurance provides coverage for damage to your ATV due to accidents or theft." style="@style/2131820881" />
+    <TextView text="Not sure you need ATV insurance?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="ATVs have a high theft rate" style="@style/2131820773" />
+        <TextView text="Your homeowner's insurance may not cover your ATV if you ride it off your property" style="@style/2131820773" />
+        <TextView text="If you use your ATV in a state-owned or public park, ATV insurance may be required" style="@style/2131820773" />
+    </LinearLayout>
+</LinearLayout>

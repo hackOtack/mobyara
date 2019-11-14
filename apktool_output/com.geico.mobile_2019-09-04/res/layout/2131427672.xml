@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginRight="@dimen/2131165265">
+        <TextView textAppearance="@style/2131820758" id="@id/2131298147" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Thank you, you're paid in full." />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296909" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Current Amount Due" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296908" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297177" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Date Due" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297176" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298339" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Retrieving Your Pay Plan Information" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298338" layout_width="fill_parent" layout_height="wrap_content" />
+        <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="This information may not reflect scheduled payments or payments made in the last 24 hours" />
+        <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <TextView textAppearance="@style/2131820997" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Save time and hassle" />
+        <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="By signing up for Automatic Payments, your payments will be automatically deducted from your checking account or charged to your credit card. We will email your a reminder before each payment is made.\n\nNote: When Automatic Payments are made from you checking account, the installment charge for each payment is reduced by $4 in most states." />
+        <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <include layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Please Choose an Account" />
+        <Spinner layout_gravity="bottom" id="@id/2131296327" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" />
+        <Button id="@id/2131299233" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="View Account information" onClick="onViewInformationClicked" textAllCaps="true" style="@style/2131821002" />
+        <LinearLayout orientation="vertical" id="@id/2131298856" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131298720" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <TextView id="@id/2131298868" layout_width="wrap_content" layout_height="wrap_content" text="Name on Account" />
+                <TextView id="@id/2131298867" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298868" layout_alignBaseline="@id/2131298868" />
+                <TextView id="@id/2131298870" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Bank's Routing #" layout_below="@id/2131298868" layout_alignLeft="@id/2131298868" />
+                <TextView id="@id/2131298869" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298870" layout_alignBaseline="@id/2131298870" />
+                <TextView id="@id/2131298866" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Checking Account #" layout_below="@id/2131298870" layout_alignLeft="@id/2131298870" />
+                <TextView id="@id/2131298865" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298866" layout_alignBaseline="@id/2131298866" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131298718" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <TextView id="@id/2131298862" layout_width="wrap_content" layout_height="wrap_content" text="Name on Card" />
+                <TextView id="@id/2131298861" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298862" layout_alignBaseline="@id/2131298862" />
+                <TextView id="@id/2131298864" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Card Number" layout_below="@id/2131298862" layout_alignLeft="@id/2131298862" />
+                <TextView id="@id/2131298863" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298864" layout_alignBaseline="@id/2131298864" />
+                <TextView id="@id/2131298859" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Expiration Date" layout_below="@id/2131298864" layout_alignLeft="@id/2131298864" />
+                <TextView id="@id/2131298858" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_toRightOf="@id/2131298859" layout_alignBaseline="@id/2131298859" />
+            </RelativeLayout>
+        </LinearLayout>
+        <include id="@id/2131297070" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427669" />
+        <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="By selecting the I Agree/Complete Enrollment button below. I hereby authorize GEICO to initiate debits electronically by paper means or by any other commercially accepted method, to my checking account or Credit/Debit Card. I authorize my financial institution, to debit the same such account. I understand that if changes are made to my policy, it may involve an adjustment to the debit amount. I also understand that if I decide to unenroll from Automatic Payments, I need to call 1-877-206-0215 or log in to my policy online at least three (3) business days before the next scheduled transaction." />
+        <Button id="@id/2131296642" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Cancel" onClick="onCancelEnrollmentClicked" textAllCaps="true" style="@style/2131821002" />
+        <Button id="@id/2131296801" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="I Agree/Complete Enrollment" onClick="onCompleteEnrollmentClicked" style="@style/2131820937" />
+    </LinearLayout>
+</ScrollView>

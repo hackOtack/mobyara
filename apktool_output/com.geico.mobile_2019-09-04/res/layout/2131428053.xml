@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#99ffffff" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297931" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" style="@style/2131821111" />
+    <LinearLayout orientation="vertical" id="@id/2131296607" layout_width="fill_parent" layout_height="wrap_content">
+        <Button textColor="#ff000000" gravity="left" id="@id/2131298369" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820980" />
+        <Button textColor="#ff000000" gravity="left" id="@id/2131298013" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820980" />
+        <Button textColor="#ff000000" gravity="left" id="@id/2131298012" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820980" />
+    </LinearLayout>
+</LinearLayout>

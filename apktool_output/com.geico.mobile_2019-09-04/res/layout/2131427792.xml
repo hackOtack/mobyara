@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821112" textStyle="bold" id="@id/2131297606" layout_width="wrap_content" layout_height="wrap_content" text="Hello there!" />
+    <TextView textAppearance="@style/2131820990" gravity="center" id="@id/2131299289" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" text="Welcome to the GEICO Mobile app." />
+    <TextView textAppearance="@style/2131820990" id="@id/2131297786" layout_width="wrap_content" layout_height="wrap_content" text="Let's get started" />
+</LinearLayout>

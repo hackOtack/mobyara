@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_enabled="false" color="?2130968695" 2130968624="?android:disabledAlpha" />
+    <item state_focused="true" color="?2130968693" />
+    <item state_pressed="true" color="?2130968693" />
+    <item color="?2130968693" state_activated="true" />
+    <item state_selected="true" color="?2130968693" />
+    <item state_checked="true" color="?2130968693" />
+    <item color="?2130968695" />
+</selector>

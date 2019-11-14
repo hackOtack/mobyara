@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131299271" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297314" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821204">
+        <TextView id="@id/2131297317" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" text="We're Sorry" layout_alignParentLeft="true" style="@style/2131821320" />
+        <ImageView id="@id/2131297315" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" src="@drawable/APKTOOL_DUMMY_44e" layout_alignParentRight="true" layout_centerHorizontal="true" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297314" style="@style/2131820889">
+        <TextView id="@id/2131297316" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="We are sorry. We are unable to update your email notification settings at this time." style="@style/2131820873" />
+        <Button id="@id/2131297313" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Return Home" layout_below="@id/2131297316" onClick="onReturnHomeButtonClicked" style="@style/2131820553" />
+        <Button id="@id/2131297842" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Log Out" layout_below="@id/2131297313" onClick="onLogOutButtonClicked" style="@style/2131820890" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

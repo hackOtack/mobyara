@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" animateLayoutChanges="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297607" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820754" id="@id/2131297970" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Most Asked Questions" contentDescription="Questions Section Header" />
+        <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <include layout_width="fill_parent" layout_height="fill_parent" layout="@layout/2131427951" />
+                <View id="@id/2131297113" background="#ffd3d6d7" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+                <Button id="@id/2131296577" layout_width="wrap_content" layout_height="wrap_content" text="Browse All FAQ's" onClick="onBrowseFaqsClicked" contentDescription="Browse All FAQs text" style="@style/2131820980" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <include layout="@layout/2131428315" />
+        <include id="@id/2131296712" layout="@layout/2131427426" />
+        <include layout="@layout/2131427469" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="bottom|center" orientation="horizontal" background="#ff154995" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297663" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.2" onClick="onShareMenuClicked">
+        <ImageView layout_gravity="center" id="@id/2131297661" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3f4" contentDescription="Share ID Cards Content" />
+        <Space id="@id/2131297662" visibility="gone" layout_width="fill_parent" layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout id="@id/2131297667" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.2">
+        <ImageView layout_gravity="center" id="@id/2131297665" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_411" contentDescription="Flip ID Cards" />
+        <Space id="@id/2131297666" visibility="visible" layout_width="fill_parent" layout_height="fill_parent" />
+    </FrameLayout>
+    <FrameLayout id="@id/2131297664" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.3" />
+    <LinearLayout id="@id/2131297639" layout_width="0.0dip" layout_height="fill_parent" weightSum="1.0" layout_weight="0.4">
+        <FrameLayout layout_gravity="center|left" id="@id/2131297658" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.35">
+            <ImageView layout_gravity="center|left" id="@id/2131297657" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" src="@drawable/APKTOOL_DUMMY_2ea" contentDescription="ID Cards Left Arrow" />
+        </FrameLayout>
+        <FrameLayout layout_gravity="center" id="@id/2131297669" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.3">
+            <TextView textColor="#ffffffff" layout_gravity="center" id="@id/2131297668" layout_width="wrap_content" layout_height="wrap_content" />
+        </FrameLayout>
+        <FrameLayout layout_gravity="center|right" id="@id/2131297660" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.35">
+            <ImageView layout_gravity="center|right" id="@id/2131297659" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" src="@drawable/APKTOOL_DUMMY_3c9" contentDescription="ID Cards Right Arrow" />
+        </FrameLayout>
+    </LinearLayout>
+    <FrameLayout id="@id/2131297656" background="#ff103873" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.2" onClick="onIdCardsMenuCloseButtonClicked">
+        <ImageView layout_gravity="center" id="@id/2131297655" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_186" contentDescription="ID Cards Close Button" />
+    </FrameLayout>
+</LinearLayout>

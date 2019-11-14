@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:padding="@dimen/levelup_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_section_item_header"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/levelup_location_rewards_header_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_location_rewards_header" />
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@android:id/button2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_refer_a_friend_facebook_button_text" style="@style/levelup_button_facebook" />
+    <Button android:id="@android:id/button3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_refer_a_friend_twitter_button_text" style="@style/levelup_button_twitter" />
+    <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_refer_a_friend_email_button_text" style="@style/levelup_button_email" />
+</merge>

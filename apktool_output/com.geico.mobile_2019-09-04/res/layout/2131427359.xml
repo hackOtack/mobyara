@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131296291" background="?APKTOOL_DUMMY_c9" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <requestFocus />
+        <ImageView id="@id/2131299318" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/2131231184" />
+        <LinearLayout layout_gravity="center_vertical" orientation="vertical" layout_width="wrap_content" layout_height="wrap_content">
+            <TextView id="@id/2131296297" layout_width="wrap_content" layout_height="0.0dip" layout_marginBottom="4.0dip" text="Policy Holder" layout_weight="1.0" style="@style/2131820996" />
+            <TextView id="@id/2131296298" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Policy Number" style="@style/2131820998" />
+        </LinearLayout>
+    </LinearLayout>
+    <View background="@drawable/APKTOOL_DUMMY_c" layout_width="fill_parent" layout_height="8.0dip" />
+</LinearLayout>

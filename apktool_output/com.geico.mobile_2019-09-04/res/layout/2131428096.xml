@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout id="@id/2131298348" background="#ffffffff" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820886" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.constraint.ConstraintLayout orientation="vertical" id="@id/2131298355" layout_width="0.0dip" layout_height="wrap_content" paddingEnd="16.0dip" 2130968858="2131298157" 2130968861="2131298157" 2130968866="2131299311" 2130968868="0.5">
+        <TextView textAppearance="@style/2131821111" id="@id/2131298354" layout_width="wrap_content" layout_height="wrap_content" 2130968852="2131298157" 2130968861="2131298157" />
+        <TextView textAppearance="@style/2131820755" id="@id/2131298334" layout_width="wrap_content" layout_height="wrap_content" 2130968852="2131298157" 2130968860="@id/2131298354" />
+    </android.support.constraint.ConstraintLayout>
+    <android.support.constraint.ConstraintLayout id="@id/2131297209" layout_width="0.0dip" layout_height="wrap_content" paddingEnd="16.0dip" 2130968839="2131298157" 2130968857="@id/2131298355" 2130968861="2131298157">
+        <TextView textAppearance="@style/2131821111" id="@id/2131297208" layout_width="wrap_content" layout_height="wrap_content" text="Policy Effective" 2130968852="2131298157" 2130968861="2131298157" />
+        <TextView textAppearance="@style/2131820755" id="@id/2131297210" layout_width="wrap_content" layout_height="wrap_content" 2130968852="2131298157" 2130968860="@id/2131297208" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.constraint.ConstraintLayout>

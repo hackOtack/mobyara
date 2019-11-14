@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427678" />
+    <LinearLayout orientation="vertical" id="@id/2131299122" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298979" layout_width="fill_parent" layout_height="wrap_content" text="By signing in, you verify that you are the person listed on the claim and that you have the right to access this information. Your access to this website is governed by the GEICO EULA and the GEICO Website Terms and Conditions." />
+    <include id="@id/2131296737" layout="@layout/2131428208" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="center" id="@id/2131297340" layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0">
+        <fragment id="@id/2131297331" layout_width="fill_parent" layout_height="fill_parent" class="o.dg" />
+    </FrameLayout>
+    <FrameLayout layout_gravity="center" id="@id/2131297329" visibility="gone" layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0">
+        <fragment id="@id/2131297325" layout_width="fill_parent" layout_height="fill_parent" class="o.di" />
+    </FrameLayout>
+    <include id="@id/2131297342" layout="@layout/2131427682" />
+</LinearLayout>

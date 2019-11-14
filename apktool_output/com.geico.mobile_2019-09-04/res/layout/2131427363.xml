@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296567" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820755" id="@id/2131298973" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="We've processed your payment successfully!" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298974" layout_width="fill_parent" layout_height="wrap_content" text="We sent a payment confirmation to" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131297968" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Please note: Payment is subject to approval by your financial institution." />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299103" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="If you wish to update your Automatic Payment Information, please click below." />
+    <Button id="@id/2131299102" layout_width="wrap_content" layout_height="wrap_content" text="Update Automatic Payment" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297287" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="If you wish to enroll in Automatic Payments, please click below." />
+    <Button id="@id/2131297286" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Enroll in Autopay" onClick="onEnrollAutoPayClicked" />
+    <TableLayout id="@id/2131296812" layout_width="fill_parent" layout_height="wrap_content">
+        <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+            <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="Amount:" layout_weight="1.0" style="@style/2131820873" />
+            <TextView id="@id/2131296502" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820877" />
+        </TableRow>
+        <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+        <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+            <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="Date:" layout_weight="1.0" style="@style/2131820873" />
+            <TextView id="@id/2131296999" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820877" />
+        </TableRow>
+        <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+        <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+            <TextView textStyle="bold" id="@id/2131297987" layout_width="fill_parent" layout_height="wrap_content" text="Account Holder:" layout_weight="1.0" style="@style/2131820873" />
+            <TextView id="@id/2131297988" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820877" />
+        </TableRow>
+        <View background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+        <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+            <TextView textStyle="bold" id="@id/2131298079" layout_width="fill_parent" layout_height="wrap_content" text="Account No:" layout_weight="1.0" style="@style/2131820873" />
+            <TextView id="@id/2131298082" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820877" />
+        </TableRow>
+        <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+        <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+            <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="Confirmation No:" layout_weight="1.0" style="@style/2131820873" />
+            <TextView id="@id/2131296819" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820877" />
+        </TableRow>
+    </TableLayout>
+    <Button id="@id/2131296568" layout_width="wrap_content" layout_height="wrap_content" text="Return Home" onClick="onPolicyDashboardButtonClicked" />
+</LinearLayout>

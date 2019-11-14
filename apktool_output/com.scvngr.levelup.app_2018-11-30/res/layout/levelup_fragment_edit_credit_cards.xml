@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <RelativeLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:id="@id/hint_text" android:text="@string/levelup_cc_edit_hint_text" style="@style/levelup_caption_text_light_outside_frame" />
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/hint_text" style="@style/levelup_frame">
+            <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:choiceMode="singleChoice" style="@style/levelup_list_view" />
+        </LinearLayout>
+        <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" android:layout_alignParentBottom="true" style="@style/levelup_button_positive" />
+    </RelativeLayout>
+</LinearLayout>

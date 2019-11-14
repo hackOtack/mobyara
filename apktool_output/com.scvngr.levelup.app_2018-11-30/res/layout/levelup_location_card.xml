@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_location_card_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView android:id="@id/levelup_location_list_card" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_location_card_height" android:layout_marginLeft="@dimen/margin2" android:layout_marginRight="@dimen/margin2" android:layout_marginStart="@dimen/margin2" android:layout_marginEnd="@dimen/margin2" style="@style/Card">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:padding="@dimen/levelup_location_card_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center" android:id="@id/levelup_location_list_location_merchant_image" android:layout_width="@dimen/levelup_card_item_merchant_image_size" android:layout_height="@dimen/levelup_card_item_merchant_image_size" />
+                    <View android:layout_gravity="center" android:background="@drawable/levelup_card_item_merchant_image_overlay" android:layout_width="@dimen/levelup_card_item_merchant_image_overlay" android:layout_height="@dimen/levelup_card_item_merchant_image_overlay" />
+                </FrameLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/levelup_location_card_info_margin_left">
+                    <TextView android:id="@id/levelup_location_list_location_name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_name" />
+                    <TextView android:id="@id/levelup_location_list_location_description" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_description" />
+                    <TextView android:id="@id/levelup_location_list_location_availability" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_availability" />
+                    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <TextView android:id="@id/levelup_location_list_location_distance" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_distance" />
+                        <TextView android:id="@id/levelup_location_list_location_address" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_address" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="@id/levelup_location_list_click" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+        </android.support.v7.widget.CardView>
+    </FrameLayout>
+    <FrameLayout android:id="@id/levelup_location_list_location_rewards" android:background="@drawable/levelup_location_card_reward_ribbon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_location_card_rewards_layout_margin_left" android:layout_marginTop="@dimen/levelup_location_card_rewards_layout_margin_top">
+        <TextView android:gravity="center" android:id="@id/levelup_location_list_location_rewards_text" android:layout_width="@dimen/levelup_location_card_rewards_width" android:layout_height="@dimen/levelup_location_card_rewards_height" style="@style/levelup_location_card_rewards" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@id/2131297913" title="@string/2131757304" showAsAction="ifRoom" />
+    <item id="@id/2131297017" title="@string/2131757298" showAsAction="ifRoom" />
+    <item id="@id/2131298716" title="@string/2131757344" showAsAction="ifRoom" />
+</menu>

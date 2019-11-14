@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:padding="@dimen/levelup_padding_extra" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:id="@id/levelup_list_item_merchant_location_address" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_list_item_merchant_locaton_text" />
+        <TextView android:id="@id/levelup_list_item_merchant_location_extended_address" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_list_item_merchant_locaton_text" />
+        <TextView android:id="@id/levelup_list_item_merchant_location_townAndZip" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_list_item_merchant_locaton_text" />
+    </LinearLayout>
+    <TextView android:layout_gravity="center_vertical" android:id="@id/levelup_list_item_merchant_location_distance" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

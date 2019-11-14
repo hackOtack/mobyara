@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131298839" layout_width="fill_parent" layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="64.0dip" layout_height="64.0dip" layout="@layout/2131427991" />
+    <LinearLayout orientation="horizontal" id="@id/2131298073" paddingTop="0.0dip" layout_width="0.0dip" layout_height="wrap_content" minHeight="64.0dip" layout_weight="1.0" layout_toLeftOf="@id/2131296654" layout_toStartOf="@id/2131296654">
+        <FrameLayout id="@id/2131298072" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="0.0dip" layout_marginRight="8.0dip" layout_marginBottom="8.0dip" layout_weight="1.0" layout_marginStart="0.0dip" layout_marginEnd="8.0dip" />
+        <FrameLayout id="@id/2131298628" paddingTop="4.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" layout_marginEnd="8.0dip">
+            <DateTimeView textAppearance="@style/2131821059" layout_gravity="end|center|top" id="@id/2131298985" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" />
+            <Chronometer textAppearance="@style/2131821059" layout_gravity="end|center|top" id="@id/2131296725" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" />
+            <TextView textAppearance="@style/2131821054" layout_gravity="end|bottom|center" id="@id/2131297708" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout layout_gravity="end|center" orientation="horizontal" id="@id/2131297920" layout_width="wrap_content" layout_height="fill_parent" layoutDirection="ltr" />
+    <include layout_width="48.0dip" layout_height="fill_parent" layout_marginRight="6.0dip" layout_marginEnd="6.0dip" layout="@layout/2131427981" />
+    <ImageView id="@id/2131297283" layout_width="6.0dip" layout_height="fill_parent" />
+</LinearLayout>

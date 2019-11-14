@@ -1,0 +1,27 @@
+.class public Lo/ʊı;
+.super Lo/gx;
+.source ""
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 11
+    invoke-direct {p0}, Lo/gx;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public ˋ()I
+    .locals 1
+
+    .prologue
+    .line 15
+    const v0, 0x7f0b004c
+
+    return v0
+.end method

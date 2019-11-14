@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131821075" parent="@style/2131821073" />
+    <style name="2131821076" parent="@style/2131821073" />
+    <style name="2131821077" parent="@style/2131821082" />
+    <style name="2131821078" parent="@style/2131821083" />
+    <style name="2131821079" parent="@style/2131821084" />
+    <style name="2131821080" parent="@style/2131821085" />
+    <style name="2131821081" parent="@style/2131821095" />
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout theme="@style/2131820948" orientation="horizontal" id="@id/2131296977" background="@drawable/2131231749" paddingLeft="16.0dip" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131296971" layout_width="45.0dip" layout_height="45.0dip" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" src="@drawable/APKTOOL_DUMMY_430" tint="#ff4789b6" />
+    <LinearLayout layout_gravity="center_vertical" orientation="vertical" padding="8.0dip" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820758" id="@id/2131296973" layout_width="fill_parent" layout_height="wrap_content" text="Umbrella Insurance" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296976" layout_width="fill_parent" layout_height="wrap_content" text="As low as $%1$s/year" />
+    </LinearLayout>
+    <ImageButton id="@id/2131298356" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/APKTOOL_DUMMY_311" tint="#ff747373" />
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298855" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131298854" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" id="@id/2131296294" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131296293" layout_width="fill_parent" layout_height="wrap_content">
+                <RadioButton id="@id/2131296324" layout_width="wrap_content" layout_height="wrap_content" checked="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296326" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="32.0dip" text="Checking Account" layout_toRightOf="@id/2131296324" layout_alignTop="@id/2131296324" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131296325" layout_width="wrap_content" layout_height="wrap_content" text="Checking Account" layout_below="@id/2131296326" layout_alignLeft="@id/2131296326" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297375" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296325" layout_alignLeft="@id/2131296325" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131296339" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131296338" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <RadioButton id="@id/2131296345" layout_width="wrap_content" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296347" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="32.0dip" text="Credit Card" layout_toRightOf="@id/2131296345" layout_alignTop="@id/2131296345" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131296346" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296347" layout_alignLeft="@id/2131296347" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297377" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296346" layout_alignLeft="@id/2131296346" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131296341" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131296340" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <RadioButton id="@id/2131296342" layout_width="wrap_content" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296344" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="32.0dip" text="Credit Card" layout_toRightOf="@id/2131296342" layout_alignTop="@id/2131296342" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131296343" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296344" layout_alignLeft="@id/2131296344" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297376" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296343" layout_alignLeft="@id/2131296343" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131296284" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131296283" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <RadioButton id="@id/2131296280" layout_width="wrap_content" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296282" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="32.0dip" text="Credit Card" layout_toRightOf="@id/2131296280" layout_alignTop="@id/2131296280" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131296281" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296282" layout_alignLeft="@id/2131296282" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297374" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296281" layout_alignLeft="@id/2131296281" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

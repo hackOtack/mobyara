@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131298047" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" text="You currently do not have any accounts stored. If you would like to store an account please select Add New Payment Method" />
+    <Button id="@id/2131298027" layout_width="fill_parent" layout_height="wrap_content" text="Add New Payment Method" style="@style/2131820937" />
+</LinearLayout>

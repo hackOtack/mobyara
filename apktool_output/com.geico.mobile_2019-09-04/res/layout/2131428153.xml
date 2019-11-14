@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center_horizontal" orientation="vertical" padding="16.0dip" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131298575" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="An email with your User ID has been sent to %1$s. This email also contains instructions on how to reset your password." />
+    <TextView textAppearance="@style/2131820758" id="@id/2131298576" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Please remember this link will expire after 72 hours." />
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131299054" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" text="RETURN TO LOGIN" layout_weight="1.0" onClick="onReturnToLoginClicked" />
+    </LinearLayout>
+</LinearLayout>

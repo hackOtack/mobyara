@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165337">
+        <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="Welcome to GEICO Explore!" paddingStart="8.0dip" style="@style/2131820790" />
+        <TextView textColor="#ff444444" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="An augmented reality experience" paddingStart="8.0dip" style="@style/2131820994" />
+        <android.support.v7.widget.CardView id="@id/2131299294" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" 2130968674="@dimen/2131165399" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout gravity="center_vertical" orientation="vertical" background="@drawable/2131231221" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820995" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" text="Play a scavenger hunt game with augmented reality!" />
+                <TextView textAppearance="@style/2131820994" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="Use your camera to find some presents the Gecko has hidden around you." />
+                <ImageView layout_gravity="center" id="@id/2131298715" paddingBottom="16.0dip" visibility="visible" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_216" contentDescription="See a demo" 2130968833="2131298157" 2130968838="3:2" 2130968852="2131298157" 2130968856="2131298157" 2130968861="2131298157" 2130968866="@dimen/2131165408" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView id="@id/2131297367" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165337" layout_marginBottom="@dimen/2131165336" 2130968673="@color/2131100004" 2130968674="@dimen/2131165399" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" paddingStart="8.0dip">
+                <TextView textStyle="bold" textColor="#ff444444" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="By playing, you agree you have reviewed the following information" paddingStart="8.0dip" style="@style/2131820994" />
+                <TextView id="@id/2131297381" layout_width="wrap_content" layout_height="wrap_content" paddingStart="8.0dip" paddingEnd="8.0dip" />
+                <Button textSize="12.0sp" textStyle="bold" textColor="#ff154995" layout_gravity="end" id="@id/2131297380" background="@drawable/2131231231" padding="8.0dip" layout_width="160.0dip" layout_height="32.0dip" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="View disclaimer" layout_marginEnd="@dimen/2131165336" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <Button layout_gravity="center_horizontal" id="@id/2131298295" background="@drawable/2131231232" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" text="Let's play" layout_marginStart="32.0dip" layout_marginEnd="32.0dip" />
+    </LinearLayout>
+</ScrollView>

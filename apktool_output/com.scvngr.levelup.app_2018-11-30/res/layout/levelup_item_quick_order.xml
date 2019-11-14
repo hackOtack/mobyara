@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_location_card_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Card">
+        <View android:id="@id/levelup_item_quick_order_click" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+        <LinearLayout android:orientation="vertical" android:background="@drawable/levelup_card_edge_highlight" android:padding="@dimen/levelup_card_item_quick_order_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin">
+                <TextView android:id="@id/levelup_item_quick_order_location_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_item_quick_order_location_title" />
+                <TextView android:id="@id/levelup_item_quick_order_location_subtitle" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_small" android:layout_weight="1.0" style="@style/levelup_item_quick_order_location_subtitle" />
+            </LinearLayout>
+            <TextView android:id="@id/levelup_item_quick_order_menu_item_1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_item_quick_order_menu_item" />
+            <TextView android:id="@id/levelup_item_quick_order_menu_item_2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_item_quick_order_menu_item" />
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin">
+                <TextView android:gravity="bottom" android:layout_gravity="bottom" android:id="@id/levelup_item_quick_order_total_cost" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" style="@style/levelup_item_quick_order_total_cost" />
+                <Button android:layout_gravity="bottom" android:id="@id/levelup_item_quick_order_reorder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="0.0dip" android:text="@string/levelup_quick_order_reorder" style="@style/Button.Primary.Small.Normal" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</FrameLayout>

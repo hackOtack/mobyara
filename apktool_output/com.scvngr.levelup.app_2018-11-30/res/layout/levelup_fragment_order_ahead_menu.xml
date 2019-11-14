@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/levelup_view_loading_large" />
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_order_ahead_menu_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <android.support.design.widget.TabLayout android:id="@id/levelup_order_ahead_categories_tab" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tabMode="fixed" style="@style/levelup_tab_layout" />
+            <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <android.support.v4.view.ViewPager android:id="@id/levelup_order_ahead_categories_pager" android:background="@color/levelup_fragment_order_ahead_menu_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                <View android:layout_gravity="bottom" style="@style/levelup_order_ahead_general_footer_shadow" />
+            </FrameLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/levelup_order_ahead_cart_footer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_menu_footer">
+                <Button android:id="@id/levelup_order_ahead_cart_review_order" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin_extra" style="@style/levelup_order_ahead_general_button" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

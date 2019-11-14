@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131298223" layout_width="fill_parent" layout_height="wrap_content" text="Payment Date" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298222" layout_width="fill_parent" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298247" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Payment Type" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298246" layout_width="fill_parent" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298245" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Status" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298244" layout_width="fill_parent" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298220" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Amount" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298217" layout_width="fill_parent" layout_height="wrap_content" />
+    <Button layout_gravity="right" id="@id/2131296646" layout_width="wrap_content" layout_height="wrap_content" text="Cancel Payment" onClick="onCancelPaymentButtonClicked" />
+    <Button layout_gravity="right" id="@id/2131296649" layout_width="wrap_content" layout_height="wrap_content" text="Cancel and replace Payment" onClick="onCancelReplacePaymentButtonClicked" />
+</LinearLayout>

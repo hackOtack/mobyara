@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View id="@id/2131297113" background="#ffbab4ab" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_alignParentTop="true" />
+    <LinearLayout orientation="horizontal" id="@id/2131296896" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131297113">
+        <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131296895" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.8" />
+        <TextView textAppearance="@style/2131820997" id="@id/2131297794" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.2" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820754" id="@id/2131297793" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296896" layout_alignParentLeft="true" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298831" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297793" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296862" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_below="@id/2131298831" layout_alignParentLeft="true" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131297772" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Learn More" layout_below="@id/2131296862" textAllCaps="true" />
+</RelativeLayout>

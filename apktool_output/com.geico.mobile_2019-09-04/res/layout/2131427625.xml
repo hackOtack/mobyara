@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297898" padding="16.0dip" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820755" id="@id/2131298873" layout_width="wrap_content" layout_height="wrap_content" text="Street" />
+    <android.support.v7.widget.SearchView id="@id/2131298689" layout_width="fill_parent" layout_height="wrap_content" digits="abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ&amp;@#-—%,/\\+'>&lt; " 2130968798="false" 2130968962="@null" />
+    <fragment id="@id/2131298292" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.search.AceRoadsideAssistanceSearchFragment" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131296907" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Cross Streets/Landmark" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296906" layout_width="fill_parent" layout_height="wrap_content" digits="abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ&amp;@#-—%,/\\+'>&lt; " inputType="textMultiLine" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131299332" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Zip Code" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131299331" layout_width="fill_parent" layout_height="wrap_content" maxLines="1" singleLine="true" maxLength="5" inputType="numberSigned" />
+    <LinearLayout orientation="horizontal" id="@id/2131296728" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="12.0dip">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="fill_parent" layout_weight="2.0">
+            <TextView textAppearance="@style/2131820755" id="@id/2131296730" layout_width="fill_parent" layout_height="wrap_content" text="City" />
+            <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296729" layout_width="fill_parent" layout_height="fill_parent" maxLines="1" singleLine="true" digits="abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ&amp;@#-—%,/\\+'>&lt; " inputType="text" />
+        </LinearLayout>
+        <View background="#ffbab4ab" layout_width="1.0dip" layout_height="fill_parent" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" />
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820755" id="@id/2131298830" layout_width="fill_parent" layout_height="wrap_content" text="State" />
+            <Spinner id="@id/2131298833" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

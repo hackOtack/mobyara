@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/levelup_fragment_content" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:layout_weight="1.0">
+            <include layout="@layout/levelup_lock_display" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <include layout="@layout/levelup_lock_keypad" />
+        </LinearLayout>
+    </LinearLayout>
+</merge>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131296841" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Contact Us" contentDescription="Contact Us Section Header" />
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <RelativeLayout id="@id/2131296705" background="?2130968965" layout_width="fill_parent" layout_height="wrap_content" onClick="onChatClicked" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131296710" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_227" tint="#ff154995" layout_alignParentTop="true" contentDescription="Live Chat for Auto Policies image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296714" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Live Chat for Auto Policies" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296710" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131296707" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="For help with claims or non-auto policies, please contact us using the methods below" layout_below="@id/2131296714" contentDescription="Live Chat Subtext" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296710" />
+                <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_below="@id/2131296707" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296710" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131297211" background="?2130968965" layout_width="fill_parent" layout_height="wrap_content" onClick="onSendEmailClicked" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131298723" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_258" tint="#ff154995" layout_alignParentTop="true" contentDescription="Send an Email image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131298724" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Send an Email" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131298723" />
+                <View id="@id/2131298722" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_below="@id/2131298724" layout_marginStart="8.0dip" layout_toEndOf="@id/2131298723" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131297422" background="?2130968965" layout_width="fill_parent" layout_height="wrap_content" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131297424" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_2f3" tint="#ff154995" layout_alignParentTop="true" contentDescription="Find an Agent image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131297425" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Find an Agent" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131297424" />
+                <View id="@id/2131297423" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_below="@id/2131297425" layout_marginStart="8.0dip" layout_toEndOf="@id/2131297424" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131299075" background="?2130968965" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" onClick="onTwitterClicked" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131299077" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_413" tint="#ff154995" layout_alignParentTop="true" contentDescription="Twitter image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131299078" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Twitter" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131299077" />
+                <View id="@id/2131299076" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_below="@id/2131299078" layout_marginStart="8.0dip" layout_toEndOf="@id/2131299077" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131296609" background="?2130968965" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131296610" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_b0" tint="#ff154995" layout_alignParentTop="true" contentDescription="By Phone image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296611" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="By Phone" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296610" />
+                <View id="@id/2131296820" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="8.0dip" layout_below="@id/2131296611" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296610" />
+            </RelativeLayout>
+            <RelativeLayout id="@id/2131298553" background="?2130968965" layout_width="fill_parent" layout_height="wrap_content" onClick="onReportBugClicked" paddingStart="16.0dip" paddingEnd="16.0dip">
+                <ImageView id="@id/2131298554" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_a9" tint="#ff154995" layout_alignParentTop="true" contentDescription="Report a Bug image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131298555" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Report a Bug" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131298554" />
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

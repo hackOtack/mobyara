@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout paddingLeft="16.0dip" paddingTop="16.0dip" paddingRight="16.0dip" focusable="true" clickable="true" layout_width="fill_parent" layout_height="fill_parent" onClick="onAgentSearchItemClicked"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820838" textColor="#ff000000" id="@id/2131297093" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentStart="true" />
+    <ImageView id="@id/2131296449" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_2f3" tint="#ff154995" layout_below="@id/2131297093" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+    <TextView textAppearance="@style/2131820997" id="@id/2131296466" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_below="@id/2131297093" onClick="onGetDirectionsClicked" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296449" />
+    <TextView textAppearance="@style/2131820997" id="@id/2131296467" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296466" onClick="onGetDirectionsClicked" layout_alignStart="@id/2131296466" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131297094" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" layout_below="@id/2131296467" layout_alignStart="@id/2131296467" />
+    <ImageView id="@id/2131296615" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" src="@drawable/APKTOOL_DUMMY_b0" tint="#ff154995" layout_below="@id/2131297094" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+    <TextView textAppearance="@style/2131820997" id="@id/2131296837" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" layout_below="@id/2131297094" layout_marginStart="8.0dip" layout_toEndOf="@id/2131296615" />
+    <ImageView id="@id/2131297623" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_409" tint="#ff154995" layout_below="@id/2131296837" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+    <TableLayout id="@id/2131297826" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" stretchColumns="2" layout_below="@id/2131296837" layout_toEndOf="@id/2131297623" layout_alignStart="@id/2131296837" />
+    <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" layout_below="@id/2131297826" />
+</RelativeLayout>

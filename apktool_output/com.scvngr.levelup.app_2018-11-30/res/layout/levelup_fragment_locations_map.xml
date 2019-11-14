@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_frame">
+        <com.google.android.gms.maps.MapView android:id="@id/levelup_locations_map" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <TextView android:id="@id/levelup_locations_map_overlay" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/levelup_locations_map_status_overlay" />
+    </RelativeLayout>
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297468" paddingTop="16.0dip" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" paddingStart="24.0dip" paddingEnd="24.0dip" style="@style/2131820787"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="?android:textAppearanceLarge" id="@id/2131298989" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Fingerprint Setup" layout_alignParentLeft="true" layout_alignParentTop="true" layout_centerHorizontal="true" />
+    <TextView textColor="?android:textColorSecondary" id="@id/2131297469" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298989" layout_alignParentLeft="true" />
+    <TextView textColor="?android:textColorSecondary" id="@id/2131297466" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131297469" layout_alignParentLeft="true" />
+    <FrameLayout id="@id/2131297465" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" hint="Touch sensor" layout_below="@id/2131297466" layout_alignParentLeft="true">
+        <ImageView layout_gravity="center" id="@id/2131297470" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3a9" />
+        <ImageView layout_gravity="center" id="@id/2131297464" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3a8" />
+    </FrameLayout>
+    <TextView textColor="#ff999999" gravity="center_vertical" id="@id/2131297471" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" text="Touch sensor" layout_toRightOf="@id/2131297465" layout_alignTop="@id/2131297465" layout_alignBottom="@id/2131297465" />
+</RelativeLayout>

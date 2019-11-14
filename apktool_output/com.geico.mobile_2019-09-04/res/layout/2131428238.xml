@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.urbanairship.iam.banner.BannerDismissLayout layout_gravity="center" fitsSystemWindows="true" clipToPadding="false" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.urbanairship.iam.view.BoundedLinearLayout layout_gravity="center|top" orientation="vertical" id="@id/2131296550" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821127">
+        <ViewStub id="@id/2131296551" inflatedId="@id/2131299082" layout_width="fill_parent" layout_height="wrap_content" />
+        <com.urbanairship.iam.view.InAppButtonLayout id="@id/2131296606" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821123" />
+        <View id="@id/2131296552" style="@style/2131821133" />
+    </com.urbanairship.iam.view.BoundedLinearLayout>
+</com.urbanairship.iam.banner.BannerDismissLayout>

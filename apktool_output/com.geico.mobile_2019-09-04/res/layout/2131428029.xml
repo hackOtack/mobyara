@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131298201" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="2.0dip" layout_alignParentLeft="true">
+        <TextView textAppearance="@style/2131820996" gravity="center" id="@id/2131298206" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="4.0dip" text="Weak" layout_weight="1.0" />
+        <TextView textAppearance="@style/2131820996" gravity="center" id="@id/2131298204" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Medium" layout_weight="1.0" />
+        <TextView textAppearance="@style/2131820996" gravity="center" id="@id/2131298205" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" text="Strong" layout_weight="1.0" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820754" id="@id/2131298202" layout_width="fill_parent" layout_height="wrap_content" text="- Password should be 8-16 characters" layout_alignParentLeft="true" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298203" layout_width="fill_parent" layout_height="wrap_content" text="- Mix of letters, numbers, or symbols" layout_alignParentLeft="true" />
+</LinearLayout>

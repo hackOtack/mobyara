@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="#ff154995" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageSwitcher id="@id/2131298822" paddingBottom="32.0dip" layout_width="100.0dip" layout_height="100.0dip" layout_centerInParent="true" />
+    <TextView textColor="#ffffffff" gravity="center" id="@id/2131299047" layout_width="fill_parent" layout_height="wrap_content" text="Loading..." layout_below="@id/2131298822" style="@style/2131820900" />
+</RelativeLayout>

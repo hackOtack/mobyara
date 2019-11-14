@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" id="@id/2131298683" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment name="o.ɪа" id="@id/2131297285" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" layout_marginRight="16.0dip" />
+</ScrollView>

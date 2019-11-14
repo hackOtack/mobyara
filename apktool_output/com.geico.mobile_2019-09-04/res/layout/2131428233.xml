@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView layout_gravity="center" id="@android:id/empty" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131757308" />
+</FrameLayout>

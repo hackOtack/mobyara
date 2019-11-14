@@ -1,0 +1,1048 @@
+{
+  "accessManagementLoadBalancingCookie": null,
+  "alerts": [],
+  "completionCode": "",
+  "correlationId": "",
+  "currentDateTime": null,
+  "errorId": "",
+  "inputFieldDefinitions": [],
+  "insiteStatus": null,
+  "navigationOptions": [],
+  "serviceStatus": "MSG00000",
+  "serviceStatusMessage": "The service completed successfully.",
+  "userSessionTokenId": null,
+  "serialNumber": 1541159896335,
+  "serviceDefinitions": [
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "accountRecoveryAuthenticate"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "accountRecoveryEmail"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "accountRecoverySendEmail"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "accountRecoverySendPin"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "accountRecoveryValidatePin"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "activateUserAccount"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCardResourceToWalletForAlternatePayer"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCardResourceToWalletForNewAlternatePayer"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCardResourceToWallet"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCheckResourceToWalletForAlternatePayer"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCheckResourceToWalletForNewAlternatePayer"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "addCheckResourceToWallet"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "authenticateAttachedAccount"
+    },
+    {
+      "channelName": "CLAIMS_SSC",
+      "host": "tier.geico.com",
+      "name": "authenticateThirdPartyClaimant"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "autoDamageAppointmentAvailabilityDetails"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "cancelDigitalDispatchErs"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "cancelPayment"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "changePassword"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "changePaymentDueDay"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "changePayPlan"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "checkIn"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "claimsAlertNotification"
+    },
+    {
+      "channelName": "CLAIMS_SSC",
+      "host": "tier.geico.com",
+      "name": "claimsNotification"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "claimsStartSession"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "clientRegistration"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "coverageFieldLevelHelp"
+    },
+    {
+      "channelName": "CLAIMS_SSC",
+      "host": "tier.geico.com",
+      "name": "dashboardHeaderContent"
+    },
+    {
+      "channelName": "CLIENT",
+      "host": "tier.geico.com",
+      "name": "deleteAlternatePayer"
+    },
+    {
+      "channelName": "CLAIMS",
+      "host": "tier.geico.com",
+      "name": "digitalDispatchErsWithLogin"
+    },
+    {
+      "channelName": "CLAIMS",
+      "host": "tier.geico.com",
+      "name": "digitalDispatchErsWithoutLogin"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "disabledFeatures"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "discountFieldLevelHelp"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "dispatchErsDispatchDetails"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "dispatchErsDispatcherDetails"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "dispatchErsWithLogin"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "dispatchErsWithoutLogin"
+    },
+    {
+      "channelName": "DIVA",
+      "host": "tier.geico.com",
+      "name": "divaIntent"
+    },
+    {
+      "channelName": "DIVA",
+      "host": "tier.geico.com",
+      "name": "divaStartConversation"
+    },
+    {
+      "channelName": "DIVA",
+      "host": "tier.geico.com",
+      "name": "divaUpdateBackground"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "editAutomaticPayment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "editDriverLicense"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "emailIdCardsPdf"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInEBill"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsByAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsByAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsByNewAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsByNewAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsWithNewCardResource"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsWithNewCheckResource"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "enrollInRecurringPaymentsWithWalletResource"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "establishIsisPolicySession"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "establishOasisPolicySession"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "establishVehiclePolicySession"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "eventLog"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "faxIdCardsPdf"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "federatedLogin"
+    },
+    {
+      "channelName": "RIDE",
+      "host": "tier.geico.com",
+      "name": "getARide"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "idCardBackText"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "idCards"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "ientryToGeniusLink"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "ientryToGeniusLinkForAndroid"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "ientryToGeniusLinkForIos"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "ivrPolicyInquiry"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "keepInsiteSessionAlive"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "linkPolicy"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listClaims"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listClaimsWithAlerts"
+    },
+    {
+      "channelName": "CLAIMS_SSC",
+      "host": "tier.geico.com",
+      "name": "listClaimsWithAlertNotifications"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listCoverages"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listDiscounts"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "listPolicyAndBillingDocuments"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "listPolicyBillingDocuments"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "listPolicyDocuments"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listTextAlerts"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "listVehicleCoverageByCategory"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "logConversation"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "logOperationEvents"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "logPortfolioEvents"
+    },
+    {
+      "channelName": "CLAIMS_SSC",
+      "host": "tier.geico.com",
+      "name": "lookupThirdPartyClaim"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "mailIdCardsPdf"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "makeCardPayment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "makePayment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "maxPaymentDate"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "messagingEnrollment"
+    },
+    {
+      "channelName": "MOAT",
+      "host": "tier.geico.com",
+      "name": "moatSalesQuotesRecall"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "oAuthInitialLogin"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "oAuthRefreshLogin"
+    },
+    {
+      "channelName": "PEAK",
+      "host": "tier.geico.com",
+      "name": "paperlessPolicy"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByNewAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterByNewAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payLaterWithStoredAccount"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "paymentHistory"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "paymentSchedule"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByNewAlternatePayerWithCard"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowByNewAlternatePayerWithCheck"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "payNowWithStoredAccount"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "policyDocument"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "policyInfo"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "postponeAutomaticPayment"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "postponeRecurringPayment"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "prepareForAccountRecovery"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForChat"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForCustomerSatisfactionSurvey"
+    },
+    {
+      "channelName": "PORTFOLIO",
+      "host": "tier.geico.com",
+      "name": "prepareForDashfolio"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForIdCards"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForVehicleCare"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForPayment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForQuickMessaging"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForRecommendations"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareForSpeechTextConversion"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "prepareToActivateUserAccount"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToContactUs"
+    },
+    {
+      "channelName": "ERS",
+      "host": "tier.geico.com",
+      "name": "prepareToDigitalDispatchErs"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToDispatchErs"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToFindGas"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToFindParking"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdateAutomaticPayment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdateEmail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdateLicense"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdatePaymentPlan"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdatePhoneNumbers"
+    },
+    {
+      "channelName": "NETMAIL",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdateTextAlerts"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "prepareToUpdateUserLoginInformation"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "pushNotificationsEnrollment"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "pushNotificationsQuickMessaging"
+    },
+    {
+      "channelName": "MOAT",
+      "host": "tier.geico.com",
+      "name": "quoteRentersInsurance"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "recoveryLogin"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "refreshOasisPolicySession"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "removeResourceFromWallet"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "resetPassword"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retainAccountAndLink"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "retrieveAccountInformation"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "retrieveAccountLevelBillingSummary"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "retrieveAccountsForLinking"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "retrieveBillingInformation"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveCanceledPaymentDetail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveCardPaymentDetail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveCheckPaymentDetail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveClaimDetails"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveContactCategory"
+    },
+    {
+      "channelName": "PEAK",
+      "host": "tier.geico.com",
+      "name": "retrieveCoverageReport"
+    },
+    {
+      "channelName": "DATA_SCIENCES",
+      "host": "tier.geico.com",
+      "name": "retrieveCrossSellProbability"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "retrieveCurrentDateTime"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "retrieveCycleLoginDetails"
+    },
+    {
+      "channelName": "CLAIMS",
+      "host": "tier.geico.com",
+      "name": "retrieveDigitalErsDispatchDetails"
+    },
+    {
+      "channelName": "PEAK",
+      "host": "tier.geico.com",
+      "name": "retrieveDiscountReport"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "retrieveIdCardConcise"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveIdCards"
+    },
+    {
+      "channelName": "EDS",
+      "host": "tier.geico.com",
+      "name": "retrieveIdCardsPdf"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveIsisCoverageReport"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveIsisDiscountReport"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveIsisPolicy"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveMoatCarrierBillingInformation"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "retrieveMsiPolicyInformation"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrievePaymentHistory"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrievePoliciesForLinking"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrievePolicyEmailAddress"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "retrieveReadOnlyPolicy"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "retrieveSecondaryInsuredPhoneNumbers"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "retrieveServiceDefinitions"
+    },
+    {
+      "channelName": "UMBRELLA",
+      "host": "tier.geico.com",
+      "name": "retrieveUmbrellaTeaserQuote"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "reverseLinkPolicy"
+    },
+    {
+      "channelName": "GIPA",
+      "host": "tier.geico.com",
+      "name": "storageCreate"
+    },
+    {
+      "channelName": "GIPA",
+      "host": "tier.geico.com",
+      "name": "storageDelete"
+    },
+    {
+      "channelName": "GIPA",
+      "host": "tier.geico.com",
+      "name": "storageRetrieve"
+    },
+    {
+      "channelName": "GIPA",
+      "host": "tier.geico.com",
+      "name": "storageUpdate"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "submitContactUs"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "submitUserComments"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "turnOffAutomaticPayment"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "unenrollFromEBill"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "unenrollFromRecurringPayments"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "updateAccountEmail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updateAlternatePayer"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updateEmail"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updateLicense"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "updateNamedInsuredPhoneNumbers"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updatePaymentPlan"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updatePhoneNumbers"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updatePushNotificationsEnrollment"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "updateSecurityQuestionAnswer"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "updateTextAlerts"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "updateUserLoginInformation"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "updateUsername"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "updateWalletCardResource"
+    },
+    {
+      "channelName": "BEAM",
+      "host": "tier.geico.com",
+      "name": "updateWalletCheckResource"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "userLogin"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "userLogout"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "validateClaimantCredentials"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "validateVehicleCareCredentials"
+    },
+    {
+      "channelName": "VEHICLE_CARE",
+      "host": "tier.geico.com",
+      "name": "vehicleCareRecall"
+    },
+    {
+      "channelName": "SALES",
+      "host": "tier.geico.com",
+      "name": "vehicleSalesQuoteRecall"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "vendorLogin"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "verifyRecoveryEmailToken"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "verifySecurityAnswers"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "verifySocialSecurityNumberOnFile"
+    },
+    {
+      "channelName": "ECAMS",
+      "host": "tier.geico.com",
+      "name": "verifyUserForAccountActivation"
+    },
+    {
+      "channelName": "INSITE_M",
+      "host": "tier.geico.com",
+      "name": "verifyUserNameAvailability"
+    },
+    {
+      "channelName": "TIER",
+      "host": "tier.geico.com",
+      "name": "webLinkConfiguration"
+    }
+  ],
+  "signature": "Cu/8YNkcAMLbLgXXP9PkghzN6R7BL8JUW4z/SyQDhow="
+}

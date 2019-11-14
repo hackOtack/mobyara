@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297828" visibility="visible" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131297829" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" text="Your location has been found! If you need to change it, please move the pin location." contentDescription="Location Map Title Text" />
+    <RelativeLayout id="@id/2131299193" layout_width="fill_parent" layout_height="250.0dip" layout_marginTop="16.0dip" layout_marginBottom="8.0dip">
+        <fragment id="@id/2131299192" layout_width="fill_parent" layout_height="fill_parent" contentDescription="Vehicle Location Map" class="com.google.android.gms.maps.SupportMapFragment" />
+        <ImageView id="@id/2131298125" layout_width="fill_parent" layout_height="fill_parent" src="#00000000" contentDescription="" />
+    </RelativeLayout>
+    <CheckBox textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131299169" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" checked="false" text="Is this vehicle at home?" drawableLeft="@android:color/transparent" drawablePadding="30.0dip" onClick="onVehicleAtHomeClicked" contentDescription="Vehicle At Home Checkbox" />
+    <CheckBox textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131297899" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" checked="false" text="Manually enter your location" drawableLeft="@android:color/transparent" drawablePadding="30.0dip" onClick="onManualLocationEntryClicked" contentDescription="Manual Location Checkbox" />
+    <include layout="@layout/2131427625" />
+</LinearLayout>

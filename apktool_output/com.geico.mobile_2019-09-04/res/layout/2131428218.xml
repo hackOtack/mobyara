@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131299033" background="#ff154995" layout_width="fill_parent" layout_height="60.0dip">
+        <TextView textSize="24.0sp" textColor="#ffffffff" layout_gravity="center_vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" text="GEICO Towing and Labor" singleLine="true" />
+    </FrameLayout>
+    <LinearLayout orientation="horizontal" paddingLeft="@dimen/2131165336" paddingTop="8.0dip" paddingRight="@dimen/2131165336" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820756" id="@id/2131299031" layout_width="wrap_content" layout_height="wrap_content" text="Policy Number" />
+            <TextView textAppearance="@style/2131820758" id="@id/2131299032" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820756" id="@id/2131299029" layout_width="wrap_content" layout_height="wrap_content" text="Policy Holder" />
+            <TextView textAppearance="@style/2131820758" id="@id/2131299030" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout paddingLeft="@dimen/2131165336" paddingTop="@dimen/2131165336" paddingRight="@dimen/2131165336" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" id="@id/2131299034" layout_width="wrap_content" layout_height="wrap_content" text="Vehicles covered by Towing and Labor" layout_alignParentLeft="true" layout_alignParentTop="true" />
+        <ScrollView scrollbarAlwaysDrawVerticalTrack="false" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="fill_parent" layout_below="@id/2131299034" layout_alignParentLeft="true" fadeScrollbars="true">
+            <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131299035" layout_width="wrap_content" layout_height="wrap_content" numColumns="1" divider="@null" dividerHeight="0.0dip" />
+        </ScrollView>
+        <Button id="@id/2131299028" layout_width="wrap_content" layout_height="wrap_content" text="GET HELP NOW" layout_alignParentRight="true" layout_alignParentBottom="true" onClick="onTowingAndLaborCourtesyCardGetHelpButtonClicked" style="@style/2131820980" />
+        <ImageView id="@id/2131299027" paddingRight="@dimen/2131165336" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2c8" layout_above="@id/2131299028" layout_alignParentRight="true" onClick="onTowingAndLaborCourtesyCardBadgeClicked" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131297973" layout_width="fill_parent" layout_height="wrap_content" layout_margin="5.0dip" style="@style/2131821001" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297840" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Spinner id="@id/2131297758" layout_width="fill_parent" layout_height="wrap_content" contentDescription="Key Location Spinner" />
+    <RelativeLayout id="@id/2131297755" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297758">
+        <View id="@id/2131297756" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+        <CheckBox textAppearance="@style/2131820756" id="@id/2131297591" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Does your vehicle have a trunk release?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131297756" onClick="onHaveTrunkReleaseClicked" contentDescription="Have Trunk Release Checkbox" />
+        <View id="@id/2131297592" background="#ffd3d6d7" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout_below="@id/2131297591" />
+        <CheckBox textAppearance="@style/2131820756" id="@id/2131297120" padding="12.0dip" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Do your seats fold down?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131297592" onClick="onBackSeatsFoldDownClicked" contentDescription="Do Your Seats Fold Down Checkbox" />
+    </RelativeLayout>
+</RelativeLayout>

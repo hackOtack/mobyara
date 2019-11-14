@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#ffffffff" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_weight="1.0" xmlns:geico="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" id="@id/2131297529" layout_width="wrap_content" layout_height="wrap_content" text="Regular" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceFuelPriceLayout id="@id/2131297524" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" 2130969022="@color/2131099699" 2130969026="@dimen/2131165249" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297523" layout_width="wrap_content" layout_height="wrap_content" />
+</LinearLayout>

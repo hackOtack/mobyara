@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131298538" layout_width="fill_parent" layout_height="fill_parent">
+        <ImageView id="@id/2131297695" layout_width="fill_parent" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_38e" />
+        <ImageView id="@id/2131297697" layout_width="fill_parent" layout_height="wrap_content" />
+        <ImageView id="@id/2131297696" visibility="invisible" clickable="true" layout_width="fill_parent" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_93" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button layout_gravity="right" id="@id/2131299146" layout_width="wrap_content" layout_height="wrap_content" text="Continue" onClick="onContinueClicked" contentDescription="Continue Button" style="@style/2131820937"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

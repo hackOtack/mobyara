@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821320" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="How can we help you?" layout_marginStart="16.0dip" />
+    <android.support.v7.widget.RecyclerView id="@id/2131298520" paddingLeft="8.0dip" paddingTop="8.0dip" paddingRight="8.0dip" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820996" textColorLink="#ffffffff" layout_gravity="center_horizontal" id="@id/2131296481" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="16.0dip" text="Already a policyholder? Log in." />
+</LinearLayout>

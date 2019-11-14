@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/loyalty_available_credit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" style="@style/levelup_loyalty_current_credit_text" />
+        <View style="@style/levelup_spacer" />
+        <ImageView android:layout_gravity="center" android:id="@id/levelup_rewards_progress_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@null" />
+        <View style="@style/levelup_spacer" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_rewards_remaining_steps" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_rewards_remaining_steps" />
+        <View android:background="?android:colorForeground" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_margin="@dimen/levelup_padding" />
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:id="@id/levelup_rewards_progress_visit" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:id="@id/levelup_rewards_progress_earn" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <View style="@style/levelup_spacer" />
+    </LinearLayout>
+</ScrollView>

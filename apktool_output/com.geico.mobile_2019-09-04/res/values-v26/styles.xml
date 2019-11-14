@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131820631" parent="@style/2131820663" />
+    <style name="2131820638" parent="@style/2131820664" />
+    <style name="2131820730" parent="@style/2131820665" />
+    <style name="2131820732" parent="@style/2131820666" />
+    <style name="2131820663" parent="@style/2131820661">
+        <item name="2130968696">?android:colorError</item>
+    </style>
+    <style name="2131820664" parent="@style/2131820662">
+        <item name="2130968696">?android:colorError</item>
+    </style>
+    <style name="2131820665" parent="@style/2131820674">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="2131820666" parent="@style/2131820658">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

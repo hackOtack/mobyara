@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131296711" paddingLeft="16.0dip" paddingTop="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Chat" />
+    <include id="@id/2131297821" visibility="gone" layout="@layout/2131427905" />
+    <include id="@id/2131297822" visibility="visible" layout="@layout/2131427907" />
+</LinearLayout>

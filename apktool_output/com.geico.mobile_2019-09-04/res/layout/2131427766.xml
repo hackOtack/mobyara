@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" background="#fff2f0ec" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131298252" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentTop="true" />
+    <View id="@id/2131297912" layout_width="fill_parent" layout_height="16.0dip" layout_alignParentBottom="true" />
+    <com.cccis.sdk.android.common.view.BoldTextButton id="@id/2131298108" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" layout_marginRight="16.0dip" layout_above="@id/2131297912" style="@style/2131821317" />
+    <com.cccis.sdk.android.common.view.BoldTextButton id="@id/2131296852" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" layout_marginRight="16.0dip" text="@string/2131755906" layout_above="@id/2131298108" style="@style/2131821313" />
+    <RelativeLayout id="@id/2131296658" background="#fff6bc32" layout_width="fill_parent" layout_height="100.0dip" layout_above="@id/2131296852">
+        <ImageView id="@id/2131298755" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_alignParentLeft="true" layout_centerVertical="true" 2130968978="@drawable/2131231585" />
+        <TextView textSize="18.0sp" id="@id/2131296657" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" text="@string/2131756698" layout_toRightOf="@id/2131298755" layout_alignParentRight="true" layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

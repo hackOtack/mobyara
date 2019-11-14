@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131820783">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">@dimen/2131165323</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="2131820796" parent="@style/2131821088">
+        <item name="android:windowBackground">@color/2131100004</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_margin">0.0dip</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="2131820885">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:weightSum">2.0</item>
+    </style>
+    <style name="2131821109">
+        <item name="android:layout_width">@dimen/2131165598</item>
+    </style>
+    <style name="2131821110">
+        <item name="android:layout_width">@dimen/2131165311</item>
+        <item name="android:layout_marginLeft">@dimen/2131165261</item>
+        <item name="android:layout_marginTop">@dimen/2131165340</item>
+        <item name="android:layout_marginRight">@dimen/2131165340</item>
+        <item name="android:layout_marginBottom">@dimen/2131165340</item>
+    </style>
+    <style name="2131821297" parent="@style/2131820733">
+        <item name="2130968998">2131296690</item>
+        <item name="2130969003">2131297481</item>
+    </style>
+</resources>

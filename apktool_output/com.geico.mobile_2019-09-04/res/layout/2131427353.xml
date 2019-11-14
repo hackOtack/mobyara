@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131298692" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="?android:textAppearanceMedium" textColor="?android:textColorPrimary" gravity="center_vertical" id="@id/2131298691" visibility="gone" layout_width="wrap_content" layout_height="fill_parent" layout_marginBottom="2.0dip" drawablePadding="0.0dip" />
+    <ImageView layout_gravity="center_vertical" id="@id/2131298693" focusable="true" layout_width="wrap_content" layout_height="fill_parent" contentDescription="@string/2131755051" style="?2130968596" />
+    <LinearLayout orientation="horizontal" id="@id/2131298695" layout_width="wrap_content" layout_height="fill_parent" layout_marginLeft="8.0dip" layout_marginRight="8.0dip" layout_weight="1.0" layoutDirection="locale">
+        <ImageView layout_gravity="center_vertical" id="@id/2131298697" visibility="gone" layout_width="32.0dip" layout_height="wrap_content" scaleType="centerInside" style="@style/2131820976" />
+        <LinearLayout layout_gravity="center_vertical" orientation="horizontal" id="@id/2131298698" layout_width="wrap_content" layout_height="fill_parent" layout_weight="1.0">
+            <view ellipsize="end" layout_gravity="center_vertical" id="@id/2131298699" background="@null" paddingLeft="8.0dip" paddingRight="8.0dip" layout_width="0.0dip" layout_height="36.0dip" singleLine="true" layout_weight="1.0" inputType="textAutoComplete|textNoSuggestions" dropDownAnchor="@id/2131298695" imeOptions="actionSearch" dropDownHeight="wrap_content" dropDownHorizontalOffset="0.0dip" dropDownVerticalOffset="0.0dip" class="android.support.v7.widget.SearchView$SearchAutoComplete" />
+            <ImageView layout_gravity="center_vertical" id="@id/2131298694" background="?2130968966" paddingLeft="8.0dip" paddingRight="8.0dip" focusable="true" layout_width="wrap_content" layout_height="fill_parent" contentDescription="@string/2131755049" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298890" layout_width="wrap_content" layout_height="fill_parent">
+            <ImageView layout_gravity="center_vertical" id="@id/2131298696" background="?2130968966" paddingLeft="16.0dip" paddingRight="16.0dip" focusable="true" visibility="gone" layout_width="wrap_content" layout_height="fill_parent" contentDescription="@string/2131755052" />
+            <ImageView layout_gravity="center_vertical" id="@id/2131298701" background="?2130968966" paddingLeft="16.0dip" paddingRight="16.0dip" focusable="true" visibility="gone" layout_width="wrap_content" layout_height="fill_parent" contentDescription="@string/2131755053" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

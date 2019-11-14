@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout paddingLeft="32.0dip" paddingTop="16.0dip" paddingRight="16.0dip" paddingBottom="32.0dip" layout_width="fill_parent" layout_height="fill_parent" paddingStart="32.0dip" paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="center" id="@id/2131296848" fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent">
+        <com.urbanairship.widget.UAWebView id="@android:id/primary" layout_width="fill_parent" layout_height="fill_parent" layout_marginTop="16.0dip" layout_marginRight="16.0dip" layout_marginEnd="16.0dip" />
+        <ProgressBar layout_gravity="center" id="@android:id/progress" layout_width="wrap_content" layout_height="wrap_content" />
+        <ImageButton layout_gravity="end|center|top" id="@id/2131296783" background="@null" padding="8.0dip" layout_width="32.0dip" layout_height="32.0dip" src="@drawable/APKTOOL_DUMMY_416" onClick="onCloseButtonClick" contentDescription="@android:string/ok" />
+    </FrameLayout>
+</FrameLayout>

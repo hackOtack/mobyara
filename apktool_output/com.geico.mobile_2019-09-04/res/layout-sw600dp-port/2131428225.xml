@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="284.0dip" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" id="@id/2131299059" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Please provide the following information" />
+        <Spinner entries="@array/2130903130" id="@id/2131298516" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298517" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+        <EditText id="@id/2131298518" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" singleLine="true" inputType="text" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296570" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Date of Birth of the Policyholder" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceDateOfBirth id="@id/2131299053" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+        <Button id="@id/2131299056" layout_width="fill_parent" layout_height="wrap_content" text="Continue" onClick="onContinueClicked" />
+    </LinearLayout>
+</ScrollView>

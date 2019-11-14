@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297768" padding="@dimen/2131165271" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131297311" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427678" />
+    <android.support.design.widget.TextInputLayout layout_width="fill_parent" layout_height="wrap_content" 2130968940="true">
+        <EditText textSize="@dimen/2131165632" id="@id/2131298195" background="@drawable/2131231193" layout_width="fill_parent" layout_height="40.0dip" layout_marginTop="4.0dip" hint="@string/2131755465" singleLine="true" maxLength="16" inputType="textPassword" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout layout_width="fill_parent" layout_height="wrap_content" 2130968940="true">
+        <EditText textSize="@dimen/2131165632" id="@id/2131299113" background="@drawable/2131231193" layout_width="fill_parent" layout_height="40.0dip" hint="New Password" singleLine="true" maxLength="16" inputType="textPassword" />
+    </android.support.design.widget.TextInputLayout>
+    <include id="@id/2131297853" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout="@layout/2131428029" />
+    <android.support.design.widget.TextInputLayout layout_width="fill_parent" layout_height="wrap_content" 2130968940="true">
+        <EditText textSize="@dimen/2131165632" id="@id/2131298479" background="@drawable/2131231193" layout_width="fill_parent" layout_height="40.0dip" hint="Re-enter New Password" singleLine="true" maxLength="16" inputType="textPassword" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout layout_width="fill_parent" layout_height="wrap_content" 2130968940="true">
+        <EditText textSize="@dimen/2131165632" id="@id/2131298198" background="@drawable/2131231193" layout_width="fill_parent" layout_height="40.0dip" layout_marginTop="4.0dip" hint="Password Hint" singleLine="true" inputType="text" />
+    </android.support.design.widget.TextInputLayout>
+</LinearLayout>

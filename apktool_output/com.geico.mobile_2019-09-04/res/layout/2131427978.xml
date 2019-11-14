@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131296766" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView id="@id/2131296736" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Current Request" style="@style/2131820837" />
+        <LinearLayout orientation="horizontal" id="@id/2131298564" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" weightSum="1.0" layout_below="@id/2131296736">
+            <TextView id="@id/2131296996" layout_width="0.0dip" layout_height="wrap_content" text="Date" layout_weight="0.4" style="@style/2131820756" />
+            <TextView id="@id/2131298567" layout_width="0.0dip" layout_height="wrap_content" text="Request Time" layout_weight="0.6" style="@style/2131820756" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298563" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="16.0dip" weightSum="1.0" layout_below="@id/2131298564">
+            <TextView id="@id/2131296986" layout_width="0.0dip" layout_height="wrap_content" text="Date" layout_weight="0.4" style="@style/2131820755" />
+            <TextView id="@id/2131298566" layout_width="0.0dip" layout_height="wrap_content" text="Request Time" layout_weight="0.6" style="@style/2131820755" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298436" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" weightSum="1.0" layout_below="@id/2131298563">
+            <TextView id="@id/2131297355" layout_width="0.0dip" layout_height="wrap_content" text="ETA" layout_weight="0.4" style="@style/2131820756" />
+            <TextView id="@id/2131298435" layout_width="0.0dip" layout_height="wrap_content" text="Provider" layout_weight="0.6" style="@style/2131820756" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298434" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="16.0dip" weightSum="1.0" layout_below="@id/2131298436">
+            <TextView id="@id/2131297354" layout_width="0.0dip" layout_height="wrap_content" text="Date" layout_weight="0.4" style="@style/2131820755" />
+            <TextView id="@id/2131298433" layout_width="0.0dip" layout_height="wrap_content" text="Request Time" layout_weight="0.6" style="@style/2131820755" />
+        </LinearLayout>
+        <Button id="@id/2131299238" layout_width="wrap_content" layout_height="wrap_content" text="VIEW REQUEST STATUS" layout_below="@id/2131298434" onClick="onViewRequestStatusButtonClicked" style="@style/2131820937" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

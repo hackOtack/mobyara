@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout background="@drawable/2131231674" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_gravity="center|top" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131296556" style="@style/2131820860">
+                <TextView gravity="center" id="@id/2131297650" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginTop="10.0dip" layout_marginRight="10.0dip" layout_marginBottom="5.0dip" layout_centerHorizontal="true" layout_centerVertical="true" textAllCaps="true" style="@style/2131821209" />
+            </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        <ImageView layout_gravity="center" id="@id/2131296554" layout_width="wrap_content" layout_height="wrap_content" />
+    </FrameLayout>
+    <FrameLayout layout_width="fill_parent" layout_height="fill_parent" layout_alignParentBottom="true">
+        <Button textStyle="bold" layout_gravity="bottom|center|right" id="@id/2131298759" paddingLeft="20.0dip" paddingTop="5.0dip" paddingRight="20.0dip" paddingBottom="5.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" minHeight="0.0dip" text="CLOSE" onClick="onCloseButtonClicked" style="@style/2131820864" />
+    </FrameLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

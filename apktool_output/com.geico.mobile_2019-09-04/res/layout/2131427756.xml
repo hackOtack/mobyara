@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" layout="@layout/2131427678" />
+    <include id="@id/2131297501" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" layout="@layout/2131427757" />
+    <include id="@id/2131297505" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout="@layout/2131427761" />
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131296850" layout_width="0.0dip" layout_height="wrap_content" layout_margin="16.0dip" text="Continue" layout_weight="1.0" onClick="onContinueClicked" />
+    </LinearLayout>
+</LinearLayout>

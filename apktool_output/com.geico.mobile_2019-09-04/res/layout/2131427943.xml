@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297909" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_300" />
+    <TextView textColor="#ffffffff" layout_gravity="center" id="@id/2131297830" paddingBottom="5.0dip" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820877" />
+</FrameLayout>

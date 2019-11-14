@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.urbanairship.iam.view.MediaView id="@id/2131297919" layout_alignParentLeft="true" layout_alignParentStart="true" style="@style/2131821129" />
+    <TextView id="@id/2131297604" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297919" layout_alignParentRight="true" layout_alignWithParentIfMissing="true" layout_toEndOf="@id/2131297919" layout_alignParentEnd="true" style="@style/2131821124" />
+    <TextView id="@id/2131296573" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297919" layout_below="@id/2131297604" layout_alignParentRight="true" layout_alignWithParentIfMissing="true" layout_toEndOf="@id/2131297919" layout_alignParentEnd="true" style="@style/2131821121" />
+</RelativeLayout>

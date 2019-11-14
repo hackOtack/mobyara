@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296471" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297907" background="@drawable/2131231487" layout_width="fill_parent" layout_height="250.0dip" layout_marginStart="@dimen/2131165506" layout_marginEnd="@dimen/2131165506">
+        <fragment id="@id/2131297908" layout_width="fill_parent" layout_height="fill_parent" class="com.google.android.gms.maps.SupportMapFragment" />
+        <ImageView id="@id/2131298126" layout_width="fill_parent" layout_height="fill_parent" src="#00000000" />
+    </FrameLayout>
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <LinearLayout orientation="vertical" id="@id/2131296473" focusable="true" clickable="true" layout_width="fill_parent" layout_height="wrap_content" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

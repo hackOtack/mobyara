@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#fffafafa" paddingLeft="15.0dip" paddingTop="10.0dip" paddingRight="15.0dip" paddingBottom="15.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="24.0sp" textStyle="bold" textColor="#ff000000" layout_width="fill_parent" layout_height="wrap_content" text="Live Chat with an Agent" />
+    <TextView textSize="@dimen/2131165632" textColor="#ff757374" layout_width="fill_parent" layout_height="wrap_content" text="Get in touch quickly to get your questions answered." />
+</LinearLayout>

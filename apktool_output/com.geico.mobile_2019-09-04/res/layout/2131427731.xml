@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="left" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131298835" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView id="@id/2131297827" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_235" />
+        <TextView textAppearance="@style/2131820994" id="@id/2131296452" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout gravity="center_vertical" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" onClick="onCallStationClicked"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView id="@id/2131298269" paddingLeft="16.0dip" paddingTop="16.0dip" paddingRight="16.0dip" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_b0" tint="#ff977fcc" />
+        <TextView textAppearance="@style/2131820994" id="@id/2131298836" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" onClick="onCallStationClicked" />
+    </LinearLayout>
+</LinearLayout>

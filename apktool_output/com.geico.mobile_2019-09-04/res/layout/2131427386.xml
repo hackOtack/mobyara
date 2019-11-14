@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298137" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131298122" background="#80000000" layout_width="fill_parent" layout_height="fill_parent">
+        <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="17.0dip" textColor="#ff41ab8e" gravity="center_horizontal" id="@id/2131298992" paddingTop="8.0dip" layout_width="fill_parent" layout_height="34.0dip" text="VEHICLE PHOTOS" />
+        <ImageView id="@id/2131298121" layout_width="fill_parent" layout_height="wrap_content" scaleType="fitCenter" adjustViewBounds="true" />
+        <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="22.0dip" textColor="#ff41ab8e" layout_gravity="center_horizontal" id="@id/2131297688" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Driver Side Front" />
+        <com.cccis.mobile.sdk.android.qephotocapture.views.RegularTextView textSize="18.0dip" textColor="#fffcf9cf" gravity="center_horizontal" layout_gravity="center_horizontal" id="@id/2131298120" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="5.0dip" text="Stand at the corner depicted and capture the entire vehicle." />
+    </LinearLayout>
+    <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="22.0dip" textColor="#ffffffff" id="@id/2131298950" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Tap anywhere to close." layout_alignParentBottom="true" layout_centerHorizontal="true" />
+</RelativeLayout>

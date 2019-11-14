@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131299270" paddingLeft="@dimen/2131165265" paddingTop="16.0dip" paddingRight="@dimen/2131165265" paddingBottom="16.0dip" layout_width="@dimen/2131165584" layout_height="@dimen/2131165584" src="@drawable/APKTOOL_DUMMY_3af" layout_alignParentRight="true" layout_alignParentBottom="true" alpha="0.4" />
+    <include id="@id/2131298423" layout="@layout/2131428127" />
+    <include id="@id/2131298420" visibility="gone" layout="@layout/2131428125" />
+</RelativeLayout>

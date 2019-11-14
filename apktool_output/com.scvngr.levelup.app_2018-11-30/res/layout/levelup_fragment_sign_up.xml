@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+            <TextView android:id="@id/levelup_sign_up_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_sign_up_header" style="@style/levelup_text_in_frame" />
+            <EditText android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_global_hint_email" android:inputType="textEmailAddress" android:imeOptions="actionNext" />
+            <EditText android:id="@id/levelup_user_first_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_first_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionNext" />
+            <EditText android:id="@id/levelup_user_last_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_last_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionNext" />
+            <EditText android:id="@id/levelup_user_phone" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_phone" android:inputType="phone" android:imeOptions="actionNext" />
+            <EditText android:id="@android:id/text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_global_hint_password" android:inputType="textPassword" android:imeOptions="actionGo" />
+        </LinearLayout>
+        <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" style="@style/levelup_button_positive" />
+        <com.scvngr.levelup.ui.view.LinkifiedTextView android:id="@id/levelup_terms_and_conditions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_terms_link_sign_up" style="@style/levelup_terms_and_conditions" />
+        <View style="@style/levelup_spacer" />
+        <include layout="@layout/levelup_whitelabel_logo" />
+    </LinearLayout>
+</ScrollView>

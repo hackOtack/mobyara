@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginRight="4.0dip" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView id="@id/2131297492" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentTop="true" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131297494" layout_width="wrap_content" layout_height="wrap_content" text="For Others" layout_alignParentLeft="true" layout_alignParentTop="true" contentDescription="FOR OTHERS Label" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297493" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" text="The below coverages pay out to other parties if the accident is your fault" layout_below="@id/2131297494" layout_alignParentLeft="true" contentDescription="FOR OTHERS Description" />
+            <include id="@id/2131296572" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297493" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131298428" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout_below="@id/2131296572" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView id="@id/2131297495" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297492" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131297497" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="For You" layout_alignParentLeft="true" contentDescription="FOR YOU Label" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297496" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="The below coverages pay out to you and your passengers" layout_below="@id/2131297497" layout_alignParentLeft="true" contentDescription="FOR YOU Description" />
+            <include id="@id/2131296864" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297496" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296865" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296864" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296866" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296865" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296867" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296866" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296868" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296867" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296869" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296868" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296870" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296869" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296871" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296870" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296872" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296871" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296873" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296872" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296874" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296873" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296875" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296874" layout_alignParentLeft="true" layout="@layout/2131427479" />
+            <include id="@id/2131296876" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296875" layout_alignParentLeft="true" layout="@layout/2131427479" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

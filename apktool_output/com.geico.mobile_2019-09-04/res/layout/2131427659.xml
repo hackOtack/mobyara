@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298881" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131296660" paddingTop="12.0dip" paddingBottom="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="How many car lengths is the vehicle from the road?" layout_alignParentTop="true" contentDescription="Car Lenghts From Road Question Text" />
+    <RadioGroup id="@id/2131297098" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296660" contentDescription="Distance Type Radio Group">
+        <LinearLayout orientation="vertical" id="@id/2131297099" layout_width="fill_parent" layout_height="wrap_content" />
+    </RadioGroup>
+    <View id="@id/2131298882" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_below="@id/2131297098" />
+    <CheckBox textAppearance="@style/2131820756" id="@id/2131298401" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" checked="false" text="Does the vehicle have damages?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298882" onClick="onPreventingFromBeingDrivenClicked" contentDescription="Preventing From Being Driven Checkbox" />
+</RelativeLayout>

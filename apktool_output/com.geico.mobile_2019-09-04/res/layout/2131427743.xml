@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="@drawable/2131231282" gravity="center" id="@id/2131298618" background="@drawable/2131231281" padding="5.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Your Pickup Location" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true" style="@style/2131820873" />
+    <ImageView layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="-1.0dip" src="@drawable/2131231759" tint="#ff977fcc" layout_alignParentLeft="true" layout_alignParentBottom="true" layout_centerHorizontal="true" layout_alignParentStart="true" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.AppBarLayout theme="@style/2131821105" layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar theme="@style/2131821115" id="@id/2131297885" background="?APKTOOL_DUMMY_c9" layout_width="fill_parent" layout_height="wrap_content" minHeight="?2130968588" 2130968944="@style/2131821108" />
+        <android.support.design.widget.TabLayout id="@id/2131298929" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" 2130968996="?APKTOOL_DUMMY_c9" 2130968998="2131296690" 2130968999="@color/2131099819" 2130969000="2.0dip" 2130969001="@dimen/2131165627" 2130969003="2131298681" 2130969009="@color/2131099819" />
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.view.ViewPager id="@id/2131299244" layout_width="fill_parent" layout_height="fill_parent" 2130968825="@string/2131755134" />
+    <fragment id="@id/2131298001" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.framework.navigationTab.AceNavigationTabFragment" />
+    <include id="@id/2131299067" visibility="gone" layout="@layout/2131428227" />
+</android.support.design.widget.CoordinatorLayout>

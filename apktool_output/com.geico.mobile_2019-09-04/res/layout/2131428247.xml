@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.urbanairship.iam.view.BoundedLinearLayout orientation="vertical" id="@id/2131297957" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131821191">
+        <ScrollView layout_width="fill_parent" layout_height="0.0dip" layout_weight="1.0" style="@style/2131821196">
+            <ViewStub id="@id/2131297960" inflatedId="@id/2131299083" layout_width="fill_parent" layout_height="wrap_content" />
+        </ScrollView>
+        <com.urbanairship.iam.view.InAppButtonLayout id="@id/2131296606" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821177" />
+        <FrameLayout id="@id/2131297489" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296606" layout_alignParentBottom="true" style="@style/2131821185">
+            <Button id="@id/2131297487" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821184" />
+        </FrameLayout>
+    </com.urbanairship.iam.view.BoundedLinearLayout>
+    <ImageButton layout_gravity="end|center|top" id="@id/2131297092" layout_width="wrap_content" layout_height="wrap_content" contentDescription="@string/2131757290" style="@style/2131821183" />
+</FrameLayout>

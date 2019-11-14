@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff9e9586" layout_gravity="center|left|top" layout_width="wrap_content" layout_height="wrap_content" text="Effective Date" style="@style/2131820994" />
+    <LinearLayout layout_gravity="bottom|center|left" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131297207" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="@dimen/2131165456" text="Effective Date" style="@style/2131821004" />
+        <ImageView id="@id/2131297689" visibility="gone" clickable="true" layout_width="wrap_content" layout_height="fill_parent" layout_marginBottom="@dimen/2131165456" src="@drawable/APKTOOL_DUMMY_2ce" tint="#ff4789b6" contentDescription="Installment Charge" />
+    </LinearLayout>
+</LinearLayout>

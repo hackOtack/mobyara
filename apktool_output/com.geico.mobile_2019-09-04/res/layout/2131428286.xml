@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout gravity="center_vertical" orientation="vertical" background="@android:color/white" padding="8.0dip" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297865" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0" layout_alignParentTop="true" layout_alignParentStart="true">
+        <ImageView id="@id/2131297552" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" scaleType="fitCenter" adjustViewBounds="true" layout_weight="1.0" layout_alignParentTop="true" layout_alignParentStart="true" 2130968978="@drawable/2131231807" />
+        <ImageView id="@id/2131296680" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" scaleType="fitCenter" adjustViewBounds="true" layout_weight="1.0" 2130968978="@drawable/2131231806" />
+    </LinearLayout>
+    <TextView textSize="18.0sp" gravity="center_horizontal" id="@id/2131297550" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" layout_marginBottom="@dimen/2131165336" text="&lt;center>&lt;b>GEICO&lt;/b> has partnered with &lt;b>CARFAX&lt;/b>&lt;br/>\n        to offer you free, personalized vehicle care&lt;/center>" layout_below="@id/2131297865" textAlignment="center" />
+    <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131296462" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297550" layout_alignParentStart="true">
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView id="@id/2131296464" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_weight="1.0" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true" 2130968978="@drawable/2131231810" />
+            <TextView textStyle="bold" textColor="#ff977fcc" id="@id/2131298744" layout_width="wrap_content" layout_height="wrap_content" text="Service Reminders" layout_toRightOf="@id/2131296464" />
+            <TextView id="@id/2131298743" layout_width="wrap_content" layout_height="wrap_content" text="Maintain your vehicle to avoid costly repairs" layout_toRightOf="@id/2131296464" layout_below="@id/2131298744" />
+        </RelativeLayout>
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="fill_parent">
+            <ImageView id="@id/2131296463" paddingTop="4.0dip" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" 2130968978="@drawable/2131231809" />
+            <TextView textStyle="bold" textColor="#ff977fcc" id="@id/2131298483" layout_width="wrap_content" layout_height="wrap_content" text="Recall Alerts" layout_toRightOf="@id/2131296463" />
+            <TextView id="@id/2131298482" layout_width="wrap_content" layout_height="wrap_content" text="Have peace of mind on the road" layout_toRightOf="@id/2131296463" layout_below="@id/2131298483" />
+        </RelativeLayout>
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="fill_parent">
+            <ImageView id="@id/2131296461" paddingTop="4.0dip" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" 2130968978="@drawable/2131231808" />
+            <TextView textStyle="bold" textColor="#ff977fcc" id="@id/2131298735" layout_width="wrap_content" layout_height="wrap_content" text="Service History" layout_toRightOf="@id/2131296461" />
+            <TextView id="@id/2131298734" layout_width="wrap_content" layout_height="wrap_content" text="Access your service records in one place" layout_toRightOf="@id/2131296461" layout_below="@id/2131298735" />
+        </RelativeLayout>
+    </LinearLayout>
+    <TextView gravity="center_horizontal" id="@id/2131296678" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131299098" textAlignment="center" />
+    <Button id="@id/2131299098" layout_width="fill_parent" layout_height="@dimen/2131165503" text="UNLOCK VEHICLE CARE" layout_alignParentBottom="true" onClick="onUnlockClicked" />
+</RelativeLayout>

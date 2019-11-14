@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset insetLeft="4.0dip" insetRight="4.0dip" insetTop="10.0dip" insetBottom="7.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <selector>
+        <item state_enabled="false">
+            <nine-patch src="@drawable/APKTOOL_DUMMY_6a" tint="?2130968695" alpha="?android:disabledAlpha" />
+        </item>
+        <item state_focused="false" state_pressed="false">
+            <nine-patch src="@drawable/APKTOOL_DUMMY_6a" tint="?2130968695" />
+        </item>
+        <item>
+            <nine-patch src="@drawable/APKTOOL_DUMMY_69" tint="?2130968693" />
+        </item>
+    </selector>
+</inset>

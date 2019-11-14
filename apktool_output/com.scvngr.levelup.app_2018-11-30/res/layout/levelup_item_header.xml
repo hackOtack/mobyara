@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/levelup_item_header" android:paddingLeft="@dimen/levelup_card_header_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_card_margin_horizontal_full" android:layout_marginTop="@dimen/levelup_location_card_margin_top" android:layout_marginRight="@dimen/levelup_card_margin_horizontal_full" style="@style/levelup_item_header"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

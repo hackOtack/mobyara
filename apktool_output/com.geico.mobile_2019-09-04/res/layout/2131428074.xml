@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton layout_gravity="right" id="@id/2131299110" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" text="Edit Preferences" onClick="onEditPreferencesClicked" style="@style/2131820980" />
+        <ImageButton layout_gravity="right" id="@id/2131296619" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_b0" tint="?APKTOOL_DUMMY_c9" text="Call To Make Changes" onClick="onCallToMakeChangesClicked" style="@style/2131820980" />
+        <LinearLayout orientation="vertical" id="@id/2131297187" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820997" id="@id/2131297179" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Paperless Preferences" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297181" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Paperless Billing" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297180" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297185" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Paperless Policy" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297184" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" />
+        </LinearLayout>
+        <include visibility="gone" layout="@layout/2131428075" />
+    </FrameLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131296813" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" text="You are now enrolled in paperless policy." />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298411" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" text="Processed on: \n%s" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298151" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" text="Here's what to expect: Your policy statements will now be sent via email. You will no longer receive paper documents by mail." />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298153" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="16.0dip" layout_marginRight="8.0dip" layout_marginBottom="8.0dip" text="Thank you for choosing GEICO Mobile!" />
+    <Button layout_gravity="right" id="@id/2131298596" layout_width="fill_parent" layout_height="wrap_content" text="Return Home" onClick="onReturnHomeClicked" />
+</LinearLayout>

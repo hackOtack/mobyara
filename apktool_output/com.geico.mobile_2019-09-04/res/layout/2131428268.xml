@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow orientation="horizontal" id="@id/2131299109" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298318" layout_width="40.0dip" layout_height="40.0dip" layout_marginTop="4.0dip" layout_marginRight="16.0dip" layout_marginBottom="4.0dip" tint="#ff4789b6" />
+    <TextView layout_gravity="center_vertical" id="@id/2131298320" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" style="@style/2131820756" />
+    <CheckBox layout_gravity="center_vertical" id="@id/2131298310" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content" checked="true" />
+</TableRow>

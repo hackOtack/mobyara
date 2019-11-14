@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff9e9586" layout_width="wrap_content" layout_height="wrap_content" text="Policy Number" style="@style/2131820994" />
+    <TextView textColor="#ff000000" layout_gravity="bottom|center|left" id="@id/2131298332" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="@dimen/2131165456" text="Policy Number" style="@style/2131821004" />
+</LinearLayout>

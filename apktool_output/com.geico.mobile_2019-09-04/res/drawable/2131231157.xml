@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_checked="true" id="@id/2131299257" drawable="@drawable/APKTOOL_DUMMY_1b3" />
+    <item id="@id/2131297917" drawable="@drawable/APKTOOL_DUMMY_1b4" />
+    <transition drawable="@drawable/2131230866" toId="@id/2131299257" fromId="@id/2131297917" />
+    <transition drawable="@drawable/2131230865" toId="@id/2131297917" fromId="@id/2131299257" />
+</animated-selector>

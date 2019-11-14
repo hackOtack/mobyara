@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout/activate_account_confirm_activity_layout_0" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131296355" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427780" />
+    <fragment name="o.ʀІ" id="@id/2131296387" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

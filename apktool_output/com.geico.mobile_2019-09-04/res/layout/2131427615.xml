@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <include layout="@layout/2131427614" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

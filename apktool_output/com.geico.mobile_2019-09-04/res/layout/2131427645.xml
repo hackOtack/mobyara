@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131298924" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false" weightSum="27.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View layout_gravity="center" id="@id/2131297473" background="#ffbbbbbb" visibility="gone" layout_width="0.0dip" layout_height="0.0dip" layout_weight="0.0" />
+    <Button id="@id/2131298925" layout_width="0.0dip" layout_height="60.0dip" text="1. What's Wrong?" layout_weight="6.0" onClick="onTabOneClicked" contentDescription="What's Wrong Tab" style="@style/2131820959" />
+    <View layout_gravity="center" id="@id/2131298702" background="#ffbbbbbb" layout_width="0.0dip" layout_height="2.0dip" layout_weight="1.0" />
+    <Button id="@id/2131298927" layout_width="0.0dip" layout_height="60.0dip" text="2. Your\nInfo" layout_weight="6.0" onClick="onTabTwoClicked" contentDescription="Your Info Tab" style="@style/2131820959" />
+    <View layout_gravity="center" id="@id/2131298975" background="#ffbbbbbb" layout_width="0.0dip" layout_height="2.0dip" layout_weight="1.0" />
+    <Button id="@id/2131298926" layout_width="0.0dip" layout_height="60.0dip" text="3. Location" layout_weight="6.0" onClick="onTabThreeClicked" contentDescription="Location Tab" style="@style/2131820959" />
+    <View layout_gravity="center" id="@id/2131297508" background="#ffbbbbbb" layout_width="0.0dip" layout_height="2.0dip" layout_weight="1.0" />
+    <Button id="@id/2131298921" layout_width="0.0dip" layout_height="60.0dip" text="4. Review/\nSubmit" layout_weight="6.0" onClick="onTabFourClicked" contentDescription="Review Submit Tab" style="@style/2131820959" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_vertical" orientation="horizontal" background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView id="@id/2131296435" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" src="@drawable/APKTOOL_DUMMY_7f" tint="?APKTOOL_DUMMY_c9" />
+        <include layout="@layout/2131428299" />
+    </LinearLayout>
+    <View background="@drawable/APKTOOL_DUMMY_c" layout_width="fill_parent" layout_height="8.0dip" />
+</LinearLayout>

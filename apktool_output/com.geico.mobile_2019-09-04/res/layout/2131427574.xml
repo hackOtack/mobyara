@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppBusiness.ui.AceDynamicWidthTextView textSize="@dimen/2131165632" textColor="#ffffffff" gravity="start" layout_gravity="end" background="@drawable/2131231735" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" drawablePadding="10.0dip" drawableEnd="@drawable/APKTOOL_DUMMY_176" layout_marginStart="@dimen/2131165475" layout_alignParentEnd="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

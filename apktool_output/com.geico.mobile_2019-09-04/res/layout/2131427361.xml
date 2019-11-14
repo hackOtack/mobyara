@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131296303" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298969" layout_width="fill_parent" layout_height="wrap_content" minHeight="@dimen/2131165503" style="@style/2131820929">
+        <TextView layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" text="thank you" layout_alignParentLeft="true" textAllCaps="true" style="@style/2131821208" />
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" src="@drawable/APKTOOL_DUMMY_ae" layout_alignParentRight="true" layout_centerHorizontal="true" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout background="@drawable/2131231827" layout_width="fill_parent" layout_height="fill_parent" layout_marginBottom="10.0dip" layout_below="@id/2131298969">
+        <TextView id="@id/2131298970" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="We have received your request to update your information and are processing it now." style="@style/2131820873" />
+        <Button id="@id/2131298972" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Return Home" layout_alignParentBottom="true" onClick="onPolicyDashBoardButtonClicked" style="@style/2131821306" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

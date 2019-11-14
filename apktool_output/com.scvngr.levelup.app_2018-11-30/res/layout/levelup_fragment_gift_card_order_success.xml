@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:contentDescription="@null" style="@style/levelup_gift_card_order_success_header_image" />
+        <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" android:text="@string/levelup_gift_card_order_success_description_header" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@android:id/text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:text="@string/levelup_gift_card_order_success_support" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

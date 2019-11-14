@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" id="@id/2131297394" layout_width="fill_parent" layout_height="fill_parent" weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_marginTop="10.0dip" layout_weight="1.0">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131297393" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131820781">
+            <TextView id="@id/2131298453" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" layout_marginBottom="10.0dip" text="Choose a question:" style="@style/2131820876" />
+            <ExpandableListView id="@id/2131297368" layout_width="fill_parent" layout_height="fill_parent" groupIndicator="@null" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131297395" visibility="invisible" layout_width="fill_parent" layout_height="fill_parent" layout_marginTop="5.0dip" layout_weight="1.0">
+        <WebView id="@id/2131297397" background="@android:color/transparent" layout_width="fill_parent" layout_height="fill_parent" layout_weight="1.0" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

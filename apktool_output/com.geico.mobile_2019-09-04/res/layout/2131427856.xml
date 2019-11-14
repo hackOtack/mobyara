@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297671" background="#73ffffff" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout orientation="vertical" id="@id/2131297672" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0" layout_alignParentBottom="true" />
+</RelativeLayout>

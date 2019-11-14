@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@android:id/text1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_lock_text" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/levelup_lock_indicators" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements">
+        <ImageButton android:contentDescription="@null" style="@style/levelup_lock_indicator" />
+        <ImageButton android:layout_marginLeft="@dimen/levelup_space_between_elements" android:contentDescription="@null" style="@style/levelup_lock_indicator" />
+        <ImageButton android:layout_marginLeft="@dimen/levelup_space_between_elements" android:contentDescription="@null" style="@style/levelup_lock_indicator" />
+        <ImageButton android:layout_marginLeft="@dimen/levelup_space_between_elements" android:contentDescription="@null" style="@style/levelup_lock_indicator" />
+    </LinearLayout>
+</merge>

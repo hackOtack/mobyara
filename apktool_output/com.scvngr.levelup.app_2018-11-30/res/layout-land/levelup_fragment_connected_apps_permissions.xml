@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.scvngr.levelup.ui.view.WebImageView android:id="@id/levelup_connected_apps_permissions_app_image" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/levelup_web_image_view_placeholder" android:scaleType="fitStart" android:adjustViewBounds="true" android:maxWidth="@dimen/app_image_landscape_max_width" android:layout_above="@id/levelup_powered_logo" android:layout_alignParentLeft="true" android:contentDescription="@null" style="@style/levelup_connected_apps_permissions_app_image" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_toRightOf="@id/levelup_connected_apps_permissions_app_image" android:layout_above="@id/levelup_powered_logo">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/levelup_view_loading_large" />
+            <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+                <TextView android:id="@id/levelup_connected_apps_permissions_app_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginRight="@dimen/levelup_layout_margin_end" style="@style/levelup_connected_apps_permissions_app_description" />
+                <include layout="@layout/levelup_fragment_connected_apps_permissions_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <include android:id="@id/levelup_powered_logo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:layout_marginBottom="@dimen/levelup_layout_double_margin_bottom" android:layout_alignParentBottom="true" layout="@layout/levelup_powered_logo" />
+</RelativeLayout>

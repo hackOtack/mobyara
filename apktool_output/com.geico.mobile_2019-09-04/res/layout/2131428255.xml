@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131299088" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="You are currently enrolled in Paperless Billing" />
+    <TextView id="@id/2131299085" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="If you wish to discontinue this service and receive billing papers in the mail, please select the &quot;Yes, I wish to unenroll&quot; button below." />
+    <Button id="@id/2131299304" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="Yes, I wish to Unenroll" onClick="onWishToUnEnrollClicked" />
+</LinearLayout>

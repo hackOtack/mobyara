@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" id="@id/2131296509" layout_width="wrap_content" layout_height="wrap_content" text="Anti-Theft Device" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296510" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297004" layout_width="wrap_content" layout_height="wrap_content" text="Daytime Running Lights" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297005" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298649" layout_width="wrap_content" layout_height="wrap_content" text="Safety Restraint Device" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298650" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297627" layout_width="wrap_content" layout_height="wrap_content" text="Hybrid Vehicle" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297628" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131296926" layout_width="wrap_content" layout_height="wrap_content" text="Customizations" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296927" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131299203" layout_width="wrap_content" layout_height="wrap_content" text="Vehicle Ownership" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131299204" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297413" layout_width="wrap_content" layout_height="wrap_content" text="Finance Company" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297414" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297716" layout_width="wrap_content" layout_height="wrap_content" text="Inspection Status" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297717" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+</LinearLayout>

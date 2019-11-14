@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard keyWidth="12.5%p" keyHeight="10.000002%p"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Row>
+        <Key keyEdgeFlags="left" keyLabel="1" />
+        <Key keyLabel="2" />
+        <Key keyLabel="3" />
+        <Key keyLabel="4" />
+        <Key keyLabel="5" />
+        <Key keyLabel="6" />
+        <Key keyLabel="7" />
+        <Key keyLabel="8" />
+        <Key keyLabel="9" />
+        <Key keyLabel="0" />
+        <Key codes="100" isRepeatable="true" keyLabel="DEL" />
+    </Row>
+    <Row>
+        <Key codes="999" keyEdgeFlags="left" keyLabel="" />
+        <Key keyLabel="W" />
+        <Key keyLabel="E" />
+        <Key keyLabel="R" />
+        <Key keyLabel="T" />
+        <Key keyLabel="Y" />
+        <Key keyLabel="U" />
+        <Key codes="999" keyLabel="" />
+        <Key codes="999" keyLabel="" />
+        <Key keyLabel="P" />
+    </Row>
+    <Row>
+        <Key keyEdgeFlags="left" keyLabel="A" />
+        <Key keyLabel="S" />
+        <Key keyLabel="D" />
+        <Key keyLabel="F" />
+        <Key keyLabel="G" />
+        <Key keyLabel="H" />
+        <Key keyLabel="J" />
+        <Key keyLabel="K" />
+        <Key keyLabel="L" />
+    </Row>
+    <Row>
+        <Key keyEdgeFlags="left" keyLabel="Z" />
+        <Key keyLabel="X" />
+        <Key keyLabel="C" />
+        <Key keyLabel="V" />
+        <Key keyLabel="B" />
+        <Key keyLabel="N" />
+        <Key keyLabel="M" />
+    </Row>
+</Keyboard>

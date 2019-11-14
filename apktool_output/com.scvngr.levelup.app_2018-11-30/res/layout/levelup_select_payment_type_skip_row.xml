@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_payment_type_skip" android:padding="@dimen/levelup_padding_inner" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_navigation_item">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_payment_type_none" android:drawableLeft="@drawable/levelup_payment_type_none" android:drawablePadding="@dimen/levelup_padding_start" style="@style/levelup_select_payment_list_item" />
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:text="@string/levelup_payment_type_none_caption" style="@style/levelup_caption_text_light" />
+    </LinearLayout>
+    <View style="@style/levelup_divider" />
+</merge>

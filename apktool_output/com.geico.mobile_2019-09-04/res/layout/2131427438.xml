@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131296753" descendantFocusability="blocksDescendants" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment name="o.ҝΙ" id="@id/2131296755" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="o.ւյ" id="@id/2131298557" layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip" />
+    </LinearLayout>
+</ScrollView>

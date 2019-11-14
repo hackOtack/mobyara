@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131298587" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="User ID" />
+    <EditText id="@id/2131298588" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="none" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298579" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Password" layout_alignParentLeft="true" />
+    <EditText id="@id/2131298581" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="10.0dip" hint="••••••••" singleLine="true" maxLength="16" inputType="textPassword" />
+    <include id="@id/2131298580" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" layout="@layout/2131428029" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298585" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Re-enter Password" />
+    <EditText id="@id/2131298586" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" hint="••••••••" singleLine="true" maxLength="16" inputType="textPassword" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298577" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Password Hint" layout_alignParentLeft="true" />
+    <EditText id="@id/2131298578" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" hint="Hint" singleLine="true" layout_alignParentLeft="true" inputType="text" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298570" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="By selecting Continue, I acknowledge that I have the authority to access and change information on this policy and I have read and agree to the following Terms Of Use." />
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131298571" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" text="Continue" layout_weight="1.0" onClick="onResetPasswordClicked" />
+    </LinearLayout>
+</LinearLayout>

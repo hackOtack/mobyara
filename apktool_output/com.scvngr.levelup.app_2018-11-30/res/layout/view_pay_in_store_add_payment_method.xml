@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/levelup_view_pay_in_store_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin" android:text="@string/levelup_view_pay_in_store_no_payment_method_title" style="@style/levelup_view_pay_in_store_header_text" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_view_pay_in_store_add_payment_method_button_margin" android:layout_marginRight="@dimen/levelup_view_pay_in_store_add_payment_method_button_margin" android:text="@string/levelup_view_pay_in_store_no_payment_method_text" style="@style/levelup_view_pay_in_store_text" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/view_pay_in_store_add_payment_method_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_extra" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:layout_marginRight="@dimen/levelup_layout_margin_extra" android:text="@string/levelup_view_pay_in_store_no_payment_method_button" style="@style/levelup_button_positive" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView id="@id/2131296674" layout_width="fill_parent" layout_height="@dimen/2131165545" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout paddingLeft="12.0dip" paddingRight="12.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView id="@id/2131299270" visibility="gone" layout_width="84.0dip" layout_height="84.0dip" src="@drawable/APKTOOL_DUMMY_16f" alpha="0.4" layout_marginEnd="20.0dip" layout_alignParentEnd="true" />
+        <LinearLayout orientation="vertical" paddingLeft="12.0dip" paddingRight="12.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView id="@id/2131296949" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820915" />
+            <TextView id="@id/2131296948" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820913" />
+        </LinearLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

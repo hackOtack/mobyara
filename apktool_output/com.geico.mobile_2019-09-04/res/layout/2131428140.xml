@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" padding="4.0dip" clickable="true" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820789" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView id="@id/2131296674" layout_width="wrap_content" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout paddingLeft="16.0dip" paddingTop="16.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="344.0dip" layout_height="148.0dip">
+            <ImageView gravity="center" id="@id/2131296930" layout_width="100.0dip" layout_height="100.0dip" layout_alignParentLeft="true" layout_centerVertical="true" />
+            <LinearLayout gravity="center_vertical" layout_gravity="center_vertical" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_toRightOf="@id/2131296930" layout_centerVertical="true">
+                <TextView textAppearance="@style/2131821111" gravity="bottom" id="@id/2131296932" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="wrap_content" lines="2" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131296931" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="wrap_content" lines="3" />
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

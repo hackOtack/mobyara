@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="horizontal" background="#ffffffff" paddingLeft="16.0dip" paddingTop="12.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="fill_parent" layout_height="wrap_content" onClick="onLocationClicked"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820791" id="@id/2131298189" layout_width="wrap_content" layout_height="wrap_content" />
+    <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginStart="16.0dip">
+        <TextView textAppearance="@style/2131820756" id="@id/2131298193" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298168" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

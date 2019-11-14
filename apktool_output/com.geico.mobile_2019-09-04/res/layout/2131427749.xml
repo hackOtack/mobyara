@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout layout_gravity="center_horizontal" orientation="vertical" layout_height="wrap_content" style="@style/2131820886">
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.findRide.AceRideShareTypesHeaderFragment" id="@id/2131298620" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.findRide.AceRideShareTypesFragment" id="@id/2131298619" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

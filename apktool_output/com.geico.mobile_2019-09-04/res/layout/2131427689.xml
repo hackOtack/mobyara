@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout tag="layout/explore_cluster_view_0" background="@drawable/2131231210" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton id="@id/2131296783" layout_width="16.0dip" layout_height="16.0dip" contentDescription="CLOSE" 2130968839="2131298157" 2130968861="2131298157" 2130968978="@drawable/2131231213" />
+    <android.support.v7.widget.RecyclerView id="@id/2131298520" clickable="false" layout_width="wrap_content" layout_height="wrap_content" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131296783" />
+</android.support.constraint.ConstraintLayout>

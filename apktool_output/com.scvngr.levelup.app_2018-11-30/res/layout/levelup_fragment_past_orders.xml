@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/levelup_view_loading_large" />
+    <FrameLayout android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v7.widget.RecyclerView android:id="@id/levelup_recycler_view" android:background="@color/levelup_fragment_recycler_view_background" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_padded_recycler_view" />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/past_orders_empty_view" android:background="@color/background1" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" app:srcCompat="@drawable/ic_empty_shopping_bag" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_order_ahead_suggested_orders_empty_state_title" style="@style/levelup_order_ahead_text_normal_text3_large" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_order_ahead_suggested_orders_empty_state_subtitle" style="@style/levelup_order_ahead_text_normal_text3_normal" />
+        </LinearLayout>
+    </FrameLayout>
+</FrameLayout>

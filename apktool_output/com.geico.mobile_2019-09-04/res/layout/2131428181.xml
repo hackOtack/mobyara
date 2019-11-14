@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298781" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff154995" id="@id/2131298783" layout_width="wrap_content" layout_height="wrap_content" text="SMS Text Notifications" contentDescription="SMS Notifications Heading Text" style="@style/2131820758" />
+    <TextView id="@id/2131298782" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Stay connected with GEICO by signing up for text message alerts.Standard messaging rates apply.You can provide up to three numbers to receive policy alerts." layout_below="@id/2131298783" layout_alignLeft="@id/2131298783" contentDescription="SMS Notifications Information Text" style="@style/2131820754" />
+    <TextView id="@id/2131297947" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Mobile Number" layout_below="@id/2131298782" layout_alignLeft="@id/2131298783" contentDescription="Mobile Number 1 Label" labelFor="@id/2131297945" style="@style/2131820754" />
+    <LinearLayout orientation="horizontal" id="@id/2131297946" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" weightSum="1.0" layout_below="@id/2131297947">
+        <EditText textAppearance="@style/2131820758" id="@id/2131297945" tag="phone1" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.4" contentDescription="Mobile Number 1 Edit" style="@style/2131820916" />
+    </LinearLayout>
+    <TextView id="@id/2131297950" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Mobile Number" layout_below="@id/2131297946" layout_alignLeft="@id/2131298783" contentDescription="Mobile Number 2 Label" labelFor="@id/2131297949" style="@style/2131820754" />
+    <LinearLayout orientation="horizontal" id="@id/2131297948" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" weightSum="1.0" layout_below="@id/2131297950">
+        <EditText textAppearance="@style/2131820758" id="@id/2131297949" tag="phone2" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.4" contentDescription="Mobile Number 2 Edit" style="@style/2131820916" />
+    </LinearLayout>
+    <TextView id="@id/2131297953" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Mobile Number" layout_below="@id/2131297948" layout_alignLeft="@id/2131298783" contentDescription="Mobile Number 3 Label" labelFor="@id/2131297952" style="@style/2131820754" />
+    <LinearLayout orientation="horizontal" id="@id/2131297951" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" weightSum="1.0" layout_below="@id/2131297953">
+        <EditText textAppearance="@style/2131820758" id="@id/2131297952" tag="phone3" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.4" contentDescription="Mobile Number 3 Edit" style="@style/2131820916" />
+    </LinearLayout>
+    <TextView id="@id/2131298784" layout_width="wrap_content" layout_height="wrap_content" text="Review our Terms &amp; Conditions for more information." layout_below="@id/2131297951" layout_alignLeft="@id/2131298783" contentDescription="SMS Terms And Conditions Text" style="@style/2131820754" />
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298373" visibility="gone" text="Postpone Payment" style="@style/2131820785" />
+    <Button id="@id/2131299104" text="Update Autopay Info" style="@style/2131820785" />
+    <Button id="@id/2131297889" text="Make Payment" style="@style/2131820785" />
+    <Button id="@id/2131296644" text="None of the Above" style="@style/2131820785" />
+</LinearLayout>

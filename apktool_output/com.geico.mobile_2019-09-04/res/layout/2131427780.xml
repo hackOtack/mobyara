@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout tag="layout/geico_app_action_bar_0" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.AppBarLayout layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar id="@id/2131298998" layout_width="fill_parent" layout_height="?2130968588" />
+    </android.support.design.widget.AppBarLayout>
+</android.support.design.widget.CoordinatorLayout>

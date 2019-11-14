@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131298426" background="#ff000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.view.ViewPager id="@id/2131299244" background="#fff1f0ec" layout_width="0.0dip" layout_height="fill_parent" layout_marginLeft="@dimen/2131165582" layout_marginTop="@dimen/2131165582" layout_marginRight="@dimen/2131165582" layout_marginBottom="@dimen/2131165582" layout_weight="1.0" />
+    <fragment name="o.yF" id="@id/2131297921" layout_width="wrap_content" layout_height="fill_parent" />
+</LinearLayout>

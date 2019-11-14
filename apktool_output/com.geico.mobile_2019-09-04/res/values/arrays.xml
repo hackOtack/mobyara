@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="2130903040">
+        <item>false</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </string-array>
+    <array name="2130903041">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903042">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_9a</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+    </array>
+    <array name="2130903043">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_d7</item>
+        <item>@drawable/APKTOOL_DUMMY_d9</item>
+        <item>@drawable/APKTOOL_DUMMY_dd</item>
+        <item>@drawable/APKTOOL_DUMMY_db</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903044">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_d6</item>
+        <item>@drawable/APKTOOL_DUMMY_d8</item>
+        <item>@drawable/APKTOOL_DUMMY_dc</item>
+        <item>@drawable/APKTOOL_DUMMY_da</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903045">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_e1</item>
+        <item>@drawable/APKTOOL_DUMMY_e3</item>
+        <item>@drawable/APKTOOL_DUMMY_e7</item>
+        <item>@drawable/APKTOOL_DUMMY_e5</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903046">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_e0</item>
+        <item>@drawable/APKTOOL_DUMMY_e2</item>
+        <item>@drawable/APKTOOL_DUMMY_e6</item>
+        <item>@drawable/APKTOOL_DUMMY_e4</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903047">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_f4</item>
+        <item>@drawable/APKTOOL_DUMMY_f6</item>
+        <item>@drawable/APKTOOL_DUMMY_fa</item>
+        <item>@drawable/APKTOOL_DUMMY_f8</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903048">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_f3</item>
+        <item>@drawable/APKTOOL_DUMMY_f5</item>
+        <item>@drawable/APKTOOL_DUMMY_f9</item>
+        <item>@drawable/APKTOOL_DUMMY_f7</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903049">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_eb</item>
+        <item>@drawable/APKTOOL_DUMMY_ed</item>
+        <item>@drawable/APKTOOL_DUMMY_f1</item>
+        <item>@drawable/APKTOOL_DUMMY_ef</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903050">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_eb</item>
+        <item>@drawable/APKTOOL_DUMMY_ed</item>
+        <item>@drawable/APKTOOL_DUMMY_f1</item>
+        <item>@drawable/APKTOOL_DUMMY_ef</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903051">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_fb</item>
+        <item>@drawable/APKTOOL_DUMMY_fc</item>
+        <item>@drawable/APKTOOL_DUMMY_fe</item>
+        <item>@drawable/APKTOOL_DUMMY_fd</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903052">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_100</item>
+        <item>@drawable/APKTOOL_DUMMY_102</item>
+        <item>@drawable/APKTOOL_DUMMY_106</item>
+        <item>@drawable/APKTOOL_DUMMY_104</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903053">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_ff</item>
+        <item>@drawable/APKTOOL_DUMMY_101</item>
+        <item>@drawable/APKTOOL_DUMMY_105</item>
+        <item>@drawable/APKTOOL_DUMMY_103</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903054">
+        <item>@drawable/APKTOOL_DUMMY_d1</item>
+        <item>@drawable/APKTOOL_DUMMY_108</item>
+        <item>@drawable/APKTOOL_DUMMY_10a</item>
+        <item>@drawable/APKTOOL_DUMMY_10e</item>
+        <item>@drawable/APKTOOL_DUMMY_10c</item>
+        <item>@drawable/APKTOOL_DUMMY_b2</item>
+        <item>@drawable/APKTOOL_DUMMY_b4</item>
+        <item>@drawable/APKTOOL_DUMMY_b6</item>
+        <item>@drawable/APKTOOL_DUMMY_c1</item>
+    </array>
+    <array name="2130903055">
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@drawable/APKTOOL_DUMMY_107</item>
+        <item>@drawable/APKTOOL_DUMMY_109</item>
+        <item>@drawable/APKTOOL_DUMMY_10d</item>
+        <item>@drawable/APKTOOL_DUMMY_10b</item>
+        <item>@drawable/APKTOOL_DUMMY_b1</item>
+        <item>@drawable/APKTOOL_DUMMY_b3</item>
+        <item>@drawable/APKTOOL_DUMMY_b5</item>
+        <item>@drawable/APKTOOL_DUMMY_d0</item>
+        <item>@color/2131099989</item>
+    </array>
+    <array name="2130903056">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_111</item>
+        <item>@drawable/APKTOOL_DUMMY_112</item>
+        <item>@drawable/APKTOOL_DUMMY_114</item>
+        <item>@drawable/APKTOOL_DUMMY_113</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+    </array>
+    <array name="2130903057">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_111</item>
+        <item>@drawable/APKTOOL_DUMMY_112</item>
+        <item>@drawable/APKTOOL_DUMMY_114</item>
+        <item>@drawable/APKTOOL_DUMMY_113</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903058">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_115</item>
+        <item>@drawable/APKTOOL_DUMMY_116</item>
+        <item>@drawable/APKTOOL_DUMMY_118</item>
+        <item>@drawable/APKTOOL_DUMMY_117</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+    </array>
+    <array name="2130903059">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_115</item>
+        <item>@drawable/APKTOOL_DUMMY_116</item>
+        <item>@drawable/APKTOOL_DUMMY_118</item>
+        <item>@drawable/APKTOOL_DUMMY_117</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903060">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_11d</item>
+        <item>@drawable/APKTOOL_DUMMY_11e</item>
+        <item>@drawable/APKTOOL_DUMMY_120</item>
+        <item>@drawable/APKTOOL_DUMMY_11f</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+    </array>
+    <array name="2130903061">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_11d</item>
+        <item>@drawable/APKTOOL_DUMMY_11e</item>
+        <item>@drawable/APKTOOL_DUMMY_120</item>
+        <item>@drawable/APKTOOL_DUMMY_11f</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903062">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_119</item>
+        <item>@drawable/APKTOOL_DUMMY_11a</item>
+        <item>@drawable/APKTOOL_DUMMY_11c</item>
+        <item>@drawable/APKTOOL_DUMMY_11b</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903063">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_14e</item>
+        <item>@drawable/APKTOOL_DUMMY_14f</item>
+        <item>@drawable/APKTOOL_DUMMY_151</item>
+        <item>@drawable/APKTOOL_DUMMY_150</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903064">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_121</item>
+        <item>@drawable/APKTOOL_DUMMY_122</item>
+        <item>@drawable/APKTOOL_DUMMY_124</item>
+        <item>@drawable/APKTOOL_DUMMY_123</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+    </array>
+    <array name="2130903065">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_121</item>
+        <item>@drawable/APKTOOL_DUMMY_122</item>
+        <item>@drawable/APKTOOL_DUMMY_124</item>
+        <item>@drawable/APKTOOL_DUMMY_123</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903066">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_125</item>
+        <item>@drawable/APKTOOL_DUMMY_126</item>
+        <item>@drawable/APKTOOL_DUMMY_128</item>
+        <item>@drawable/APKTOOL_DUMMY_127</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+    </array>
+    <array name="2130903067">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_125</item>
+        <item>@drawable/APKTOOL_DUMMY_126</item>
+        <item>@drawable/APKTOOL_DUMMY_128</item>
+        <item>@drawable/APKTOOL_DUMMY_127</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903068">
+        <item>@drawable/APKTOOL_DUMMY_162</item>
+        <item>@drawable/APKTOOL_DUMMY_156</item>
+        <item>@drawable/APKTOOL_DUMMY_157</item>
+        <item>@drawable/APKTOOL_DUMMY_159</item>
+        <item>@drawable/APKTOOL_DUMMY_158</item>
+        <item>@drawable/APKTOOL_DUMMY_13e</item>
+        <item>@drawable/APKTOOL_DUMMY_13f</item>
+        <item>@drawable/APKTOOL_DUMMY_140</item>
+        <item>@drawable/APKTOOL_DUMMY_141</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <string-array name="2130903069">
+        <item>@string/2131757244</item>
+        <item>@string/2131757234</item>
+        <item>@string/2131757236</item>
+        <item>@string/2131757242</item>
+        <item>@string/2131757240</item>
+        <item>@string/2131757228</item>
+        <item>@string/2131757230</item>
+        <item>@string/2131757232</item>
+        <item>@string/2131757238</item>
+        <item>@string/2131756977</item>
+    </string-array>
+    <string-array name="2130903070">
+        <item>@string/2131757245</item>
+        <item>@string/2131757235</item>
+        <item>@string/2131757237</item>
+        <item>@string/2131757243</item>
+        <item>@string/2131757241</item>
+        <item>@string/2131757229</item>
+        <item>@string/2131757231</item>
+        <item>@string/2131757233</item>
+        <item>@string/2131757239</item>
+        <item>@string/2131756977</item>
+    </string-array>
+    <string-array name="2130903071">
+        <item>No</item>
+        <item>Unknown</item>
+        <item>Yes</item>
+    </string-array>
+    <string-array name="2130903072">
+        <item>No</item>
+        <item>Unknown</item>
+        <item>Yes</item>
+    </string-array>
+    <string-array name="2130903073">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="2130903074">
+        <item>@string/2131756741</item>
+        <item>@string/2131756737</item>
+        <item>@string/2131756739</item>
+        <item>@string/2131756740</item>
+        <item>@string/2131756738</item>
+        <item>@string/2131756734</item>
+        <item>@string/2131756735</item>
+        <item>@string/2131756736</item>
+        <item>@string/2131755523</item>
+        <item>@string/2131756978</item>
+    </string-array>
+    <string-array name="2130903075">
+        <item>@string/2131756741</item>
+        <item>@string/2131756737</item>
+        <item>@string/2131756739</item>
+        <item>@string/2131756740</item>
+        <item>@string/2131756738</item>
+        <item>@string/2131756734</item>
+        <item>@string/2131756735</item>
+        <item>@string/2131756736</item>
+        <item>@string/2131755524</item>
+        <item>@string/2131756978</item>
+    </string-array>
+    <string-array name="2130903076">
+        <item>@string/2131755935</item>
+        <item>@string/2131755940</item>
+        <item>@string/2131755940</item>
+        <item>@string/2131755940</item>
+        <item>@string/2131755940</item>
+        <item>@string/2131755933</item>
+        <item>@string/2131755933</item>
+        <item>@string/2131755933</item>
+        <item>@string/2131755935</item>
+        <item>@string/2131756977</item>
+    </string-array>
+    <array name="2130903077">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_286</item>
+        <item>@drawable/APKTOOL_DUMMY_287</item>
+        <item>@drawable/APKTOOL_DUMMY_289</item>
+        <item>@drawable/APKTOOL_DUMMY_288</item>
+        <item>@drawable/APKTOOL_DUMMY_33f</item>
+        <item>@drawable/APKTOOL_DUMMY_340</item>
+        <item>@drawable/APKTOOL_DUMMY_341</item>
+        <item>@drawable/APKTOOL_DUMMY_347</item>
+    </array>
+    <array name="2130903078">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903079">
+        <item>@drawable/APKTOOL_DUMMY_262</item>
+        <item>@drawable/APKTOOL_DUMMY_268</item>
+        <item>@drawable/APKTOOL_DUMMY_269</item>
+        <item>@drawable/APKTOOL_DUMMY_26b</item>
+        <item>@drawable/APKTOOL_DUMMY_26a</item>
+        <item>@drawable/APKTOOL_DUMMY_342</item>
+        <item>@drawable/APKTOOL_DUMMY_343</item>
+        <item>@drawable/APKTOOL_DUMMY_344</item>
+        <item>@drawable/APKTOOL_DUMMY_25f</item>
+    </array>
+    <array name="2130903080">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_28a</item>
+        <item>@drawable/APKTOOL_DUMMY_28b</item>
+        <item>@drawable/APKTOOL_DUMMY_28d</item>
+        <item>@drawable/APKTOOL_DUMMY_28c</item>
+        <item>@drawable/APKTOOL_DUMMY_33f</item>
+        <item>@drawable/APKTOOL_DUMMY_340</item>
+        <item>@drawable/APKTOOL_DUMMY_341</item>
+        <item>@drawable/APKTOOL_DUMMY_347</item>
+    </array>
+    <array name="2130903081">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903082">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_292</item>
+        <item>@drawable/APKTOOL_DUMMY_293</item>
+        <item>@drawable/APKTOOL_DUMMY_295</item>
+        <item>@drawable/APKTOOL_DUMMY_294</item>
+        <item>@drawable/APKTOOL_DUMMY_33f</item>
+        <item>@drawable/APKTOOL_DUMMY_340</item>
+        <item>@drawable/APKTOOL_DUMMY_341</item>
+        <item>@drawable/APKTOOL_DUMMY_347</item>
+    </array>
+    <array name="2130903083">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903084">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903085">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903086">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903087">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_296</item>
+        <item>@drawable/APKTOOL_DUMMY_297</item>
+        <item>@drawable/APKTOOL_DUMMY_299</item>
+        <item>@drawable/APKTOOL_DUMMY_298</item>
+        <item>@drawable/APKTOOL_DUMMY_33f</item>
+        <item>@drawable/APKTOOL_DUMMY_340</item>
+        <item>@drawable/APKTOOL_DUMMY_341</item>
+        <item>@drawable/APKTOOL_DUMMY_347</item>
+    </array>
+    <array name="2130903088">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <array name="2130903089">
+        <item>@drawable/APKTOOL_DUMMY_348</item>
+        <item>@drawable/APKTOOL_DUMMY_29a</item>
+        <item>@drawable/APKTOOL_DUMMY_29b</item>
+        <item>@drawable/APKTOOL_DUMMY_29d</item>
+        <item>@drawable/APKTOOL_DUMMY_29c</item>
+        <item>@drawable/APKTOOL_DUMMY_33f</item>
+        <item>@drawable/APKTOOL_DUMMY_340</item>
+        <item>@drawable/APKTOOL_DUMMY_341</item>
+        <item>@drawable/APKTOOL_DUMMY_347</item>
+    </array>
+    <array name="2130903090">
+        <item>@drawable/2131231608</item>
+        <item>@drawable/APKTOOL_DUMMY_373</item>
+        <item>@drawable/APKTOOL_DUMMY_376</item>
+        <item>@drawable/APKTOOL_DUMMY_377</item>
+        <item>@drawable/APKTOOL_DUMMY_374</item>
+        <item>@drawable/2131231600</item>
+        <item>@drawable/2131231601</item>
+        <item>@drawable/2131231602</item>
+        <item>@drawable/2131231605</item>
+        <item>@drawable/APKTOOL_DUMMY_37b</item>
+    </array>
+    <string-array name="2130903091">
+        <item>@string/2131757466</item>
+        <item>@string/2131757255</item>
+        <item>@string/2131757256</item>
+        <item>@string/2131757259</item>
+        <item>@string/2131757258</item>
+        <item>@string/2131756743</item>
+        <item>@string/2131756744</item>
+        <item>@string/2131756745</item>
+        <item>@string/2131757257</item>
+        <item>@string/2131756977</item>
+    </string-array>
+    <string-array name="2130903092">
+        <item>@string/2131757262</item>
+        <item>@string/2131757255</item>
+        <item>@string/2131757256</item>
+        <item>@string/2131757259</item>
+        <item>@string/2131757258</item>
+        <item>@string/2131756743</item>
+        <item>@string/2131756744</item>
+        <item>@string/2131756745</item>
+        <item>@string/2131757257</item>
+        <item>@string/2131756977</item>
+    </string-array>
+    <string-array name="2130903093">
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+        <item>y</item>
+    </string-array>
+    <string-array name="2130903094">
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+        <item>n</item>
+    </string-array>
+    <string-array name="2130903095">
+        <item>Substantial</item>
+        <item>Most</item>
+        <item>Some</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="2130903096">
+        <item>Substantial</item>
+        <item>Most</item>
+        <item>Some</item>
+        <item>No</item>
+    </string-array>
+    <array name="2130903097">
+        <item>@color/2131099701</item>
+        <item>@color/2131099913</item>
+        <item>@color/2131099946</item>
+        <item>@color/2131099825</item>
+        <item>@color/2131099895</item>
+        <item>@color/2131099947</item>
+        <item>@color/2131099760</item>
+        <item>@color/2131099763</item>
+        <item>@color/2131099761</item>
+        <item>@color/2131099762</item>
+        <item>@color/2131099764</item>
+        <item>@color/2131100004</item>
+        <item>@color/2131099823</item>
+        <item>@color/2131099968</item>
+        <item>@color/2131099960</item>
+    </array>
+    <string-array name="2130903098">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="2130903099">
+        <item></item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="2130903100">
+        <item>Food &amp; Drink</item>
+        <item>Activities</item>
+        <item>Outdoors &amp; Recreation</item>
+        <item>Points of Interest</item>
+    </string-array>
+    <string-array name="2130903101">
+        <item>@string/2131757106</item>
+        <item>@string/2131757107</item>
+        <item>@string/2131755276</item>
+        <item>@string/2131755274</item>
+        <item>@string/2131755275</item>
+        <item>@string/2131755277</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756070</item>
+    </string-array>
+    <string-array name="2130903102">
+        <item>@string/2131757106</item>
+        <item>@string/2131757109</item>
+        <item>@string/2131755280</item>
+        <item>@string/2131755278</item>
+        <item>@string/2131755279</item>
+        <item>@string/2131755281</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756071</item>
+    </string-array>
+    <string-array name="2130903103">
+        <item>@string/2131757106</item>
+        <item>@string/2131757110</item>
+        <item>@string/2131755284</item>
+        <item>@string/2131755282</item>
+        <item>@string/2131755283</item>
+        <item>@string/2131755285</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756072</item>
+    </string-array>
+    <string-array name="2130903104">
+        <item>@string/2131757106</item>
+        <item>@string/2131757111</item>
+        <item>@string/2131755288</item>
+        <item>@string/2131755286</item>
+        <item>@string/2131755287</item>
+        <item>@string/2131755289</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756073</item>
+    </string-array>
+    <string-array name="2130903105">
+        <item>@string/2131757106</item>
+        <item>@string/2131757112</item>
+        <item>@string/2131755292</item>
+        <item>@string/2131755290</item>
+        <item>@string/2131755291</item>
+        <item>@string/2131755293</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756074</item>
+    </string-array>
+    <string-array name="2130903106">
+        <item>@string/2131757113</item>
+        <item>@string/2131757107</item>
+        <item>@string/2131756401</item>
+        <item>@string/2131756399</item>
+        <item>@string/2131756400</item>
+        <item>@string/2131756402</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756070</item>
+    </string-array>
+    <string-array name="2130903107">
+        <item>@string/2131757113</item>
+        <item>@string/2131757111</item>
+        <item>@string/2131756405</item>
+        <item>@string/2131756403</item>
+        <item>@string/2131756404</item>
+        <item>@string/2131756406</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756073</item>
+    </string-array>
+    <string-array name="2130903108">
+        <item>@string/2131757113</item>
+        <item>@string/2131757112</item>
+        <item>@string/2131756409</item>
+        <item>@string/2131756407</item>
+        <item>@string/2131756408</item>
+        <item>@string/2131756410</item>
+        <item>@string/2131755435</item>
+        <item>@string/2131756074</item>
+    </string-array>
+    <string-array name="2130903109">
+        <item>@string/2131757114</item>
+        <item>@string/2131757107</item>
+        <item>@string/2131756599</item>
+        <item>@string/2131756597</item>
+        <item>@string/2131756598</item>
+        <item>@string/2131756600</item>
+        <item>@string/2131755436</item>
+        <item>@string/2131756070</item>
+    </string-array>
+    <string-array name="2130903110">
+        <item>@string/2131757114</item>
+        <item>@string/2131757109</item>
+        <item>@string/2131756603</item>
+        <item>@string/2131756601</item>
+        <item>@string/2131756602</item>
+        <item>@string/2131756604</item>
+        <item>@string/2131755436</item>
+        <item>@string/2131756071</item>
+    </string-array>
+    <string-array name="2130903111">
+        <item>@string/2131757114</item>
+        <item>@string/2131757110</item>
+        <item>@string/2131756607</item>
+        <item>@string/2131756605</item>
+        <item>@string/2131756606</item>
+        <item>@string/2131756608</item>
+        <item>@string/2131755436</item>
+        <item>@string/2131756072</item>
+    </string-array>
+    <string-array name="2130903112">
+        <item>@string/2131757114</item>
+        <item>@string/2131757111</item>
+        <item>@string/2131756611</item>
+        <item>@string/2131756609</item>
+        <item>@string/2131756610</item>
+        <item>@string/2131756612</item>
+        <item>@string/2131755436</item>
+        <item>@string/2131756073</item>
+    </string-array>
+    <string-array name="2130903113">
+        <item>@string/2131757114</item>
+        <item>@string/2131757112</item>
+        <item>@string/2131756615</item>
+        <item>@string/2131756613</item>
+        <item>@string/2131756614</item>
+        <item>@string/2131756616</item>
+        <item>@string/2131755436</item>
+        <item>@string/2131756074</item>
+    </string-array>
+    <string-array name="2130903114">
+        <item>DEV</item>
+        <item>INT</item>
+        <item>QA</item>
+        <item>CT</item>
+    </string-array>
+    <string-array name="2130903115">
+        <item>@string/2131757109</item>
+        <item>@string/2131757110</item>
+        <item>@string/2131757112</item>
+        <item>@string/2131757111</item>
+    </string-array>
+    <string-array name="2130903116">
+        <item>@string/2131757112</item>
+        <item>@string/2131757107</item>
+        <item>@string/2131757111</item>
+    </string-array>
+    <string-array name="2130903117">
+        <item>@string/2131757109</item>
+        <item>@string/2131757110</item>
+        <item>@string/2131757112</item>
+        <item>@string/2131757107</item>
+        <item>@string/2131757111</item>
+    </string-array>
+    <integer-array name="2130903119">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="2130903120">
+        <item>0</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+    <string-array name="2130903121">
+        <item>Combined Logon</item>
+        <item>Seperate Logon</item>
+    </string-array>
+    <string-array name="2130903122">
+        <item>VIN</item>
+        <item>Front</item>
+        <item>Rear</item>
+        <item>Rear</item>
+        <item>Front</item>
+        <item>Center</item>
+        <item>Left Angle</item>
+        <item>Right Angle</item>
+        <item>Odometer</item>
+        <item>Registration</item>
+    </string-array>
+    <string-array name="2130903123">
+        <item>VIN</item>
+        <item>Driver Side</item>
+        <item>Driver Side</item>
+        <item>Passenger Side</item>
+        <item>Passenger Side</item>
+        <item>Damage</item>
+        <item>Damage</item>
+        <item>Damage</item>
+        <item>Odometer</item>
+        <item>Registration</item>
+    </string-array>
+    <string-array name="2130903124">
+        <item>VIN</item>
+        <item>VEHICLE</item>
+        <item>VEHICLE</item>
+        <item>VEHICLE</item>
+        <item>VEHICLE</item>
+        <item>DAMAGE</item>
+        <item>DAMAGE</item>
+        <item>DAMAGE</item>
+        <item>INFORMATION</item>
+        <item>INFORMATION</item>
+    </string-array>
+    <string-array name="2130903125">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="2130903126">
+        <item></item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="2130903127">
+        <item>Service</item>
+        <item>Sales</item>
+        <item>Claims</item>
+    </string-array>
+    <string-array name="2130903128">
+        <item>@string/2131756870</item>
+        <item>@string/2131756868</item>
+        <item>@string/2131756869</item>
+    </string-array>
+    <string-array name="2130903129">
+        <item>ON</item>
+        <item>AUTO</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="2130903130">
+        <item>Email Address</item>
+        <item>User ID</item>
+        <item>Policy Number</item>
+    </string-array>
+    <string-array name="2130903131">
+        <item></item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="2130903132">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+    </string-array>
+    <string-array name="2130903133">
+        <item>Photo Only</item>
+        <item>Photo And Metadata</item>
+        <item>flow3</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_4e">false</item>
+</resources>

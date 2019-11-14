@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296842" layout_width="fill_parent" layout_height="fill_parent" baselineAligned="false" divider="?android:dividerHorizontal" showDividers="middle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297934" layout_width="300.0dip" layout_height="fill_parent" />
+    <FrameLayout id="@id/2131297933" layout_width="0.0dip" layout_height="fill_parent" layout_weight="3.0" />
+</LinearLayout>

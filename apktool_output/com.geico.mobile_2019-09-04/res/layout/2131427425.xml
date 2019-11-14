@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+            <Spinner layout_gravity="bottom" id="@id/2131298242" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <android.support.v7.widget.CardView id="@id/2131298240" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true">
+                <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                    <TextView textAppearance="@style/2131820994" id="@id/2131298672" padding="@dimen/2131165265" layout_width="wrap_content" layout_height="wrap_content" text="Scheduled Payments" />
+                    <ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true">
+                        <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131298241" layout_width="fill_parent" layout_height="wrap_content" divider="@null" />
+                    </ScrollView>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </RelativeLayout>
+        <LinearLayout orientation="vertical" id="@id/2131297178" padding="@dimen/2131165265" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" text="You may change your monthly payment date" />
+            <TextView textAppearance="@style/2131820754" paddingTop="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="You have the option to select a different day to pay your bill monthly. This gives you the control you need to easily make your payments. Available payment plans will be displayed with updated due dates and amounts after choosing your new payment day." />
+            <TextView textAppearance="@style/2131820754" paddingTop="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="New Day of the Month:" />
+            <Spinner id="@id/2131296925" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

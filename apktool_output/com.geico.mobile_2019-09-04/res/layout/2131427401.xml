@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968674="10.0dip" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="fill_parent" layout_margin="16.0dip">
+        <TextView textAppearance="@style/2131820995" id="@id/2131297600" layout_width="fill_parent" layout_height="wrap_content" text="Your policy is pending cancellation" drawableLeft="@drawable/2131230850" drawablePadding="8.0dip" 2130968852="2131298157" 2130968861="2131298157" />
+        <TextView textColor="#ff000000" id="@id/2131296574" paddingLeft="32.0dip" layout_width="0.0dip" layout_height="wrap_content" 2130968833="2131298157" 2130968848="0.0" 2130968852="2131298157" 2130968855="@id/2131297992" 2130968860="@id/2131297600" style="@style/2131820754" />
+        <Button textColor="#ffffffff" id="@id/2131297992" layout_width="wrap_content" layout_height="wrap_content" text="PAY NOW" 2130968833="2131298157" 2130968848="1.0" 2130968856="2131298157" 2130968860="@id/2131297600" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v7.widget.CardView>

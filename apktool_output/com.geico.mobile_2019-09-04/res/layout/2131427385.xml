@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298123" background="#80000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="20.0dip" textStyle="bold" textColor="#ffffffff" gravity="center" id="@id/2131298127" background="#80ef7014" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Claims Photo" />
+    <RelativeLayout gravity="center" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout gravity="center" orientation="vertical" id="@id/2131298122" layout_width="wrap_content" layout_height="wrap_content">
+            <LinearLayout gravity="center_horizontal" orientation="horizontal" id="@id/2131298118" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip">
+                <ImageView id="@id/2131298121" layout_width="275.0dip" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_37b" scaleType="centerInside" layout_marginStart="16.0dip" />
+                <LinearLayout layout_gravity="center_vertical" orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginRight="30.0dip">
+                    <com.cccis.sdk.android.common.view.BoldTextView textSize="20.0sp" textStyle="bold" textColor="#ffffffff" id="@id/2131298992" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="VEHICLE PHOTOS" />
+                    <com.cccis.sdk.android.common.view.RegularTextView textSize="16.0dip" textColor="#ffffffff" id="@id/2131298120" layout_width="wrap_content" layout_height="wrap_content" text="Stand at the corner depicted and capture the entire vehicle." />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView textSize="18.0sp" textStyle="bold" textColor="#ffffffff" layout_gravity="center_horizontal" id="@id/2131298950" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Tap anywhere to close." />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

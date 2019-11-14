@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+            <fragment id="@id/2131298923" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceTabsFragment" />
+            <LinearLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false" weightSum="2.0">
+                <fragment id="@id/2131299296" layout_width="0.0dip" layout_height="wrap_content" layout_margin="4.0dip" layout_weight="1.0" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceWhatIsWrongServiceTypesFragment" />
+                <fragment id="@id/2131299295" layout_width="0.0dip" layout_height="wrap_content" layout_margin="4.0dip" layout_weight="1.0" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceWhatIsWrongDetailsFragment" />
+            </LinearLayout>
+        </LinearLayout>
+        <View background="@drawable/APKTOOL_DUMMY_c" layout_width="fill_parent" layout_height="8.0dip" />
+        <fragment id="@id/2131297488" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceRoadsideAssistanceFooterButtonsFragment" />
+    </LinearLayout>
+</ScrollView>

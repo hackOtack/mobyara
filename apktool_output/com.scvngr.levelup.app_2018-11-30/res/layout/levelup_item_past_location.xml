@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="@dimen/levelup_card_item_past_location_width" android:layout_height="@dimen/levelup_card_item_past_location_height" android:layout_marginLeft="@dimen/levelup_card_margin_horizontal_small" android:layout_marginTop="@dimen/levelup_location_card_margin_top" android:layout_marginStart="@dimen/levelup_card_margin_horizontal_small" style="@style/Card"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/levelup_item_past_location_image" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="@color/overlay1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:id="@id/levelup_item_past_location_name" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_item_past_location_item_name" />
+    <View android:id="@id/levelup_item_past_location_click" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+</android.support.v7.widget.CardView>

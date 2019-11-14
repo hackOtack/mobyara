@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout id="@id/2131296979" fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131428174" />
+    <include layout="@layout/2131427571" />
+    <include layout="@layout/2131427572" />
+    <android.support.v4.widget.NestedScrollView id="@id/2131296980" layout_width="fill_parent" layout_height="fill_parent" fillViewport="true" 2130968825="@string/2131755134">
+        <FrameLayout id="@id/2131296842" layout_width="fill_parent" layout_height="wrap_content" 2130968825="@string/2131755134" />
+    </android.support.v4.widget.NestedScrollView>
+    <android.support.design.widget.FloatingActionButton layout_gravity="end|bottom|center" id="@id/2131296957" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/2131231267" scaleType="center" layout_alignParentRight="true" layout_alignParentBottom="true" layout_alignParentEnd="true" 2130968638="@color/2131099867" />
+    <include layout_gravity="bottom" id="@id/2131297106" visibility="gone" layout_width="fill_parent" layout_height="48.0dip" layout_alignParentLeft="true" layout_alignParentRight="true" layout_alignParentBottom="true" layout="@layout/2131427570" />
+    <android.support.design.widget.BottomNavigationView layout_gravity="bottom" id="@id/2131298259" background="?android:windowBackground" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true" layout_alignParentStart="true" layout_alignParentEnd="true" 2130968808="@drawable/2131231152" 2130968813="@drawable/2131231152" 2130968910="@menu/2131492873" />
+</android.support.design.widget.CoordinatorLayout>

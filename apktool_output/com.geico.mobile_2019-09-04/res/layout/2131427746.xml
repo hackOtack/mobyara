@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297455" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297454" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820838" />
+    <TextView id="@id/2131297460" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820754" />
+    <LinearLayout orientation="horizontal" id="@id/2131297450" layout_width="wrap_content" layout_height="wrap_content">
+        <ImageView id="@id/2131297448" layout_width="16.0dip" layout_height="16.0dip" layout_margin="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffffffff" />
+        <ImageView id="@id/2131297451" layout_width="16.0dip" layout_height="16.0dip" layout_margin="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffffffff" />
+        <ImageView id="@id/2131297452" layout_width="16.0dip" layout_height="16.0dip" layout_margin="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffffffff" />
+        <ImageView id="@id/2131297449" layout_width="16.0dip" layout_height="16.0dip" layout_margin="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffffffff" />
+        <ImageView id="@id/2131297447" layout_width="16.0dip" layout_height="16.0dip" layout_margin="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffffffff" />
+    </LinearLayout>
+    <TextView textColor="#ffb6091a" id="@id/2131297461" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820763" />
+    <LinearLayout orientation="horizontal" id="@id/2131297444" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip">
+        <TextView id="@id/2131297463" visibility="gone" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" style="@style/2131820997" />
+        <TextView id="@id/2131297462" visibility="gone" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" style="@style/2131820997" />
+    </LinearLayout>
+</LinearLayout>

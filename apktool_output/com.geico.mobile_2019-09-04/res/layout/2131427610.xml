@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296802" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="0.5dip" weightSum="1.5" layout_marginStart="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820758" id="@id/2131296803" padding="8.0dip" layout_width="0.0dip" layout_height="wrap_content" text="ETA:" layout_weight="0.5" />
+    <TextView textAppearance="@style/2131820758" id="@id/2131296523" padding="8.0dip" layout_width="0.0dip" layout_height="wrap_content" maxLines="1" layout_weight="1.0" layout_marginStart="@dimen/2131165336" />
+</LinearLayout>

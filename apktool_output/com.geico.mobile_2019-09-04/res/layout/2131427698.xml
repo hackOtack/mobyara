@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout layout_gravity="center" tag="layout/explore_game_exit_modal_0" background="@drawable/2131231257" paddingTop="16.0dip" layout_width="wrap_content" layout_height="wrap_content" minWidth="300.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821021" textColor="#ffffffff" gravity="center_horizontal" id="@id/2131297360" paddingBottom="16.0dip" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" maxWidth="260.0dip" text="Are you sure you want to leave GEICO Explore?" paddingStart="16.0dip" paddingEnd="16.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" />
+    <View id="@id/2131298729" background="#ffffffff" layout_width="0.0dip" layout_height="1.0dip" 2130968834="@id/2131298844" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297360" />
+    <Button textStyle="bold" textColor="@drawable/2131231730" id="@id/2131298844" tag="binding_1" background="#00000000" layout_width="0.0dip" layout_height="wrap_content" text="Stay" textAllCaps="false" 2130968833="2131298157" 2130968849="2131298818" 2130968852="2131298157" 2130968855="@id/2131297779" />
+    <View id="@id/2131299225" background="#ffffffff" layout_width="1.0dip" layout_height="0.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131298729" />
+    <Button textStyle="bold" textColor="@drawable/2131231730" id="@id/2131297779" tag="binding_2" background="#00000000" layout_width="0.0dip" layout_height="wrap_content" text="Leave" textAllCaps="false" 2130968833="2131298157" 2130968853="@id/2131298844" 2130968856="2131298157" />
+</android.support.constraint.ConstraintLayout>

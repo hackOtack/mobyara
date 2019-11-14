@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <stroke android:width="@dimen/levelup_tip_selector_seekbar_thumb_width" android:color="@color/levelup_seekbar_thumb_border_color" />
+            <solid android:color="@android:color/white" />
+            <size android:height="@dimen/levelup_tip_selector_seekbar_thumb_diameter" android:width="@dimen/levelup_tip_selector_seekbar_thumb_diameter" />
+        </shape>
+    </item>
+</layer-list>

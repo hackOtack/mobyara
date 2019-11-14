@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.scvngr.levelup.ui.view.RecyclingViewFlipper android:id="@id/levelup_app_slideshow" android:layout_width="fill_parent" android:layout_height="fill_parent" android:inAnimation="@anim/fade_in_slow" android:outAnimation="@anim/fade_out_slow" android:flipInterval="5000"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/slideshow_slide" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/slideshow_slide" />
+</com.scvngr.levelup.ui.view.RecyclingViewFlipper>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297008" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131297009" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_toLeftOf="@id/2131297097" layout_alignParentLeft="true" contentDescription="Dealership Name Text" layout_alignParentStart="true" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131297097" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentTop="true" layout_alignParentRight="true" contentDescription="Distance To Dealership Text" layout_alignParentEnd="true" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297006" paddingTop="2.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297009" layout_alignParentLeft="true" contentDescription="Dealership Address Text" layout_alignParentStart="true" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297007" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297006" layout_alignParentLeft="true" contentDescription="Dealership City State Text" layout_alignParentStart="true" />
+    <ImageView id="@id/2131298470" layout_width="16.0dip" layout_height="16.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffd3d6d7" layout_below="@id/2131297007" layout_alignParentLeft="true" contentDescription="" layout_alignParentStart="true" />
+    <ImageView id="@id/2131298471" layout_width="16.0dip" layout_height="16.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffd3d6d7" layout_toRightOf="@id/2131298470" layout_below="@id/2131297007" contentDescription="" />
+    <ImageView id="@id/2131298472" layout_width="16.0dip" layout_height="16.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffd3d6d7" layout_toRightOf="@id/2131298471" layout_below="@id/2131297007" contentDescription="" />
+    <ImageView id="@id/2131298473" layout_width="16.0dip" layout_height="16.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffd3d6d7" layout_toRightOf="@id/2131298472" layout_below="@id/2131297007" contentDescription="" />
+    <ImageView id="@id/2131298474" layout_width="16.0dip" layout_height="16.0dip" layout_marginBottom="4.0dip" src="@drawable/APKTOOL_DUMMY_21a" tint="#ffd3d6d7" layout_toRightOf="@id/2131298473" layout_below="@id/2131297007" contentDescription="" />
+</RelativeLayout>

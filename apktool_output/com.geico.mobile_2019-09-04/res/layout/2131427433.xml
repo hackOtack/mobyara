@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout background="#ff3773ca" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" minHeight="48.0dip" layout_alignParentBottom="true" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.constraint.ConstraintLayout orientation="horizontal" background="@drawable/2131231080" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip">
+        <EditText textSize="@dimen/2131165632" textColorHint="#ff757374" layout_gravity="center" id="@id/2131296706" background="@null" paddingTop="4.0dip" paddingBottom="4.0dip" layout_width="0.0dip" layout_height="48.0dip" hint="@string/2131755308" maxLines="6" inputType="textMultiLine" paddingStart="8.0dip" paddingEnd="8.0dip" labelFor="@id/2131296706" 2130968840="@id/2131298721" 2130968858="2131298157" 2130968861="2131298157" />
+        <Button enabled="false" textColor="@drawable/2131231085" layout_gravity="bottom" id="@id/2131298721" focusable="true" clickable="true" layout_width="64.0dip" layout_height="48.0dip" text="Send" textAllCaps="true" 2130968839="2131298157" 2130968861="2131298157" style="@style/2131821226" />
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="horizontal" layout_width="fill_parent" layout_height="72.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_gravity="center" visibility="invisible" layout_width="24.0dip" layout_height="24.0dip" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_alignParentLeft="true" layout_centerVertical="true" layout_alignParentStart="true" layout="@layout/2131428072" />
+    <View id="@id/2131298291" layout_width="0.0dip" layout_height="0.0dip" layout_centerVertical="true" />
+    <TextView textSize="16.0sp" textColor="#ff212121" ellipsize="end" id="@id/2131298286" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" lines="1" singleLine="true" layout_toRightOf="@id/2131298288" layout_above="@id/2131298291" layout_centerVertical="true" layout_toEndOf="@id/2131298288" />
+    <TextView textSize="14.0sp" textColor="#ff757575" ellipsize="end" id="@id/2131298287" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" lines="1" singleLine="true" layout_toRightOf="@id/2131298288" layout_below="@id/2131298291" layout_toEndOf="@id/2131298288" />
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131820547" parent="@style/2131821002" />
+    <style name="2131820611" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu" />
+    <style name="2131820621" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
+    <style name="2131820631" parent="@style/2131820661" />
+    <style name="2131820638" parent="@style/2131820662" />
+    <style name="2131820688" parent="@android:style/Widget.Material.Button.Borderless.Colored" />
+    <style name="2131820690" parent="@android:style/Widget.Material.Button.Colored" />
+    <style name="2131820721" parent="@android:style/Widget.Material.RatingBar.Indicator" />
+    <style name="2131820722" parent="@android:style/Widget.Material.RatingBar.Small" />
+    <style name="2131820728" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="2131820766" parent="@style/2131820580">
+        <item name="2130968673">?android:colorBackgroundFloating</item>
+    </style>
+    <style name="2131820937" parent="@style/2131820942">
+        <item name="2130968638">@color/2131099939</item>
+    </style>
+    <style name="2131820939" parent="@style/2131820940">
+        <item name="android:textAppearance">@style/2131820997</item>
+        <item name="android:layout_marginRight">@dimen/2131165344</item>
+    </style>
+    <style name="2131820940" parent="@style/2131820937">
+        <item name="android:textColor">@color/2131099940</item>
+        <item name="2130968638">@color/2131100004</item>
+    </style>
+    <style name="2131820980" parent="@style/2131820986" />
+    <style name="2131821002" parent="@style/2131821003">
+        <item name="2130968638">@color/2131099984</item>
+    </style>
+    <style name="2131820661" parent="@style/2131820659">
+        <item name="2130968586">?android:actionBarItemBackground</item>
+        <item name="2130968599">?android:actionMenuTextAppearance</item>
+        <item name="2130968600">?android:actionMenuTextColor</item>
+        <item name="2130968718">@drawable/2131230764</item>
+        <item name="2130968954">?android:ratingBarStyleIndicator</item>
+        <item name="2130968955">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="2131820662" parent="@style/2131820660">
+        <item name="2130968586">?android:actionBarItemBackground</item>
+        <item name="2130968599">?android:actionMenuTextAppearance</item>
+        <item name="2130968600">?android:actionMenuTextColor</item>
+        <item name="2130968718">@drawable/2131230764</item>
+        <item name="2130968954">?android:ratingBarStyleIndicator</item>
+        <item name="2130968955">?android:ratingBarStyleSmall</item>
+    </style>
+</resources>

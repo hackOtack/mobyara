@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298016" padding="16.0dip" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+    <Spinner id="@id/2131298023" layout_width="fill_parent" layout_height="wrap_content" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296318" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Name on Account" />
+    <Spinner id="@id/2131296319" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="16.0dip" />
+    <android.support.design.widget.TextInputLayout id="@id/2131298111" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+        <EditText id="@id/2131298112" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" hint="Name" inputType="textNoSuggestions" />
+    </android.support.design.widget.TextInputLayout>
+    <LinearLayout orientation="vertical" id="@id/2131296482" layout_width="fill_parent" layout_height="fill_parent" />
+    <android.support.design.widget.TextInputLayout id="@id/2131298637" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+        <EditText id="@id/2131298638" layout_width="fill_parent" layout_height="wrap_content" hint="Routing Number" maxLines="1" maxLength="9" inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+    <android.support.design.widget.TextInputLayout id="@id/2131296323" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+        <EditText id="@id/2131296351" layout_width="fill_parent" layout_height="wrap_content" hint="Account Number" maxLines="1" maxLength="21" inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+    <include id="@id/2131296668" layout="@layout/2131427481" />
+    <TableLayout id="@id/2131297361" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip">
+        <TableRow>
+            <TextView textAppearance="@style/2131820754" id="@id/2131297362" layout_width="0.0dip" layout_height="wrap_content" text="Expiration Month" layout_weight="1.0" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297364" layout_width="0.0dip" layout_height="wrap_content" text="Expiration Year" layout_weight="1.0" />
+        </TableRow>
+        <TableRow>
+            <Spinner id="@id/2131297363" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="4.0dip" layout_weight="1.0" />
+            <Spinner id="@id/2131297365" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="4.0dip" layout_weight="1.0" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

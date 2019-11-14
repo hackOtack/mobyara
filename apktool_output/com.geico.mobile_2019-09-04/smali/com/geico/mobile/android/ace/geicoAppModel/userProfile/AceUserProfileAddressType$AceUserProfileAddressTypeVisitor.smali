@@ -1,0 +1,63 @@
+.class public interface abstract Lcom/geico/mobile/android/ace/geicoAppModel/userProfile/AceUserProfileAddressType$AceUserProfileAddressTypeVisitor;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/ɕ;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/geico/mobile/android/ace/geicoAppModel/userProfile/AceUserProfileAddressType;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "AceUserProfileAddressTypeVisitor"
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<I:",
+        "Ljava/lang/Object;",
+        "O:",
+        "Ljava/lang/Object;",
+        ">",
+        "Ljava/lang/Object;",
+        "Lo/\u0255;"
+    }
+.end annotation
+
+
+# virtual methods
+.method public abstract visitGarageAddress(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract visitSchoolAddress(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract visitUnknown(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract visitWorkAddress(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method

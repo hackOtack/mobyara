@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298913" background="#ff154995" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button layout_gravity="right" id="@id/2131296779" layout_width="wrap_content" layout_height="wrap_content" drawableRight="@drawable/APKTOOL_DUMMY_2b0" style="@style/2131821226" />
+    <LinearLayout orientation="vertical" id="@id/2131297026" visibility="gone" layout_width="fill_parent" layout_height="fill_parent">
+        <TextView textSize="18.0sp" textColor="#ffffffff" gravity="center" id="@id/2131297028" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" />
+        <TextView textSize="15.0sp" textColor="#ffffffff" gravity="center" id="@id/2131297027" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="An analyst is reviewing your response for possible improvements to our Mobile App Experience." />
+        <ImageView layout_gravity="center" id="@id/2131297548" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="0.0dip" />
+        <Button id="@id/2131296781" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="-10.0dip" text="CLOSE" style="@style/2131821001" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131298944" visibility="gone" layout_width="fill_parent" layout_height="fill_parent">
+        <TextView textSize="18.0sp" textColor="#ffffffff" gravity="center" id="@id/2131298945" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" />
+        <EditText id="@id/2131298943" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" inputType="text" imeOptions="actionDone" />
+        <Button id="@id/2131298889" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Submit" style="@style/2131821001" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131297972" visibility="gone" layout_width="fill_parent" layout_height="fill_parent">
+        <TextView textSize="18.0sp" textColor="#ffffffff" gravity="center" layout_gravity="center" id="@id/2131297975" layout_width="fill_parent" layout_height="wrap_content" drawableLeft="@drawable/APKTOOL_DUMMY_241" drawablePadding="5.0dip" />
+        <ListView orientation="vertical" id="@id/2131297974" layout_width="fill_parent" layout_height="wrap_content" layout_margin="5.0dip" />
+    </LinearLayout>
+</LinearLayout>

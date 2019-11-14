@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="horizontal" id="@id/2131299282" padding="4.0dip" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298505" padding="-10.0dip" visibility="gone" layout_width="24.0dip" layout_height="24.0dip" src="@drawable/APKTOOL_DUMMY_81" contentDescription="Welcome to GEICO Mobile." />
+    <LinearLayout orientation="vertical" id="@id/2131299281" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820996" textStyle="bold" id="@id/2131299284" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Welcome to GEICO Mobile!" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131299283" layout_width="fill_parent" layout_height="wrap_content" text="From here, you can manage just about everything with the tip of your finger." />
+    </LinearLayout>
+</LinearLayout>

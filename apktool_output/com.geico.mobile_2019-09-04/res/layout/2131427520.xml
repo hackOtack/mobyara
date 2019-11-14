@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298427" padding="10.0dip" layout_width="fill_parent" layout_height="wrap_content" text="View Your Property Cards" elevation="4.0dip" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.AppBarLayout layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.CollapsingToolbarLayout layout_width="fill_parent" layout_height="@dimen/2131165604" 2130968717="?APKTOOL_DUMMY_c9" 2130968889="APKTOOL_DUMMY_44e|APKTOOL_DUMMY_975" 2130969038="false">
+        <android.support.v7.widget.Toolbar theme="@style/2131821115" id="@id/2131297885" background="?APKTOOL_DUMMY_c9" layout_width="fill_parent" layout_height="?2130968588" 2130968826="2131298282" 2130968944="@style/2131821086" />
+    </android.support.design.widget.CollapsingToolbarLayout>
+</android.support.design.widget.AppBarLayout>

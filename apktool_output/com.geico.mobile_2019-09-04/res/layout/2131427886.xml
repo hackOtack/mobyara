@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="What is boat insurance?" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="A boat policy insures you and your boat against liability and damage in the event of an accident. The types and amount of coverage you receive depend on the specific boat policy you purchase." />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Isn't my boat covered under my auto or homeowner's policy?" />
+    <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Typically, auto or home insurance does not provide you with the right coverage on your boat or personal watercraft. Most homeowner's policies have size restrictions, as well as limitations on horsepower, and damage coverage. Exact coverage limits vary by state, underwriting company, and contract. The most important thing to remember is that if you don't have a separate boat insurance policy, you're typically underinsured." />
+    <ImageView src="@drawable/2131231463" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="What does boat insurance cover?" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="For you and your boat:" />
+    <TextView text="Damage to your boats: hull, sails, machinery, furnishings, motor, and trailer" style="@style/2131820759" />
+    <TextView text="Liability only" style="@style/2131820759" />
+    <TextView text="New boat replacement" style="@style/2131820759" />
+    <TextView text="Agreed hull value" style="@style/2131820759" />
+    <TextView text="Actual cash value" style="@style/2131820759" />
+    <TextView text="Fuel spill liability" style="@style/2131820759" />
+    <TextView text="Medical payments" style="@style/2131820759" />
+    <TextView layout_marginBottom="16.0dip" text="Salvage coverage and wreck removal" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="For others:" />
+    <TextView text="Damage to another boat" style="@style/2131820759" />
+    <TextView text="Damage to other property caused by your boat" style="@style/2131820759" />
+    <TextView layout_marginBottom="16.0dip" text="Bodily injury/death of another person" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Optional insurance coverages:" />
+    <TextView text="Multiple towing options, on and off the water" style="@style/2131820759" />
+    <TextView text="Disappearing deductibles" style="@style/2131820759" />
+    <TextView text="Coverage for your personal property" style="@style/2131820759" />
+    <TextView text="Coverage for your fishing equipment" style="@style/2131820759" />
+    <TextView text="Coverage against injury to you caused by an uninsured boater" style="@style/2131820759" />
+    <TextView text="Hurricane haul out" style="@style/2131820759" />
+    <TextView layout_marginBottom="16.0dip" text="Ice/freeze coverage" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (855) 395-1412 to speak to an agent." />
+</LinearLayout>

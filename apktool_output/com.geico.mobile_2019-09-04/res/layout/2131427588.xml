@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" id="@id/2131297559" layout_width="wrap_content" layout_height="wrap_content" text="Gender" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297560" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297788" layout_width="wrap_content" layout_height="wrap_content" text="License Number" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297789" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297790" layout_width="wrap_content" layout_height="wrap_content" text="License State" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297791" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298790" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Social Security Number" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298793" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131296988" layout_width="wrap_content" layout_height="wrap_content" text="Date of Birth" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296990" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+</LinearLayout>

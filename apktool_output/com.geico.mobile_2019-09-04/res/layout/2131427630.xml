@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297993" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Submit" onClick="onSubmitClicked" style="@style/2131820937" />
+    <Button theme="@style/2131820826" id="@id/2131297509" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Review" onClick="onSaveAndContinueClicked" style="@style/2131821002" />
+    <Button theme="@style/2131820826" layout_width="fill_parent" layout_height="wrap_content" text="@android:string/cancel" onClick="onCancelClicked" style="@style/2131821002" />
+    <TextView textAppearance="@style/2131820755" id="@id/2131298432" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="@string/2131757541" contentDescription="Provider Arrival Information" />
+</LinearLayout>

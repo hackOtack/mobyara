@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout layout_gravity="center" tag="layout/explore_game_intro_modal_0" background="@drawable/2131231257" paddingTop="16.0dip" layout_width="wrap_content" layout_height="wrap_content" minWidth="300.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131821021" textColor="#ffffffff" id="@id/2131297726" tag="binding_1" paddingBottom="16.0dip" layout_width="0.0dip" layout_height="wrap_content" maxWidth="260.0dip" paddingStart="16.0dip" 2130968858="2131298157" 2130968861="2131298157" />
+    <TextView textAppearance="@style/2131821021" textColor="#ffffffff" id="@id/2131297725" tag="binding_2" paddingBottom="16.0dip" layout_width="0.0dip" layout_height="wrap_content" maxWidth="260.0dip" paddingStart="16.0dip" paddingEnd="16.0dip" 2130968860="@id/2131297726" />
+    <View id="@id/2131298729" background="#ffffffff" layout_width="0.0dip" layout_height="1.0dip" 2130968834="@id/2131296364" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297725" />
+    <Button textStyle="bold" textColor="@drawable/2131231730" id="@id/2131296364" tag="binding_3" background="#00000000" layout_width="0.0dip" layout_height="wrap_content" textAllCaps="false" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" />
+</android.support.constraint.ConstraintLayout>

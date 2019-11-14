@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297915" layout_width="48.0dip" layout_height="48.0dip" src="@drawable/2131231415" 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" />
+    <TextView textStyle="bold" textColor="#ffffffff" ellipsize="end" id="@id/2131297916" layout_width="wrap_content" layout_height="wrap_content" maxWidth="90.0dip" text="Marker Pin" maxLines="1" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297915" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include layout="@layout/levelup_loyalty_progress_content_view" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

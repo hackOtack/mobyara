@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131298484" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131298486" paddingLeft="@dimen/2131165329" paddingTop="@dimen/2131165329" paddingRight="@dimen/2131165329" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" layout_alignParentLeft="true" layout_alignParentTop="true" />
+    <android.support.v4.view.ViewPager id="@id/2131298487" layout_width="fill_parent" layout_height="156.0dip" layout_below="@id/2131298486" />
+    <android.support.v7.widget.RecyclerView orientation="horizontal" id="@id/2131298485" scrollbars="none" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298487" />
+</RelativeLayout>

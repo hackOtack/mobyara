@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297851" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820782">
+        <TextView id="@id/2131297856" layout_width="wrap_content" layout_height="wrap_content" layout_margin="15.0dip" text="Thank You" layout_toLeftOf="@id/2131298070" layout_alignParentLeft="true" layout_centerVertical="true" textAllCaps="true" style="@style/2131821210" />
+        <ImageView id="@id/2131297857" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" src="@drawable/APKTOOL_DUMMY_74" layout_alignParentRight="true" layout_centerVertical="true" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297851" style="@style/2131820889">
+        <TextView id="@id/2131298970" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" layout_marginBottom="15.0dip" style="@style/2131820873" />
+        <Button id="@id/2131296568" layout_width="fill_parent" layout_height="wrap_content" text="RETURN TO LOGIN SETTINGS" layout_below="@id/2131298970" onClick="onPolicyDashBoardButtonClicked" style="@style/2131820896" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

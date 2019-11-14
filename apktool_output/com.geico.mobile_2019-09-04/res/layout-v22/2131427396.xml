@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="right" orientation="vertical" background="#ffef7014" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131296756" paddingLeft="20.0dip" paddingTop="10.0dip" paddingRight="30.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="10.0dip" textColor="#ffffffff" id="@id/2131296757" layout_width="wrap_content" layout_height="wrap_content" text="Claim Number" />
+        <com.cccis.sdk.android.common.view.RegularTextView textColor="#ffffffff" id="@id/2131296758" layout_width="wrap_content" layout_height="wrap_content" text="Unavailable" />
+    </LinearLayout>
+    <View id="@id/2131297709" background="#ff23252e" layout_width="fill_parent" layout_height="0.5dip" />
+    <LinearLayout orientation="vertical" id="@id/2131296458" paddingLeft="20.0dip" paddingTop="10.0dip" paddingRight="30.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="10.0dip" textColor="#ffffffff" id="@id/2131298707" layout_width="wrap_content" layout_height="wrap_content" text="For any questions please contact:" />
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="10.0dip" textColor="#ffffffff" id="@id/2131296460" layout_width="wrap_content" layout_height="wrap_content" text="Adjuster" />
+        <com.cccis.sdk.android.common.view.RegularTextView textColor="#ffffffff" id="@id/2131296459" layout_width="wrap_content" layout_height="wrap_content" text="Unavailable" />
+    </LinearLayout>
+    <View id="@id/2131299229" background="#ff23252e" layout_width="fill_parent" layout_height="0.5dip" />
+    <LinearLayout orientation="vertical" id="@id/2131298087" background="@drawable/2131230848" paddingLeft="20.0dip" paddingTop="10.0dip" paddingRight="30.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="10.0dip" textColor="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" text="Office" />
+        <com.cccis.sdk.android.common.view.RegularTextView textColor="#ff0495c9" gravity="center_vertical" id="@id/2131298274" layout_width="wrap_content" layout_height="wrap_content" text="Unavailable" drawableLeft="@drawable/APKTOOL_DUMMY_2a4" drawablePadding="10.0dip" drawableTint="@color/2131099680" />
+    </LinearLayout>
+    <View id="@id/2131299230" background="#ff23252e" layout_width="fill_parent" layout_height="0.5dip" />
+    <LinearLayout orientation="vertical" id="@id/2131296457" paddingLeft="20.0dip" paddingTop="10.0dip" paddingRight="30.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="10.0dip" textColor="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" text="Email" />
+        <com.cccis.sdk.android.common.view.RegularTextView textColor="#ffffffff" id="@id/2131297239" layout_width="wrap_content" layout_height="wrap_content" text="Unavailable" />
+    </LinearLayout>
+    <View id="@id/2131299231" background="#ff23252e" layout_width="fill_parent" layout_height="0.5dip" />
+    <LinearLayout orientation="vertical" id="@id/2131297871" background="@drawable/2131230848" paddingLeft="20.0dip" paddingTop="10.0dip" paddingRight="30.0dip" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextView textColor="#ff0495c9" gravity="center_vertical" id="@id/2131298778" layout_width="wrap_content" layout_height="wrap_content" text="Sign Out" drawableLeft="@drawable/APKTOOL_DUMMY_2a6" drawablePadding="10.0dip" drawableTint="@color/2131099680" />
+    </LinearLayout>
+</LinearLayout>

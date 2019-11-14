@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView orientation="vertical" id="@id/2131296767" paddingBottom="@dimen/2131165329" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099890" 2130968675="@dimen/2131165662" 2130968677="false" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131296766" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView id="@id/2131297864" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2a7" tint="#ffffffff" />
+        <RelativeLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820760" textStyle="bold" textColor="#ffffffff" id="@id/2131296478" layout_width="fill_parent" layout_height="wrap_content" text="Recall Notice" layout_alignParentTop="true" layout_alignParentStart="true" />
+            <TextView textAppearance="@style/2131820760" textColor="#ffffffff" id="@id/2131296574" layout_width="fill_parent" layout_height="wrap_content" text="Vehicles on your policy have a recall." layout_below="@id/2131296478" layout_alignParentStart="true" />
+            <TextView textAppearance="@style/2131820760" textColor="#ffffffff" id="@id/2131298380" paddingTop="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Powered by" layout_below="@id/2131296574" layout_alignParentStart="true" />
+            <ImageView id="@id/2131297978" paddingLeft="8.0dip" paddingTop="12.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_31a" layout_toRightOf="@id/2131298380" layout_below="@id/2131296574" />
+        </RelativeLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

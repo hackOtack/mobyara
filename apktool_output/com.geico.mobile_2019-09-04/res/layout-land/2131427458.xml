@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center" orientation="vertical" background="#ffededed" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout gravity="center" orientation="horizontal" id="@id/2131297597" background="#ffededed" paddingTop="4.0dip" paddingBottom="4.0dip" focusable="true" focusableInTouchMode="true" layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip">
+            <ImageView id="@id/2131298269" padding="4.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2d6" />
+            <TextView textAppearance="@style/2131820756" textColor="#ff757374" gravity="start" id="@id/2131298418" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Make a phone call to GEICO by selecting from the following topics below. Available 24/7." contentDescription="By Phone Title Text" />
+        </LinearLayout>
+        <android.support.v7.widget.RecyclerView gravity="center" orientation="vertical" id="@id/2131297980" background="#ffededed" paddingTop="4.0dip" paddingBottom="4.0dip" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+        <LinearLayout gravity="right" orientation="horizontal" paddingTop="4.0dip" paddingBottom="4.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <Button textColor="#ff4789b6" gravity="center" layout_gravity="center_horizontal" id="@id/2131298006" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip" minWidth="@dimen/2131165330" minHeight="48.0dip" text="Need Further Help?" style="@style/2131820780" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_margin="16.0dip">
+        <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+        <TextView id="@id/2131296349" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" text="Card" />
+        <TextView id="@id/2131298055" layout_width="wrap_content" layout_height="wrap_content" text="Name on Card" />
+        <TextView textAppearance="@style/2131820758" id="@id/2131298054" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="4.0dip" />
+        <TextView id="@id/2131298050" layout_width="wrap_content" layout_height="wrap_content" text="Account Nickname" />
+        <EditText textAppearance="@style/2131820758" id="@id/2131298049" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="4.0dip" />
+        <TextView id="@id/2131298057" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Card Number" />
+        <TextView textAppearance="@style/2131820758" id="@id/2131298056" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="4.0dip" />
+        <TableLayout id="@id/2131298058" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip">
+            <TableRow>
+                <TextView textAppearance="@style/2131820754" id="@id/2131298059" layout_width="0.0dip" layout_height="wrap_content" text="Expiration Month" layout_weight="0.8" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131298061" layout_width="0.0dip" layout_height="wrap_content" text="Expiration Year" layout_weight="1.2" />
+            </TableRow>
+            <TableRow>
+                <Spinner id="@id/2131298060" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="4.0dip" layout_weight="0.8" />
+                <Spinner id="@id/2131298062" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="4.0dip" layout_weight="1.2" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

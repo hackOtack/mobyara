@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131297312" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="5.0dip" style="@style/2131820554">
+        <ImageView id="@id/2131299267" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_44f" tint="#ffb6091a" layout_alignParentLeft="true" layout_alignParentTop="true" />
+        <TextView id="@id/2131297318" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131299267" layout_alignTop="@id/2131299267" style="@style/2131820555" />
+    </RelativeLayout>
+    <RelativeLayout id="@id/2131299268" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821205">
+        <ImageView id="@id/2131297893" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_44e" tint="#ff4ba449" layout_alignParentRight="true" />
+        <TextView textAppearance="@style/2131820994" id="@id/2131297894" layout_width="wrap_content" layout_height="wrap_content" text="You are currently enrolled in Autopay; making a payment may result in a double payment." layout_toLeftOf="@id/2131297893" layout_alignParentLeft="true" layout_centerVertical="true" />
+    </RelativeLayout>
+    <TextView textAppearance="@style/2131820994" id="@id/2131298221" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="Choose Payment Amount" />
+    <RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821205">
+        <RadioButton id="@id/2131296496" paddingLeft="32.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="true" text="Amount Due -" />
+        <TextView id="@id/2131296498" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="5.0dip" layout_toRightOf="@id/2131296496" layout_alignBaseline="@id/2131296496" style="@style/2131820753" />
+        <RadioButton id="@id/2131298539" paddingLeft="32.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" checked="false" text="Remaining balance -" layout_below="@id/2131296496" />
+        <TextView id="@id/2131298540" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="5.0dip" layout_toRightOf="@id/2131298539" layout_alignBaseline="@id/2131298539" style="@style/2131820753" />
+        <RadioButton id="@id/2131298109" paddingLeft="32.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" checked="false" text="Other" layout_below="@id/2131298539" />
+        <RadioButton id="@id/2131297941" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" checked="false" text="Minimum Payment -" layout_below="@id/2131298109" paddingStart="32.0dip" />
+        <TextView id="@id/2131297942" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297941" layout_alignBaseline="@id/2131297941" layout_marginStart="5.0dip" style="@style/2131820753" />
+        <TextView id="@id/2131297128" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" text="$" layout_toRightOf="@id/2131298109" layout_below="@id/2131298539" layout_alignBaseline="@id/2131298109" style="@style/2131820873" />
+        <EditText enabled="false" id="@id/2131298110" layout_width="fill_parent" layout_height="wrap_content" hint="0.00" maxLength="7" layout_toRightOf="@id/2131297128" layout_below="@id/2131298539" layout_alignBaseline="@id/2131298109" inputType="numberDecimal" />
+    </RelativeLayout>
+    <TextView textAppearance="@style/2131820994" id="@id/2131298225" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="Choose Payment Date" />
+    <LinearLayout orientation="vertical" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" weightSum="3.0" style="@style/2131821205">
+        <TextView id="@id/2131298224" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginTop="10.0dip" style="@style/2131820873" />
+        <FrameLayout layout_gravity="center_horizontal" layout_width="fill_parent" layout_height="450.0dip">
+            <LinearLayout orientation="vertical" id="@id/2131297890" layout_width="fill_parent" layout_height="fill_parent" />
+        </FrameLayout>
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820994" id="@id/2131298238" padding="@dimen/2131165265" layout_width="wrap_content" layout_height="wrap_content" text="Choose Payment Method" />
+    <LinearLayout orientation="vertical" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821205"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <include id="@id/2131298857" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131428189" />
+        <RadioButton id="@id/2131296436" paddingLeft="32.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Add New Account" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820994" id="@id/2131298029" padding="@dimen/2131165265" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="New Payment Method" />
+    <RelativeLayout id="@id/2131298018" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821205">
+        <RadioButton id="@id/2131298021" layout_width="wrap_content" layout_height="wrap_content" checked="true" />
+        <ImageView id="@id/2131297196" paddingLeft="16.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" layout_alignParentTop="true" layout_alignParentRight="true" onClick="onEditNewAccountClicked" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298022" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="32.0dip" text="Checking Account" layout_toRightOf="@id/2131298021" layout_alignTop="@id/2131298021" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298019" layout_width="wrap_content" layout_height="wrap_content" text="Checking Account" layout_below="@id/2131298022" layout_alignLeft="@id/2131298022" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298020" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298019" layout_alignLeft="@id/2131298019" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298017" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298020" layout_alignLeft="@id/2131298020" />
+    </RelativeLayout>
+    <Button layout_gravity="right" id="@id/2131297886" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="10.0dip" text="PAY NOW" onClick="onMakePaymentButtonClicked" />
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@id/2131296375" orderInCategory="100" title="Settings" 2130968967="2131298014" />
+</menu>

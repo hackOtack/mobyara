@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout gravity="center" layout_width="fill_parent" layout_height="fill_parent" onClick="finishThisActivity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content">
+        <ImageView id="@id/2131297608" layout_width="300.0dip" layout_height="400.0dip" />
+        <TextView textColor="#ff99cc00" layout_gravity="center_horizontal" layout_width="wrap_content" layout_height="wrap_content" text="Tap to dismiss" layout_below="@id/2131297608" />
+    </LinearLayout>
+</RelativeLayout>

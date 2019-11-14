@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_padding_inner" android:text="@string/levelup_keypad_tip_selector_header_text" style="@style/levelup_keypad_tip_selector_header_text" />
+    <EditText android:id="@android:id/text1" android:focusable="false" android:focusableInTouchMode="false" android:clickable="true" android:inputType="none" style="@style/levelup_keypad_tip_selector_tip_text" />
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_keypad_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/levelup_keypad" />
+        <Button android:id="@android:id/button1" android:text="@string/levelup_keypad_tip_selector_button_text" style="@style/levelup_button_positive" />
+    </LinearLayout>
+</LinearLayout>

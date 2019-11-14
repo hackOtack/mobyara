@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131428129" />
+    <View id="@id/2131299224" background="#ff73695d" visibility="invisible" layout_width="1.0dip" layout_height="fill_parent" layout_margin="8.0dip" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427846" />
+    <LinearLayout layout_gravity="center" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff9e9586" id="@id/2131297723" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="@dimen/2131165456" text="Insured" layout_weight="0.2" layout_marginStart="10.0dip" style="@style/2131820994" />
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.58">
+            <TextView textColor="#ff000000" gravity="start|center" id="@id/2131296448" layout_width="wrap_content" layout_height="fill_parent" maxLines="6" minLines="1" textAllCaps="true" style="@style/2131821004" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout gravity="center" orientation="horizontal" id="@id/2131298065" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView layout_gravity="center" id="@id/2131298258" layout_width="wrap_content" layout_height="wrap_content" text="[X]" textAllCaps="true" layout_marginEnd="1.0dip" style="@style/2131820870" />
+        <TextView id="@id/2131298257" layout_width="wrap_content" layout_height="wrap_content" text="PERSONAL" textAllCaps="true" layout_marginEnd="5.0dip" style="@style/2131820870" />
+        <TextView layout_gravity="center" id="@id/2131298143" layout_width="wrap_content" layout_height="wrap_content" text="[X]" textAllCaps="true" layout_marginEnd="1.0dip" style="@style/2131820870" />
+        <TextView id="@id/2131298142" layout_width="wrap_content" layout_height="wrap_content" text="OWNER'S" textAllCaps="true" layout_marginEnd="5.0dip" style="@style/2131820870" />
+        <TextView layout_gravity="center" id="@id/2131296795" layout_width="wrap_content" layout_height="wrap_content" text="[%s]" textAllCaps="true" layout_marginEnd="1.0dip" style="@style/2131820870" />
+        <TextView id="@id/2131296796" layout_width="wrap_content" layout_height="wrap_content" text="COMMERCIAL" textAllCaps="true" layout_marginEnd="5.0dip" style="@style/2131820870" />
+        <TextView layout_gravity="center" id="@id/2131298105" layout_width="wrap_content" layout_height="wrap_content" text="[%s]" textAllCaps="true" layout_marginEnd="1.0dip" style="@style/2131820870" />
+        <TextView id="@id/2131298104" layout_width="wrap_content" layout_height="wrap_content" text="OPERATOR'S LIABILITY" textAllCaps="true" layout_marginEnd="5.0dip" style="@style/2131820870" />
+    </LinearLayout>
+</LinearLayout>

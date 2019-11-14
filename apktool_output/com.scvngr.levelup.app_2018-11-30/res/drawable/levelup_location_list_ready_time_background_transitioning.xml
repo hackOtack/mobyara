@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/levelup_location_availability_transitioning_background" />
+    <size android:height="@dimen/levelup_location_ready_time_background_drawable_radius" android:width="@dimen/levelup_location_ready_time_background_drawable_radius" />
+    <stroke android:width="@dimen/levelup_location_ready_time_background_border" android:color="@color/levelup_location_availability_transitioning" />
+</shape>

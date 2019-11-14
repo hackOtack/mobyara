@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.NestedScrollView id="@id/2131296566" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="vertical" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131298914">
+            <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.billing.AceMakePaymentThankYouFragment" id="@id/2131297892" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+    <include layout="@layout/2131428200" />
+    <include layout_gravity="bottom" id="@id/2131297106" layout_width="fill_parent" layout_height="48.0dip" layout_alignParentLeft="true" layout_alignParentRight="true" layout_alignParentBottom="true" layout="@layout/2131427570" />
+</RelativeLayout>

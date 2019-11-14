@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout-sw600dp/custom_date_picker_view_layout_0" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820889">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131296922" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView id="@id/2131296994" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" layout_marginEnd="5.0dip" style="@style/2131820873" />
+                <LinearLayout layout_width="450.0dip" layout_height="260.0dip" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" layout_marginBottom="2.0dip">
+                    <GridView id="@id/2131299279" layout_width="wrap_content" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+                    <GridView id="@id/2131297003" layout_width="wrap_content" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+                </LinearLayout>
+                <TextView textAppearance="@style/2131820756" id="@id/2131297174" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" layout_marginStart="@dimen/2131165265" layout_marginEnd="5.0dip" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131297175" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" layout_marginStart="@dimen/2131165265" layout_marginEnd="5.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

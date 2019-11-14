@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.scvngr.levelup.ui.view.WebImageView android:id="@id/levelup_web_image_view_overlay_image" style="@style/levelup_web_image_view_with_overlay_image" />
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" style="@style/levelup_web_image_view_overlay_bar">
+        <TextView android:gravity="center_vertical" android:id="@id/levelup_web_image_with_overlay_text1" android:paddingRight="@dimen/levelup_padding_end" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true" style="@style/levelup_web_image_view_overlay_title" />
+        <TextView android:gravity="center_vertical" android:id="@id/levelup_web_image_with_overlay_title" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_toLeftOf="@id/levelup_web_image_with_overlay_text1" android:layout_alignParentLeft="true" style="@style/levelup_web_image_view_overlay_title" />
+    </RelativeLayout>
+</RelativeLayout>

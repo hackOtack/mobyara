@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_space_between_elements" style="@style/levelup_order_ahead_menu_item_card"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/levelup_order_ahead_menu_item_card_min_height">
+        <com.scvngr.levelup.ui.view.OrderAheadMenuItemImageView android:id="@id/levelup_order_ahead_menu_item_card_web_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" style="@style/levelup_order_ahead_menu_item_card_web_image" />
+        <TextView android:id="@id/levelup_order_ahead_menu_item_card_name" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" style="@style/levelup_order_ahead_menu_item_card_name" />
+        <TextView android:id="@id/levelup_order_ahead_menu_item_card_price" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_menu_item_card_price" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+                <EditText android:id="@id/levelup_user_first_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/levelup_user_hint_first_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionDone" />
+                <EditText android:id="@id/levelup_user_last_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_last_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionDone" />
+                <EditText android:id="@id/levelup_user_email" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_global_hint_email" android:inputType="textEmailAddress" android:imeOptions="actionDone" />
+                <EditText android:id="@id/levelup_user_phone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_phone" android:inputType="phone" android:imeOptions="actionDone" />
+                <EditText android:id="@id/levelup_user_date_of_birth" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_date_of_birth" android:inputType="text" android:imeOptions="actionDone" />
+                <EditText android:id="@id/levelup_user_gender" android:focusable="true" android:focusableInTouchMode="false" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_user_hint_gender" android:inputType="text" android:imeOptions="actionDone" />
+                <include layout="@layout/levelup_user_profile_custom_attributes" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_user_info_new_password" />
+                <EditText android:id="@id/levelup_user_new_password" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_global_hint_password" android:inputType="textPassword" android:imeOptions="actionDone" />
+            </LinearLayout>
+            <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_user_info_update_profile" style="@style/levelup_button_positive" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout gravity="center" orientation="vertical" id="@id/2131296651" background="#9924272d" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" style="@style/2131820784">
+        <TextView id="@id/2131298358" layout_width="wrap_content" layout_height="wrap_content" text="Are you sure?" layout_centerHorizontal="true" style="@style/2131820837" />
+        <TextView id="@id/2131298359" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" text="If you cancel this request, the provider will not be dispatched. If you still need assistance, do not cancel this request." layout_below="@id/2131298358" layout_centerHorizontal="true" style="@style/2131820875" />
+        <TextView textColor="#ff000000" id="@id/2131296652" background="@drawable/2131231161" padding="10.0dip" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" text="Cancel Request" layout_below="@id/2131298359" layout_alignParentRight="true" onClick="onCancelRequestPopupTextClicked" style="@style/2131820873" />
+        <TextView textColor="#ff000000" id="@id/2131297629" background="@drawable/2131231161" padding="10.0dip" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" text="I Still Need Assistance" layout_below="@id/2131296652" layout_alignParentRight="true" onClick="onNeedAssistancePopupTextClicked" style="@style/2131820873" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

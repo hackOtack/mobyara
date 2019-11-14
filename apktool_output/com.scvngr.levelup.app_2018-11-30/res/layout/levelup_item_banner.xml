@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/levelup_item_banner_card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_card_margin_horizontal_full" android:layout_marginTop="@dimen/levelup_location_card_margin_top" android:layout_marginRight="@dimen/levelup_card_margin_horizontal_full" style="@style/levelup_item_order_ahead_feed_banner_card"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.constraint.ConstraintLayout android:id="@id/levelup_item_banner_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/levelup_item_banner_image" android:layout_width="0.0dip" android:layout_height="0.0dip" android:scaleType="centerCrop" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+        <TextView android:id="@id/levelup_item_banner_text" android:layout_width="0.0dip" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/levelup_item_order_ahead_feed_banner_text" />
+        <Button android:id="@id/levelup_item_banner_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/margin2" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/levelup_item_banner_text" style="@style/Button.MessageAction" />
+    </android.support.constraint.ConstraintLayout>
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/levelup_banner_inner_shadow" android:scaleType="fitXY" />
+</android.support.v7.widget.CardView>

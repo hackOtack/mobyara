@@ -1,0 +1,60 @@
+.class final Lcom/scvngr/levelup/app/arn;
+.super Lcom/scvngr/levelup/app/bnu;
+
+
+# instance fields
+.field private final a:Ljava/lang/ref/WeakReference;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/lang/ref/WeakReference<",
+            "Lcom/scvngr/levelup/app/arg;",
+            ">;"
+        }
+    .end annotation
+.end field
+
+
+# direct methods
+.method constructor <init>(Lcom/scvngr/levelup/app/arg;)V
+    .locals 1
+
+    invoke-direct {p0}, Lcom/scvngr/levelup/app/bnu;-><init>()V
+
+    new-instance v0, Ljava/lang/ref/WeakReference;
+
+    invoke-direct {v0, p1}, Ljava/lang/ref/WeakReference;-><init>(Ljava/lang/Object;)V
+
+    iput-object v0, p0, Lcom/scvngr/levelup/app/arn;->a:Ljava/lang/ref/WeakReference;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a(Lcom/scvngr/levelup/app/boe;)V
+    .locals 3
+
+    iget-object v0, p0, Lcom/scvngr/levelup/app/arn;->a:Ljava/lang/ref/WeakReference;
+
+    invoke-virtual {v0}, Ljava/lang/ref/WeakReference;->get()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lcom/scvngr/levelup/app/arg;
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    .line 1000
+    :cond_0
+    iget-object v1, v0, Lcom/scvngr/levelup/app/arg;->a:Lcom/scvngr/levelup/app/ary;
+
+    new-instance v2, Lcom/scvngr/levelup/app/aro;
+
+    invoke-direct {v2, v0, v0, p1}, Lcom/scvngr/levelup/app/aro;-><init>(Lcom/scvngr/levelup/app/arx;Lcom/scvngr/levelup/app/arg;Lcom/scvngr/levelup/app/boe;)V
+
+    invoke-virtual {v1, v2}, Lcom/scvngr/levelup/app/ary;->a(Lcom/scvngr/levelup/app/arz;)V
+
+    return-void
+.end method

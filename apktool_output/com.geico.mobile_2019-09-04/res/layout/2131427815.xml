@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#fff1f0ec" layout_width="fill_parent" layout_height="fill_parent" weightSum="100.0" minHeight="800.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout paddingTop="10.0dip" style="@style/2131820851">
+        <include layout="@layout/2131427814" />
+    </LinearLayout>
+    <LinearLayout style="@style/2131820847">
+        <include layout="@layout/2131427841" />
+    </LinearLayout>
+    <LinearLayout style="@style/2131820851">
+        <include layout="@layout/2131427829" />
+    </LinearLayout>
+    <LinearLayout style="@style/2131820846">
+        <include id="@id/2131299247" layout="@layout/2131427869" />
+    </LinearLayout>
+    <LinearLayout style="@style/2131820847">
+        <include layout="@layout/2131427866" />
+    </LinearLayout>
+</LinearLayout>

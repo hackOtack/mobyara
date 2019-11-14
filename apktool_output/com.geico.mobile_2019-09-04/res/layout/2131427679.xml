@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297312" tag="layout/error_message_display_0" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" style="@style/2131820554"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131299267" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_44f" tint="#ffb6091a" layout_alignParentTop="true" contentDescription="" paddingEnd="4.0dip" layout_alignParentStart="true" />
+    <TextView textAppearance="@style/2131820555" id="@id/2131297318" tag="binding_1" layout_width="wrap_content" layout_height="wrap_content" layout_alignTop="@id/2131299267" layout_toEndOf="@id/2131299267" />
+</RelativeLayout>

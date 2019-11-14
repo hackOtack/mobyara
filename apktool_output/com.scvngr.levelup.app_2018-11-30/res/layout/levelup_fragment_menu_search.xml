@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/levelup_menu_search_empty_view" android:background="@color/levelup_empty_state_page_background" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="80.0dip" android:src="@drawable/ic_question_mark" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/levelup_menu_search_no_results_yet" style="@style/levelup_order_ahead_text_normal_text1_large" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_menu_search_search_instructions" style="@style/levelup_order_ahead_text_normal_text1_normal" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/levelup_menu_search_no_results" android:background="@color/levelup_empty_state_page_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="80.0dip" android:src="@drawable/ic_question_mark" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/levelup_menu_search_no_results_found" style="@style/levelup_order_ahead_text_normal_text1_large" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_text_normal_text1_normal" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_menu_search_results" android:background="@color/levelup_empty_state_page_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v7.widget.RecyclerView android:id="@id/levelup_menu_search_results_recycler_view" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</FrameLayout>

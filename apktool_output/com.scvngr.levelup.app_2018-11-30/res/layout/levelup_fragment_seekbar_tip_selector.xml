@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="@dimen/levelup_tip_selector_seekbar_padding" android:paddingRight="@dimen/levelup_tip_selector_seekbar_padding" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/tip_slider_background" android:paddingBottom="@dimen/levelup_padding_extra" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+            <TextView android:id="@android:id/text1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_seekbar_tip_selector_tooltip" />
+            <View android:layout_width="fill_parent" android:layout_height="@dimen/levelup_tip_selector_height" style="@style/levelup_home_screen_tip_background" />
+        </LinearLayout>
+        <android.support.v7.widget.AppCompatSeekBar android:id="@android:id/progress" android:paddingTop="@dimen/levelup_padding" android:paddingBottom="@dimen/levelup_padding_extra" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="@dimen/levelup_tip_selector_height" android:minHeight="@dimen/levelup_tip_selector_height" android:layout_alignBottom="@id/tip_slider_background" style="@style/levelup_seekbar_tip_selector_seekbar" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/tip_slider_text_layout" android:paddingBottom="@dimen/levelup_tip_selector_text_bottom_padding" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_tip_selector_height" android:layout_marginBottom="@dimen/levelup_padding_extra" android:layout_alignBottom="@id/tip_slider_background" style="@style/levelup_home_screen_tip_selector" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="app_bar_elevation_anim_duration">150</integer>
+    <integer name="bottom_sheet_slide_duration">150</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <integer name="design_snackbar_text_max_lines">2</integer>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="hide_password_duration">320</integer>
+    <integer name="levelup_app_id">1</integer>
+    <integer name="levelup_assimilation_campaign_id">0</integer>
+    <integer name="levelup_lock_pin_length">4</integer>
+    <item type="integer" name="levelup_long_animation_time">@android:integer/config_longAnimTime</item>
+    <integer name="levelup_order_ahead_default_tip_percent">0</integer>
+    <integer name="levelup_order_ahead_ready_time_max_hours">6</integer>
+    <integer name="levelup_qr_code_embedded_color_default">0</integer>
+    <integer name="levelup_refer_a_friend_campaign_id">168</integer>
+    <integer name="levelup_security_timeout_millis">300000</integer>
+    <item type="integer" name="levelup_short_animation_time">@android:integer/config_shortAnimTime</item>
+    <integer name="levelup_tip_us_cents_maximum_value">9999</integer>
+    <integer name="levelup_visit_based_loyalty_campaign_id">0</integer>
+    <integer name="show_password_duration">200</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+</resources>

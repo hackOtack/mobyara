@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296564" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" background="@drawable/2131230879" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginRight="20.0dip" layout_marginBottom="20.0dip">
+        <LinearLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_174" />
+            <TextView textSize="20.0sp" layout_gravity="center" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131756684" singleLine="true" style="@style/2131820838" />
+        </LinearLayout>
+        <TableLayout layout_width="fill_parent" layout_height="wrap_content">
+            <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+                <TextView layout_width="fill_parent" layout_height="wrap_content" text="Postponed until:" singleLine="true" layout_weight="1.0" style="@style/2131820875" />
+                <TextView gravity="right" id="@id/2131298379" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820875" />
+            </TableRow>
+            <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+            <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+                <TextView layout_width="fill_parent" layout_height="wrap_content" text="Amount postponed:" singleLine="true" layout_weight="1.0" style="@style/2131820875" />
+                <TextView gravity="right" id="@id/2131298378" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820875" />
+            </TableRow>
+            <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+        </TableLayout>
+    </LinearLayout>
+    <TextView textColor="#ff000000" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Details" textAllCaps="true" />
+    <LinearLayout orientation="vertical" background="@drawable/2131230879" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="20.0dip">
+        <TextView textColor="#ff000000" id="@id/2131298966" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="5.0dip" text="@string/2131755154" drawablePadding="16.0dip" />
+    </LinearLayout>
+    <Button textSize="@dimen/2131165632" id="@id/2131296565" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="20.0dip" text="Return Home" onClick="onPolicyDashboardButtonClicked" style="@style/2131820938" />
+</LinearLayout>

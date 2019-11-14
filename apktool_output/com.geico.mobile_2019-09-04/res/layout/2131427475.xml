@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center_horizontal" orientation="vertical" id="@id/2131296890" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820755" id="@id/2131296902" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" />
+    <ProgressBar layout_gravity="center_horizontal" id="@id/2131298904" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" indeterminate="true" indeterminateOnly="true" style="?android:progressBarStyleLarge" />
+    <LinearLayout layout_gravity="center_horizontal" id="@id/2131297129" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="16.0dip">
+        <TextView textAppearance="@style/2131820838" id="@id/2131298388" layout_width="wrap_content" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820838" id="@id/2131298387" layout_width="wrap_content" layout_height="wrap_content" layout_alignTop="@id/2131297130" />
+    </LinearLayout>
+</LinearLayout>

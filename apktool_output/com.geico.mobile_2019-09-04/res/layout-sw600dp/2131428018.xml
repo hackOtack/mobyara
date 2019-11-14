@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" layout_marginRight="16.0dip" baselineAligned="false" weightSum="2.0">
+        <include layout_width="0.0dip" layout_height="wrap_content" layout_marginRight="8.0dip" layout_weight="1.0" layout="@layout/2131428020" />
+        <include layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_weight="1.0" layout="@layout/2131428017" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_margin="12.0dip" weightSum="2.0">
+        <Button id="@id/2131298170" clickable="true" layout_width="0.0dip" layout_height="wrap_content" layout_marginRight="8.0dip" text="Done" layout_weight="1.0" onClick="onDoneClicked" />
+    </LinearLayout>
+</LinearLayout>

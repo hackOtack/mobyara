@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131296713" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true" layout="@layout/2131427433" />
+    <android.support.v7.widget.RecyclerView orientation="vertical" id="@id/2131298520" paddingLeft="@dimen/2131165303" paddingTop="@dimen/2131165303" paddingRight="@dimen/2131165303" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131296713" layout_alignParentTop="true" />
+</RelativeLayout>

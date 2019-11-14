@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297902" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820758" gravity="center_horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="12.0dip" layout_marginBottom="12.0dip" text="GEICO covers one tow per breakdown" contentDescription="Tow Legal Disclaimer" />
+        <include layout="@layout/2131427619" />
+        <include layout="@layout/2131427625" />
+        <CheckBox textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131299097" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" checked="false" text="I don't know my tow destination" drawableLeft="@android:color/transparent" drawablePadding="30.0dip" />
+        <include layout="@layout/2131427627" />
+    </LinearLayout>
+</ScrollView>

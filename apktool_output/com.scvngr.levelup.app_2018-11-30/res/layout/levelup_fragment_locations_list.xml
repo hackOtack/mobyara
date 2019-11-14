@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <FrameLayout android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_frame">
+        <include android:id="@android:id/empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/location_list_none_nearby" />
+        <com.scvngr.levelup.ui.view.HorizontalScrollFriendlyListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:choiceMode="singleChoice" style="@style/levelup_list_view" />
+    </FrameLayout>
+</LinearLayout>

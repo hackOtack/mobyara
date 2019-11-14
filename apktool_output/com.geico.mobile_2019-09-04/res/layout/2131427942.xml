@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textStyle="bold" id="@id/2131297906" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Please Enter VIN:" />
+        <EditText id="@id/2131297905" layout_width="wrap_content" layout_height="wrap_content" maxLength="17" inputType="textFilter|textCapCharacters" textAllCaps="true" />
+        <LinearLayout layout_gravity="right" orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+            <TextView textSize="17.0sp" textColor="#ffef7014" id="@id/2131297903" layout_width="wrap_content" layout_height="wrap_content" text="Cancel" />
+            <Button textSize="17.0sp" id="@id/2131297904" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="17.0dip" text="OK" style="@style/2131821313" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

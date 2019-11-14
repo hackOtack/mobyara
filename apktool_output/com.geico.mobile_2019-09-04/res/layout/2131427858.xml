@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131299178" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout id="@id/2131299179" layout_width="fill_parent" layout_height="wrap_content" layout_weight="1.0">
+        <CheckBox gravity="center_vertical" id="@id/2131299177" layout_width="wrap_content" layout_height="wrap_content" layout_margin="2.0dip" checked="true" style="@style/2131820844" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131299176" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" layout_marginTop="2.0dip" layout_marginBottom="2.0dip" checked="true" text="vehicle information" />
+    </LinearLayout>
+</RelativeLayout>

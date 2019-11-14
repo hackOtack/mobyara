@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427678" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296288" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Email" />
+    <EditText textAppearance="@style/2131820756" id="@id/2131297238" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.@0123456789!#$%&amp;'*+-/=?^_`{|}~" inputType="textEmailAddress" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296292" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Home Phone" />
+    <EditText textAppearance="@style/2131820756" id="@id/2131297620" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" maxLength="13" inputType="phone" />
+    <LinearLayout orientation="horizontal" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="true">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="2.0">
+            <TextView textAppearance="@style/2131820754" id="@id/2131296301" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Work Phone" />
+            <EditText textAppearance="@style/2131820756" id="@id/2131299309" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" maxLength="13" inputType="phone" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820754" id="@id/2131296289" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Extension" />
+            <EditText textAppearance="@style/2131820756" id="@id/2131297387" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" maxLength="5" inputType="phone" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820754" id="@id/2131296295" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Mobile Phone" />
+    <EditText textAppearance="@style/2131820756" id="@id/2131297956" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" maxLength="13" inputType="phone" />
+</LinearLayout>

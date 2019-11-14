@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131298880" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.25" />
+    <TableLayout id="@id/2131296741" background="#ffffffff" padding="8.0dip" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginRight="8.0dip" layout_weight="0.5">
+        <TableRow id="@id/2131296742">
+            <TextView textAppearance="@style/2131821111" id="@id/2131296751" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="8.0dip" text="Claim Number" layout_weight="1.0" />
+            <TextView textAppearance="@style/2131821111" id="@id/2131296749" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" text="Incident Date" layout_weight="1.0" />
+        </TableRow>
+        <TableRow id="@id/2131296740">
+            <TextView textAppearance="@style/2131820754" id="@id/2131296752" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="8.0dip" layout_marginBottom="4.0dip" text="Claim Number" layout_weight="1.0" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297698" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" layout_weight="1.0" />
+        </TableRow>
+    </TableLayout>
+    <RelativeLayout id="@id/2131298283" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.25" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/levelup_activity_content" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/levelup_activity_location_picker" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="@color/levelup_location_segmented_button_bar_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_activity_location_address" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_activity_location_address" />
+        <View android:background="@color/levelup_location_segmented_button_bar_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/levelup_location_segmented_button_bar" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_location_segmented_button_bar">
+        <Button android:id="@id/levelup_location_button_order" android:text="@string/levelup_location_button_order" style="@style/levelup_location_segmented_button_weighted" />
+        <Button android:id="@id/levelup_location_button_rewards" android:text="@string/levelup_location_button_rewards" style="@style/levelup_location_segmented_button_weighted" />
+        <Button android:id="@id/levelup_location_button_map_and_info" android:text="@string/levelup_location_button_map_and_info" style="@style/levelup_location_segmented_button_weighted" />
+    </LinearLayout>
+    <android.support.v4.view.ViewPager android:id="@id/levelup_location_view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

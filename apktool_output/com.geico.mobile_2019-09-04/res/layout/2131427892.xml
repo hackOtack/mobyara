@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What's covered?" style="@style/2131820882" />
+    <TextView text="Auto accidents can happen, even to the best of us. An auto insurance policy can help cover repairs to your vehicle and medical costs in the event of an accident." style="@style/2131820881" />
+    <TextView text="Why buy auto insurance from GEICO?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Great rates for you" style="@style/2131820773" />
+        <TextView text="Available 24 hours a day 365 days a year" style="@style/2131820773" />
+        <TextView text="Deal directly with GEICO" style="@style/2131820773" />
+        <TextView text="We settle claims quickly and fairly" style="@style/2131820773" />
+    </LinearLayout>
+</LinearLayout>

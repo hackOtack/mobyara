@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131298438" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297311" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" layout_marginBottom="10.0dip" layout_alignParentTop="true">
+        <include layout="@layout/2131427678" />
+    </LinearLayout>
+    <TextView textColor="#ff154995" id="@id/2131298441" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Push Notifications" layout_below="@id/2131297311" contentDescription="Push Notifications Heading Text" style="@style/2131820758" />
+    <CheckBox id="@id/2131298437" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" checked="false" layout_below="@id/2131298441" layout_alignParentTop="@id/2131298441" onClick="onPushNotificationsCheckBoxSelected" contentDescription="Push Notifications Checkbox" />
+    <TextView id="@id/2131298440" layout_width="fill_parent" layout_height="wrap_content" text="Allow Push Notifications" layout_toRightOf="@id/2131298437" layout_alignBaseline="@id/2131298437" layout_alignParentRight="true" contentDescription="Push Notifications Checkbox Label" labelFor="@id/2131298437" style="@style/2131820758" />
+</RelativeLayout>

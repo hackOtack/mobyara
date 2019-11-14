@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131297673" clickable="false" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout orientation="vertical" id="@id/2131297879" layout_width="wrap_content" layout_height="wrap_content">
+        <TextView textColor="#ff60574a" id="@id/2131297670" paddingLeft="8.0dip" paddingRight="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Please select the ID cards to mail" style="@style/2131820876" />
+        <TextView textStyle="bold" textColor="#ff103873" id="@id/2131297679" paddingLeft="8.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Cards to be mailed" layout_below="@id/2131297670" textAllCaps="true" style="@style/2131820875" />
+    </RelativeLayout>
+    <fragment name="o.mi" id="@id/2131299189" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_below="@id/2131297879" />
+</RelativeLayout>

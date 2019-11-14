@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131296805" paddingLeft="16.0dip" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Confirm Your Location" style="@style/2131820838" />
+    <TextView id="@id/2131297445" paddingLeft="16.0dip" paddingTop="8.0dip" paddingRight="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="It appears your GPS service is disabled or there has been an error in determining your location. Please select 'Share' and you will be able to type your location." style="@style/2131820876" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297417" paddingTop="8.0dip" layout_width="fill_parent" layout_height="0.0dip" layout_weight="0.6">
+        <fragment id="@id/2131297446" layout_width="fill_parent" layout_height="fill_parent" class="com.google.android.gms.maps.SupportMapFragment" />
+        <ImageView id="@id/2131297691" layout_width="fill_parent" layout_height="fill_parent" src="#00000000" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298763" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <Button id="@id/2131298762" layout_width="fill_parent" layout_height="wrap_content" text="Share" layout_centerInParent="true" onClick="onShareButtonClicked" style="@style/2131820937" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</LinearLayout>

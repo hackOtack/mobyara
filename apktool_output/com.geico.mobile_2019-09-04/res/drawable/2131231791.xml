@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_selected="true">
+        <shape>
+            <solid color="?android:colorControlHighlight" />
+        </shape>
+    </item>
+    <item state_activated="true">
+        <shape>
+            <solid color="?android:colorControlHighlight" />
+        </shape>
+    </item>
+    <item 2130969058="true">
+        <shape>
+            <solid color="?android:colorAccent" alpha="0.2" />
+        </shape>
+    </item>
+    <item drawable="@android:color/transparent" />
+</selector>

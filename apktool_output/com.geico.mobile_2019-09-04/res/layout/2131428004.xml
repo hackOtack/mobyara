@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout/outage_page_fragment_0" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.RecyclerView id="@id/2131298708" layout_width="fill_parent" layout_height="wrap_content" 2130968821="android.support.v7.widget.LinearLayoutManager" />
+</LinearLayout>

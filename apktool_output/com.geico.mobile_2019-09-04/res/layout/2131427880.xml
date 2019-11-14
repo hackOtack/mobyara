@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout tag="layout/inventory_calculator_list_row_0" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="@android:color/black" ellipsize="end" id="@id/2131297740" layout_width="0.0dip" layout_height="wrap_content" text="Item" singleLine="true" paddingStart="4.0dip" 2130968840="@id/2131297739" 2130968849="2131298818" 2130968850="2.0" 2130968858="2131298157" 2130968861="2131298157" />
+    <TextView textColor="@android:color/black" ellipsize="end" id="@id/2131297739" layout_width="0.0dip" layout_height="wrap_content" text="Details" singleLine="true" 2130968840="@id/2131297742" 2130968850="1.8" 2130968857="@id/2131297740" 2130968861="2131298157" />
+    <TextView textColor="@android:color/black" ellipsize="end" id="@id/2131297742" layout_width="0.0dip" layout_height="wrap_content" text="Cost" singleLine="true" paddingEnd="2.0dip" 2130968839="2131298157" 2130968850="1.2" 2130968857="@id/2131297739" 2130968861="2131298157" />
+</android.support.constraint.ConstraintLayout>

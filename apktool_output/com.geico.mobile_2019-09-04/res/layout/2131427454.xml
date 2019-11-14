@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131296826" background="@drawable/2131231827" paddingBottom="10.0dip" layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView id="@id/2131296813" layout_width="fill_parent" layout_height="fill_parent" layout_above="@id/2131298972" layout_below="@id/2131296827">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip">
+            <TextView id="@id/2131298970" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="We have received your inquiry." style="@style/2131820873" />
+            <TextView id="@id/2131296814" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" layout_below="@id/2131298970" style="@style/2131820873" />
+            <TextView id="@id/2131298971" paddingBottom="10.0dip" layout_width="fill_parent" layout_height="wrap_content" text="As soon as your request has been reviewed, you will receive an email response. Most requests are completed within an hour.\n\nIf additional information is needed, we will contact you via email." layout_below="@id/2131296814" layout_alignLeft="@id/2131298970" style="@style/2131820873" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    </ScrollView>
+    <Button id="@id/2131298972" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Return Home" onClick="onConfirmationOkButtonClicked" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

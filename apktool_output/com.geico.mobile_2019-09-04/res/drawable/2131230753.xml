@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_pressed="false">
+        <inset insetLeft="4.0dip" insetRight="4.0dip" insetTop="6.0dip" insetBottom="6.0dip">
+            <layer-list>
+                <item drawable="@drawable/2131230760">
+                    <shape>
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+                <item>
+                    <shape shape="rectangle">
+                        <corners radius="2.0dip" />
+                        <solid color="#ffffffff" />
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+            </layer-list>
+        </inset>
+    </item>
+    <item state_pressed="true">
+        <inset insetLeft="4.0dip" insetRight="4.0dip" insetTop="6.0dip" insetBottom="6.0dip">
+            <layer-list>
+                <item drawable="@drawable/2131230760">
+                    <shape>
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+                <item>
+                    <shape shape="rectangle">
+                        <corners radius="2.0dip" />
+                        <solid color="#ffbcbcbc" />
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+            </layer-list>
+        </inset>
+    </item>
+</selector>

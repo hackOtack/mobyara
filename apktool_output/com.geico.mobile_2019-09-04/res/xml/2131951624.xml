@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ActionEntry class="com.urbanairship.actions.AddCustomEventAction" name="add_custom_event_action" predicate="com.urbanairship.actions.AddCustomEventAction$AddCustomEventActionPredicate" />
+    <ActionEntry altName="^+t" class="com.urbanairship.actions.tags.AddTagsAction" name="add_tags_action" predicate="com.urbanairship.actions.tags.AddTagsAction$AddTagsPredicate" />
+    <ActionEntry altName="^csa" class="com.urbanairship.actions.CancelSchedulesAction" name="cancel_scheduled_actions" />
+    <ActionEntry altName="^cc" class="com.urbanairship.actions.ChannelCaptureAction" name="channel_capture_action" />
+    <ActionEntry altName="^c" class="com.urbanairship.actions.ClipboardAction" name="clipboard_action" />
+    <ActionEntry altName="^d" class="com.urbanairship.actions.DeepLinkAction" name="deep_link_action" />
+    <ActionEntry altName="^ef" class="com.urbanairship.actions.EnableFeatureAction" name="enable_feature" />
+    <ActionEntry altName="^fdi" class="com.urbanairship.actions.FetchDeviceInfoAction" name="fetch_device_info" predicate="com.urbanairship.actions.FetchDeviceInfoAction$FetchDeviceInfoPredicate" />
+    <ActionEntry altName="^p" class="com.urbanairship.actions.LandingPageAction" name="landing_page_action" predicate="com.urbanairship.actions.LandingPageAction$LandingPagePredicate" />
+    <ActionEntry altName="^u" class="com.urbanairship.actions.OpenExternalUrlAction" name="open_external_url_action" />
+    <ActionEntry altName="^mc" class="com.urbanairship.actions.OpenRichPushInboxAction" name="open_mc_action" />
+    <ActionEntry altName="^mco" class="com.urbanairship.actions.OverlayRichPushMessageAction" name="open_mc_overlay_action" />
+    <ActionEntry altName="^-t" class="com.urbanairship.actions.tags.RemoveTagsAction" name="remove_tags_action" predicate="com.urbanairship.actions.tags.RemoveTagsAction$RemoveTagsPredicate" />
+    <ActionEntry altName="^sa" class="com.urbanairship.actions.ScheduleAction" name="schedule_actions" />
+    <ActionEntry altName="^s" class="com.urbanairship.actions.ShareAction" name="share_action" />
+    <ActionEntry class="com.urbanairship.actions.ToastAction" name="toast_action" />
+    <ActionEntry altName="^ra" class="com.urbanairship.actions.RateAppAction" name="rate_app_action" />
+    <ActionEntry altName="^w" class="com.urbanairship.actions.WalletAction" name="wallet_action" />
+</resources>

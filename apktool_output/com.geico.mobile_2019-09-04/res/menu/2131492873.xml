@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item icon="@drawable/APKTOOL_DUMMY_367" id="@id/2131299280" title="Welcome" />
+    <item icon="@drawable/APKTOOL_DUMMY_1af" id="@id/2131297616" title="Home" />
+</menu>

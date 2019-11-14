@@ -1,0 +1,133 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.geico.mobile_2019-09-04.apk
+compressionType: false
+doNotCompress:
+- arsc
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/com.fasterxml.jackson.core.ObjectCodec
+- tflite
+- assets/e
+- res/raw/JC
+- res/raw/JF
+- res/raw/Kn
+- res/raw/Kr
+- res/raw/TN
+- res/raw/TO
+- res/raw/TP
+- res/raw/TQ
+- png
+- res/raw/aLB
+- res/raw/aLE
+- res/raw/aLF
+- res/raw/aLH
+- res/raw/aLJ
+- res/raw/aLK
+- res/raw/aLL
+- res/raw/aLR
+- res/raw/aLV
+- res/raw/aLW
+- res/raw/aLX
+- res/raw/aLY
+- res/raw/aLZ
+- res/raw/aLr
+- res/raw/aLs
+- res/raw/aLy
+- res/raw/aLz
+- mp4
+- res/raw/aMf
+- res/raw/aMm
+- res/raw/aMn
+- res/raw/aMo
+- ogg
+- res/raw/aaM
+- res/raw/aaO
+- res/raw/aji
+- res/raw/alV
+- res/raw/alW
+- res/raw/alY
+- res/raw/iD
+- res/raw/lB
+- res/raw/lD
+- res/raw/ls
+- res/raw/oA
+- res/raw/oB
+- res/raw/oD
+- res/raw/oI
+- res/raw/wi
+- res/raw/zB
+- res/raw/zC
+- res/raw/zO
+- res/raw/zP
+- res/raw/zQ
+- res/raw/zR
+- res/raw/zy
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  a.: '0'
+  b.: '0'
+  c.: '0'
+  d.: '0'
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-core.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  firebase-ml-common.properties: '8'
+  firebase-ml-model-interpreter.properties: '8'
+  firebase-ml-vision-image-label-model.properties: '8'
+  firebase-ml-vision.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-analytics-impl.properties: '8'
+  play-services-analytics.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-awareness.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-clearcut.properties: '8'
+  play-services-flags.properties: '8'
+  play-services-location.properties: '8'
+  play-services-maps.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-phenotype.properties: '8'
+  play-services-places-placereport.properties: '8'
+  play-services-places.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tagmanager-v4-impl.properties: '8'
+  play-services-tasks.properties: '8'
+  play-services-vision-common.properties: '8'
+  play-services-vision-image-label.properties: '8'
+  play-services-vision.properties: '8'
+  version.properties: '0'
+  com/sun/jna/aix-ppc/libjnidispatch.a: '8'
+  com/sun/jna/darwin/libjnidispatch.jnilib: '8'
+  com/sun/jna/w32ce-arm/jnidispatch.dll: '8'
+  com/sun/jna/win32-x86-64/jnidispatch.dll: '8'
+  com/sun/jna/win32-x86/jnidispatch.dll: '8'
+  fabric/com.crashlytics.sdk.android.answers.properties: '8'
+  fabric/com.crashlytics.sdk.android.beta.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics-core.properties: '8'
+  fabric/com.crashlytics.sdk.android.crashlytics.properties: '8'
+  fabric/io.branch.sdk.android.library.properties: '8'
+  fabric/io.fabric.sdk.android.fabric.properties: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.0
+versionInfo:
+  versionCode: '181'
+  versionName: 4.34.1

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820889"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298431" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginBottom="10.0dip">
+        <TextView id="@id/2131298430" layout_width="wrap_content" layout_height="wrap_content" text="Property Location:" style="@style/2131820875" />
+        <TextView id="@id/2131298429" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131298430" style="@style/2131820875" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" id="@id/2131299263" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginRight="10.0dip" layout_marginBottom="10.0dip" style="@style/2131820875">
+        <TextView textColor="#ff000000" id="@id/2131299262" layout_width="wrap_content" layout_height="wrap_content" text="Visit the website to manage claims information,\nupdate policy information and make a payment" layout_weight="1.0" layout_centerInParent="true" style="@style/2131820876" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_weight="1.0" layout_centerInParent="true">
+            <Button id="@id/2131299260" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Visit %s WebSite" layout_weight="1.0" onClick="onVisitWebsiteClicked" style="@style/2131821306" />
+            <Button id="@id/2131298243" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Make a Payment" layout_weight="1.0" onClick="onPaymentSiteClicked" style="@style/2131821306" />
+            <Button id="@id/2131299258" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Visit %s WebSite" layout_weight="1.0" onClick="onVisitFirstOptionClicked" style="@style/2131821306" />
+            <Button id="@id/2131299259" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Visit %s WebSite" layout_weight="1.0" onClick="onVisitSecondOptionClicked" style="@style/2131821306" />
+            <Button id="@id/2131299261" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Visit %s WebSite" layout_weight="1.0" onClick="onVisitThirdOptionClicked" style="@style/2131821306" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <View id="@id/2131299240" background="#ffbab4ab" layout_width="wrap_content" layout_height="0.5dip" layout_margin="20.0dip" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131296761" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView id="@id/2131296747" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginTop="20.0dip" text="Claim Information" style="@style/2131820875" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" id="@id/2131296748" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginRight="10.0dip" layout_marginBottom="10.0dip" style="@style/2131820875">
+            <include layout="@layout/2131428106" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131298331" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="30.0dip" layout_marginBottom="5.0dip">
+        <include layout="@layout/2131428091" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

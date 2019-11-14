@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout id="@id/2131297760" layout_width="fill_parent" layout_height="fill_parent" layout_centerInParent="true" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820839" gravity="center_horizontal" id="@id/2131297603" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="You're seconds away from accessing your policy on the go!" 2130968834="@id/2131296399" 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" 2130968863="2131298817" />
+    <ImageView id="@id/2131296399" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="48.0dip" src="@drawable/APKTOOL_DUMMY_77" contentDescription="Welcome to GEICO" 2130968834="@id/2131298757" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297603" />
+    <TextView textAppearance="@style/2131820996" id="@id/2131298756" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="To set up your account, you'll need:" 2130968834="@id/2131298757" 2130968858="2131298157" />
+    <TableLayout id="@id/2131298757" layout_width="fill_parent" layout_height="wrap_content" 2130968834="@id/2131297569" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131296399">
+        <TableRow>
+            <TextView textAppearance="@style/2131820757" id="@id/2131299325" layout_width="wrap_content" layout_height="wrap_content" layout_column="1" text="•" />
+            <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131299324" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" layout_column="2" text="Your Auto or Cycle Policy Number\n(Where can I find it?)" layout_weight="1.0" />
+        </TableRow>
+        <TableRow>
+            <TextView textAppearance="@style/2131820757" id="@id/2131296992" layout_width="wrap_content" layout_height="wrap_content" layout_column="1" text="•" />
+            <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131296991" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" layout_column="2" text="Date of Birth" />
+        </TableRow>
+        <TableRow>
+            <TextView textAppearance="@style/2131820757" id="@id/2131299335" layout_width="wrap_content" layout_height="wrap_content" layout_column="1" text="•" />
+            <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131299334" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" layout_column="2" text="Zip Code" />
+        </TableRow>
+    </TableLayout>
+    <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131297569" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" 2130968833="2131298157" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131298757">
+        <Button id="@id/2131297568" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Get Started" onClick="onStartActivateAccountClicked" style="@style/2131820547" />
+        <TextView textAppearance="@style/2131820996" textColorLink="#ffffffff" id="@id/2131296480" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Already have an account? Log in." />
+        <TextView textAppearance="@style/2131820996" textColorLink="#ffffffff" id="@id/2131297131" layout_width="wrap_content" layout_height="wrap_content" text="Don't have a policy yet?" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

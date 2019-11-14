@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131298569" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131428156" />
+    <LinearLayout orientation="vertical" id="@id/2131298490" clickable="true" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" />
+    <LinearLayout layout_marginTop="16.0dip" style="@style/2131820885">
+        <Button id="@id/2131298488" layout_width="0.0dip" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Continue" layout_weight="1.0" onClick="onRecoveryAccountContinueClicked" />
+    </LinearLayout>
+</LinearLayout>

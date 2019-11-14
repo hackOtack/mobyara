@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_gravity="right" background="#ff154995" layout_width="60.0dip" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297344" background="#ff103873" layout_width="fill_parent" layout_height="60.0dip" layout_alignParentTop="true" onClick="onErsCourtesyCardMenuCloseButtonClicked">
+        <ImageView layout_gravity="center" id="@id/2131297343" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_186" contentDescription="close button icon" />
+    </FrameLayout>
+    <FrameLayout id="@id/2131297346" layout_width="fill_parent" layout_height="60.0dip" layout_alignParentBottom="true" onClick="onErsCourtesyCardMenuTurnButtonClicked">
+        <ImageView layout_gravity="center" id="@id/2131297345" layout_width="wrap_content" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_411" contentDescription="flip button icon" />
+    </FrameLayout>
+</RelativeLayout>

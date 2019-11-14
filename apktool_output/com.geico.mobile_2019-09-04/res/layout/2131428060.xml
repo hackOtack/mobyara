@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820838" gravity="center" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="32.0dip" text="We'll need permission to access your camera and location" layout_marginStart="24.0dip" layout_marginEnd="24.0dip" />
+    <LinearLayout gravity="center_horizontal" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="24.0dip" weightSum="2.3" layout_marginStart="24.0dip" layout_marginEnd="24.0dip">
+        <ImageView layout_width="0.0dip" layout_height="120.0dip" layout_weight="1.0" 2130968978="@drawable/2131231609" />
+        <ImageView layout_gravity="center_vertical" layout_width="0.0dip" layout_height="wrap_content" src="@drawable/2131230841" tint="#ff154995" layout_weight="0.3" layout_marginStart="4.0dip" layout_marginEnd="4.0dip" />
+        <ImageView layout_width="0.0dip" layout_height="120.0dip" src="@drawable/2131231610" layout_weight="1.0" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820756" textColor="#ff000000" gravity="center" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="32.0dip" text="We'll need to access your camera, location, and GPS in order to take photos of your car's damage. Without access, you'll need to change your inspection option" layout_marginStart="24.0dip" layout_marginEnd="24.0dip" />
+    <Space layout_width="wrap_content" layout_height="0.0dip" layout_weight="1.0" />
+    <Button theme="@style/2131821202" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Allow Access" onClick="onGetStartedClicked" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" style="@style/2131820937" />
+    <Button theme="@style/2131821202" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Change Inspection Option" onClick="onChangeInspectionOptionClicked" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" style="@style/2131820941" />
+</LinearLayout>

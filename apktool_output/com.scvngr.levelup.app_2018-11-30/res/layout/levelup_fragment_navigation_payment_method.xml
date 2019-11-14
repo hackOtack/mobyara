@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingLeft="@dimen/levelup_padding_extra" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:paddingRight="@dimen/levelup_settings_drawable_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/levelup_payment_method" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:paddingLeft="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/profile_navigation">
+            <TextView android:gravity="center|left" android:id="@android:id/text1" android:paddingLeft="0.0dip" android:paddingRight="8.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_payment_method" android:layout_weight="1.0" style="@style/profile_navigation" />
+            <FrameLayout android:id="@id/levelup_navigation_payment_method_description_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ProgressBar android:layout_gravity="right" android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" style="?android:progressBarStyle" />
+                <TextView android:id="@id/levelup_fragment_content" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/profile_information_accented" />
+            </FrameLayout>
+            <ImageView android:layout_gravity="center" android:paddingLeft="@dimen/levelup_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right" />
+        </LinearLayout>
+        <View android:background="@color/levelup_settings_divider" android:layout_width="fill_parent" android:layout_height="@dimen/levelup_settings_divider_height" />
+    </LinearLayout>
+</LinearLayout>

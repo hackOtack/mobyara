@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298468" paddingBottom="5.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131298106" layout_width="wrap_content" layout_height="wrap_content" layout_toLeftOf="@id/2131298107" layout_alignBaseline="@id/2131298107" layout_alignParentLeft="true" style="@style/2131820873" />
+    <RadioButton enabled="true" id="@id/2131298107" clickable="false" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentTop="true" layout_alignParentRight="true" />
+    <View id="@id/2131298639" background="#ffe1dbce" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="5.0dip" layout_below="@id/2131298107" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

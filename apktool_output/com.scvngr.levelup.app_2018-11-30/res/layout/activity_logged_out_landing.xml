@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/levelup_activity_content" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment android:name="com.scvngr.levelup.ui.fragment.LoggedOutSlideshowFragment" android:gravity="center" android:id="@id/levelup_fragment_logged_out_slideshow" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/levelup_fragment_login_or_register_chooser" />
+    <fragment android:name="com.scvngr.levelup.ui.fragment.LoginOrRegisterChooserFragment" android:id="@id/levelup_fragment_login_or_register_chooser" android:tag="com.scvngr.levelup.ui.fragment.LoginOrRegisterChooserFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginRight="10.0dip" android:text="@string/logged_out_landing_explore_overlay_text" android:layout_alignParentTop="true" android:layout_alignParentRight="true" style="@style/levelup_app_explore_places" />
+</RelativeLayout>

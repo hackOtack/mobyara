@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820997" id="@id/2131298175" layout_width="fill_parent" layout_height="wrap_content" text="Start" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298176" clickable="true" layout_width="fill_parent" layout_height="wrap_content" onClick="onStartClicked" style="@style/2131821279" />
+    <include layout="@layout/2131427578" />
+</LinearLayout>

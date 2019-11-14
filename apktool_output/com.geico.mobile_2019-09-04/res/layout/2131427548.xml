@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297967" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Monday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131297966" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131299065" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Tuesday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131299064" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131299278" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Wednesday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131299277" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131298983" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Thursday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131298982" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131297512" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Friday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131297511" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131298653" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Saturday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131298652" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131298910" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" text="Sunday" />
+        <TextView textAppearance="@style/2131820756" gravity="right" id="@id/2131298909" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

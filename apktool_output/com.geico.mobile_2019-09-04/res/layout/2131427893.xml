@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What's covered?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165337">
+        <TextView text="Damage to your boat including hull, sails, machinery, etc." style="@style/2131820773" />
+        <TextView text="New boat replacement" style="@style/2131820773" />
+        <TextView text="Fuel spill liability and more" style="@style/2131820773" />
+    </LinearLayout>
+    <TextView text="Is my boat covered under my homeowner's policy?" style="@style/2131820882" />
+    <TextView text="Probably not. Most homeowner's policies have:" style="@style/2131820881" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165337">
+        <TextView text="Size restrictions" style="@style/2131820761" />
+        <TextView text="Limitations on horsepower" style="@style/2131820761" />
+        <TextView text="Limits on damage coverage" style="@style/2131820761" />
+    </LinearLayout>
+</LinearLayout>

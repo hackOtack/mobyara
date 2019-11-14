@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820784"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff60574a" id="@id/2131298358" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" text="GEICO Related Policies" style="@style/2131820875" />
+    <TextView id="@id/2131298359" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" text="These policies may include other auto, cycle, homeowner or other related policies in your name through GEICO or GEICO Insurance Agency Inc." layout_below="@id/2131298358" style="@style/2131820875" />
+    <Button id="@id/2131296778" layout_width="fill_parent" layout_height="wrap_content" layout_margin="5.0dip" text="CLOSE" layout_below="@id/2131298359" onClick="onHelpPopupCloseClicked" style="@style/2131820544" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

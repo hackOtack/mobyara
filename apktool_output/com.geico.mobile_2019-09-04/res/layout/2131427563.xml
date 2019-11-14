@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout background="#803773ca" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.AppCompatImageView id="@id/2131297074" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_71" layout_centerHorizontal="true" />
+    <LinearLayout orientation="vertical" background="#4d000000" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="156.0dip" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true">
+        <TextView textColor="#ffffffff" gravity="center" layout_gravity="center_horizontal" id="@id/2131297073" paddingLeft="64.0dip" paddingTop="4.0dip" paddingRight="64.0dip" layout_width="wrap_content" layout_height="wrap_content" />
+        <Button textColor="#ff154995" gravity="center" layout_gravity="center_horizontal" id="@id/2131297071" background="@drawable/2131231165" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="12.0dip" minWidth="0.0dip" minHeight="0.0dip" style="@style/2131820980" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_margin="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820990" gravity="center" id="@id/2131297785" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" text="Great! \n Let's get you logged in!" />
+</LinearLayout>

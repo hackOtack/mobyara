@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131298395" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+    <TextView id="@id/2131298392" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" text="Claim Number" style="@style/2131820876" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText id="@id/2131298393" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" maxLength="16" inputType="number" style="@style/2131820873" />
+    <TextView id="@id/2131298396" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" layout_marginBottom="4.0dip" text="Your First Name" style="@style/2131820876" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText id="@id/2131298397" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" maxLength="30" style="@style/2131820873" />
+    <TextView id="@id/2131298399" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" layout_marginBottom="4.0dip" text="Your Last Name" style="@style/2131820876" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText id="@id/2131298400" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" singleLine="true" maxLength="30" style="@style/2131820873" />
+    <Button id="@id/2131298394" layout_height="wrap_content" layout_marginTop="16.0dip" text="Continue" onClick="onContinueClicked" style="@style/2131821109" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

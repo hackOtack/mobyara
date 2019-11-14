@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true">
+        <fragment name="o.ӀԼ" id="@id/2131296697" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131298914" />
+    </ScrollView>
+    <include layout="@layout/2131428200" />
+</RelativeLayout>

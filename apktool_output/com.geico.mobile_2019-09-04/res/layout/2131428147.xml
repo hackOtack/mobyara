@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296330" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131296334" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="The new PIN has been sent. The PIN will expire in 10 minutes." />
+    <Button id="@id/2131296336" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Resend PIN" onClick="onResendPinClicked" style="@style/2131820980" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296331" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Enter PIN" />
+    <EditText id="@id/2131296333" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" minWidth="70.0dip" singleLine="true" maxLength="6" inputType="number" />
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131296329" layout_width="0.0dip" layout_height="wrap_content" text="Continue" layout_weight="1.0" onClick="onValidatePinClicked" />
+    </LinearLayout>
+</LinearLayout>

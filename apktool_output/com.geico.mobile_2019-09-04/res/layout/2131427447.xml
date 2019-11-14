@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow id="@id/2131298928" background="@drawable/2131231749" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout layout_gravity="left" orientation="vertical" padding="16.0dip" layout_width="0.0dip" layout_height="fill_parent" layout_weight="7.0">
+        <TextView textAppearance="@style/2131820994" textColor="#ff4ba449" layout_gravity="center_vertical" id="@id/2131298002" layout_width="wrap_content" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820994" textColor="#ff686362" layout_gravity="center_vertical" id="@id/2131298000" layout_width="wrap_content" layout_height="wrap_content" />
+    </LinearLayout>
+    <Button textColor="#ff4ba449" gravity="center" layout_gravity="center|right" id="@id/2131298885" layout_width="0.0dip" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="View" layout_weight="4.0" style="@style/2131820964" />
+</TableRow>

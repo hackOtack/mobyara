@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginRight="@dimen/2131165265">
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Note: Changes must be requested at least three days prior to your payment due date." />
+        <View background="#ffbab4ab" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Account Type" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296348" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Unknown" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Account Holder" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296285" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Unknown" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Last Four Digits of Account Number" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296278" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Unknown" />
+        <LinearLayout orientation="vertical" id="@id/2131297373" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip">
+            <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" text="Exp. Date" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131296279" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Unknown" />
+        </LinearLayout>
+        <View background="#ffbab4ab" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="16.0dip" />
+        <TextView textAppearance="@style/2131820754" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="You have indicated that you wish to stop your automatic payment method. Were you aware we offer several alternative options for your convenience? You can postpone your automatic payment, change your payment information, or switch your payment method above.\nBy selecting this option you are affirming that you wish to stop your automatic payment process. Please note that this will not change the dates of any future payments." />
+        <RadioGroup orientation="vertical" id="@id/2131299093" layout_width="fill_parent" layout_height="wrap_content" checkedButton="@id/2131297694">
+            <RadioButton id="@id/2131297694" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Immediately" />
+            <RadioButton id="@id/2131296465" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="After currently scheduled withdrawal" />
+        </RadioGroup>
+        <CheckBox id="@id/2131298542" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Please permanently delete this account from my policy. I no longer wish to use it for one-time payments or to re-enroll in automatic payments." />
+        <Button layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Continue" onClick="onContinueUnEnrollClicked" textAllCaps="true" style="@style/2131820937" />
+    </LinearLayout>
+</ScrollView>

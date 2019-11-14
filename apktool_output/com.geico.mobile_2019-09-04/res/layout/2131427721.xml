@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820838" textStyle="bold" textColor="#ffffffff" id="@id/2131297404" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" text="We value your opinion." />
+    <TextView textAppearance="@style/2131821112" id="@id/2131297406" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="4.0dip" text="How do you feel about your experience with us today?" />
+    <LinearLayout layout_gravity="center" orientation="horizontal" id="@id/2131297405" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" weightSum="3.0">
+        <ImageButton id="@id/2131297576" layout_width="0.0dip" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_254" layout_weight="1.0" onClick="onGreenSmileyClicked" contentDescription="" style="@style/2131820980" />
+        <ImageButton id="@id/2131299313" layout_width="0.0dip" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_454" layout_weight="1.0" onClick="onYellowSmileyClicked" contentDescription="" style="@style/2131820980" />
+        <ImageButton id="@id/2131298522" layout_width="0.0dip" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3bc" layout_weight="1.0" onClick="onRedSmileyClicked" contentDescription="" style="@style/2131820980" />
+    </LinearLayout>
+</LinearLayout>

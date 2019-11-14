@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="?APKTOOL_DUMMY_c7" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131297244" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Emergency Contacts And More" contentDescription="ERS Contacts Header" />
+    <Button textColor="#ff000000" gravity="left" id="@id/2131298558" layout_width="wrap_content" layout_height="wrap_content" text="Report an Accident" drawableLeft="@drawable/APKTOOL_DUMMY_1df" drawablePadding="32.0dip" onClick="onReportAnAccidentButtonClicked" contentDescription="Report An Accident Button" style="@style/2131820980" />
+    <Button textColor="#ff000000" gravity="left" id="@id/2131298536" layout_width="wrap_content" layout_height="wrap_content" text="Reimbursement Information" drawableLeft="@drawable/APKTOOL_DUMMY_1e7" drawablePadding="32.0dip" onClick="onReimbursementInformationClicked" contentDescription="Reimbursement Information Button" style="@style/2131820980" />
+    <Button textColor="#ff000000" gravity="left" id="@id/2131296613" layout_width="wrap_content" layout_height="wrap_content" text="Call 911" drawableLeft="@drawable/APKTOOL_DUMMY_1e2" drawablePadding="32.0dip" onClick="onCall911ButtonClicked" contentDescription="Call 911 Button" style="@style/2131820980" />
+    <Button textColor="#ff000000" gravity="left" id="@id/2131296614" layout_width="wrap_content" layout_height="wrap_content" text="CALL GEICO ROADSIDE ASSISTANCE" drawableLeft="@drawable/APKTOOL_DUMMY_1e2" drawablePadding="32.0dip" onClick="onCallGeicoErsButtonClicked" contentDescription="Call Geico Button" style="@style/2131820980" />
+</LinearLayout>

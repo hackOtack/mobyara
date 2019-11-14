@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+            <com.scvngr.levelup.ui.view.WebImageViewWithOverlay android:id="@id/levelup_claim_success_image" android:layout_width="fill_parent" style="@style/levelup_web_image_with_overlay" />
+            <com.scvngr.levelup.ui.view.LinkifiedTextView android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginRight="@dimen/levelup_padding_inner" />
+            <TextView android:id="@android:id/text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginRight="@dimen/levelup_padding_inner" />
+            <LinearLayout android:orientation="vertical" android:id="@id/levelup_claim_success_sharing_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements">
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginRight="@dimen/levelup_padding_inner" android:text="@string/levelup_claim_success_header2" style="@style/levelup_header" />
+                <View style="@style/levelup_divider" />
+                <TextView android:gravity="center_vertical" android:id="@id/levelup_claim_success_facebook_share" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginRight="@dimen/levelup_padding_inner" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_claim_success_share_facebook" android:drawableLeft="@drawable/levelup_ic_list_facebook" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_clickable" />
+                <View style="@style/levelup_divider" />
+                <TextView android:gravity="center_vertical" android:id="@id/levelup_claim_success_twitter_share" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginRight="@dimen/levelup_padding_inner" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_claim_success_share_twitter" android:drawableLeft="@drawable/levelup_ic_list_twitter" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_clickable" />
+                <View style="@style/levelup_divider" />
+                <TextView android:gravity="center_vertical" android:id="@id/levelup_claim_success_email_share" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_padding_inner" android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginRight="@dimen/levelup_padding_inner" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_claim_success_share_email" android:drawableLeft="@drawable/levelup_ic_list_email" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_clickable" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

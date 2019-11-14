@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427851" />
+    <CheckBox id="@id/2131298767" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" checked="true" text="Show this again?" style="@style/2131820873" />
+    <LinearLayout orientation="vertical" id="@id/2131298349" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip">
+        <Button id="@id/2131298773" layout_width="fill_parent" layout_height="wrap_content" text="Current Policy Term" onClick="onClickViewOfficialOldTermIdCard" />
+        <Button id="@id/2131298772" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" text="New Policy Term" onClick="onClickViewOfficialNewTermIdCard" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131299235" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip">
+        <Button id="@id/2131299234" layout_width="fill_parent" layout_height="wrap_content" text="View Official ID Card" onClick="onClickViewOfficialIdCard" />
+    </LinearLayout>
+</LinearLayout>

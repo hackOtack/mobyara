@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppBusiness.ui.drawers.AceDrawerLayout id="@id/2131297136" fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131296844" layout_width="fill_parent" layout_height="fill_parent" />
+    <FrameLayout layout_gravity="start" id="@id/2131297135" layout_width="300.0dip" layout_height="fill_parent">
+        <fragment name="o.rG" id="@id/2131297134" layout_width="fill_parent" layout_height="fill_parent" />
+    </FrameLayout>
+</com.geico.mobile.android.ace.geicoAppBusiness.ui.drawers.AceDrawerLayout>

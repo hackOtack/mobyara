@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.scvngr.levelup.ui.view.WebImageView android:id="@id/levelup_gift_card_order_header_web_image" android:contentDescription="@null" style="@style/levelup_gift_card_order_header_web_image" />
+            <ImageView android:id="@id/levelup_gift_card_order_header_image" android:contentDescription="@null" style="@style/levelup_gift_card_order_header_image" />
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" />
+                <EditText android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" android:hint="@string/levelup_gift_card_order_email_hint" android:inputType="textEmailAddress" android:imeOptions="actionNext" />
+                <EditText android:id="@android:id/text2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" android:hint="@string/levelup_gift_card_order_name_hint" android:inputType="textPersonName|textCapWords" android:imeOptions="actionNext" />
+                <EditText android:id="@id/levelup_gift_card_amount" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" android:hint="@string/levelup_gift_card_order_dollar_value_hint" android:maxLength="10" android:digits="$.0123456789" android:inputType="number" android:imeOptions="actionNext|flagNoFullscreen" />
+                <EditText android:id="@android:id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/levelup_gift_card_order_message_hint" style="@style/levelup_gift_card_order_message_edit_text" />
+            </LinearLayout>
+            <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_gift_card_order_submit_button" style="@style/levelup_button_positive" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

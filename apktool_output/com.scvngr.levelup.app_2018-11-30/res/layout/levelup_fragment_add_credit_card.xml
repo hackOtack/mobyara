@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+            <Button android:id="@android:id/button1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_cc_add_scan_card_button" android:drawableLeft="@drawable/levelup_ic_btn_scan_card" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_button_neutral" />
+            <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" style="@style/levelup_frame">
+                <EditText android:id="@id/levelup_cc_add_card_number" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/levelup_cc_add_card_number" android:drawableLeft="@drawable/levelup_credit_card_generic" android:drawablePadding="@dimen/levelup_padding_drawable" android:inputType="number" android:imeOptions="actionNext" />
+                <EditText android:id="@id/levelup_cc_add_cvv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_cc_add_cvv" android:inputType="number" android:imeOptions="actionNext" />
+                <EditText android:id="@id/levelup_cc_add_expiration_date" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_cc_add_expiration_date" android:inputType="none" android:imeOptions="actionNext" />
+                <EditText android:id="@id/levelup_cc_add_zip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:hint="@string/levelup_cc_add_zip" android:maxLength="5" android:inputType="number" android:imeOptions="actionGo" />
+                <TextView android:id="@id/levelup_cc_add_pci_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:drawableLeft="@drawable/levelup_ic_cc_add_lock" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_credit_card_privacy" />
+            </LinearLayout>
+            <Button android:id="@android:id/button2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" android:text="@string/levelup_cc_add_submit_button" style="@style/levelup_button_positive" />
+            <TextView android:layout_gravity="right" android:id="@android:id/text2" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" style="@style/levelup_cc_add_card_info_text" />
+            <include layout="@layout/levelup_whitelabel_logo" />
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>

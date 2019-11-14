@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+    <TextView textAppearance="@style/2131820838" id="@id/2131298329" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" text="Policy Linking" layout_below="@id/2131296390" layout_alignParentTop="true" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298322" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" text="View and manage your GEICO related policies all in one place. Simply select a policy to link below or link your policies later on geico.com." />
+    <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableExpandableListView id="@id/2131298326" layout_width="fill_parent" layout_height="fill_parent" groupIndicator="@null" divider="@null" />
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131298327" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" text="No Thanks, Continue to My Account" layout_weight="1.0" onClick="onNoThanksClicked" style="@style/2131820980" />
+    </LinearLayout>
+</LinearLayout>

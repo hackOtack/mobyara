@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar id="@id/2131298414" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" indeterminate="true" indeterminateOnly="true" layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+    <android.support.v7.widget.RecyclerView orientation="vertical" id="@id/2131298520" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+</RelativeLayout>

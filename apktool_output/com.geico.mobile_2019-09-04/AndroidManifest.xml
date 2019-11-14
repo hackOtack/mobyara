@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" compileSdkVersion="28" compileSdkVersionCodename="9" package="com.geico.mobile" platformBuildVersionCode="28" platformBuildVersionName="9" versionName="4.34.1">
+    <supports-screens largeScreens="true" normalScreens="true" smallScreens="true" xlargeScreens="true"/>
+    <permission description="@string/2131756696" label="GEICO" name="com.geico.mobile.security.APP_PERMISSION" protectionLevel="signature"/>
+    <permission name="com.geico.mobile.permission.MAPS_RECEIVE" protectionLevel="signature"/>
+    <uses-feature name="android.hardware.camera" required="false"/>
+    <uses-feature name="android.hardware.camera.autofocus" required="false"/>
+    <uses-feature name="android.hardware.location" required="false"/>
+    <uses-feature name="android.hardware.location.gps" required="false"/>
+    <uses-feature name="android.hardware.location.network" required="false"/>
+    <uses-feature name="android.hardware.microphone" required="false"/>
+    <uses-feature name="android.hardware.wifi" required="false"/>
+    <uses-feature name="android.hardware.telephony" required="false"/>
+    <uses-permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission name="android.permission.CAMERA"/>
+    <uses-permission name="android.permission.INTERNET"/>
+    <uses-permission name="android.permission.RECORD_AUDIO"/>
+    <uses-permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission name="com.geico.mobile.security.APP_PERMISSION"/>
+    <uses-permission name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission name="com.geico.mobile.permission.MAPS_RECEIVE"/>
+    <uses-permission name="android.permission.VIBRATE"/>
+    <uses-permission name="android.permission.READ_CONTACTS"/>
+    <uses-permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission name="android.permission.WAKE_LOCK"/>
+    <uses-feature glEsVersion="0x00020000" required="true"/>
+    <uses-permission name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission name="android.permission.CALL_PHONE"/>
+    <uses-feature name="android.hardware.camera.front" required="false"/>
+    <uses-feature name="android.hardware.camera.flash" required="false"/>
+    <uses-feature name="android.hardware.screen.landscape" required="false"/>
+    <application allowBackup="false" android:icon="@mipmap/ic_launcher" android:isSplitRequired="true" appComponentFactory="android.support.v4.app.CoreComponentFactory" label="@string/2131755866" launchMode="singleTask" name=".android.ace.geicoAppPresentation.application.AceGeicoApplication" resizeableActivity="false" supportsRtl="true" theme="@style/2131820819" usesCleartextTraffic="true">
+        <activity android:name="o.ռ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.Іլ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820769"/>
+        <activity android:name="o.аІ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.вǃ" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.ւƗ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.ւɍ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.ıʙ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.ʁІ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820549"/>
+        <activity android:name="o.ʊı" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name=".android.ace.geicoAppPresentation.barCodes.AceBarcodeScanActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="landscape"/>
+        <activity android:name="o.О" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.вɩ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.ӄ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.գ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820771"/>
+        <activity android:name=".android.ace.geicoAppPresentation.dashfolio.AceDashfolioActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820899"/>
+        <activity android:name="o.ӀΣ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.ԼІ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.Լі" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.ԼӀ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.Տ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.аɪ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.ϫı" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.ʁɪ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.ιϫ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.ιӿ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.αı" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.вɹ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.ж" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.ʀɪ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.Ӏȣ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.ծ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.ıҽ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.լӏ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.Іʙ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.вІ" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.nV" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820805"/>
+        <activity android:name="o.ҩ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.լɪ" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748" windowSoftInputMode="stateHidden"/>
+        <activity android:name="o.յϳ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.wE" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.ȣΙ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.յЈ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.ȣӀ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820748"/>
+        <activity android:name="o.ϼ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.Օ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820747"/>
+        <activity android:name="o.լł" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.ʉı" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820748"/>
+        <activity android:name="o.էІ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820778"/>
+        <activity android:name="o.мı" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.լɽ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820778"/>
+        <activity android:name=".android.ace.geicoAppPresentation.contactGeico.AceContactGeicoActivity" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.Ө" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.d" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.j" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.i" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.k" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.q" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.o" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.ѥı" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.contactGeico.agentSearch.AceContactGeicoByAgentActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820814" windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951616"/>
+        </activity>
+        <activity android:name="o.Ց" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820821" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.вι" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820751"/>
+        <activity android:name="o.z" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820568"/>
+        <activity android:name="o.V" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.bF" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.bJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820807"/>
+        <activity android:name="o.bK" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820807"/>
+        <activity android:name="o.cP" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.cS" launchMode="singleTop" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait"/>
+        <activity android:name="o.cW" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.vJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820567"/>
+        <activity android:name="o.cZ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="landscape" theme="@style/2131820801"/>
+        <activity android:name="o.dH" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820805"/>
+        <activity android:name="o.dG" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820805"/>
+        <activity android:name="o.eC" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820805"/>
+        <activity android:name=".android.ace.geicoAppPresentation.explore.game.AceExploreGameOnboardingActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820803" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name=".android.ace.geicoAppPresentation.inventoryCalculator.AceInventoryCalculatorOnboardingActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820803" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name=".android.ace.geicoAppPresentation.explore.AceExploreOnboardingActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820803" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.fJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name="o.fW" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.gb" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.firstStart.AceGuestServicesLandingActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="o.go" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceUnlinkedAppendZipCodeWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceClaimsWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceEcamsWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceFullSiteTransferActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceFeedbackWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceFullSiteWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceSalesQuoteWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceUmbrellaWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceUnlinkedWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.BV" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820810"/>
+        <activity android:name="o.BW" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820813"/>
+        <activity android:name="o.BY" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820824"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceVehicleCareWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceWebViewErrorPageActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.wn" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fusedLocation.AceLocationSearchInitializerActivity" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name=".android.ace.geicoAppPresentation.geniusLinks.AceGeniusLinkLandingActivity" launchMode="singleTask" noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="com.geico.genius"/>
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="geicoappdeeplink"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="o.kV" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.lc" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.lb" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.li" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.me" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.findgas.AceFindGasActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820808">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951622"/>
+        </activity>
+        <activity android:name=".android.ace.geicoAppPresentation.findgas.AceFindGasFiltersActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name=".android.ace.geicoAppPresentation.findgas.AceFindGasInfoActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name=".android.ace.geicoAppPresentation.findRide.AceFindRideActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name=".android.ace.geicoAppPresentation.findRide.AceFindRideMapActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name=".android.ace.geicoAppPresentation.findRide.AceFindRideTaxiActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820807">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951622"/>
+        </activity>
+        <activity android:name=".android.ace.geicoAppPresentation.findRide.AceRideShareActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820813">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951622"/>
+        </activity>
+        <activity android:name=".android.ace.geicoAppPresentation.findRide.AceRideShareTypesActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820813"/>
+        <activity android:name=".android.ace.geicoAppPresentation.fullSite.AceAuthenticatedThirdPartyWebViewActivity" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.ks" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820948"/>
+        <activity android:name="o.lk" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820821"/>
+        <activity android:name="o.kY" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820821"/>
+        <activity android:name="o.lf" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="landscape" theme="@style/2131820821"/>
+        <activity android:name="o.lm" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.lw" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820571"/>
+        <activity android:name="o.lA" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.lQ" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.lT" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.oQ" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.oO" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.oU" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.oT" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.pb" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.pc" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.pd" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.ph" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820950"/>
+        <activity android:name="o.rk"/>
+        <activity android:name="o.lZ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.lY" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.mf" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.mn" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.pl" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.pH" configChanges="keyboardHidden|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820893"/>
+        <activity android:name="o.qF" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.qM" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.qJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.qV" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.rb" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.rB" configChanges="keyboard|keyboardHidden|orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.rL" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zA" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.rR" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.rW" launchMode="singleTop" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait"/>
+        <activity android:name="o.se" launchMode="singleTop" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait"/>
+        <activity android:name="o.su" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820899"/>
+        <activity android:name=".android.ace.geicoAppPresentation.parking.AceParkingActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820813">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951622"/>
+        </activity>
+        <activity android:name="o.tb" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.te" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.to" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.tw" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.tr" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.sJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820811"/>
+        <activity android:name="o.th" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.tm" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.tj" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="o.tB" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.be" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.wK" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.wJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.wM" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.wO" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820934"/>
+        <activity android:name="o.wG" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.xA" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820933"/>
+        <activity android:name="o.xJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.xQ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.ya" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.yh" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131820565"/>
+        <activity android:name="o.yl" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.xw" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820936"/>
+        <activity android:name="o.yE" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="landscape" theme="@style/2131820821"/>
+        <activity android:name="o.zh" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820893"/>
+        <activity android:name="o.yM" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.yV" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.yR" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="com.cccis.sdk.android.vindecoding.OverlayLandscapeActivity" label="@string/2131757509" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape" theme="@style/2131821093"/>
+        <activity android:name="com.cccis.mobile.sdk.android.qephotocapture.QELandscapeOverlayActivity" label="@string/2131757248" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape" theme="@style/2131821093"/>
+        <activity android:name="o.yU" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.zd" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.zb" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820820"/>
+        <activity android:name="o.kx" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820948"/>
+        <activity android:name="o.ze" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zj" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zk" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820819"/>
+        <activity android:name="o.zn" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zt" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zm" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.zr" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceDealershipSearchActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820954"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceLocationActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceReimbursementActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceRequestConfirmationActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceReviewAndSubmitActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceWhatIsWrongActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceYourInformationActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.roadsideAssistance.AceRoadsideAssistanceMainActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820961"/>
+        <activity android:name=".android.ace.geicoAppPresentation.print.AceGooglePrintDialogActivity" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" windowSoftInputMode="stateHidden"/>
+        <activity android:name=".android.ace.geicoAppPresentation.splash.AceSplashActivity" label="@string/2131755866" launchMode="singleTask" noHistory="true" theme="@style/2131820821">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="android.app.shortcuts" resource="@xml/2131951623"/>
+        </activity>
+        <activity android:name="o.zw" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.At" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820899"/>
+        <activity android:name="o.Bu" label="@string/2131757663" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name="o.Bq" label="@string/2131757663" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION"/>
+        <activity android:name=".android.ace.geicoAppPresentation.search.AceUserWorkAddressSearchActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820936">
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH"/>
+            </intent-filter>
+            <meta-data android:name="android.app.searchable" resource="@xml/2131951622"/>
+        </activity>
+        <activity android:name="o.Ci" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820933"/>
+        <activity android:name="o.wr" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820567"/>
+        <activity android:name="o.Cq" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820824"/>
+        <activity android:name="o.Df" configChanges="orientation|screenSize" launchMode="singleTask" noHistory="true" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131821201"/>
+        <activity android:name="o.Cy" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131821201"/>
+        <activity android:name="o.CE" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131821201"/>
+        <activity android:name="o.Dg" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape" theme="@style/2131821201"/>
+        <activity android:name="o.CW" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape" theme="@style/2131821093"/>
+        <activity android:name="o.Dk" configChanges="orientation|screenSize" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape" theme="@style/2131820821"/>
+        <activity android:name="o.CG" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131821201"/>
+        <activity android:name="o.CP" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="portrait" theme="@style/2131821201"/>
+        <activity android:name="o.wb" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820567"/>
+        <activity android:name="o.AI" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820778"/>
+        <activity android:name="o.AL" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820778"/>
+        <activity android:name="o.AG" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820778"/>
+        <activity android:name="o.AJ" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="landscape" theme="@style/2131820801"/>
+        <activity android:name="o.Bj" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" theme="@style/2131820570"/>
+        <activity android:name="com.cccis.sdk.android.photocapturelocalstorage.QELocalStoragePhotoCaptureLandscapeActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape"/>
+        <activity android:name="com.cccis.sdk.android.photocapturelocalstorage.QELocalStorageRetakePhotoLandscapeActivity" launchMode="singleTask" permission="com.geico.mobile.security.APP_PERMISSION" screenOrientation="sensorLandscape"/>
+        <service exported="false" name="o.ιϳ"/>
+        <service exported="false" name=".android.ace.geicoAppBusiness.roadTrippers.serviceFramework.AceRoadTrippersSearchBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppBusiness.roadTrippers.serviceFramework.AceRoadTrippersImageBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceCustomFileDownloadBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceGetARideBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AcePrepareForMakePaymentBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppBusiness.surveys.AcePrepareForSurveyBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AcePrepareToUpdateAccountsViewBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AcePrepareIdCardsBackgroundService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AcePayPlanOptionsService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceCurrentDateAndTimeService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceListClaimsService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceVehicleCareRecallService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceErsProviderAssignmentDetailService"/>
+        <service exported="false" name=".android.ace.geicoAppPresentation.backgroundServices.AceRetrieveCoverageReportBackgroundService"/>
+        <meta-data android:name="com.google.android.awareness.API_KEY" android:value="AIzaSyA21bb3oIur2ZnNN3kt_FNQ-NMUOZlUeLs"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyA21bb3oIur2ZnNN3kt_FNQ-NMUOZlUeLs"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="12451000"/>
+        <meta-data android:name="com.google.ar.core" android:value="optional"/>
+        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_cdx48HLr92TSxZjby6NtdfepDDfcfxpz"/>
+        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_pkAY7RLvW5KGx7motYSLJnlnsAddhEkO"/>
+        <meta-data android:name="io.branch.sdk.TestMode" android:value="false"/>
+        <provider authorities="com.geico.mobile.android.fileprovider" exported="false" grantUriPermissions="true" name="o.Ιı">
+            <meta-data name="android.support.FILE_PROVIDER_PATHS" resource="@xml/2131951618"/>
+        </provider>
+        <provider authorities="com.geico.mobile.android.ace.geicoAppPresentation.idCards.FileContentProvider" enabled="true" exported="false" grantUriPermissions="true" name="o.ms"/>
+        <receiver exported="false" name="o.yJ">
+            <intent-filter priority="1">
+                <action android:name="com.urbanairship.push.CHANNEL_UPDATED"/>
+                <action android:name="com.urbanairship.push.OPENED"/>
+                <action android:name="com.urbanairship.push.RECEIVED"/>
+                <action android:name="com.urbanairship.push.DISMISSED"/>
+                <category android:name="com.geico.mobile"/>
+            </intent-filter>
+        </receiver>
+        <receiver exported="false" name="o.Bk">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <uses-library name="org.apache.http.legacy" required="false"/>
+        <provider authorities="com.geico.mobile.lifecycle-trojan" exported="false" multiprocess="true" name="o.AuX"/>
+        <service name="com.urbanairship.push.fcm.AirshipFirebaseMessagingService">
+            <intent-filter priority="-1">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service name="com.urbanairship.push.fcm.AirshipFirebaseInstanceIdService">
+            <intent-filter priority="-1">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:name="com.urbanairship.iam.html.HtmlActivity" exported="false" theme="@style/2131821160"/>
+        <activity android:name="com.urbanairship.iam.fullscreen.FullScreenActivity" exported="false" theme="@style/2131821135"/>
+        <activity android:name="com.urbanairship.iam.modal.ModalActivity" exported="false" theme="@style/2131821170"/>
+        <activity android:name="com.urbanairship.CoreActivity" exported="false" theme="@android:style/Theme.NoDisplay"/>
+        <activity android:name="com.urbanairship.messagecenter.MessageActivity" exported="false"/>
+        <activity android:name="com.urbanairship.messagecenter.MessageCenterActivity" exported="false" label="@string/2131757307"/>
+        <activity android:name="com.urbanairship.util.HelperActivity" exported="false" theme="@style/2131821119">
+            <meta-data android:name="com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW" android:value="true"/>
+        </activity>
+        <activity android:name="com.urbanairship.google.PlayServicesErrorActivity" exported="false" theme="@android:style/Theme.Translucent.NoTitleBar">
+            <meta-data android:name="com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW" android:value="true"/>
+        </activity>
+        <activity android:name="com.urbanairship.actions.RateAppActivity" exported="false" theme="@style/2131821198">
+            <meta-data android:name="com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW" android:value="true"/>
+            <intent-filter>
+                <action android:name="com.urbanairship.actions.SHOW_RATE_APP_INTENT_ACTION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.urbanairship.actions.LandingPageActivity" exported="false" theme="@style/2131821197">
+            <meta-data android:name="com.urbanairship.action.LANDING_PAGE_VIEW" resource="@layout/2131428229"/>
+            <meta-data android:name="com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW" android:value="true"/>
+            <intent-filter>
+                <action android:name="com.urbanairship.actions.SHOW_LANDING_PAGE_INTENT_ACTION"/>
+                <data android:scheme="http"/>
+                <data android:scheme="https"/>
+                <data android:scheme="message"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.urbanairship.ChannelCaptureActivity" exported="false"/>
+        <service name="com.urbanairship.job.AirshipService"/>
+        <service name="com.urbanairship.actions.ActionService"/>
+        <service label="Segments Service" name="com.urbanairship.location.LocationService"/>
+        <service name="com.urbanairship.push.PushService"/>
+        <service name="com.urbanairship.job.AndroidJobService" permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver exported="false" name="com.urbanairship.CoreReceiver">
+            <intent-filter priority="-7">
+                <action android:name="com.urbanairship.push.OPENED"/>
+                <category android:name="com.geico.mobile"/>
+            </intent-filter>
+        </receiver>
+        <provider authorities="com.geico.mobile.urbanairship.provider" exported="false" name="com.urbanairship.UrbanAirshipProvider"/>
+        <receiver enabled="true" exported="false" name="com.google.android.gms.analytics.AnalyticsReceiver"/>
+        <service enabled="true" exported="false" name="com.google.android.gms.analytics.AnalyticsService"/>
+        <service enabled="true" exported="false" name="com.google.android.gms.analytics.AnalyticsJobService" permission="android.permission.BIND_JOB_SERVICE"/>
+        <service exported="false" name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter priority="-4">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service exported="false" name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.iid.Registrar" value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <receiver exported="true" name="com.google.firebase.iid.FirebaseInstanceIdReceiver" permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service exported="true" name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter priority="-4">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+        <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" exported="false" theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <receiver enabled="true" exported="false" name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <receiver enabled="true" exported="true" name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service enabled="true" exported="false" name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service enabled="true" exported="false" name="com.google.android.gms.measurement.AppMeasurementJobService" permission="android.permission.BIND_JOB_SERVICE"/>
+        <provider authorities="com.geico.mobile.firebaseinitprovider" exported="false" initOrder="100" name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <provider authorities="com.geico.mobile.crashlyticsinitprovider" exported="false" initOrder="90" name="com.crashlytics.android.CrashlyticsInitProvider"/>
+        <activity android:name="com.cccis.sdk.android.common.permission.DeniedPermissionsActivity" screenOrientation="portrait" theme="@style/2131821092"/>
+        <activity android:name="com.cccis.sdk.android.services.EmptyActivity" label="@string/2131757247"/>
+        <activity android:name="com.cccis.mobile.sdk.android.qephotocapture.QEOverlayActivity" label="@string/2131757248" theme="@style/2131821116"/>
+        <activity android:name="com.cccis.mobile.sdk.android.qephotocapture.QEPhotoCaptureRunTimePermissionActivity" screenOrientation="portrait"/>
+        <activity android:name="o.II" clearTaskOnLaunch="true" screenOrientation="sensorLandscape" stateNotNeeded="true" theme="@style/2131821321" windowSoftInputMode="stateAlwaysHidden"/>
+        <activity android:name="com.cccis.sdk.android.vindecoding.ex.ToolbarCaptureActivity" screenOrientation="portrait" theme="@style/2131820563"/>
+        <activity android:name="com.cccis.sdk.android.vindecoding.ex.EnterVINManuallyActivity" screenOrientation="portrait" theme="@style/2131820563"/>
+        <activity android:name="com.cccis.sdk.android.vindecoding.ex.EnterVINManuallyLandscapeActivity" screenOrientation="sensorLandscape" theme="@style/2131820563"/>
+        <activity android:name="com.cccis.sdk.android.vindecoding.OverlayActivity" label="@string/2131757509" theme="@style/2131821116"/>
+        <activity android:name="io.card.payment.CardIOActivity" configChanges="keyboardHidden|orientation"/>
+        <activity android:name="io.card.payment.DataEntryActivity"/>
+        <activity android:name="com.google.ar.core.InstallActivity" configChanges="keyboardHidden|orientation|screenSize" excludeFromRecents="true" exported="false" launchMode="singleTop" theme="@android:style/Theme.Material.Light.Dialog.Alert"/>
+        <meta-data android:name="com.google.ar.core.min_apk_version" android:value="180815000"/>
+        <meta-data android:name="com.android.vending.splits.required" android:value="true"/>
+        <meta-data android:name="com.android.vending.splits" android:value="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout background="#ff3773ca" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView id="@id/2131297582" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent">
+            <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131299285" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="20.0dip">
+                <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_242" contentDescription="" />
+            </LinearLayout>
+            <LinearLayout layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="-70.0dip">
+                <com.geico.mobile.android.ace.geicoAppPresentation.firstStart.AceGuestServicesViewPager id="@id/2131297583" layout_width="fill_parent" layout_height="fill_parent" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

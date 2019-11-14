@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131298461" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" text="quote first" />
+    <Button id="@id/2131296438" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" text="Add Now" />
+    <Button id="@id/2131296622" layout_width="wrap_content" layout_height="wrap_content" text="Call To Make Changes" />
+    <Button id="@id/2131297887" layout_width="wrap_content" layout_height="wrap_content" text="Make Changes" />
+</LinearLayout>

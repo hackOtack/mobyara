@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingLeft="@dimen/2131165582" paddingTop="@dimen/2131165265" paddingRight="@dimen/2131165582" paddingBottom="@dimen/2131165265" layout_width="fill_parent" layout_height="fill_parent" weightSum="100.0" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297558" layout_width="fill_parent" layout_height="0.0dip" scaleType="fitStart" adjustViewBounds="false" cropToPadding="false" layout_weight="10.0" layout_alignParentLeft="true" 2130968978="@drawable/APKTOOL_DUMMY_24c" />
+    <TextView textSize="@dimen/2131165583" textColor="#ff000000" gravity="center" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Property Card" style="@style/2131821004" />
+    <include layout="@layout/2131427846" />
+    <LinearLayout id="@id/2131297982" style="@style/2131820945" />
+    <include layout="@layout/2131427846" />
+    <LinearLayout id="@id/2131296984" style="@style/2131820945" />
+    <include layout="@layout/2131427846" />
+    <LinearLayout id="@id/2131296797" style="@style/2131820945" />
+    <include layout="@layout/2131427846" />
+    <include layout="@layout/2131428126" />
+</LinearLayout>

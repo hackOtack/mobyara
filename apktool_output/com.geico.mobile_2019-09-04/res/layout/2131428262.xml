@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SurfaceView id="@id/2131299352" layout_width="fill_parent" layout_height="fill_parent" />
+    <com.google.zxing.client.android.ViewfinderView id="@id/2131299359" layout_width="fill_parent" layout_height="fill_parent" />
+    <LinearLayout orientation="vertical" id="@id/2131299355" background="#b0000000" visibility="gone" layout_width="fill_parent" layout_height="fill_parent" baselineAligned="false">
+        <LinearLayout gravity="center" orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_weight="1.0">
+            <LinearLayout gravity="center|right" orientation="vertical" layout_width="wrap_content" layout_height="fill_parent">
+                <ImageView id="@id/2131299337" layout_width="160.0dip" layout_height="wrap_content" layout_marginBottom="8.0dip" scaleType="centerInside" adjustViewBounds="true" maxWidth="160.0dip" maxHeight="160.0dip" />
+                <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+                    <TextView textStyle="bold" textColor="#fff2f0ec" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Default Format" />
+                    <TextView textColor="#fff2f0ec" id="@id/2131299347" layout_width="wrap_content" layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+                    <TextView textStyle="bold" textColor="#fff2f0ec" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Default Type" />
+                    <TextView textColor="#fff2f0ec" id="@id/2131299358" layout_width="wrap_content" layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+                    <TextView textStyle="bold" textColor="#fff2f0ec" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Default Time" />
+                    <TextView textColor="#fff2f0ec" id="@id/2131299357" layout_width="wrap_content" layout_height="wrap_content" />
+                </LinearLayout>
+                <LinearLayout orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+                    <TextView textStyle="bold" textColor="#fff2f0ec" id="@id/2131299349" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Default Meta" />
+                    <TextView textColor="#fff2f0ec" id="@id/2131299348" layout_width="wrap_content" layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <ScrollView layout_width="wrap_content" layout_height="wrap_content">
+                <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content">
+                    <TextView textSize="22.0sp" textColor="#ffffffff" textColorLink="#ffffffff" autoLink="web" id="@id/2131299343" paddingLeft="12.0dip" layout_width="wrap_content" layout_height="wrap_content" textIsSelectable="true" />
+                    <TextView textColor="#ffffffff" textColorLink="#ffffffff" autoLink="web" id="@id/2131299342" paddingLeft="12.0dip" layout_width="wrap_content" layout_height="wrap_content" textIsSelectable="true" />
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout gravity="center" orientation="horizontal" id="@id/2131299354" layout_width="fill_parent" layout_height="wrap_content">
+            <Button visibility="gone" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821314" />
+            <Button visibility="gone" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821314" />
+            <Button visibility="gone" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821314" />
+            <Button visibility="gone" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821314" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout layout_gravity="bottom|center" orientation="vertical" layout_width="wrap_content" layout_height="wrap_content">
+        <TextView textColor="#ffffffff" layout_gravity="bottom|center" id="@id/2131299356" background="#00000000" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131757682" />
+        <Button layout_gravity="bottom|center" id="@id/2131299336" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" text="Cancel" height="60.0dip" textAlignment="center" />
+    </LinearLayout>
+</merge>

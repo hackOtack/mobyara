@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView id="@id/2131297150" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView layout_gravity="center|top" id="@id/2131297158" background="#ffeaeaea" layout_width="140.0dip" layout_height="140.0dip" layout_marginTop="16.0dip" src="@drawable/APKTOOL_DUMMY_1d4" minWidth="140.0dip" minHeight="140.0dip" />
+            <FrameLayout layout_gravity="center_horizontal" id="@id/2131296845" layout_height="wrap_content" layout_margin="16.0dip" style="@style/2131820886">
+                <ImageButton layout_gravity="center|right|top" id="@id/2131297193" clickable="true" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_311" tint="#ff60574a" onClick="onEditDriverMenuClicked" />
+                <include layout="@layout/2131427586" />
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+    <android.support.design.widget.FloatingActionButton id="@id/2131297483" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" src="@drawable/APKTOOL_DUMMY_12a" onClick="onCameraIconClick" 2130968822="@id/2131296845" 2130968823="2131296690|2131297780|2131299008" />
+</android.support.design.widget.CoordinatorLayout>

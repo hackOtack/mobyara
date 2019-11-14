@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout id="@id/2131298860" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <TextView textAppearance="@style/2131820754" id="@id/2131297362" layout_width="200.0dip" layout_height="wrap_content" layout_marginLeft="12.0dip" text="Expiration Month" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131297364" layout_width="200.0dip" layout_height="wrap_content" layout_marginLeft="12.0dip" text="Expiration Year" />
+    </TableRow>
+    <TableRow>
+        <Spinner id="@id/2131297378" layout_width="200.0dip" layout_height="wrap_content" layout_marginLeft="12.0dip" layout_marginTop="5.0dip" />
+        <Spinner id="@id/2131297379" layout_width="200.0dip" layout_height="wrap_content" layout_marginLeft="12.0dip" layout_marginTop="5.0dip" />
+    </TableRow>
+</TableLayout>

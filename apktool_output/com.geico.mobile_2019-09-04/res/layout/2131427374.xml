@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout="@layout/2131427678" />
+    <TextView textAppearance="@style/2131820838" id="@id/2131296392" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Create Your Account" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296424" layout_width="fill_parent" layout_height="wrap_content" text="User ID" />
+    <EditText id="@id/2131296425" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="text" />
+    <CheckBox textAppearance="@style/2131820754" gravity="center|right" id="@id/2131296420" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" checked="true" button="@null" text="Remember Me" drawableRight="?android:listChoiceIndicatorMultiple" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296406" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Password" />
+    <EditText id="@id/2131296408" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" maxLength="16" inputType="textPassword" />
+    <include id="@id/2131296407" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout="@layout/2131428029" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296418" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Re-enter Password" />
+    <EditText id="@id/2131296419" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="textPassword" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296404" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Password Hint" />
+    <EditText id="@id/2131296405" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="text" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296393" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Email Address" />
+    <EditText id="@id/2131296394" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="textEmailAddress" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296416" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Re-enter Email Address" />
+    <EditText id="@id/2131296417" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="textEmailAddress" />
+    <CheckBox textAppearance="@style/2131820758" id="@id/2131296403" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" checked="false" button="@null" text="Please email me information regarding products, policy services, newsletters, and special offers from GEICO" drawableRight="?android:listChoiceIndicatorMultiple" />
+    <TextView textAppearance="@style/2131820838" id="@id/2131296421" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" text="Security Questions" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296412" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Security Question #1" />
+    <Spinner id="@id/2131296413" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296379" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Security Answer #1" />
+    <EditText id="@id/2131296380" tag="answerOne" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="text" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296414" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Security Question #2" />
+    <Spinner id="@id/2131296415" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296381" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Security Answer #2" />
+    <EditText id="@id/2131296382" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" singleLine="true" inputType="text" />
+    <TextView textAppearance="@style/2131820838" id="@id/2131296396" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Finish Account Activation" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296395" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="By selecting Continue, I acknowledge that I have the authority to access and change information on this policy and I have read and agree to the following Terms Of Use." />
+    <LinearLayout layout_marginBottom="16.0dip" style="@style/2131820885">
+        <Button id="@id/2131296389" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" text="Continue" layout_weight="1.0" onClick="onCreateAccountContinueClicked" />
+    </LinearLayout>
+</LinearLayout>

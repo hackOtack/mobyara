@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298279" background="#ff000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131428212" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent">
+        <RelativeLayout layout_gravity="center" id="@id/2131296638" layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0">
+            <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECameraPreviewLandscapeFragment" id="@id/2131298402" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" />
+            <ImageView id="@id/2131296636" visibility="invisible" layout_width="fill_parent" layout_height="fill_parent" />
+            <RelativeLayout id="@id/2131298593" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content">
+                <ImageView id="@id/2131298936" layout_width="fill_parent" layout_height="fill_parent" layout_alignParentTop="true" layout_alignParentStart="true" />
+                <LinearLayout gravity="center" orientation="horizontal" id="@id/2131298592" background="#ffffffff" layout_width="fill_parent" layout_height="50.0dip" layout_alignParentBottom="true">
+                    <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" textColor="@color/2131099920" gravity="center" id="@id/2131296601" background="@drawable/2131231612" layout_width="0.0dip" layout_height="fill_parent" text="Retake" layout_weight="0.5" textAlignment="gravity" />
+                    <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" textColor="#ffffffff" gravity="center" id="@id/2131296604" background="@drawable/2131231613" layout_width="0.0dip" layout_height="fill_parent" layout_marginLeft="1.0dip" text="Use Photo" layout_weight="0.5" textAlignment="gravity" />
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+        <RelativeLayout background="#fff2f0ec" layout_width="220.0dip" layout_height="fill_parent">
+            <RelativeLayout id="@id/2131298776" layout_width="fill_parent" layout_height="fill_parent">
+                <ImageView id="@id/2131296444" background="#ffef7014" padding="30.0dip" layout_width="100.0dip" layout_height="100.0dip" layout_marginLeft="10.0dip" src="@drawable/APKTOOL_DUMMY_78" scaleType="fitXY" layout_alignParentLeft="true" layout_centerVertical="true" />
+                <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECaptureButtonFragment" id="@id/2131296659" layout_width="65.0dip" layout_height="65.0dip" layout_marginRight="10.0dip" layout_alignParentRight="true" layout_centerInParent="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

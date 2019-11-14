@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_frame">
+        <ListView android:id="@android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:choiceMode="singleChoice" android:footerDividersEnabled="true" style="@style/levelup_list_view" />
+        <TextView android:layout_gravity="center" android:id="@android:id/button1" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_delivery_address_picker_add_button" android:drawableRight="@drawable/levelup_ic_arrow_forward_white" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_whitelabel_location_list_address" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_weight="85.0">
+        <LinearLayout orientation="vertical" id="@id/2131296762" paddingLeft="@dimen/2131165582" paddingRight="@dimen/2131165582" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip">
+            <TextView textSize="@dimen/2131165583" textStyle="bold" textColor="#ff000000" id="@id/2131296763" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Claim Information" style="@style/2131821004" />
+            <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131296684" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="%s Claims Office Hours:" style="@style/2131821004" />
+            <android.support.v7.widget.RecyclerView id="@id/2131296771" paddingLeft="4.0dip" scrollbars="none" layout_width="fill_parent" layout_height="fill_parent" layout_marginBottom="16.0dip" />
+            <LinearLayout orientation="horizontal" id="@id/2131297896" layout_width="wrap_content" layout_height="wrap_content">
+                <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131297895" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Manage or report a claim:" style="@style/2131821004" />
+                <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131296772" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821004" />
+            </LinearLayout>
+            <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131296773" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="@dimen/2131165265" text="Report a Claim" style="@style/2131821004" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131298738" paddingLeft="@dimen/2131165582" paddingRight="@dimen/2131165582" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip">
+            <TextView textSize="@dimen/2131165583" textStyle="bold" textColor="#ff000000" id="@id/2131298739" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Service Information" style="@style/2131821004" />
+            <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131296685" padding="4.0dip" layout_width="wrap_content" layout_height="wrap_content" text="%s Service Office Hours:" style="@style/2131821004" />
+            <android.support.v7.widget.RecyclerView id="@id/2131298740" paddingLeft="4.0dip" scrollbars="none" layout_width="fill_parent" layout_height="fill_parent" />
+            <LinearLayout orientation="horizontal" id="@id/2131298731" layout_width="wrap_content" layout_height="wrap_content">
+                <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131298730" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Service contact information:" style="@style/2131821004" />
+                <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131298733" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821004" />
+            </LinearLayout>
+            <TextView textSize="@dimen/2131165583" textColor="#ff000000" id="@id/2131299237" padding="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="View Policy" style="@style/2131821004" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_weight="15.0">
+        <TextView textSize="@dimen/2131165635" textColor="#ff000000" id="@id/2131298421" paddingLeft="@dimen/2131165582" paddingRight="8.0dip" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Please note links on the page may direct you to sites not owned by GEICO. Any information that you provide directly to them is subject to privacy policies posted on their website." style="@style/2131821004" />
+    </LinearLayout>
+</LinearLayout>

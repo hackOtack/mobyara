@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="@dimen/2131165632" textColor="#ff757374" gravity="center_horizontal" id="@id/2131297929" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" layout_marginBottom="@dimen/2131165336" layout_marginStart="@dimen/2131165304" layout_marginEnd="@dimen/2131165304" />
+    <TextView id="@id/2131296995" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" />
+</FrameLayout>

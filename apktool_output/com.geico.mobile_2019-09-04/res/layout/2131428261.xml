@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" foreground="?android:selectableItemBackground" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <LinearLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_174" />
+                <TextView layout_gravity="center" layout_width="wrap_content" layout_height="wrap_content" text="Automatic payments cancelled" paddingStart="16.0dip" style="@style/2131820915" />
+            </LinearLayout>
+            <TableLayout layout_width="fill_parent" layout_height="wrap_content">
+                <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+                    <TextView layout_width="fill_parent" layout_height="wrap_content" text="Processed on" singleLine="true" layout_weight="1.0" style="@style/2131820754" />
+                    <TextView gravity="right" id="@id/2131299089" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820875" />
+                </TableRow>
+                <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+            </TableLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820754" id="@id/2131296813" layout_width="wrap_content" layout_height="wrap_content" text="Details" textAllCaps="true" layout_marginStart="@dimen/2131165336" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296809" background="#ffffffff" padding="@dimen/2131165336" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" />
+        <Button id="@id/2131296565" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="32.0dip" text="Return Home" onClick="onPolicyDashboardButtonClicked" style="@style/2131820938" />
+    </LinearLayout>
+</LinearLayout>

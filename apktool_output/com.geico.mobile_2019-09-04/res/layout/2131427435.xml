@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" paddingTop="32.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView background="@drawable/2131230876" padding="16.0dip" layout_width="70.0dip" layout_height="70.0dip" src="@drawable/APKTOOL_DUMMY_227" tint="#ff3773ca" />
+    <TextView textSize="22.0sp" textStyle="bold" textColor="#ff222222" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" text="Live Chat for Auto Policy" />
+    <TextView textSize="@dimen/2131165632" textColor="#ff757374" gravity="center_horizontal" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" text="Please do not type any sensitive information such as social security or credit card numbers. Anything typed into this chat can be seen by GEICO." layout_marginStart="@dimen/2131165304" layout_marginEnd="@dimen/2131165304" />
+    <View background="#ffcdcdcd" layout_width="fill_parent" layout_height="1.0dip" layout_marginTop="32.0dip" />
+    <TextView id="@id/2131297929" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" />
+    <TextView id="@id/2131296995" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" />
+</LinearLayout>

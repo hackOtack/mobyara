@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Why buy renters insurance?" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756232" />
+    <TextView text="@string/2131756284" style="@style/2131820759" />
+    <TextView text="@string/2131756179" style="@style/2131820759" />
+    <TextView text="@string/2131756178" style="@style/2131820759" />
+    <TextView layout_marginBottom="16.0dip" text="@string/2131756255" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Without renters insurance, you've got no coverage for personal property loss or damage. Fortunately, you can get affordable renters insurance (also called apartment insurance) to help protect you in situations like these." />
+    <ImageView src="@drawable/APKTOOL_DUMMY_29e" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Protects Your Belongings" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Too often, people think they don't have enough property to make a renters insurance policy worthwhile. But take a minute to think about what you own, and what you've got to lose, including:" />
+    <TextView text="Clothing" style="@style/2131820759" />
+    <TextView text="Furniture" style="@style/2131820759" />
+    <TextView text="A television or entertainment system" style="@style/2131820759" />
+    <TextView text="A computer" style="@style/2131820759" />
+    <TextView text="An iPod" style="@style/2131820759" />
+    <TextView text="Musical or sporting equipment" style="@style/2131820759" />
+    <TextView layout_marginBottom="0.0dip" text="Jewelry" style="@style/2131820759" />
+    <ImageView src="@drawable/APKTOOL_DUMMY_2a2" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="When does renters insurance apply to you?" />
+    <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756289" />
+    <TextView text="Fire or Lightning" style="@style/2131820759" />
+    <TextView text="Windstorm" style="@style/2131820759" />
+    <TextView text="Smoke" style="@style/2131820759" />
+    <TextView text="Vandalism or Malicious Mischief" style="@style/2131820759" />
+    <TextView text="Theft" style="@style/2131820759" />
+    <TextView text="Accidental Discharge of Water" style="@style/2131820759" />
+    <TextView layout_marginBottom="16.0dip" text="Nine other common loss types" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756285" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Additionally," />
+    <TextView textAppearance="@style/2131820756" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="@string/2131756288" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (800) 841-2964 to speak to an agent." />
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427554" />
+    <RelativeLayout background="#ffffffff" paddingLeft="16.0dip" paddingTop="8.0dip" paddingRight="16.0dip" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content">
+        <Spinner entries="@array/2130903100" id="@id/2131297062" layout_width="fill_parent" layout_height="wrap_content" popupBackground="#ffffffff" />
+    </RelativeLayout>
+    <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" layout_marginRight="@dimen/2131165336" layout_marginBottom="@dimen/2131165336" layout="@layout/2131427550" />
+    <TextView textColor="#ff977fcc" id="@id/2131297727" background="#ffffffff" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Sorry, we couldn't find that city. Please check your spelling and provide a valid city and state." />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131297044" layout_width="fill_parent" layout_height="fill_parent" />
+        <include layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" layout="@layout/2131427551" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

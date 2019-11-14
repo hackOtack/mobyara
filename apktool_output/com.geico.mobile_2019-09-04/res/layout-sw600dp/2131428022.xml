@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <requestFocus />
+    <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.parking.AceParkingMapFragment" id="@id/2131298183" layout_width="fill_parent" layout_height="fill_parent" layout_alignParentLeft="true" layout_alignParentTop="true" />
+    <fragment name="o.sB" id="@id/2131298174" layout_width="568.0dip" layout_height="wrap_content" layout_alignParentTop="true" layout_centerHorizontal="true" />
+    <fragment name="o.sH" id="@id/2131298182" layout_width="568.0dip" layout_height="wrap_content" layout_alignParentBottom="true" layout_centerHorizontal="true" />
+    <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.search.AceAutocompletePlacesFragment" id="@id/2131296533" visibility="gone" layout_width="568.0dip" layout_height="wrap_content" layout_alignParentTop="true" layout_centerHorizontal="true" />
+</RelativeLayout>

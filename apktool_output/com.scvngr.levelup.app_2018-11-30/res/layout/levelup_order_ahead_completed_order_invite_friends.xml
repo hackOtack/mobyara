@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_section"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_order_ahead_completed_order_invite_friends_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_order_ahead_completed_order_invite_friends_description" style="@style/levelup_order_ahead_completed_order_invite_friends_description" />
+    <Button android:id="@id/levelup_order_ahead_completed_order_invite_friends_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_order_ahead_completed_order_invite_friends_button_margin_top" android:text="@string/levelup_order_ahead_completed_order_invite_friends_button" style="@style/levelup_button_positive" />
+</LinearLayout>

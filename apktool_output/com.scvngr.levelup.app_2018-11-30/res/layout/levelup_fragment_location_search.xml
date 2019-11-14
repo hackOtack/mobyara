@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_location_search" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_list_background"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    <FrameLayout android:id="@id/levelup_fragment_content" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:animateLayoutChanges="true" style="@style/levelup_frame"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <com.scvngr.levelup.ui.view.MessageView android:id="@id/levelup_message_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <android.support.v7.widget.RecyclerView android:id="@id/levelup_location_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</LinearLayout>

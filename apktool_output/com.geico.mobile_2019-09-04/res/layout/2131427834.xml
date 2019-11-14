@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="left" orientation="vertical" id="@id/2131297682" background="#fff1f0ec" layout_width="0.0dip" layout_height="fill_parent" layout_weight="90.0">
+        <FrameLayout layout_gravity="center" id="@id/2131297649" layout_width="fill_parent" layout_height="fill_parent">
+            <android.support.v4.view.ViewPager gravity="center" layout_gravity="center" id="@id/2131297653" paddingLeft="@dimen/2131165449" paddingRight="@dimen/2131165449" layout_width="fill_parent" layout_height="fill_parent" />
+            <ImageView layout_gravity="bottom|center|right" id="@id/2131297323" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2c4" />
+        </FrameLayout>
+        <FrameLayout layout_gravity="center" id="@id/2131297640" visibility="gone" layout_width="fill_parent" layout_height="fill_parent">
+            <fragment id="@id/2131297641" layout_width="fill_parent" layout_height="fill_parent" class="o.lu" />
+        </FrameLayout>
+    </FrameLayout>
+    <include id="@id/2131297654" layout="@layout/2131427836" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

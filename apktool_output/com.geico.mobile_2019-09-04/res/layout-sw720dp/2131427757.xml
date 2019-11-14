@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297722" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Please review the password hint and enter your online password for Geico.com" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820754" id="@id/2131299127" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Your User ID" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131299128" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131297301" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Enter Your Password" />
+            <EditText enabled="true" id="@id/2131298207" layout_width="fill_parent" layout_height="wrap_content" hint="@string/2131756630" maxLines="1" inputType="textPassword" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_weight="1.0">
+            <TextView textAppearance="@style/2131820754" id="@id/2131298199" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Your Password Hint" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131298200" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

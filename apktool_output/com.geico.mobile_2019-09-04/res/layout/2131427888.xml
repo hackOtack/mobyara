@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="#ff4789b6" padding="2.0dip" layout_width="fill_parent" layout_height="wrap_content" elevation="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button textColor="#ff4789b6" layout_gravity="center_vertical" id="@id/2131297563" layout_width="0.0dip" layout_height="wrap_content" layout_marginRight="2.0dip" text="Get a Quote" layout_weight="1.0" style="@style/2131820940" />
+    <Button textColor="#ff4789b6" layout_gravity="center_vertical" id="@id/2131298481" layout_width="0.0dip" layout_height="wrap_content" text="Recall A Quote" layout_weight="1.0" style="@style/2131820940" />
+    <fragment id="@id/2131298386" focusableInTouchMode="false" layout_width="0.0dip" layout_height="0.0dip" class="com.geico.mobile.android.ace.geicoAppPresentation.getAQuote.AceQuotePrefillNavigationFragment" />
+</LinearLayout>

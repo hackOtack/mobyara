@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <AutoCompleteTextView id="@id/2131296699" layout_width="fill_parent" layout_height="wrap_content" hint="Company Code" imeOptions="actionDone" />
+        <TextView textStyle="bold" layout_width="wrap_content" layout_height="wrap_content" text="Choose an environment" />
+        <Spinner entries="@array/2130903114" id="@id/2131296700" layout_width="fill_parent" layout_height="wrap_content" prompt="@string/2131755704" />
+        <TextView textStyle="bold" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Logon Methods" />
+        <Spinner entries="@array/2130903121" id="@id/2131297867" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textStyle="bold" id="@id/2131297685" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Identity TTL(1 - 1440)" />
+        <EditText id="@id/2131297684" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" inputType="number" />
+        <TextView textStyle="bold" id="@id/2131298751" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Session TTL(1 - 30)" />
+        <EditText id="@id/2131298750" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" inputType="number" />
+        <TextView textStyle="bold" id="@id/2131296793" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Combined TTL(1 - 30)" />
+        <EditText id="@id/2131296792" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" inputType="number" />
+        <TextView textStyle="bold" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Enable Exposure Adjustment" />
+        <CheckBox id="@id/2131296720" layout_width="wrap_content" layout_height="wrap_content" checked="true" text="" />
+        <TextView textStyle="bold" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Enable Proxy" />
+        <CheckBox id="@id/2131296721" layout_width="wrap_content" layout_height="wrap_content" text="" />
+        <TextView enabled="false" textStyle="bold" id="@id/2131298954" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Proxy Host" />
+        <EditText enabled="false" id="@id/2131297198" layout_width="fill_parent" layout_height="wrap_content" inputType="textUri" />
+        <TextView enabled="false" textStyle="bold" id="@id/2131298955" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Proxy Port" />
+        <EditText enabled="false" id="@id/2131297199" layout_width="fill_parent" layout_height="wrap_content" inputType="number" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297768" padding="@dimen/2131165271" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131297311" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427678" />
+    <TextView textSize="@dimen/2131165635" id="@id/2131299164" tag="passwordText" layout_width="wrap_content" layout_height="wrap_content" text="User ID" singleLine="true" 2130968858="2131298157" 2130968861="2131298157" />
+    <EditText textSize="@dimen/2131165632" id="@id/2131299163" background="@drawable/2131231193" layout_width="fill_parent" layout_height="40.0dip" singleLine="true" maxLength="100" inputType="textEmailAddress" 2130968858="2131298157" 2130968860="@id/2131299164" />
+</LinearLayout>

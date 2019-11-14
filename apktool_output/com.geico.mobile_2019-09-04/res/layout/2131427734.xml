@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView layout_gravity="left" id="@id/2131296686" background="@drawable/2131231275" layout_width="wrap_content" layout_height="fill_parent" src="@drawable/APKTOOL_DUMMY_164" layout_alignParentTop="true" />
+    <RelativeLayout id="@id/2131297437" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceFuelPriceLayout id="@id/2131297525" paddingTop="8.0dip" layout_width="wrap_content" layout_height="wrap_content" 2130969022="@color/2131099796" 2130969026="@dimen/2131165630" />
+        <TextView textAppearance="@style/2131820763" id="@id/2131297766" paddingLeft="4.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297525" layout_alignLeft="@id/2131297525" />
+        <TextView textAppearance="@style/2131820838" id="@id/2131298837" paddingLeft="16.0dip" paddingTop="16.0dip" paddingBottom="4.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297525" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296452" paddingLeft="16.0dip" paddingTop="0.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131298837" layout_alignLeft="@id/2131298837" />
+    </RelativeLayout>
+</LinearLayout>

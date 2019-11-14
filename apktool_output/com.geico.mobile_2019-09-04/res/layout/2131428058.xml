@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center" orientation="vertical" background="#ffef7014" layout_width="fill_parent" layout_height="0.0dip" layout_weight="1.0">
+        <ImageView layout_gravity="center_horizontal" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="24.0dip" src="@drawable/APKTOOL_DUMMY_36f" />
+        <TextView textAppearance="@style/2131820839" textStyle="bold" gravity="center_horizontal" layout_gravity="center_horizontal" layout_width="wrap_content" layout_height="wrap_content" text="Welcome to Easy Photo Estimate" layout_marginStart="80.0dip" layout_marginEnd="80.0dip" />
+    </LinearLayout>
+    <RelativeLayout layout_width="fill_parent" layout_height="0.0dip" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820994" textSize="@dimen/2131165632" textColor="#ff000000" gravity="center" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="24.0dip" text="Send us photos of your vehicle's damage and we will review your photos in as little as one business day." layout_marginStart="32.0dip" layout_marginEnd="32.0dip" />
+        <Button theme="@style/2131821202" layout_width="fill_parent" layout_height="48.0dip" layout_marginTop="10.0dip" layout_marginBottom="30.0dip" text="Get Started" layout_alignParentBottom="true" onClick="onGetStartedClicked" layout_marginStart="@dimen/2131165336" layout_marginEnd="@dimen/2131165336" style="@style/2131820937" />
+    </RelativeLayout>
+</LinearLayout>

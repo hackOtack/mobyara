@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="fill_parent" layout_height="fill_parent" style="@style/2131821166"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.urbanairship.iam.view.BoundedFrameLayout id="@id/2131296848" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131821163">
+        <com.urbanairship.widget.UAWebView id="@id/2131299275" layout_width="fill_parent" layout_height="fill_parent" style="@style/2131821168" />
+        <ImageButton id="@id/2131297092" layout_width="wrap_content" layout_height="wrap_content" contentDescription="@string/2131757290" style="@style/2131821164" />
+    </com.urbanairship.iam.view.BoundedFrameLayout>
+    <ProgressBar id="@id/2131298413" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821167" />
+</FrameLayout>

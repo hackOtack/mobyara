@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout background="#ffffffff" padding="8.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297712" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" src="@drawable/APKTOOL_DUMMY_2cf" contentDescription="Attention" layout_marginStart="8.0dip" 2130968833="2131298157" 2130968858="2131298157" 2130968861="@id/2131298811" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131298812" layout_width="fill_parent" layout_height="wrap_content" text="Attention" layout_marginStart="36.0dip" 2130968858="2131298157" 2130968861="2131298157" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298811" layout_width="0.0dip" layout_height="wrap_content" 2130968839="@id/2131298812" 2130968858="@id/2131298812" 2130968860="@id/2131298812" />
+</android.support.constraint.ConstraintLayout>

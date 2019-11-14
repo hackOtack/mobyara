@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center_horizontal" orientation="vertical" padding="8.0dip" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820996" textStyle="bold" id="@id/2131297507" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="4.0dip" text="Forgot your password?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296724" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="16.0dip" text="Choose your preferred method to recover your password." />
+    <android.support.v7.widget.RecyclerView id="@id/2131298520" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

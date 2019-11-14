@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_location_card_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_card_margin_horizontal_full" android:layout_marginRight="@dimen/levelup_card_margin_horizontal_full" android:minHeight="@dimen/levelup_location_card_height" app:cardCornerRadius="@dimen/levelup_card_item_location_card_corner_radius" app:cardUseCompatPadding="true">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:padding="@dimen/levelup_location_card_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <ImageView android:layout_gravity="center" android:id="@id/levelup_rewards_feed_available_item_image" android:layout_width="@dimen/levelup_card_item_merchant_image_size" android:layout_height="@dimen/levelup_card_item_merchant_image_size" />
+                    <ImageView android:layout_gravity="center" android:id="@id/levelup_rewards_feed_available_item_image_overlay" android:padding="@dimen/levelup_card_item_merchant_image_overlay_padding" android:layout_width="@dimen/levelup_card_item_merchant_image_overlay" android:layout_height="@dimen/levelup_card_item_merchant_image_overlay" android:tint="@color/levelup_card_item_merchant_image_overlay_tint" />
+                </FrameLayout>
+                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_location_card_info_margin_left">
+                    <TextView android:id="@id/levelup_rewards_feed_available_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="3" style="@style/levelup_location_card_name" />
+                    <TextView android:id="@id/levelup_rewards_feed_available_item_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_description" />
+                    <TextView android:id="@id/levelup_rewards_feed_available_item_expiration" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_card_availability" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:id="@id/levelup_rewards_feed_available_item_click" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+        </android.support.v7.widget.CardView>
+    </FrameLayout>
+</FrameLayout>

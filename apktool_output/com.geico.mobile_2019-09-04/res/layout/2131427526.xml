@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout tag="layout/date_of_birth_0" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceBasicSpinner textAppearance="@style/2131820756" entries="@array/2130903125" id="@id/2131296989" tag="binding_1" layout_width="0.0dip" layout_height="wrap_content" layout_weight="2.5" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceDigitsOnlyEditText textAppearance="@style/2131820756" gravity="start|bottom|center" id="@id/2131296987" tag="binding_2" layout_width="0.0dip" layout_height="wrap_content" hint="Day" maxLength="2" layout_weight="1.0" inputType="number" 2130969074="2" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.widget.AceDigitsOnlyEditText textAppearance="@style/2131820756" gravity="start|bottom|center" id="@id/2131296993" tag="binding_3" layout_width="0.0dip" layout_height="wrap_content" hint="Year" maxLength="4" layout_weight="2.0" inputType="number" 2130969074="2" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout tag="layout/explore_details_buttons_layout_0" layout_width="wrap_content" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View background="#ffffffff" layout_width="0.0dip" layout_height="1.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" />
+    <Button textAppearance="@style/2131821026" id="@id/2131296624" tag="binding_1" background="#00000000" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="8.0dip" text="Call" drawableTop="@drawable/2131231212" drawablePadding="4.0dip" textAllCaps="false" layout_marginEnd="4.0dip" drawableTint="@drawable/2131231730" 2130968833="2131298157" 2130968840="@id/2131297077" 2130968848="0.5" 2130968849="2131298817" 2130968858="2131298157" 2130968861="2131298157" />
+    <Button textAppearance="@style/2131821026" id="@id/2131297077" tag="binding_2" background="#00000000" layout_width="0.0dip" layout_height="wrap_content" text="Directions" drawableTop="@drawable/2131231215" drawablePadding="4.0dip" textAllCaps="false" layout_marginStart="4.0dip" drawableTint="@drawable/2131231730" 2130968833="2131298157" 2130968839="2131298157" 2130968848="0.5" 2130968857="@id/2131296624" 2130968861="2131298157" 2130968862="1.0" />
+</android.support.constraint.ConstraintLayout>

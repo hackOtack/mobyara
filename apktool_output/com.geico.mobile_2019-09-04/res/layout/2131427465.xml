@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968674="@dimen/2131165662" 2130968678="false">
+        <ExpandableListView id="@id/2131297369" layout_width="fill_parent" layout_height="fill_parent" divider="@null" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

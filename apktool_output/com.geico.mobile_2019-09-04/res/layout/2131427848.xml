@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout background="@drawable/2131231674" layout_width="fill_parent" layout_height="fill_parent" layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout layout_gravity="center|top" orientation="vertical" layout_width="wrap_content" layout_height="wrap_content">
+        <TextView textColor="#ff60574a" id="@id/2131298667" paddingLeft="10.0dip" paddingRight="10.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" text="We're saving a copy of your ID cards to this device for a quick, easy offline use.\n\nID cards will be updated automatically when the app connects to your policy in the future." layout_below="@id/2131296262" style="@style/2131820873" />
+        <Button layout_gravity="center_horizontal" id="@id/2131298759" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Continue To ID Cards" onClick="onShareIdCardsActionButtonClicked" />
+    </LinearLayout>
+</FrameLayout>

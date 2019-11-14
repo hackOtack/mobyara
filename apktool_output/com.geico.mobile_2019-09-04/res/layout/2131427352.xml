@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="58.0dip" style="@style/2131820971"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@android:id/icon1" visibility="invisible" layout_width="32.0dip" layout_height="48.0dip" scaleType="centerInside" layout_alignParentTop="true" layout_alignParentBottom="true" style="@style/2131820972" />
+    <ImageView id="@id/2131297204" background="?2130968965" visibility="gone" layout_width="48.0dip" layout_height="48.0dip" scaleType="centerInside" layout_alignParentTop="true" layout_alignParentBottom="true" style="@style/2131820974" />
+    <ImageView id="@android:id/icon2" visibility="gone" layout_width="48.0dip" layout_height="48.0dip" scaleType="centerInside" layout_alignParentTop="true" layout_alignParentBottom="true" layout_alignWithParentIfMissing="true" style="@style/2131820973" />
+    <TextView textAppearance="?2130969019" gravity="top" id="@android:id/text2" paddingBottom="4.0dip" visibility="gone" layout_width="fill_parent" layout_height="29.0dip" singleLine="true" layout_alignParentBottom="true" layout_alignWithParentIfMissing="true" style="?android:dropDownItemStyle" />
+    <TextView textAppearance="?2130969020" id="@android:id/text1" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" layout_above="@android:id/text2" layout_centerVertical="true" style="?android:dropDownItemStyle" />
+</RelativeLayout>

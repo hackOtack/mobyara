@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131298164" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" text="About This Location" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298165" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" />
+    <include layout="@layout/2131427577" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131298160" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="Amenities" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298161" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" />
+    <include layout="@layout/2131427577" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131298166" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="Know Before You Go" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298167" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" text="This price is for guaranteed pre-booked parking and may differ from the drive-up price, if available." />
+    <include layout="@layout/2131427577" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131298163" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="Booking Details" />
+    <RelativeLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip">
+        <TextView textAppearance="@style/2131820758" id="@id/2131298181" visibility="invisible" layout_width="wrap_content" layout_height="0.0dip" text="Out" />
+        <TextView textAppearance="@style/2131820758" id="@id/2131298179" layout_width="wrap_content" layout_height="wrap_content" text="In" layout_alignParentLeft="true" layout_alignParentTop="true" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298180" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_toRightOf="@id/2131298181" layout_alignParentTop="true" />
+    </RelativeLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip">
+        <include layout="@layout/2131427577" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip">
+        <TextView textAppearance="@style/2131820758" id="@id/2131298186" layout_width="wrap_content" layout_height="wrap_content" text="Out" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298187" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" />
+    </LinearLayout>
+    <include layout="@layout/2131427577" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="12.0dip" layout_marginRight="12.0dip" weightSum="12.0">
+        <Button id="@id/2131298162" layout_width="0.0dip" layout_height="wrap_content" text="Book Now" layout_weight="@integer/2131361830" onClick="onParkingBookNow" />
+    </LinearLayout>
+</LinearLayout>

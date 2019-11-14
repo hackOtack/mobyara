@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" id="@id/2131297352" layout_width="fill_parent" layout_height="wrap_content" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+            <fragment layout_gravity="center" id="@id/2131298923" layout_width="568.0dip" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceTabsFragment" />
+            <fragment id="@id/2131298599" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceEmergencyRoadsideServiceReviewAndSubmitFragment" />
+        </LinearLayout>
+        <View background="@drawable/APKTOOL_DUMMY_c" layout_width="fill_parent" layout_height="8.0dip" />
+        <fragment id="@id/2131297488" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.roadsideAssistance.AceRoadsideAssistanceFooterButtonsFragment" />
+    </LinearLayout>
+</ScrollView>

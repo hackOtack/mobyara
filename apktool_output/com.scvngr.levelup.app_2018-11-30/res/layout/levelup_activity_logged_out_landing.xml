@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_activity_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="5.0" layout="@layout/levelup_whitelabel_splash" />
+        <View style="@style/levelup_spacer" />
+        <fragment android:name="com.scvngr.levelup.ui.fragment.LoginOrRegisterChooserFragment" android:tag="com.scvngr.levelup.ui.fragment.LoginOrRegisterChooserFragment" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View style="@style/levelup_spacer" />
+        <include layout="@layout/levelup_powered_logo" />
+        <View style="@style/levelup_spacer" />
+    </LinearLayout>
+</ScrollView>

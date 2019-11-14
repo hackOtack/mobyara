@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" id="@id/2131297536" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Full Time Student" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297537" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131297205" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Education" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297206" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820763" id="@id/2131298085" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Occupation" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298086" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+</LinearLayout>

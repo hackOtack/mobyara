@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="Why buy umbrella insurance?" style="@style/2131820882" />
+    <TextView text="Umbrella insurance can give you $1 million or more in extra protection. It can kick in where other policies leave off." style="@style/2131820881" />
+    <TextView text="What situations could umbrella insurance cover?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Certain lawsuits, like slander and defamation" style="@style/2131820773" />
+        <TextView text="Damage to other people's property" style="@style/2131820773" />
+        <TextView text="Injuries to other people if you're at fault" style="@style/2131820773" />
+        <TextView text="Injuries or damage caused by your renters, if you're a landlord" style="@style/2131820773" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131299018" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View id="@id/2131298642" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297624" paddingTop="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="How many people will be riding with the tow truck?" contentDescription="How Many People Will Be Riding With The Tow Truck Text" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131298066" paddingTop="12.0dip" layout_width="fill_parent" layout_height="wrap_content" text="If you don't want to ride in the tow truck, select None and we can help you Find a Ride once your report is complete." contentDescription="Note To Tow Truck Text" />
+    <Spinner id="@id/2131298077" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="12.0dip" contentDescription="Number of Passengers Spinner" />
+</LinearLayout>

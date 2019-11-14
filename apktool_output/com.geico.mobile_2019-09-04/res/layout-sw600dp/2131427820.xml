@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="horizontal" id="@id/2131297217" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297218" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.5">
+            <ImageView id="@id/2131297634" layout_width="wrap_content" layout_height="wrap_content" layout_margin="10.0dip" src="@drawable/APKTOOL_DUMMY_1a1" layout_alignTop="@id/2131297645" layout_alignParentRight="true" onClick="onContactsButtonClicked" />
+            <EditText id="@id/2131297645" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" hint="Email" singleLine="true" layout_toLeftOf="@id/2131297634" inputType="textEmailAddress" style="@style/2131820875" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.5">
+            <TextView id="@id/2131297678" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Cards To Be Emailed" style="@style/2131820997" />
+            <fragment name="o.mi" id="@id/2131299189" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" layout_below="@id/2131297678" layout_alignLeft="@id/2131297678" />
+            <Button textStyle="bold" id="@id/2131298759" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" layout_below="@id/2131299189" layout_alignLeft="@id/2131297678" onClick="onShareIdCardsActionButtonClicked" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/levelup_location_rewards_visit_campaign" android:padding="@dimen/levelup_padding_extra" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_location_rewards_visit_campaign_zero" style="@style/levelup_location_rewards_progress_bar_text" />
+        <ProgressBar android:id="@id/levelup_location_rewards_visit_campaign_progress_bar" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin" android:layout_weight="1.0" style="@style/levelup_location_rewards_progress_bar" />
+        <TextView android:id="@id/levelup_location_rewards_visit_campaign_required_visits" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_location_rewards_progress_bar_text" />
+    </LinearLayout>
+    <TextView android:id="@id/levelup_location_rewards_visit_campaign_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" style="@style/levelup_location_rewards_description" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="#ffffffff" paddingBottom="24.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true" paddingEnd="@dimen/2131165265"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" layout_marginStart="@dimen/2131165265">
+        <EditText id="@id/2131298443" layout_width="fill_parent" layout_height="wrap_content" hint="How can I help you today?" maxLength="120" inputType="textMultiLine" />
+        <TextView textAppearance="@style/2131820997" gravity="end" orientation="horizontal" id="@id/2131298442" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131298443" layout_marginStart="4.0dip" />
+    </RelativeLayout>
+    <ImageButton id="@id/2131296774" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2b0" scaleType="fitEnd" />
+    <ImageButton id="@id/2131297937" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" src="@drawable/APKTOOL_DUMMY_30e" scaleType="fitEnd" tint="#ff000000" />
+</LinearLayout>

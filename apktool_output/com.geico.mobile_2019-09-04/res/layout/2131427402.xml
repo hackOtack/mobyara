@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131296488" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131298233" layout_width="wrap_content" layout_height="wrap_content" text="Payment Information" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296490" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginRight="16.0dip" text="Name on Account" layout_below="@id/2131298233" />
+    <TextView id="@id/2131296489" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="16.0dip" layout_toRightOf="@id/2131296490" layout_alignBaseline="@id/2131296490" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296450" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Account Address" layout_below="@id/2131296490" layout_alignLeft="@id/2131296490" />
+    <TextView id="@id/2131296491" layout_width="wrap_content" layout_height="wrap_content" layout_above="@id/2131296727" layout_alignStart="@id/2131296489" />
+    <TextView id="@id/2131296727" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="16.0dip" layout_toRightOf="@id/2131296450" layout_below="@id/2131296450" layout_alignStart="@id/2131296489" />
+</RelativeLayout>

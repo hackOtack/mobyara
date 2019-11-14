@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296469" background="@drawable/2131231273" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131296470" focusable="true" focusableInTouchMode="true" layout_width="wrap_content" layout_height="wrap_content" />
+    <android.support.v7.widget.SearchView id="@id/2131296475" background="#ffffffff" focusable="false" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" contentDescription="Search text" 2130968798="false" style="@style/2131820894" />
+    <ImageView layout_gravity="center_vertical" id="@id/2131298684" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_86" tint="#ff7a7a7a" />
+</LinearLayout>

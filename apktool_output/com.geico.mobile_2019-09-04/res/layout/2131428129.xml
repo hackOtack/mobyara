@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_weight="1.0" paddingStart="@dimen/2131165580" paddingEnd="@dimen/2131165580"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="@dimen/2131165581" textColor="#ff9e9586" id="@id/2131298425" layout_width="wrap_content" layout_height="wrap_content" text="Name" style="@style/2131820994" />
+    <TextView textSize="@dimen/2131165583" textColor="#ff000000" ellipsize="end" id="@id/2131298424" layout_width="wrap_content" layout_height="wrap_content" maxLines="2" textAllCaps="true" style="@style/2131821004" />
+</LinearLayout>

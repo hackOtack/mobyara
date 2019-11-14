@@ -1,0 +1,116 @@
+.class Lo/ІΓ$5;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/geico/mobile/android/ace/coreFramework/eventHandling/AceReaction;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lo/ІΓ;->ˎ(Lo/ɽı;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "Ljava/lang/Object;",
+        "Lcom/geico/mobile/android/ace/coreFramework/eventHandling/AceReaction",
+        "<",
+        "Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCardCurrentTermData;",
+        ">;"
+    }
+.end annotation
+
+
+# instance fields
+.field final synthetic ˏ:Lo/ІΓ;
+
+.field final synthetic ॱ:Lo/ɽı;
+
+
+# direct methods
+.method constructor <init>(Lo/ІΓ;Lo/ɽı;)V
+    .locals 0
+
+    .prologue
+    .line 26
+    iput-object p1, p0, Lo/ІΓ$5;->ˏ:Lo/ІΓ;
+
+    iput-object p2, p0, Lo/ІΓ$5;->ॱ:Lo/ɽı;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public synthetic reactTo(Ljava/lang/Object;)V
+    .locals 0
+
+    .prologue
+    .line 26
+    check-cast p1, Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCardCurrentTermData;
+
+    invoke-virtual {p0, p1}, Lo/ІΓ$5;->ॱ(Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCardCurrentTermData;)V
+
+    return-void
+.end method
+
+.method public ॱ(Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCardCurrentTermData;)V
+    .locals 3
+
+    .prologue
+    .line 29
+    invoke-virtual {p1}, Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCardCurrentTermData;->getIdCard()Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCard;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCard;->getFrontOfIdCard()Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;
+
+    move-result-object v0
+
+    .line 30
+    invoke-virtual {v0}, Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;->getVehicleVin()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Ljava/lang/String;->isEmpty()Z
+
+    move-result v1
+
+    if-eqz v1, :cond_0
+
+    .line 31
+    iget-object v1, p0, Lo/ІΓ$5;->ॱ:Lo/ɽı;
+
+    .line 32
+    invoke-virtual {v0}, Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;->getVehicleUnitNumber()Ljava/lang/String;
+
+    move-result-object v2
+
+    .line 31
+    invoke-virtual {v1, v2}, Lo/ɽı;->ˊ(Ljava/lang/String;)Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCard;
+
+    move-result-object v1
+
+    .line 33
+    invoke-virtual {v1}, Lcom/geico/mobile/android/ace/geicoAppModel/AceIdCard;->getFrontOfIdCard()Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;
+
+    move-result-object v1
+
+    invoke-virtual {v1}, Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;->getVehicleVin()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Lcom/geico/mobile/android/ace/geicoAppModel/AceFrontOfIdCard;->setVehicleVin(Ljava/lang/String;)V
+
+    .line 35
+    :cond_0
+    return-void
+.end method

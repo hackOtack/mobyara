@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131297210" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131298534" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Are you registering any of the vehicle(s) in NY today?" layout_alignParentTop="true" />
+    <RadioGroup orientation="horizontal" id="@id/2131298532" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" weightSum="100.0">
+        <RadioButton id="@id/2131298533" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="15.0dip" button="@null" text="Yes" drawableLeft="@android:drawable/btn_radio" drawablePadding="10.0dip" layout_weight="50.0" />
+        <RadioButton id="@id/2131298531" layout_width="wrap_content" layout_height="wrap_content" button="@null" text="No" drawableLeft="@android:drawable/btn_radio" drawablePadding="10.0dip" layout_weight="50.0" />
+    </RadioGroup>
+    <View background="#ffbab4ab" layout_width="fill_parent" layout_height="2.0dip" layout_marginBottom="10.0dip" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

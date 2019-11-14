@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297863" visibility="gone" clickable="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297467" layout_width="fill_parent" layout_height="wrap_content" weightSum="1.0">
+        <ImageView layout_gravity="center_horizontal" id="@id/2131297470" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" src="@drawable/APKTOOL_DUMMY_236" scaleType="centerCrop" contentDescription="Fingerprint Login" />
+        <LinearLayout layout_gravity="center_horizontal" orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip">
+            <TextView textAppearance="@style/2131820756" layout_gravity="center_horizontal" layout_width="wrap_content" layout_height="wrap_content" text="Login with Fingerprint" />
+            <TextView textAppearance="@style/2131820756" textStyle="bold" layout_gravity="center_horizontal" id="@id/2131297472" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <include layout="@layout/2131428001" />
+</LinearLayout>

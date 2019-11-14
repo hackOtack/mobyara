@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Spinner android:id="@id/levelup_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/levelup_spinner_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

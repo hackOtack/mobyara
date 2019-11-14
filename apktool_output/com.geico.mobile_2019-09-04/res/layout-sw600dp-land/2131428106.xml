@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131296525" layout_width="wrap_content" layout_height="wrap_content">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131296769" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="20.0dip">
+            <TextView textColor="#ff000000" id="@id/2131296768" layout_width="wrap_content" layout_height="wrap_content" text="%s Claims Office Hours:" style="@style/2131820876" />
+            <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131296770" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" divider="@android:color/transparent" dividerHeight="5.0dip" layout_weight="1.0" layout_below="@id/2131296768" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297896" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip">
+            <TextView textColor="#ff000000" id="@id/2131297895" layout_width="wrap_content" layout_height="wrap_content" text="Manage or report a claim:" style="@style/2131820876" />
+            <TextView textColor="#ff000000" id="@id/2131297897" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="2.0dip" layout_toRightOf="@id/2131297895" style="@style/2131820876" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131296526" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_toRightOf="@id/2131299240">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298737" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="20.0dip">
+            <TextView textColor="#ff000000" id="@id/2131298736" layout_width="wrap_content" layout_height="wrap_content" text="%s Services Office Hours:" style="@style/2131820876" />
+            <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131297561" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="5.0dip" divider="@android:color/transparent" dividerHeight="5.0dip" layout_weight="1.0" layout_below="@id/2131298736" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298731" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip">
+            <TextView textColor="#ff000000" id="@id/2131298730" layout_width="wrap_content" layout_height="wrap_content" text="Service Contact Information:" style="@style/2131820876" />
+            <TextView textColor="#ff000000" id="@id/2131298732" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="2.0dip" layout_toRightOf="@id/2131298730" style="@style/2131820876" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <View id="@id/2131299240" background="#ffbab4ab" layout_width="0.5dip" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_toRightOf="@id/2131296525" layout_alignBottom="@id/2131296525" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

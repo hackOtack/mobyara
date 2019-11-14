@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView scrollbarAlwaysDrawVerticalTrack="false" id="@id/2131296353" focusableInTouchMode="true" descendantFocusability="blocksDescendants" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_weight="1.0">
+            <fragment name="o.Bg" id="@id/2131297859" layout_width="fill_parent" layout_height="wrap_content" />
+            <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.login.AceLoginFragment" layout_gravity="center_horizontal" id="@id/2131297846" layout_width="388.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" background="#ffffffff" layout_width="fill_parent" layout_height="fill_parent" layout_weight="1.0">
+            <fragment name="o.pO" layout_gravity="center_horizontal" id="@id/2131297847" layout_width="356.0dip" layout_height="wrap_content" layout_marginTop="16.0dip" />
+            <fragment name="o.pI" layout_gravity="center_horizontal" id="@id/2131297845" layout_width="372.0dip" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View layout_width="0.0dip" layout_height="1.0dip" layout_weight="0.4" />
+    <fragment id="@id/2131298662" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.2" class="o.mg" />
+    <View layout_width="0.0dip" layout_height="1.0dip" layout_weight="0.4" />
+</LinearLayout>

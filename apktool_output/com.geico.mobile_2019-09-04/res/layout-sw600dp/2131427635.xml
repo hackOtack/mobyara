@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427619" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" weightSum="1.0">
+        <Button theme="@style/2131820826" id="@id/2131298523" layout_width="0.0dip" layout_height="wrap_content" text="Refresh" layout_weight="0.5" onClick="onRefreshClicked" style="@style/2131821002" />
+        <Button id="@id/2131298524" visibility="invisible" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.5" style="@style/2131821002" />
+    </LinearLayout>
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginRight="8.0dip" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820994" textColor="#ff000000" layout_gravity="center_vertical" id="@id/2131296817" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Progress of Service Request" />
+            <View background="#ffd3d6d7" layout_width="fill_parent" layout_height="1.0dip" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297573" padding="@dimen/2131165336" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Good news! You are fully covered for this service!" contentDescription="You Are Fully Covered Text" />
+            <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="wrap_content">
+                <ImageView id="@id/2131296717" visibility="gone" layout_width="72.0dip" layout_height="72.0dip" src="@drawable/2131231090" layout_marginStart="8.0dip" 2130968858="2131298157" 2130968861="2131298157" />
+                <include id="@id/2131296804" layout_width="0.0dip" layout_height="wrap_content" 2130968839="2131298157" 2130968857="@id/2131296717" 2130968861="2131298157" layout="@layout/2131427611" />
+                <include layout_width="0.0dip" layout_height="wrap_content" 2130968839="2131298157" 2130968857="@id/2131296717" 2130968860="@id/2131296804" layout="@layout/2131427610" />
+            </android.support.constraint.ConstraintLayout>
+            <include layout="@layout/2131427613" />
+            <include layout="@layout/2131427612" />
+            <View id="@id/2131296810" background="#ffd3d6d7" layout_width="fill_parent" layout_height="1.0dip" />
+            <RelativeLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820756" id="@id/2131298742" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Finding you a service provider..." layout_toLeftOf="@id/2131298741" layout_alignParentLeft="true" layout_centerVertical="true" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131298741" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" layout_alignParentRight="true" layout_centerVertical="true" />
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <TextView textAppearance="@style/2131820756" id="@id/2131296522" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="We have also sent you a text message with service provider information." />
+    <TextView textAppearance="@style/2131820994" id="@id/2131298011" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" text="Need A Ride?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131298010" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginBottom="16.0dip" text="Whether it's to the shop or back home, we can help you get there!" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" weightSum="1.0">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" layout_weight="0.5">
+            <android.support.v7.widget.CardView theme="@style/2131820826" gravity="center_horizontal" layout_gravity="center" id="@id/2131297877" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" 2130968673="@color/2131099693">
+                <LinearLayout layout_gravity="center" orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content">
+                    <ImageView layout_gravity="center_vertical" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2f7" />
+                    <TextView textAppearance="@style/2131820997" textColor="#ffff00bf" layout_gravity="center_vertical" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Get A Ride From Lyft" textAllCaps="true" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView theme="@style/2131820826" gravity="center_horizontal" layout_gravity="center" id="@id/2131297443" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" 2130968673="@color/2131099693">
+                <TextView textAppearance="@style/2131820997" layout_gravity="center" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" text="View All Ride Options" textAllCaps="true" />
+            </android.support.v7.widget.CardView>
+            <Button id="@id/2131298596" visibility="visible" layout_width="fill_parent" layout_height="wrap_content" layout_margin="4.0dip" text="Return Home" onClick="onReturnHomeClicked" style="@style/2131820937" />
+            <Button id="@id/2131296650" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_margin="4.0dip" text="Cancel Request" onClick="onCancelRequestClicked" style="@style/2131821002" />
+        </LinearLayout>
+        <TextView visibility="invisible" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.5" />
+    </LinearLayout>
+</LinearLayout>

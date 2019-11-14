@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout id="@id/2131298794" layout_width="fill_parent" layout_height="@dimen/2131165546"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="@dimen/2131165545" layout_marginLeft="12.0dip" layout_marginBottom="16.0dip" layout="@layout/2131428049" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment id="@id/2131298386" focusableInTouchMode="true" layout_width="0.0dip" layout_height="0.0dip" class="com.geico.mobile.android.ace.geicoAppPresentation.getAQuote.AceQuotePrefillNavigationFragment" />
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.getAQuote.AceGetAQuoteNavigationFragment" id="@id/2131297567" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+</ScrollView>

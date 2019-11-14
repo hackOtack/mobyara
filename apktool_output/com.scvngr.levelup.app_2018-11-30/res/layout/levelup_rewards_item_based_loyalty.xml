@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/levelup_rewards_progress_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@null" />
+        <View style="@style/levelup_spacer" />
+        <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_rewards_item_earn_free" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_rewards_remaining_steps" />
+    </LinearLayout>
+</ScrollView>

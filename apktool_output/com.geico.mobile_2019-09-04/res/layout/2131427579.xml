@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView gravity="center_vertical" id="@id/2131297121" paddingTop="10.0dip" paddingBottom="10.0dip" layout_width="fill_parent" layout_height="wrap_content" drawablePadding="32.0dip" drawableStart="@drawable/APKTOOL_DUMMY_35a" paddingStart="@dimen/2131165265" paddingEnd="@dimen/2131165265" style="@style/2131820873"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

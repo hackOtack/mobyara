@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/activity_home_fragment_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <android.support.design.widget.BottomNavigationView android:layout_gravity="start" android:id="@id/activity_home_bottom_navigation" android:layout_width="fill_parent" android:layout_height="wrap_content" app:itemBackground="@drawable/navigation_bar_bg" app:itemIconTint="@color/navigation_bar_icon" app:itemTextColor="@color/navigation_bar_text" app:menu="@menu/levelup_activity_home" />
+    <fragment android:tag="com.scvngr.levelup.ui.fragment.ConsumerNavigationFragment" android:layout_width="0.0dip" android:layout_height="0.0dip" class="com.scvngr.levelup.ui.fragment.ConsumerNavigationFragment" />
+</LinearLayout>

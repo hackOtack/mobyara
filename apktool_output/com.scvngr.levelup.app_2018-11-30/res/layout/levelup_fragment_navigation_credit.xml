@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?levelup_navigation_item_style"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center|left" android:id="@android:id/text1" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_credit" android:layout_weight="1.0" style="?levelup_navigation_item_style" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ProgressBar android:gravity="center" android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" style="?android:progressBarStyle" />
+        <TextView android:id="@id/levelup_fragment_content" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_navigation_item_credit_text" />
+    </FrameLayout>
+</LinearLayout>

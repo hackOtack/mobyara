@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout paddingLeft="@dimen/2131165265" paddingTop="16.0dip" paddingRight="@dimen/2131165265" paddingBottom="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView layout_width="wrap_content" layout_height="wrap_content" text="EmptyActivity" />
+</RelativeLayout>

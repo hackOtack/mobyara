@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView id="@id/2131296667" focusable="true" clickable="true" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" style="@style/2131820789" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" minWidth="@dimen/2131165330" minHeight="156.0dip">
+        <TextView textSize="@dimen/2131165632" gravity="center" id="@id/2131296832" padding="@dimen/2131165329" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

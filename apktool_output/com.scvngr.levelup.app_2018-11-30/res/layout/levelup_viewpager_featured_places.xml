@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.scvngr.levelup.ui.view.WebImageViewWithSummaryOverlay android:id="@id/levelup_location_list_featured_webimageview" android:layout_width="fill_parent" style="@style/levelup_web_image_with_overlay"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

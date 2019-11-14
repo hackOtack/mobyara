@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout="@layout/2131427678" />
+    <Spinner id="@id/2131296822" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" contentDescription="Select Topic Dropdown" />
+    <EditText gravity="start" id="@id/2131296821" scrollbars="vertical" layout_width="fill_parent" layout_height="wrap_content" hint="Your questions or comments" lines="6" scrollHorizontally="false" inputType="textMultiLine" contentDescription="Comments Text" layout_marginStart="10.0dip" style="@style/2131820875" />
+    <Button textColor="#ffffffff" layout_gravity="end" id="@id/2131296840" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="5.0dip" text="SEND EMAIL" onClick="onSendEmailClicked" contentDescription="SEND EMAIL Button" />
+</LinearLayout>

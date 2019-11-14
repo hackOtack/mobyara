@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="vertical" id="@id/2131297398" paddingLeft="10.0dip" paddingRight="10.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131297399" layout_width="fill_parent" layout_height="wrap_content">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" weightSum="100.0">
+            <TextView textStyle="bold" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="10.0dip" text="Fax Number" layout_weight="25.0" style="@style/2131820997" />
+            <EditText id="@id/2131297646" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="5.0dip" hint="Required" maxLines="1" maxLength="14" layout_weight="75.0" layout_centerInParent="true" inputType="phone" style="@style/2131820875" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" weightSum="100.0">
+            <TextView textStyle="bold" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="10.0dip" text="Fax To" layout_weight="25.0" style="@style/2131820997" />
+            <EditText id="@id/2131297647" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="5.0dip" hint="Required" maxLines="1" layout_weight="75.0" layout_centerInParent="true" style="@style/2131820875" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+        <TextView textStyle="bold" id="@id/2131296677" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" text="Cards To Be Faxed" layout_below="@id/2131297647" style="@style/2131820997" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    <fragment name="o.mi" id="@id/2131299189" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="5.0dip" layout_below="@id/2131297399" layout_alignLeft="@id/2131297648" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

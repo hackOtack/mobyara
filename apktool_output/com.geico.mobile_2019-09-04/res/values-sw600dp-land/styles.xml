@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131820857" parent="@style/2131820858">
+        <item name="android:layout_weight">@integer/2131361815</item>
+    </style>
+</resources>

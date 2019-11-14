@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="?android:listDivider" android:showDividers="middle" style="@style/levelup_frame"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.scvngr.levelup.ui.view.navigation.BrowserStartView android:id="@id/levelup_navigation_legal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_terms_and_conditions" app:destination="@string/levelup_url_legal" style="@style/profile_navigation" />
+    <com.scvngr.levelup.ui.view.navigation.ActivityStartView android:id="@id/levelup_navigation_attributions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/levelup_navigation_label_attributions" app:destination="@string/levelup_activity_attributions" style="@style/profile_navigation" />
+    <com.scvngr.levelup.ui.view.PreferenceWithRightSummary android:id="@id/settings_app_version" android:layout_width="fill_parent" android:layout_height="wrap_content" app:preference_title="@string/settings_app_version" style="@style/preference" />
+</LinearLayout>

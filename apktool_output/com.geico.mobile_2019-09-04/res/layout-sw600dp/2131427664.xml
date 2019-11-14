@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427619" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false" weightSum="2.0">
+        <include layout_width="0.0dip" layout_height="wrap_content" layout_margin="4.0dip" layout_weight="1.0" layout="@layout/2131427665" />
+        <include layout_width="0.0dip" layout_height="wrap_content" layout_margin="4.0dip" layout_weight="1.0" layout="@layout/2131427663" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="false" weightSum="2.0">
+        <View background="#00000000" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" style="@style/2131820842" />
+        <RelativeLayout layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <include layout="@layout/2131427628" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

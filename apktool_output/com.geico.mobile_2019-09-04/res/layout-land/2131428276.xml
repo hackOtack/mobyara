@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131299146" layout_width="0.0dip" layout_height="wrap_content" text="Continue" layout_weight="0.4" onClick="onContinueClicked" contentDescription="Continue Button" style="@style/2131820937" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131298123" background="#ff3e3a3a" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout theme="@style/2131821103" id="@id/2131298998" background="#ff000000" layout_width="fill_parent" layout_height="34.0dip" elevation="4.0dip">
+        <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="17.0dip" textColor="#ffffffff" layout_gravity="center" id="@id/2131299080" layout_width="wrap_content" layout_height="wrap_content" />
+    </FrameLayout>
+    <TextView textSize="18.0sp" textStyle="bold" textColor="#ffffffff" id="@id/2131298950" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="15.0dip" layout_marginBottom="20.0dip" text="@string/2131755944" layout_alignParentBottom="true" layout_centerHorizontal="true" />
+    <LinearLayout gravity="center" orientation="vertical" id="@id/2131298122" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131298950" layout_below="@id/2131298998" layout_centerVertical="true">
+        <LinearLayout gravity="center_horizontal" orientation="horizontal" id="@id/2131298118" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="20.0dip">
+            <FrameLayout layout_gravity="center" layout_width="0.0dip" layout_height="fill_parent" layout_weight="0.5">
+                <ImageView id="@id/2131298121" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="60.0dip" />
+            </FrameLayout>
+            <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginRight="30.0dip" layout_weight="0.5">
+                <com.cccis.sdk.android.common.view.BoldTextView textSize="20.0sp" textStyle="bold" textColor="#ffffffff" gravity="left" layout_gravity="left" id="@id/2131298992" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="10.0dip" text="VEHICLE PHOTOS" />
+                <com.cccis.sdk.android.common.view.RegularTextView textSize="18.0sp" textColor="#ffffffff" gravity="left" layout_gravity="left" id="@id/2131298120" layout_width="wrap_content" layout_height="wrap_content" text="Stand at the corner depicted and capture the entire vehicle." />
+                <View background="#ffffffff" layout_width="fill_parent" layout_height="1.0dip" layout_marginTop="20.0dip" layout_marginBottom="20.0dip" />
+                <TextView textSize="14.0sp" textColor="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131755945" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

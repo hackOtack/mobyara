@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/2131821301"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox id="@id/2131296719" style="@style/2131821300" />
+    <LinearLayout layout_gravity="center_vertical" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView id="@id/2131298989" style="@style/2131821304" />
+        <TextView id="@id/2131296983" style="@style/2131821302" />
+    </LinearLayout>
+</LinearLayout>

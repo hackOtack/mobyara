@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_message_view_container">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/levelup_message_view_image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_message_view_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" style="@style/levelup_message_view_title" />
+            <TextView android:layout_gravity="center_horizontal" android:id="@id/levelup_message_view_body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin" style="@style/levelup_message_view_body" />
+            <Button android:id="@id/levelup_message_view_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin_extra" style="@style/Button.Primary.Medium.Normal" />
+        </LinearLayout>
+    </ScrollView>
+</merge>

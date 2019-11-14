@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView paddingBottom="10.0dip" fitsSystemWindows="true" clipToPadding="false" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v7.widget.CardView clipChildren="true" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginStart="10.0dip" layout_marginEnd="10.0dip" 2130968674="@dimen/2131165549" 2130968675="@dimen/2131165550">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textSize="@dimen/2131165632" textStyle="bold" textColor="#ff121212" gravity="center_vertical" background="#ffffffff" layout_width="fill_parent" layout_height="50.0dip" text="Review Images" paddingStart="20.0dip" paddingEnd="20.0dip" />
+                <View background="#ffdcdad5" layout_width="fill_parent" layout_height="2.0dip" />
+                <TextView textSize="14.0sp" textColor="#ff222222" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" text="Review your images below. To retake a photo, tap on the thumbnail image." layout_marginStart="20.0dip" layout_marginEnd="20.0dip" />
+                <com.geico.mobile.android.ace.geicoAppPresentation.virtualInspection.thumbnailGallery.AceBasicPhotoEstimateGallery id="@id/2131298280" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" layout_marginStart="20.0dip" layout_marginEnd="20.0dip" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView clipChildren="true" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginStart="10.0dip" layout_marginEnd="10.0dip" 2130968674="@dimen/2131165549" 2130968675="@dimen/2131165550">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textSize="@dimen/2131165632" textStyle="bold" textColor="#ff121212" gravity="center_vertical" background="#ffffffff" layout_width="fill_parent" layout_height="50.0dip" text="Additional Photos" paddingStart="20.0dip" paddingEnd="20.0dip" />
+                <View background="#ffdcdad5" layout_width="fill_parent" layout_height="2.0dip" />
+                <TextView textSize="14.0sp" textColor="#ff222222" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" text="To discard or replace a photo, tap on the thumbnail image. You can take up to 10 additional photos." layout_marginStart="20.0dip" layout_marginEnd="20.0dip" />
+                <com.geico.mobile.android.ace.geicoAppPresentation.virtualInspection.thumbnailGallery.AceBasicPhotoEstimateGallery id="@id/2131296445" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="20.0dip" layout_marginBottom="4.0dip" layout_marginStart="20.0dip" layout_marginEnd="20.0dip" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView clipChildren="true" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginStart="10.0dip" layout_marginEnd="10.0dip" 2130968674="@dimen/2131165549" 2130968675="@dimen/2131165550">
+            <LinearLayout orientation="vertical" focusable="true" focusableInTouchMode="true" descendantFocusability="beforeDescendants" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textSize="@dimen/2131165632" textStyle="bold" textColor="#ff121212" gravity="center_vertical" background="#ffffffff" layout_width="fill_parent" layout_height="50.0dip" text="Comments" paddingStart="20.0dip" paddingEnd="20.0dip" />
+                <View background="#ffdcdad5" layout_width="fill_parent" layout_height="1.0dip" />
+                <EditText textColor="#ff222222" gravity="start|center|top" id="@id/2131296794" background="@drawable/2131231595" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" layout_marginBottom="@dimen/2131165265" minHeight="120.0dip" hint="Add a comment to your claim." maxLength="250" digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890?.,!@#$%^&amp;*()-=+:;'&quot; " inputType="textMultiLine" layout_marginStart="10.0dip" layout_marginEnd="10.0dip" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <Button theme="@style/2131821202" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Upload" onClick="onUploadClicked" layout_marginStart="8.0dip" layout_marginEnd="8.0dip" style="@style/2131820937" />
+    </LinearLayout>
+</ScrollView>

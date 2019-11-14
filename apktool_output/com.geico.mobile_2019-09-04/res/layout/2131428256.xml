@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_above="@id/2131298914">
+        <fragment id="@id/2131299086" layout_width="fill_parent" layout_height="wrap_content" class="o.Іȣ" />
+    </ScrollView>
+    <include layout="@layout/2131428200" />
+</RelativeLayout>

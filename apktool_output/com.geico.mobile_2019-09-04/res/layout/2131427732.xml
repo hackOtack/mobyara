@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297428" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820997" id="@id/2131297426" paddingTop="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Cash Price" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceExpandedGridView id="@id/2131297427" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" horizontalSpacing="0.5dip" />
+    </LinearLayout>
+    <View id="@id/2131296687" background="#ffd3d6d7" layout_width="0.5dip" layout_height="fill_parent" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" />
+    <LinearLayout orientation="vertical" id="@id/2131297431" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_weight="1.0">
+        <TextView textAppearance="@style/2131820997" id="@id/2131297429" paddingTop="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Credit Price" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceExpandedGridView id="@id/2131297430" background="#ffd3d6d7" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="-1.0dip" horizontalSpacing="1.0dip" />
+    </LinearLayout>
+</LinearLayout>

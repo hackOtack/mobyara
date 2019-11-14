@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296804" layout_width="fill_parent" layout_height="wrap_content" weightSum="1.5" layout_marginStart="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297700" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_weight="0.5" contentDescription="Incident Type Text" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297699" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_weight="1.0" contentDescription="Incident Number Text" layout_marginStart="@dimen/2131165336" />
+</LinearLayout>

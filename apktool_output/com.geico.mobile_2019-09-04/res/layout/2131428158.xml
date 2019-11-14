@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298492" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131298489" layout_alignParentTop="true" layout_alignParentRight="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131298494" layout_width="wrap_content" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298493" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Policy Number:" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298495" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131298497" layout_width="wrap_content" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298496" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" text="State:" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298498" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip" />
+    </LinearLayout>
+</LinearLayout>

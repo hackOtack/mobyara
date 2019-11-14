@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" weightSum="2.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820763" textColor="#ffffffff" gravity="center" id="@id/2131298565" background="@drawable/2131231467" padding="8.0dip" layout_width="0.0dip" layout_height="fill_parent" layout_marginRight="1.0dip" text="Processing" layout_weight="1.0" contentDescription="Request Processing Tracker" />
+    <TextView textAppearance="@style/2131820763" gravity="center" id="@id/2131297148" background="@drawable/2131231690" padding="8.0dip" layout_width="0.0dip" layout_height="fill_parent" text="Provider Assigned" layout_weight="1.0" contentDescription="Driver Assignment Tracker" />
+</LinearLayout>

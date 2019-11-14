@@ -1,0 +1,64 @@
+.class public Lo/ѭ;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lcom/geico/mobile/android/ace/geicoAppBusiness/ui/analytics/AceAnalyticsTrackable;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 12
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public getActivity()Landroid/app/Activity;
+    .locals 1
+
+    .prologue
+    .line 16
+    new-instance v0, Landroid/app/Activity;
+
+    invoke-direct {v0}, Landroid/app/Activity;-><init>()V
+
+    return-object v0
+.end method
+
+.method public trackAction(Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 1019
+    return-void
+.end method
+
+.method public trackAction(Ljava/lang/String;Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 1029
+    return-void
+.end method
+
+.method public trackError(Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 2019
+    return-void
+.end method
+
+.method public trackPageShown()V
+    .locals 0
+
+    .prologue
+    .line 3015
+    return-void
+.end method

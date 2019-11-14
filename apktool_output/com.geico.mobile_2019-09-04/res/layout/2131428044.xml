@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout gravity="center_vertical" id="@id/2131298541" background="@drawable/2131230831" layout_width="fill_parent" layout_height="wrap_content" layout_alignTop="@id/2131298920" layout_alignBottom="@id/2131298920" backgroundTint="#ffb6091a">
+        <ImageView id="@id/2131297017" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/APKTOOL_DUMMY_186" tint="#ffffffff" layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <android.support.v7.widget.CardView id="@id/2131298920" focusable="true" clickable="true" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground">
+        <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip">
+            <ImageView id="@id/2131298838" layout_width="wrap_content" layout_height="wrap_content" 2130968833="2131298157" 2130968861="2131298157" />
+            <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginStart="16.0dip" layout_marginEnd="16.0dip" 2130968833="2131298157" 2130968840="@id/2131297995" 2130968857="@id/2131298838" 2130968861="2131298157">
+                <TextView id="@id/2131296672" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820915" />
+                <TextView id="@id/2131296670" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820913" />
+            </LinearLayout>
+            <ImageView id="@id/2131297995" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3c9" tint="#ff000000" 2130968833="2131298157" 2130968839="2131298157" 2130968861="2131298157" />
+        </android.support.constraint.ConstraintLayout>
+        <include layout="@layout/2131428197" />
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

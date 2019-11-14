@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298279" background="#ff000000" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131428212" />
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent">
+        <RelativeLayout layout_gravity="center" id="@id/2131296638" layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0">
+            <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECameraPreviewLandscapeFragment" id="@id/2131298402" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" />
+            <ImageView id="@id/2131296635" visibility="invisible" layout_width="fill_parent" layout_height="fill_parent" />
+            <RelativeLayout id="@id/2131298593" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content">
+                <ImageView id="@id/2131297692" layout_width="fill_parent" layout_height="fill_parent" />
+                <LinearLayout gravity="center" orientation="horizontal" id="@id/2131298592" background="#ffffffff" layout_width="fill_parent" layout_height="50.0dip" layout_alignParentBottom="true">
+                    <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" textColor="#ffffffff" gravity="center" id="@id/2131296601" background="#ffffffff" layout_width="0.0dip" layout_height="fill_parent" layout_marginRight="1.0dip" text="Retake" layout_weight="0.5" textAlignment="gravity" />
+                    <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" textColor="#ffffffff" gravity="center" id="@id/2131296604" background="#ffffffff" layout_width="0.0dip" layout_height="fill_parent" layout_marginLeft="1.0dip" text="Use Photo" layout_weight="0.5" layout_toRightOf="@id/2131296600" textAlignment="gravity" />
+                </LinearLayout>
+                <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" textColor="#ffffffff" gravity="center" id="@id/2131296597" background="#ffffffff" visibility="gone" layout_width="fill_parent" layout_height="50.0dip" text="Continue" layout_alignParentBottom="true" onClick="continuePressed" textAlignment="gravity" />
+            </RelativeLayout>
+        </RelativeLayout>
+        <RelativeLayout background="#fff2f0ec" layout_width="220.0dip" layout_height="fill_parent">
+            <RelativeLayout id="@id/2131298776" layout_width="fill_parent" layout_height="fill_parent" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true">
+                <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECarouselFragment" id="@id/2131296681" layout_width="125.0dip" layout_height="fill_parent" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_alignParentLeft="true" 2130969076="true" />
+                <LinearLayout orientation="vertical" id="@id/2131298119" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="10.0dip" layout_alignParentRight="true">
+                    <TextView textSize="15.0dip" textStyle="bold" layout_gravity="center_horizontal" id="@id/2131298081" layout_width="wrap_content" layout_height="wrap_content" text="1 of 8" />
+                </LinearLayout>
+                <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECaptureButtonFragment" id="@id/2131296659" layout_width="65.0dip" layout_height="65.0dip" layout_marginRight="10.0dip" layout_alignParentRight="true" layout_centerInParent="true" />
+                <TextView textSize="20.0sp" textColor="#ffffffff" id="@id/2131298779" paddingBottom="7.0dip" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="20.0dip" text="@string/2131757140" layout_below="@id/2131296659" layout_alignLeft="@id/2131296659" layout_alignParentRight="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

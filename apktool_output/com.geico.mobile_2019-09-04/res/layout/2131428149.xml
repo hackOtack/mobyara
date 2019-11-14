@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296716" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton id="@id/2131298503" saveEnabled="false" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" />
+    <TextView textAppearance="@style/2131820997" layout_gravity="center_vertical" id="@id/2131298515" layout_width="wrap_content" layout_height="wrap_content" />
+</LinearLayout>

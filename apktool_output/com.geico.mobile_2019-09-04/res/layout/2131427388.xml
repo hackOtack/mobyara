@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298138" background="#b3000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="20.0sp" textStyle="bold" textColor="#ff41ab8e" layout_gravity="center_horizontal" id="@id/2131298133" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="3.0dip" layout_marginBottom="20.0dip" text="INFORMATION PHOTOS" />
+    <LinearLayout orientation="horizontal" id="@id/2131298129" layout_width="fill_parent" layout_height="fill_parent">
+        <View id="@id/2131298134" layout_width="wrap_content" layout_height="wrap_content" />
+        <ImageView id="@id/2131298135" layout_width="wrap_content" layout_height="wrap_content" />
+        <View id="@id/2131298139" layout_width="wrap_content" layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView textSize="20.0sp" textStyle="bold" textColor="#ff76a1c9" layout_gravity="center_horizontal" id="@id/2131298140" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="0.0dip" text="Vehicle Identification Number" />
+    <TextView textColor="#ffffffff" gravity="center_horizontal" layout_gravity="center_horizontal" id="@id/2131298130" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginRight="20.0dip" text="Capture the complete VIN. This 17 character code is located inside of the driver side doorjamb or on the driver side interior dash." />
+    <FrameLayout id="@id/2131297609" layout_width="fill_parent" layout_height="0.0dip" layout_weight="1.0" />
+    <TextView textSize="18.0sp" textColor="#ff76a1c9" gravity="bottom" layout_gravity="center_horizontal" id="@id/2131298132" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="20.0dip" text="Tap Anywhere To Dismiss" />
+</LinearLayout>

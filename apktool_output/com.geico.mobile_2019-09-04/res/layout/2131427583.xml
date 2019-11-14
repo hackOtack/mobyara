@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingTop="7.0dip" layout_width="fill_parent" layout_height="wrap_content" paddingStart="7.0dip" paddingEnd="7.0dip" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView id="@id/2131297142" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099995" 2130968677="false">
+        <LinearLayout orientation="horizontal" id="@id/2131297141" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView layout_gravity="center_vertical" id="@id/2131297630" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231412" paddingStart="16.0dip" paddingEnd="16.0dip" />
+            <LinearLayout layout_gravity="center_vertical" orientation="vertical" paddingTop="5.0dip" paddingBottom="5.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820760" textStyle="bold" textColor="#ffffffff" id="@id/2131297138" layout_width="wrap_content" layout_height="wrap_content" text="Check Out DriveEasy" />
+                <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131297137" layout_width="wrap_content" layout_height="wrap_content" text="Start saving today!" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

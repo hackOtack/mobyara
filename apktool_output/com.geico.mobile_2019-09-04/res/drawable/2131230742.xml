@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset insetLeft="4.0dip" insetRight="4.0dip" insetTop="6.0dip" insetBottom="6.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ripple color="?android:colorControlHighlight">
+        <item>
+            <selector>
+                <item state_enabled="false">
+                    <shape shape="rectangle">
+                        <corners radius="2.0dip" />
+                        <solid color="?android:colorButtonNormal" />
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+                <item>
+                    <shape shape="rectangle">
+                        <corners radius="2.0dip" />
+                        <solid color="?APKTOOL_DUMMY_c9" />
+                        <padding left="8.0dip" top="4.0dip" right="8.0dip" bottom="4.0dip" />
+                    </shape>
+                </item>
+            </selector>
+        </item>
+    </ripple>
+</inset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297416" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView id="@id/2131297415" layout_width="wrap_content" layout_height="wrap_content" layout_margin="4.0dip" text="Whether it's to the shop or back home, we can help you get there!" style="@style/2131820873" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout gravity="start|center" orientation="horizontal" id="@id/2131297876" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297415" style="@style/2131820980">
+            <ImageView id="@id/2131297873" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2f7" />
+            <TextView textColor="#ffff00bf" layout_gravity="center" id="@id/2131297878" layout_width="wrap_content" layout_height="wrap_content" text="Get a Ride" style="@style/2131820874" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout gravity="start|center" orientation="horizontal" id="@id/2131298727" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297876" onClick="onShareMyLocationOptionClicked" style="@style/2131820980">
+            <ImageView id="@id/2131298726" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2f3" tint="#ff977fcc" />
+            <TextView layout_gravity="center" id="@id/2131298728" layout_width="wrap_content" layout_height="wrap_content" text="Share My Location" style="@style/2131820874" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout gravity="start|center" orientation="horizontal" id="@id/2131296260" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131298727" onClick="onFindTaxiOptionClicked" style="@style/2131820980">
+            <ImageView id="@id/2131297421" paddingRight="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_407" tint="#ff977fcc" />
+            <TextView layout_gravity="center" id="@id/2131296261" layout_width="wrap_content" layout_height="wrap_content" text="Find a Taxi" style="@style/2131820874" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+</LinearLayout>

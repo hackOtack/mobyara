@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View style="@style/levelup_spacer" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/registration_wave_icon" />
+    <TextView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:text="@string/levelup_registration_interstitial_title" style="@style/registration_interstitial_title" />
+    <TextView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin" android:text="@string/levelup_registration_interstitial_body" style="@style/registration_interstitial_body" />
+    <Button android:id="@id/facebook_registration_button" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_registration_interstitial_button_margin" android:text="@string/levelup_registration_interstitial_facebook_button" style="@style/levelup_button_registration_facebook" />
+    <Button android:id="@id/email_registration_button" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:text="@string/levelup_registration_interstitial_email_button" style="@style/levelup_button_registration" />
+    <View style="@style/levelup_spacer" />
+    <TextView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_registration_interstitial_tutorial_title" style="@style/registration_interstitial_body" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/tutorial_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:text="@string/levelup_registration_interstitial_tutorial_button" style="@style/Button.Secondary.Medium.Normal" />
+    <View style="@style/levelup_spacer" />
+</LinearLayout>

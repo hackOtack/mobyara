@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296894" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131298810" layout="@layout/2131428182" />
+    <View id="@id/2131297601" background="@drawable/APKTOOL_DUMMY_c" visibility="gone" layout_height="8.0dip" style="@style/2131820783" />
+    <LinearLayout orientation="vertical" background="#ffffffff" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="horizontal" id="@id/2131296891" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0">
+            <TextView textAppearance="@style/2131820758" id="@id/2131296899" layout_width="0.0dip" layout_height="wrap_content" text="Current Policy Period" layout_weight="1.0" />
+            <TextView textAppearance="@style/2131820997" id="@id/2131296897" paddingLeft="16.0dip" layout_width="0.0dip" layout_height="wrap_content" text="Policy Premium" layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131296892" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0">
+            <TextView textAppearance="@style/2131820754" gravity="center_vertical" id="@id/2131296898" layout_width="0.0dip" layout_height="fill_parent" text="Policy Period" layout_weight="1.0" contentDescription="Policy Period Dates" />
+            <TextView textAppearance="@style/2131820838" textColor="#ff4789b6" gravity="center_vertical" id="@id/2131296903" paddingLeft="16.0dip" layout_width="0.0dip" layout_height="fill_parent" layout_weight="1.0" contentDescription="Policy Premium Amount" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131296861" layout_width="fill_parent" layout_height="wrap_content" weightSum="2.0">
+            <Button id="@id/2131298419" clickable="true" layout_width="wrap_content" layout_height="fill_parent" text="Proof of Insurance" />
+            <Button id="@id/2131297190" visibility="invisible" clickable="true" layout_width="wrap_content" layout_height="fill_parent" text="Edit Coverage" />
+            <Button id="@id/2131296621" visibility="gone" clickable="true" layout_width="wrap_content" layout_height="fill_parent" text="Call To Make Changes" />
+        </LinearLayout>
+        <TextView textAppearance="@style/2131820754" id="@id/2131296901" paddingLeft="4.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="These coverages apply across all vehicles" />
+    </LinearLayout>
+    <View id="@id/2131298758" background="@drawable/APKTOOL_DUMMY_c" layout_height="8.0dip" style="@style/2131820783" />
+    <LinearLayout orientation="vertical" id="@id/2131298852" padding="16.0dip" visibility="gone" style="@style/2131820783">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298851" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="This vehicle or vehicle(s) are in storage and the liability coverages cannot be updated until you remove the vehicle(s) from storage. Please contact us at 1-800-841-3000 to make any changes to your coverages." contentDescription="Liability Coverage Informational Text" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131299223" padding="16.0dip" visibility="gone" contentDescription="Liability Coverage Informational Text" style="@style/2131820783">
+        <TextView textAppearance="@style/2131820754" id="@id/2131298312" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="These coverages apply across all vehicles" />
+        <TextView textAppearance="@style/2131820754" textColor="#ffb6091a" id="@id/2131297356" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Except" />
+        <TextView textAppearance="@style/2131820754" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" text="your\n" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131299202" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298343" paddingLeft="4.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="*For specific details, consult your policy contract." />
+    </LinearLayout>
+</LinearLayout>

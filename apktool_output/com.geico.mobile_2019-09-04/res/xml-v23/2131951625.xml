@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <UrbanAirshipActionButtonGroup id="ua_icons_up_down">
+        <UrbanAirshipActionButton label="@string/2131757302" description="thumbs up emoji" foreground="false" id="up" />
+        <UrbanAirshipActionButton label="@string/2131757301" description="thumbs down emoji" foreground="false" id="down" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_icons_happy_sad">
+        <UrbanAirshipActionButton label="@string/2131757299" description="happy emoji" foreground="false" id="happy" />
+        <UrbanAirshipActionButton label="@string/2131757300" description="sad emoji" foreground="false" id="sad" />
+    </UrbanAirshipActionButtonGroup>
+</resources>

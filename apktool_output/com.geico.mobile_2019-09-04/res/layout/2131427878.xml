@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout layout_gravity="center" tag="layout/inventory_calculator_instruction_modal_0" background="@drawable/2131231257" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" minWidth="250.0dip" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textSize="@dimen/2131165632" textColor="#ffffffff" gravity="center_horizontal" id="@id/2131297963" paddingBottom="16.0dip" layout_width="0.0dip" layout_height="wrap_content" text="Move your phone to scan the room for objects." 2130968839="2131298157" 2130968858="2131298157" 2130968861="2131298157" />
+    <ImageView paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231441" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297963" />
+</android.support.constraint.ConstraintLayout>

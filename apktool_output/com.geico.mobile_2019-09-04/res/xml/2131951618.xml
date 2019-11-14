@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="geico_photos" path="Android/data/com.geico.mobile/photos" />
+    <external-path name="geico_pdfs" path="Android/data/com.geico.mobile/pdf" />
+    <external-path name="geico_documents" path="geicoDocuments" />
+    <files-path name="internal_files" path="." />
+</paths>

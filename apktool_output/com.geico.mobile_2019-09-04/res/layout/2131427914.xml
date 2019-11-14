@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout layout_gravity="top" orientation="vertical" id="@id/2131297551" layout_width="fill_parent" layout_height="fill_parent" layout_marginTop="32.0dip">
+        <requestFocus />
+        <ImageView layout_gravity="center" layout_width="145.0dip" layout_height="wrap_content" layout_marginBottom="32.0dip" src="@drawable/APKTOOL_DUMMY_24b" scaleType="centerCrop" adjustViewBounds="true" contentDescription="Welcome to GEICO Mobile." />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298439" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297870" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297562" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" />
+        <include layout="@layout/2131427915" />
+        <include layout="@layout/2131427752" />
+        <include layout="@layout/2131427928" />
+        <LinearLayout layout_gravity="center" orientation="vertical" id="@id/2131297311" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="4.0dip">
+            <include layout="@layout/2131427678" />
+        </LinearLayout>
+        <LinearLayout gravity="center" layout_gravity="center" orientation="vertical" id="@id/2131299133" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="4.0dip" layout_marginRight="16.0dip" minWidth="288.0dip">
+            <android.support.design.widget.TextInputLayout textColorHint="#ffffffff" id="@id/2131298197" layout_width="fill_parent" layout_height="wrap_content" hint="User ID/Email/Policy Number">
+                <EditText enabled="true" id="@id/2131299129" layout_width="fill_parent" layout_height="wrap_content" minHeight="45.0dip" maxLines="1" inputType="textEmailAddress" imeOptions="actionDone" />
+            </android.support.design.widget.TextInputLayout>
+            <FrameLayout id="@id/2131298209" layout_width="fill_parent" layout_height="wrap_content">
+                <android.support.design.widget.TextInputLayout textColorHint="#ffffffff" id="@id/2131298196" layout_width="fill_parent" layout_height="wrap_content" hint="@string/2131756630">
+                    <EditText enabled="true" id="@id/2131298208" layout_width="fill_parent" layout_height="wrap_content" minHeight="45.0dip" maxLines="1" inputType="textPassword" imeOptions="actionDone" />
+                </android.support.design.widget.TextInputLayout>
+                <Button textSize="12.0sp" layout_gravity="end|bottom|center" id="@id/2131298774" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" layout_marginBottom="4.0dip" text="show" onClick="showOrHidePassword" textAlignment="center" style="@style/2131820985" />
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131297752" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip">
+            <CheckBox id="@id/2131297754" layout_width="wrap_content" layout_height="wrap_content" checked="false" buttonTint="@android:color/white" />
+            <TextView textColor="#ffffffff" id="@id/2131297753" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="5.0dip" text="Keep me logged in" />
+        </LinearLayout>
+        <Button layout_gravity="center" id="@id/2131299063" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" minWidth="288.0dip" text="Try Again" onClick="onTryAgainClicked" />
+        <LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="16.0dip" layout_marginRight="16.0dip">
+            <Button id="@id/2131297844" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" minWidth="288.0dip" text="Log in" onClick="onLoginClicked" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131298777" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="-8.0dip">
+        <Button id="@id/2131296426" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="-8.0dip" text="Sign Up" onClick="onActivateAccountClicked" style="@style/2131820985" />
+        <Button id="@id/2131297506" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="-8.0dip" text="Forgot User Id/Password?" onClick="onTroubleLoggingInClicked" style="@style/2131820985" />
+    </LinearLayout>
+</LinearLayout>

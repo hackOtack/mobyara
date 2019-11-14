@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" background="#fffafafa" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+        <EditText textSize="@dimen/2131165632" id="@id/2131298443" background="@null" paddingTop="@dimen/2131165632" paddingBottom="@dimen/2131165632" layout_width="wrap_content" layout_height="wrap_content" hint="How can I help you?" lines="1" scrollHorizontally="true" maxLength="120" layout_centerVertical="true" inputType="text" paddingStart="@dimen/2131165632" layout_toStartOf="@id/2131298442" layout_alignParentStart="true" />
+        <TextView textAppearance="@style/2131820997" textColor="#ff7e7e7e" id="@id/2131298442" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_centerVertical="true" layout_marginStart="10.0dip" layout_toStartOf="@id/2131296356" />
+        <RelativeLayout id="@id/2131296356" layout_width="wrap_content" layout_height="wrap_content" layout_centerVertical="true" layout_alignParentEnd="true">
+            <ImageButton id="@id/2131298888" visibility="gone" layout_width="64.0dip" layout_height="64.0dip" src="@drawable/APKTOOL_DUMMY_2c3" />
+            <ImageButton id="@id/2131297937" visibility="gone" layout_width="64.0dip" layout_height="64.0dip" src="@drawable/APKTOOL_DUMMY_ad" layout_marginEnd="10.0dip" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout orientation="vertical" id="@id/2131297854" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout id="@id/2131297770" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <FrameLayout id="@id/2131297850" layout_width="fill_parent" layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout id="@id/2131297769" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment id="@id/2131297849" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.loginSettings.AceLoginSettingsFragment" />
+    </LinearLayout>
+</FrameLayout>

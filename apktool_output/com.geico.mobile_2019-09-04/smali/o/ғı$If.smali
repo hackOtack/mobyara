@@ -1,0 +1,95 @@
+.class public interface abstract Lo/ғı$If;
+.super Ljava/lang/Object;
+.source ""
+
+# interfaces
+.implements Lo/ɕ;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lo/ғı;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x609
+    name = "If"
+.end annotation
+
+.annotation system Ldalvik/annotation/Signature;
+    value = {
+        "<I:",
+        "Ljava/lang/Object;",
+        "O:",
+        "Ljava/lang/Object;",
+        ">",
+        "Ljava/lang/Object;",
+        "Lo/\u0255;"
+    }
+.end annotation
+
+
+# virtual methods
+.method public abstract ʼ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ʽ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ˊ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ˋ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ˎ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ˏ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ॱ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method
+
+.method public abstract ᐝ(Ljava/lang/Object;)Ljava/lang/Object;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(TI;)TO;"
+        }
+    .end annotation
+.end method

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout/explore_gas_type_item_0" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" paddingEnd="@dimen/2131165336" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820996" textStyle="bold" id="@id/2131297547" tag="binding_1" layout_width="fill_parent" layout_height="wrap_content" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceFuelPriceLayout textStyle="bold" id="@id/2131297545" tag="binding_2" layout_width="fill_parent" layout_height="wrap_content" 2130969022="@color/2131100004" 2130969026="16.0sp" />
+    <TextView textAppearance="@style/2131820998" textStyle="italic" id="@id/2131298561" tag="binding_3" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

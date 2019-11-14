@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131298279" background="#ff000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECameraPreviewFragment" id="@id/2131298402" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true" />
+    <LinearLayout orientation="vertical" id="@id/2131298278" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="horizontal" id="@id/2131296638" layout_width="fill_parent" layout_height="wrap_content">
+            <View id="@id/2131296639" background="@drawable/2131231020" layout_width="wrap_content" layout_height="wrap_content" />
+            <RelativeLayout id="@id/2131298403" layout_width="wrap_content" layout_height="wrap_content">
+                <ImageView id="@id/2131297692" visibility="invisible" layout_width="fill_parent" layout_height="wrap_content" />
+                <ImageView id="@id/2131296635" visibility="invisible" layout_width="fill_parent" layout_height="fill_parent" />
+            </RelativeLayout>
+            <View id="@id/2131296640" background="@drawable/2131231020" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+        <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECarouselFragment" id="@id/2131296681" layout_width="fill_parent" layout_height="0.0dip" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_weight="3.0" />
+        <RelativeLayout orientation="horizontal" background="#ffe7e8e9" layout_width="fill_parent" layout_height="wrap_content">
+            <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="17.0dip" textColor="#ffef7014" gravity="center_horizontal" id="@id/2131296683" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" text="Driver Side Front" layout_alignParentLeft="false" layout_alignParentTop="false" layout_centerHorizontal="true" />
+            <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextView textSize="15.0dip" textColor="#ffef7014" gravity="right" id="@id/2131296682" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_marginRight="20.0dip" text="1 of 9" layout_alignParentLeft="false" layout_alignParentTop="false" layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <FrameLayout id="@id/2131296598" background="#ffe7e8e9" layout_width="fill_parent" layout_height="0.0dip" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_weight="2"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </LinearLayout>
+    <View id="@id/2131297990" background="@drawable/2131231020" layout_width="fill_parent" layout_height="0.0dip" layout_alignParentBottom="true" />
+    <include layout="@layout/2131428211" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131299106" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" layout="@layout/2131428266" />
+    <include id="@id/2131299105" layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131428264" />
+</LinearLayout>

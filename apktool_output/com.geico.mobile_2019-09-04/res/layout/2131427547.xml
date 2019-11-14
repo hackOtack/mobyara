@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297040" background="#fff2f0ec" layout_width="fill_parent" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3f6" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131298475" background="#ff977fcc" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" layout_alignBottom="@id/2131297040">
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297059" paddingLeft="2.0dip" paddingRight="2.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_centerHorizontal="true">
+            <TextView id="@id/2131297061" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821211" />
+            <TextView id="@id/2131297060" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="2.0dip" text="/5" layout_toRightOf="@id/2131297061" style="@style/2131821207" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+        <TextView id="@id/2131297063" padding="2.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297059" layout_centerInParent="true" style="@style/2131821213" />
+        <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout id="@id/2131297056" paddingLeft="2.0dip" paddingRight="2.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297059" layout_centerHorizontal="true">
+            <TextView textAppearance="@style/2131820760" id="@id/2131297057" layout_width="wrap_content" layout_height="wrap_content" text="Not Yet" layout_centerHorizontal="true" />
+            <TextView textAppearance="@style/2131820760" id="@id/2131297058" layout_width="wrap_content" layout_height="wrap_content" text="Rated" layout_below="@id/2131297057" layout_centerHorizontal="true" />
+        </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>
+    <LinearLayout orientation="vertical" id="@id/2131297042" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297040">
+        <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2f3" tint="#ff977fcc" />
+            <LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820756" textColorLink="#ff977fcc" id="@id/2131296451" layout_width="fill_parent" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297096" layout_width="wrap_content" layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298272" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_b0" tint="#ff977fcc" />
+            <TextView textAppearance="@style/2131820756" textColorLink="#ff977fcc" id="@id/2131298271" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131298102" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_409" tint="#ff977fcc" />
+            <include layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427549" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView id="@id/2131297054" paddingLeft="16.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_3db" layout_below="@id/2131297042" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

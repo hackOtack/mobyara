@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center" orientation="vertical" paddingLeft="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="16.0dip" layout_marginRight="@dimen/2131165265" layout_below="@id/2131297564"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131296911" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Congrats! You've saved" />
+    <TextView textAppearance="@style/2131820838" textColor="#ff4789b6" id="@id/2131296910" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" />
+</LinearLayout>

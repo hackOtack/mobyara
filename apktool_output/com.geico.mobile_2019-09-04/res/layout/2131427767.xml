@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="wrap_content" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.cccis.sdk.android.common.view.BoldTextButton id="@id/2131297302" paddingTop="0.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" text="Enter VIN Manually" layout_alignParentBottom="true" layout_centerHorizontal="true" onClick="manualVin" style="@style/2131821318" />
+    <android.inputmethodservice.KeyboardView id="@id/2131299245" focusable="true" focusableInTouchMode="true" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentBottom="true" layout_centerHorizontal="true" />
+    <FrameLayout id="@id/2131297901" layout_width="fill_parent" layout_height="wrap_content" layout_above="@id/2131299245" />
+</RelativeLayout>

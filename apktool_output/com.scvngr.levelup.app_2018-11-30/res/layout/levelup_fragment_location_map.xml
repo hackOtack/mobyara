@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/levelup_location_map_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <android.support.v7.widget.CardView android:id="@id/levelup_location_map_error_card_view" android:visibility="gone" android:layout_width="@dimen/levelup_location_map_error_card_width" android:layout_height="@dimen/levelup_location_map_error_card_height" card_view:cardBackgroundColor="@color/levelup_location_map_error_card_background" card_view:cardCornerRadius="@dimen/levelup_card_item_location_card_corner_radius" card_view:cardUseCompatPadding="true" style="@style/levelup_location_map_error_card">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/levelup_location_map_error_card_layout">
+            <TextView android:id="@id/levelup_location_map_error_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif-medium" style="@style/levelup_location_map_error_text" />
+            <Button android:id="@id/levelup_location_map_error_button" android:layout_width="wrap_content" android:layout_height="@dimen/levelup_location_map_error_card_button_height" android:fontFamily="sans-serif-medium" style="@style/levelup_location_map_error_button" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView android:layout_gravity="bottom|center" android:id="@id/levelup_location_map_redo_search" android:visibility="gone" android:layout_width="@dimen/levelup_location_map_redo_search_card_width" android:layout_height="@dimen/levelup_location_map_redo_search_card_height" android:layout_marginBottom="@dimen/levelup_location_map_redo_search_card_margin_bottom" card_view:cardCornerRadius="@dimen/levelup_card_item_location_card_corner_radius" card_view:cardUseCompatPadding="true">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_location_map_redo_search" style="@style/levelup_location_map_redo_search_text" />
+            <View android:id="@id/levelup_location_map_redo_search_click" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+        </FrameLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.RecyclerView android:layout_gravity="bottom" android:id="@id/levelup_location_map_horizontal_location_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_location_map_horizontal_list_margin_bottom" />
+    <ProgressBar android:theme="@style/LinearProgress" android:layout_gravity="bottom" android:id="@id/levelup_location_map_loading_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:indeterminate="true" style="@style/Widget.AppCompat.ProgressBar.Horizontal" />
+</FrameLayout>

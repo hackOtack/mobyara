@@ -1,0 +1,39 @@
+{
+  "lastModified": "2017-03-30T15:12:12.750Z",
+  "marketingCloud": {
+    "org": "71FF20B3534568190A490D45@AdobeOrg"
+  },
+  "target": {
+    "clientCode": "geico",
+    "timeout": 5
+  },
+  "audienceManager": {
+    "server": "",
+    "analyticsForwardingEnabled": false,
+    "timeout": 5
+  },
+  "acquisition": {
+    "server": "c00.adobe.com",
+    "appid": "9f8d1976-8ef3-4b51-a557-1c533d3a065a"
+  },
+  "analytics": {
+    "rsids": "geico-app-and-prod",
+    "server": "geico.sc.omtrdc.net",
+    "ssl": true,
+    "offlineEnabled": false,
+    "charset": "UTF-8",
+    "lifecycleTimeout": 300,
+    "privacyDefault": "optedin",
+    "batchLimit": 0,
+    "timezone": "EDT",
+    "timezoneOffset": -240,
+    "referrerTimeout": 5,
+    "backdateSessionInfo": false,
+    "poi": []
+  },
+  "messages": [],
+  "remotes": {
+    "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-547cad223738610018110100.json",
+    "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-547cad226139620015750700.json"
+  }
+}

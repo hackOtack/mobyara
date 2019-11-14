@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView textAppearance="?android:textAppearanceMedium" textSize="14.0sp" textColor="#ff000000" ellipsize="marquee" id="@id/2131298417" padding="0.0dip" layout_width="fill_parent" layout_height="wrap_content" text="select" singleLine="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

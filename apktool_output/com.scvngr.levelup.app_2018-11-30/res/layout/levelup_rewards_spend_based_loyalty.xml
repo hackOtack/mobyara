@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_current_credit_container">
+            <TextView android:layout_gravity="center" android:id="@id/loyalty_available_credit" android:padding="@dimen/levelup_padding_inner" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_current_credit_text" />
+        </FrameLayout>
+        <RelativeLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <com.scvngr.levelup.ui.view.ProgressGauge android:id="@id/levelup_rewards_progress" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerInParent="true" style="@style/levelup_loyalty_progress_gauge" />
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <TextView android:id="@id/levelup_rewards_progress_amount_towards_current_goal" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_big_progress_amount_towards" />
+                <TextView android:id="@id/levelup_rewards_progress_percent_towards_current_goal" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_big_progress_percent_towards" />
+                <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:id="@id/levelup_rewards_must_spend" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_required_spend_line" />
+                    <TextView android:id="@id/levelup_rewards_will_earn" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_will_earn_line" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+        <TextView android:id="@id/levelup_rewards_remaining_spend_amount" android:padding="@dimen/levelup_padding_inner" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_remaining_spend_line" />
+    </LinearLayout>
+</ScrollView>

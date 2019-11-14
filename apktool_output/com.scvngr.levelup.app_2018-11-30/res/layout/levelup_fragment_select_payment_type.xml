@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_frame">
+        <TextView android:id="@id/levelup_payment_type_header" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_caption_text_light" />
+        <View style="@style/levelup_divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_payment_type_debit_card" android:padding="@dimen/levelup_padding_inner" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_navigation_item">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_payment_type_debit_card" android:drawableLeft="@drawable/levelup_credit_card_generic" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_select_payment_list_item" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:text="@string/levelup_payment_type_debit_card_caption" style="@style/levelup_caption_text_light" />
+        </LinearLayout>
+        <View style="@style/levelup_divider" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_payment_type_credit_card" android:padding="@dimen/levelup_padding_inner" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_navigation_item">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_space_between_elements" android:text="@string/levelup_payment_type_credit_card" android:drawableLeft="@drawable/levelup_credit_card_generic" android:drawablePadding="@dimen/levelup_padding_drawable" style="@style/levelup_select_payment_list_item" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:text="@string/levelup_payment_type_credit_card_caption" style="@style/levelup_caption_text_light" />
+        </LinearLayout>
+        <View style="@style/levelup_divider" />
+        <include layout="@layout/levelup_select_payment_type_remove_row" />
+    </LinearLayout>
+</ScrollView>

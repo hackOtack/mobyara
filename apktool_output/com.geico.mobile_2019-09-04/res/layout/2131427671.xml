@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820827"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820756" id="@id/2131297392" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" text="We are unable to save your changes at this time. Please try again at a later time. If you need additional assistance, call us at 1-877-206-0215. We apologize for the inconvenience." />
+        <Button id="@id/2131296565" layout_width="fill_parent" layout_height="wrap_content" text="Return Home" onClick="onPolicyDashboardButtonClicked" style="@style/2131820937" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297140" focusable="true" visibility="gone" clickable="true" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView clickable="false" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" src="@drawable/2131231412" tint="?APKTOOL_DUMMY_c9" minWidth="32.0dip" minHeight="32.0dip" layout_marginStart="12.0dip" layout_marginEnd="12.0dip" />
+        <Button gravity="center_vertical" clickable="false" layout_width="fill_parent" layout_height="fill_parent" text="CHECK YOUR SCORE FROM DriveEasy" style="@style/2131820984" />
+    </LinearLayout>
+    <include layout="@layout/2131428197" />
+</LinearLayout>

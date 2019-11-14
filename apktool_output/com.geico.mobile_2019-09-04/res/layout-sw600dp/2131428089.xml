@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131297803" padding="16.0dip" layout_height="wrap_content" layout_marginTop="10.0dip" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298324" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_445" tint="?APKTOOL_DUMMY_c9" layout_centerVertical="true" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297807" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="8.0dip" text="Policy Number" layout_toRightOf="@id/2131298324" layout_alignTop="@id/2131298324" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297806" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297807" layout_alignTop="@id/2131297807" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297805" layout_width="wrap_content" layout_height="wrap_content" text="Location" layout_below="@id/2131297800" layout_alignLeft="@id/2131297807" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297801" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297805" layout_alignTop="@id/2131297805" />
+    <CheckBox id="@id/2131297800" focusable="false" clickable="false" layout_width="wrap_content" layout_height="wrap_content" checked="false" layout_alignParentRight="true" layout_centerVertical="true" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff000000" id="@id/2131297310" padding="20.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131296277" background="#ffffffff" padding="20.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Access other forms of proof of insurance" onClick="onAccessProofOfInsuranceClicked" />
+    </android.support.v7.widget.CardView>
+    <Button id="@id/2131298595" layout_width="fill_parent" layout_height="wrap_content" layout_margin="10.0dip" text="Return Home" onClick="onReturnHomeClicked" style="@style/2131820937" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout id="@id/2131296958" fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.dashfolio.AceDashfolioHeaderFragment" id="@id/2131296959" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.dashboard.notifications.AcePolicyNotificationsFragment" id="@id/2131298074" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="o.bI" id="@id/2131297022" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="o.yz" id="@id/2131298422" layout_width="fill_parent" layout_height="wrap_content" />
+        <fragment name="com.geico.mobile.android.ace.geicoAppPresentation.dashfolio.AceDashfolioCardsFragment" id="@id/2131296950" layout_width="fill_parent" layout_height="fill_parent" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

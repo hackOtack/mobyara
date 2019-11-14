@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView layout_width="fill_parent" layout_height="fill_parent" fillViewport="true" style="@style/2131821158">
+        <RelativeLayout id="@id/2131296848" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821151">
+            <TextView id="@id/2131297604" layout_width="fill_parent" layout_height="wrap_content" layout_alignParentTop="true" style="@style/2131821147" />
+            <TextView id="@id/2131296573" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297604" style="@style/2131821137" />
+            <com.urbanairship.iam.view.MediaView id="@id/2131297919" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296573" style="@style/2131821155" />
+            <com.urbanairship.iam.view.InAppButtonLayout id="@id/2131296606" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297919" style="@style/2131821141" />
+            <FrameLayout id="@id/2131297489" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296606" layout_alignParentBottom="true" style="@style/2131821145">
+                <Button id="@id/2131297487" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821144" />
+            </FrameLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <FrameLayout layout_width="wrap_content" layout_height="wrap_content" style="@style/2131821143">
+        <ImageButton id="@id/2131297092" layout_width="wrap_content" layout_height="wrap_content" contentDescription="@string/2131757290" style="@style/2131821142" />
+    </FrameLayout>
+</FrameLayout>

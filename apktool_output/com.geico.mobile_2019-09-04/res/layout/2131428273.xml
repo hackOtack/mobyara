@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content" contentDescription="Primary Vehicle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff154995" id="@id/2131296275" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="About Your Primary Vehicle" contentDescription="Primary Vehicle Heading" layout_alignParentStart="true" style="@style/2131820758" />
+    <LinearLayout gravity="center_vertical" id="@id/2131299156" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296275" layout_marginEnd="16.0dip" layout_alignParentStart="true">
+        <ImageView gravity="center_vertical" id="@id/2131299154" layout_width="60.0dip" layout_height="60.0dip" src="@drawable/APKTOOL_DUMMY_444" contentDescription="Primary Vehicle Image" layout_marginEnd="4.0dip" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131296274" layout_width="fill_parent" layout_height="wrap_content" layout_alignTop="@id/2131299156" layout_toEndOf="@id/2131299156" layout_alignParentEnd="true">
+        <TextView textAppearance="@style/2131820754" id="@id/2131299155" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Primary Vehicle" contentDescription="Primary Vehicle Label" />
+        <Spinner textAppearance="@style/2131820758" id="@id/2131299157" layout_width="200.0dip" layout_height="wrap_content" contentDescription="Primary Vehicle Dropdown" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131296273" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131299156">
+        <TextView textAppearance="@style/2131820754" id="@id/2131299152" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Vehicle Color" contentDescription="Primary Vehicle Color Label" />
+        <Spinner textAppearance="@style/2131820758" layout_gravity="start" id="@id/2131299153" layout_width="280.0dip" layout_height="wrap_content" dropDownWidth="wrap_content" contentDescription="Primary Vehicle Color Dropdown" />
+        <EditText textAppearance="@style/2131820758" id="@id/2131296789" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" hint="Color" singleLine="true" maxLength="20" inputType="text" contentDescription="Primary Vehicle Color Edit" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131299123" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Preferred Fuel Type" contentDescription="Primary Vehicle Fuel Label" />
+        <Spinner id="@id/2131299124" layout_width="280.0dip" layout_height="wrap_content" dropDownWidth="wrap_content" contentDescription="Primary Vehicle Fuel Dropdown" />
+    </LinearLayout>
+</RelativeLayout>

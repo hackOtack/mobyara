@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" id="@id/2131296365" layout_width="0.0dip" layout_height="48.0dip" layout_weight="1.0" paddingStart="4.0dip" style="@style/2131821286"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView layout_gravity="start|center" id="@id/2131296369" layout_width="32.0dip" layout_height="32.0dip" scaleType="centerInside" />
+    <TextView ellipsize="end" layout_gravity="start|center" id="@id/2131296377" clickable="false" layout_width="wrap_content" layout_height="wrap_content" singleLine="true" paddingStart="4.0dip" style="@style/2131821287" />
+</LinearLayout>

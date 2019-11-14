@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.scvngr.levelup.ui.view.EditTextWithBackListener android:textColorHint="@color/gray4" android:gravity="top" android:id="@id/levelup_item_text_input" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/margin2" android:imeOptions="actionDone" style="@style/SubheadingGray2"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:padding="@dimen/levelup_padding_outer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/levelup_loyalty_progress_bar_view_spend_baseline_zero" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_loyalty_progress_bar_view_spend_baseline_zero" style="@style/levelup_loyalty_progress_bar_view_spend_baseline_zero" />
+        <TextView android:id="@id/levelup_loyalty_progress_bar_view_spend_amount" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_bar_view_spend_amount" />
+        <ProgressBar android:id="@id/levelup_loyalty_progress_bar_view_progress" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/levelup_loyalty_progress_bar_view_spend_amount" android:layout_toRightOf="@id/levelup_loyalty_progress_bar_view_spend_baseline_zero" style="@style/levelup_loyalty_progress_bar_view_progress" />
+    </RelativeLayout>
+    <TextView android:id="@id/levelup_loyalty_progress_bar_view_remaining_until_unlock" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_bar_view_remaining_until_unlock" />
+    <View android:layout_marginTop="@dimen/levelup_space_between_elements" android:layout_marginBottom="@dimen/levelup_space_between_elements" style="@style/levelup_divider" />
+    <TextView android:id="@id/levelup_loyalty_progress_bar_view_savings_and_visits" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_bar_view_savings_and_visits" />
+</merge>

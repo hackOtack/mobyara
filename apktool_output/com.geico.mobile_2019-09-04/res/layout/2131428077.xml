@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton layout_gravity="right" id="@id/2131299112" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" onClick="onUpdateYourInfoClicked" style="@style/2131820980" />
+        <ImageButton layout_gravity="right" id="@id/2131296620" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_b0" tint="?APKTOOL_DUMMY_c9" text="Call To Make Changes" onClick="onCallToMakeChangesClicked" style="@style/2131820980" />
+        <LinearLayout orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820997" id="@id/2131299319" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Your Phone Numbers" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131296292" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Home Phone" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297620" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" />
+            <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content" baselineAligned="true">
+                <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="2.0">
+                    <TextView textAppearance="@style/2131820754" id="@id/2131296301" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Work Phone" />
+                    <TextView textAppearance="@style/2131820756" id="@id/2131299309" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" />
+                </LinearLayout>
+                <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+                    <TextView textAppearance="@style/2131820754" id="@id/2131296289" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Extension" />
+                    <TextView textAppearance="@style/2131820756" id="@id/2131297387" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" maxLength="5" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView textAppearance="@style/2131820754" id="@id/2131296295" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Mobile Phone" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131297956" layout_width="fill_parent" layout_height="wrap_content" singleLine="true" />
+        </LinearLayout>
+    </FrameLayout>
+</android.support.v7.widget.CardView>

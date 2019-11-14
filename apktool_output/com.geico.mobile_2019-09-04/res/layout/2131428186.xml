@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#fffbfbfb" layout_width="fill_parent" layout_height="fill_parent" weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131297557" background="#fffbfbfb" layout_width="fill_parent" layout_height="wrap_content" layout_weight="0.1">
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_246" minHeight="90.0dip" />
+    </LinearLayout>
+    <LinearLayout layout_gravity="center" orientation="vertical" layout_width="350.0dip" layout_height="0.0dip" layout_weight="0.9">
+        <ImageView background="#fffbfbfb" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_242" contentDescription="" />
+    </LinearLayout>
+</LinearLayout>

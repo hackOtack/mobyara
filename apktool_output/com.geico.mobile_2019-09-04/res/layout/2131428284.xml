@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="60.0dip" layout_marginBottom="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131299136" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout="@layout/2131428271" />
+    <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="8.0dip" layout_weight="1.0">
+        <TextView ellipsize="end" id="@id/2131299132" layout_width="wrap_content" layout_height="wrap_content" maxLines="1" style="@style/2131820994" />
+        <TextView ellipsize="end" id="@id/2131299158" layout_width="wrap_content" layout_height="wrap_content" maxLines="1" style="@style/2131820763" />
+        <TextView ellipsize="end" id="@id/2131299135" layout_width="wrap_content" layout_height="wrap_content" maxLines="1" style="@style/2131820763" />
+    </LinearLayout>
+    <Button id="@id/2131299121" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="@dimen/2131165657" text="Edit" onClick="onEditUserClicked" />
+</LinearLayout>

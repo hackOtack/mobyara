@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView orientation="vertical" padding="16.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820994" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="GEICO's Vehicle Care" />
+        <TextView textAppearance="@style/2131820756" textSize="@dimen/2131165632" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" text="We're partnering with myCARFAX to make vehicle maintenance easy." />
+        <TextView textAppearance="@style/2131820994" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Enjoy Free Benefits" />
+        <TableLayout layout_width="wrap_content" layout_height="wrap_content" divider="?android:dividerHorizontal">
+            <TableRow layout_marginBottom="16.0dip">
+                <ImageView padding="4.0dip" src="@drawable/APKTOOL_DUMMY_aa" tint="#ff977fcc" layout_column="1" />
+                <TextView textAppearance="@style/2131820756" textSize="@dimen/2131165632" layout_width="wrap_content" layout_height="wrap_content" layout_column="2" text="Get recall alerts." paddingStart="4.0dip" />
+            </TableRow>
+            <TableRow layout_marginBottom="16.0dip">
+                <ImageView paddingTop="4.0dip" src="@drawable/APKTOOL_DUMMY_aa" tint="#ff977fcc" layout_column="1" />
+                <TextView textAppearance="@style/2131820756" textSize="@dimen/2131165632" layout_width="wrap_content" layout_height="wrap_content" layout_column="2" text="Get reminders for upcoming maintenance services and inspections." paddingStart="4.0dip" />
+            </TableRow>
+            <TableRow>
+                <ImageView paddingTop="4.0dip" src="@drawable/APKTOOL_DUMMY_aa" tint="#ff977fcc" layout_column="1" />
+                <TextView textAppearance="@style/2131820756" textSize="@dimen/2131165632" layout_width="wrap_content" layout_height="wrap_content" layout_column="2" text="Track your vehicle's service history." paddingStart="4.0dip" />
+            </TableRow>
+        </TableLayout>
+        <TextView textAppearance="@style/2131820994" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="How It Works" />
+        <TextView textAppearance="@style/2131820756" textSize="@dimen/2131165632" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="@dimen/2131165336" text="We'll share your VIN and email with myCARFAX to create a free account." />
+        <include layout="@layout/2131428288" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" id="@id/2131298664" descendantFocusability="blocksDescendants" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131299180" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131299215" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" />
+    <RadioGroup orientation="horizontal" id="@id/2131296446" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" weightSum="100.0">
+        <RadioButton id="@id/2131299314" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="15.0dip" button="@null" text="Yes" drawableLeft="@android:drawable/btn_radio" drawablePadding="10.0dip" layout_weight="50.0" />
+        <RadioButton id="@id/2131298039" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" button="@null" text="No" drawableLeft="@android:drawable/btn_radio" drawablePadding="10.0dip" layout_weight="50.0" />
+    </RadioGroup>
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

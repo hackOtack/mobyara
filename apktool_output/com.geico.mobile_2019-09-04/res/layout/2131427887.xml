@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="It's a great day for a ride." />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Whether you're still riding with a death grip or have so many bikes in your garage there's no space for the car, GEICO offers a motorcycle insurance policy that is right for you. We insure most types of motorcycles including: sport bikes, cruisers, touring bikes, Enduros, scooters, dirt bikes, trikes and some custom bikes." />
+    <ImageView src="@drawable/2131231464" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="What does Motorcycle Insurance cover?" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Having motorcycle insurance coverage benefits you, your bike and others on the road. Here is a rundown of the coverages included in a GEICO motorcycle insurance policy (in as simple terms as our lawyers will allow):" />
+    <TextView text="@string/2131756180" style="@style/2131820759" />
+    <TextView text="@string/2131756185" style="@style/2131820759" />
+    <TextView text="@string/2131756195" style="@style/2131820759" />
+    <TextView text="@string/2131756200" style="@style/2131820759" />
+    <TextView text="@string/2131756240" style="@style/2131820759" />
+    <TextView text="@string/2131756251" style="@style/2131820759" />
+    <TextView text="@string/2131756263" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Motorcycle Insurance From GEICO." />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Whether you're a hard-core motorcyclist or a weekend road warrior, GEICO® Motorcycle insurance gives you big protection without a big price. You'll find us to be a solid, stand-up company, insuring motorcycles and riders since 1978. We offer affordable rates, 24/7 customer service and fast, fair claim handling" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (800) 442-9253 to speak to an agent." />
+</LinearLayout>

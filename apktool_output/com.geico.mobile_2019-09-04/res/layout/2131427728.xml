@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" descendantFocusability="beforeDescendants" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297441" background="@drawable/2131231278" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v7.widget.SearchView id="@id/2131298689" background="#ffffffff" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" style="@style/2131820894" />
+        <ImageView layout_gravity="center_vertical" id="@id/2131297439" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_86" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820763" gravity="center_vertical" id="@id/2131297434" layout_width="0.0dip" layout_height="fill_parent" layout_marginLeft="8.0dip" layout_weight="1.0" />
+        <Button id="@id/2131297432" background="@drawable/2131231259" paddingLeft="8.0dip" paddingTop="1.0dip" paddingRight="8.0dip" paddingBottom="1.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" minWidth="0.0dip" minHeight="0.0dip" text="Filter" onClick="onFindGasFilterClicked" style="@style/2131820980" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levelup_app_logged_out_slideshow_captions">
+        <item>@string/logged_out_landing_instruction_1</item>
+        <item>@string/logged_out_landing_instruction_2</item>
+        <item>@string/logged_out_landing_instruction_3</item>
+        <item>@string/logged_out_landing_instruction_4</item>
+    </string-array>
+    <array name="levelup_app_logged_out_slideshow_images">
+        <item>@drawable/bg_home_1</item>
+        <item>@drawable/bg_home_2</item>
+        <item>@drawable/bg_home_3</item>
+        <item>@drawable/bg_home_4</item>
+    </array>
+    <array name="levelup_carousel_drawables">
+        <item>@drawable/levelup_rewards_visits_0</item>
+        <item>@drawable/levelup_rewards_visits_1</item>
+        <item>@drawable/levelup_rewards_visits_2</item>
+    </array>
+    <string-array name="levelup_gender_labels">
+        <item>@string/levelup_gender_label_male</item>
+        <item>@string/levelup_gender_label_female</item>
+    </string-array>
+    <array name="levelup_item_based_loyalty_progress_level_drawables">
+        <item>@drawable/levelup_rewards_visits_0</item>
+        <item>@drawable/levelup_rewards_visits_1</item>
+        <item>@drawable/levelup_rewards_visits_2</item>
+        <item>@drawable/levelup_rewards_visits_3</item>
+        <item>@drawable/levelup_rewards_visits_4</item>
+        <item>@drawable/levelup_rewards_visits_5</item>
+        <item>@drawable/levelup_rewards_visits_6</item>
+        <item>@drawable/levelup_rewards_visits_7</item>
+        <item>@drawable/levelup_rewards_visits_8</item>
+        <item>@drawable/levelup_rewards_visits_9</item>
+    </array>
+    <string-array name="levelup_lock_key_names">
+        <item>@string/levelup_lock_key_0</item>
+        <item>@string/levelup_lock_key_1</item>
+        <item>@string/levelup_lock_key_2</item>
+        <item>@string/levelup_lock_key_3</item>
+        <item>@string/levelup_lock_key_4</item>
+        <item>@string/levelup_lock_key_5</item>
+        <item>@string/levelup_lock_key_6</item>
+        <item>@string/levelup_lock_key_7</item>
+        <item>@string/levelup_lock_key_8</item>
+        <item>@string/levelup_lock_key_9</item>
+    </string-array>
+    <integer-array name="levelup_lock_key_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+    <array name="levelup_loyalty_progress_level_drawables">
+        <item>@drawable/levelup_rewards_progress_image_0</item>
+        <item>@drawable/levelup_rewards_progress_image_10</item>
+        <item>@drawable/levelup_rewards_progress_image_20</item>
+        <item>@drawable/levelup_rewards_progress_image_30</item>
+        <item>@drawable/levelup_rewards_progress_image_40</item>
+        <item>@drawable/levelup_rewards_progress_image_50</item>
+        <item>@drawable/levelup_rewards_progress_image_60</item>
+        <item>@drawable/levelup_rewards_progress_image_70</item>
+        <item>@drawable/levelup_rewards_progress_image_80</item>
+        <item>@drawable/levelup_rewards_progress_image_90</item>
+    </array>
+    <array name="levelup_rewards_campaign_ids" />
+    <array name="levelup_rewards_campaign_representations" />
+    <integer-array name="levelup_scanner_color_code_values">
+        <item>0</item>
+        <item>35</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+    <array name="levelup_scanner_colors">
+        <item>@color/dock_soothing_green</item>
+        <item>@color/levelup_scanner_rainbow_placeholder</item>
+        <item>@color/dock_atomic_lime</item>
+        <item>@color/dock_tango_red</item>
+        <item>@color/dock_galactic_blue</item>
+        <item>@color/dock_purple_haze</item>
+        <item>@color/dock_yellow_submarine</item>
+        <item>@color/dock_arctic_teal</item>
+        <item>@color/dock_sick_flamingo</item>
+        <item>@color/dock_mint_julep</item>
+        <item>@color/dock_ninja_orange</item>
+    </array>
+    <string-array name="levelup_ticket_category_key_names">
+        <item>@string/levelup_ticket_category_key_general</item>
+        <item>@string/levelup_ticket_category_key_quality_of_service</item>
+        <item>@string/levelup_ticket_category_key_paying_in_store</item>
+        <item>@string/levelup_ticket_category_key_ordering_ahead</item>
+        <item>@string/levelup_ticket_category_key_my_account_info</item>
+        <item>@string/levelup_ticket_category_key_billing_issues</item>
+        <item>@string/levelup_ticket_category_key_migration_loyalty</item>
+        <item>@string/levelup_ticket_category_key_gift_cards</item>
+        <item>@string/levelup_ticket_category_key_missing_credit</item>
+        <item>@string/levelup_ticket_category_key_reporting_bug</item>
+        <item>@string/levelup_ticket_category_key_feature_request</item>
+    </string-array>
+    <string-array name="levelup_ticket_category_key_values">
+        <item>@string/levelup_ticket_category_value_hint</item>
+        <item>@string/levelup_ticket_category_value_quality_of_service</item>
+        <item>@string/levelup_ticket_category_value_paying_in_store</item>
+        <item>@string/levelup_ticket_category_value_ordering_ahead</item>
+        <item>@string/levelup_ticket_category_value_my_account_info</item>
+        <item>@string/levelup_ticket_category_value_billing_issues</item>
+        <item>@string/levelup_ticket_category_value_migration_loyalty</item>
+        <item>@string/levelup_ticket_category_value_gift_cards</item>
+        <item>@string/levelup_ticket_category_value_missing_credit</item>
+        <item>@string/levelup_ticket_category_value_reporting_bug</item>
+        <item>@string/levelup_ticket_category_value_feature_request</item>
+    </string-array>
+    <integer-array name="levelup_tip_percentages">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </integer-array>
+    <array name="levelup_tutorial_background_colors">
+        <item>@android:color/black</item>
+        <item>@android:color/darker_gray</item>
+    </array>
+    <string-array name="levelup_tutorial_headers">
+        <item>First Header</item>
+        <item>Second Header</item>
+    </string-array>
+    <array name="levelup_tutorial_images">
+        <item>@drawable/levelup_tutorial_demo_image</item>
+        <item>@drawable/levelup_tutorial_demo_image</item>
+    </array>
+    <array name="levelup_tutorial_layouts">
+        <item>@layout/levelup_fragment_onboarding_tutorial</item>
+        <item>@layout/levelup_fragment_onboarding_tutorial</item>
+    </array>
+    <string-array name="levelup_tutorial_subtext">
+        <item>Here is the first item in the tutorial. This is the onboarding subtext.</item>
+        <item>Here is the second item in the tutorial. This is the onboarding subtext.</item>
+    </string-array>
+    <array name="levelup_visit_based_loyalty_progress_level_drawables">
+        <item>@drawable/levelup_rewards_visits_0</item>
+        <item>@drawable/levelup_rewards_visits_1</item>
+        <item>@drawable/levelup_rewards_visits_2</item>
+        <item>@drawable/levelup_rewards_visits_3</item>
+        <item>@drawable/levelup_rewards_visits_4</item>
+        <item>@drawable/levelup_rewards_visits_5</item>
+        <item>@drawable/levelup_rewards_visits_6</item>
+        <item>@drawable/levelup_rewards_visits_7</item>
+        <item>@drawable/levelup_rewards_visits_8</item>
+        <item>@drawable/levelup_rewards_visits_9</item>
+    </array>
+    <array name="loyalty_progress_level_background_visibility">
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+    </array>
+    <array name="navigation_payment_eligible_activity_icons">
+        <item>@drawable/levelup_ic_menu_pay</item>
+        <item>@drawable/levelup_ic_menu_rewards</item>
+        <item>@drawable/levelup_ic_menu_scan</item>
+        <item>@drawable/levelup_ic_menu_settings</item>
+    </array>
+    <string-array name="navigation_payment_eligible_activity_labels">
+        <item>@string/levelup_title_code</item>
+        <item>@string/levelup_title_rewards</item>
+        <item>@string/levelup_title_scan</item>
+        <item>@string/levelup_title_settings</item>
+    </string-array>
+    <string-array name="navigation_payment_eligible_activity_names">
+        <item>@string/levelup_activity_home_screen</item>
+        <item>@string/levelup_activity_rewards</item>
+        <item>@string/levelup_activity_scan</item>
+        <item>@string/levelup_activity_settings</item>
+    </string-array>
+    <string-array name="rewards_current_status_titles">
+        <item>@string/rewards_current_status_title_0</item>
+        <item>@string/rewards_current_status_title_1</item>
+        <item>@string/rewards_current_status_title_2</item>
+        <item>@string/rewards_current_status_title_3</item>
+    </string-array>
+    <string-array name="rewards_fragment_classes">
+        <item>@string/levelup_rewards_fragment_loyalty</item>
+    </string-array>
+    <integer-array name="rewards_reward_thresholds">
+        <item>0</item>
+        <item>10000</item>
+        <item>100000</item>
+        <item>250000</item>
+    </integer-array>
+    <string-array name="rewards_status_names">
+        <item>@string/rewards_status_name_0</item>
+        <item>@string/rewards_status_name_1</item>
+        <item>@string/rewards_status_name_2</item>
+        <item>@string/rewards_status_name_3</item>
+    </string-array>
+    <string-array name="rewards_tab_titles">
+        <item>@string/levelup_title_rewards_tab_loyalty</item>
+    </string-array>
+    <integer-array name="scanner_color_merchants_unlock_values">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>0</item>
+    </integer-array>
+    <string-array name="scanner_color_names">
+        <item>@string/dock_color_soothing_green</item>
+        <item>@string/dock_color_rainbow</item>
+        <item>@string/dock_color_atomic_lime</item>
+        <item>@string/dock_color_tango_red</item>
+        <item>@string/dock_color_galactic_blue</item>
+        <item>@string/dock_color_purple_haze</item>
+        <item>@string/dock_color_yellow_submarine</item>
+        <item>@string/dock_color_arctic_teal</item>
+        <item>@string/dock_color_sick_flamingo</item>
+        <item>@string/dock_color_mint_julep</item>
+        <item>@string/dock_color_ninja_orange</item>
+    </string-array>
+    <integer-array name="scanner_color_transactions_unlock_values">
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>3</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>25</item>
+    </integer-array>
+    <array name="status_level_step_colors" />
+</resources>

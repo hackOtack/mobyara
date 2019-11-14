@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297931" layout_width="fill_parent" layout_height="wrap_content" layout_margin="24.0dip" />
+    <LinearLayout gravity="end" orientation="horizontal" id="@id/2131296607" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="24.0dip" layout_marginBottom="24.0dip">
+        <Button gravity="end" id="@id/2131298369" layout_width="wrap_content" layout_height="fill_parent" style="@style/2131820986" />
+        <Button gravity="end" id="@id/2131298012" layout_width="wrap_content" layout_height="fill_parent" style="@style/2131820986" />
+    </LinearLayout>
+</LinearLayout>

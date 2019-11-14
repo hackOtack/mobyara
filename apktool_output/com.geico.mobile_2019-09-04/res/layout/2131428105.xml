@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298368" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821307">
+        <TextView textColor="#ffffffff" id="@id/2131298367" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginTop="10.0dip" text="Your Policy" textAllCaps="true" style="@style/2131820837" />
+        <TextView id="@id/2131299323" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="5.0dip" text="Via" layout_below="@id/2131298367" layout_alignLeft="@id/2131298367" style="@style/2131820877" />
+        <ImageView id="@id/2131298365" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="5.0dip" layout_marginRight="5.0dip" src="@drawable/APKTOOL_DUMMY_3bd" layout_alignParentTop="true" layout_alignParentRight="true" />
+        <TableLayout id="@id/2131299326" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="30.0dip" layout_marginRight="10.0dip" stretchColumns="2" layout_below="@id/2131299323" layout_alignLeft="@id/2131298367">
+            <TableRow id="@id/2131298317">
+                <TextView id="@id/2131298333" layout_width="0.0dip" layout_height="wrap_content" layout_column="1" text="Policy Number" layout_weight="1.0" style="@style/2131820877" />
+                <TextView id="@id/2131298344" layout_width="0.0dip" layout_height="wrap_content" layout_column="2" text="Policy Status" layout_weight="1.0" style="@style/2131820877" />
+            </TableRow>
+            <TableRow id="@id/2131298352">
+                <TextView textColor="#ffffffff" id="@id/2131298334" layout_width="0.0dip" layout_height="wrap_content" layout_column="1" text="Policy Number" layout_weight="1.0" style="@style/2131820740" />
+                <TextView textColor="#ffffffff" id="@id/2131298345" layout_width="0.0dip" layout_height="wrap_content" layout_column="2" text="Policy Status" layout_weight="1.0" style="@style/2131820740" />
+            </TableRow>
+        </TableLayout>
+        <View id="@id/2131298364" background="#ffffffff" layout_width="fill_parent" layout_height="0.5dip" layout_margin="10.0dip" layout_below="@id/2131299326" />
+        <TextView id="@id/2131298337" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" text="Policy Period" layout_below="@id/2131298364" layout_alignLeft="@id/2131299326" style="@style/2131820877" />
+        <TextView textColor="#ffffffff" id="@id/2131298336" layout_width="wrap_content" layout_height="wrap_content" text="Policy Period" layout_below="@id/2131298337" layout_alignLeft="@id/2131299326" style="@style/2131820740" />
+        <View id="@id/2131298366" background="#ffffffff" layout_width="fill_parent" layout_height="0.5dip" layout_margin="10.0dip" layout_below="@id/2131298336" />
+        <TableLayout id="@id/2131299322" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="10.0dip" stretchColumns="2" layout_below="@id/2131298366" layout_alignLeft="@id/2131298367">
+            <TableRow id="@id/2131298227">
+                <TextView id="@id/2131298219" layout_width="0.0dip" layout_height="wrap_content" layout_column="1" text="Amount Due" layout_weight="1.0" style="@style/2131820877" />
+                <TextView id="@id/2131298230" layout_width="0.0dip" layout_height="wrap_content" layout_column="2" text="Due Date" layout_weight="1.0" style="@style/2131820877" />
+            </TableRow>
+            <TableRow id="@id/2131298228">
+                <TextView textColor="#ffffffff" id="@id/2131298218" layout_width="0.0dip" layout_height="wrap_content" layout_column="1" text="Amount Due" layout_weight="1.0" style="@style/2131820740" />
+                <TextView textColor="#ffffffff" id="@id/2131298229" layout_width="0.0dip" layout_height="wrap_content" layout_column="2" text="Due Date" layout_weight="1.0" style="@style/2131820740" />
+            </TableRow>
+        </TableLayout>
+        <TextView textColor="#ffffffff" id="@id/2131298147" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="8.0dip" text="Thank you, you're paid in full." layout_below="@id/2131298366" layout_alignStart="@id/2131298367" style="@style/2131820740" />
+    </RelativeLayout>
+    <include layout="@layout/2131428103" />
+</LinearLayout>

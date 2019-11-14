@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/fragment_pay_in_store" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@android:id/progress" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" style="?android:progressBarStyle" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ViewFlipper android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include android:id="@id/fragment_pay_in_store_addPaymentMethodView" layout="@layout/view_pay_in_store_add_payment_method" />
+            <include android:id="@id/fragment_pay_in_store_loginView" layout="@layout/view_pay_in_store_login" />
+            <include android:id="@id/fragment_pay_in_store_errorView" layout="@layout/view_pay_in_store_error" />
+            <LinearLayout android:orientation="vertical" android:id="@id/fragment_pay_in_store_payView" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_extra" android:text="@string/levelup_home_screen_title" style="@style/levelup_home_screen_title" />
+                <fragment android:tag="com.scvngr.levelup.ui.fragment.ConsumerLevelUpCodeFragment" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" class="com.scvngr.levelup.ui.fragment.ConsumerLevelUpCodeFragment" />
+                <fragment android:tag="com.scvngr.levelup.ui.activity.LevelUpCodeActivity$TipSelectorFragmentImpl" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.scvngr.levelup.ui.activity.LevelUpCodeActivity$TipSelectorFragmentImpl" />
+            </LinearLayout>
+        </ViewFlipper>
+    </FrameLayout>
+</LinearLayout>

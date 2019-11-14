@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_horizontal" orientation="vertical" tag="layout/outage_page_main_header_item_0" background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131297599" tag="binding_1" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" />
+    <TextView gravity="center_horizontal" id="@id/2131297603" tag="binding_2" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" style="@style/2131821111" />
+    <TextView textAppearance="@style/2131820756" gravity="center_horizontal" id="@id/2131298745" tag="binding_3" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820756" gravity="center_horizontal" id="@id/2131297602" tag="binding_4" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+</LinearLayout>

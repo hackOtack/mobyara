@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout gravity="center_vertical" orientation="vertical" background="#ffe7e8e9" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.cccis.mobile.sdk.android.qephotocapture.QEPagerContainer layout_gravity="center_vertical" id="@id/2131298146" background="#ffe7e8e9" layout_width="fill_parent" layout_height="fill_parent">
+        <com.cccis.mobile.sdk.android.qephotocapture.VerticalViewPager layout_gravity="center" background="#ffe7e8e9" layout_width="80.0dip" layout_height="125.0dip" />
+    </com.cccis.mobile.sdk.android.qephotocapture.QEPagerContainer>
+</LinearLayout>

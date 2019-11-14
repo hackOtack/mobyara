@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="#ff3773ca" layout_width="fill_parent" layout_height="fill_parent" weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="center" orientation="vertical" id="@id/2131299285" layout_width="fill_parent" layout_height="0.0dip" layout_marginTop="30.0dip" layout_weight="0.7">
+        <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_242" contentDescription="" />
+    </LinearLayout>
+    <LinearLayout layout_gravity="center_horizontal" orientation="vertical" layout_width="388.0dip" layout_height="0.0dip" layout_marginTop="-70.0dip" layout_weight="0.4">
+        <com.geico.mobile.android.ace.geicoAppPresentation.firstStart.AceGuestServicesViewPager layout_gravity="center_horizontal" id="@id/2131297583" layout_width="wrap_content" layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297747" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox textAppearance="@style/2131820756" id="@id/2131298850" paddingTop="12.0dip" paddingBottom="12.0dip" layout_width="fill_parent" layout_height="wrap_content" checked="false" text="Did the vehicle stop running while being driven?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" onClick="onStopRunningWhileBeingDrivenClicked" contentDescription="Stop Running While Being Driven Checkbox" />
+    <View id="@id/2131298641" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_below="@id/2131298850" />
+    <CheckBox textAppearance="@style/2131820756" id="@id/2131296528" paddingTop="12.0dip" paddingBottom="12.0dip" layout_width="fill_parent" layout_height="wrap_content" checked="false" text="Has anyone attempted to jump start the vehicle?" drawableLeft="@android:color/transparent" drawablePadding="16.0dip" layout_below="@id/2131298641" onClick="onAttemptedToJumpStartClicked" contentDescription="Attempted To Jump Start Checkbox" />
+    <View id="@id/2131298642" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_below="@id/2131296528" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297167" paddingTop="10.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Is your vehicle..." layout_below="@id/2131298642" contentDescription="Drivetrain Question" />
+    <Spinner id="@id/2131297748" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297167" contentDescription="Jump Start Drivetrain Spinner" />
+</RelativeLayout>

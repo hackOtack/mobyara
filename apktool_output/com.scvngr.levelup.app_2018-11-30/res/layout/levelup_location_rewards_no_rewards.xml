@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:padding="@dimen/levelup_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/levelup_location_rewards_no_rewards_image" android:layout_width="@dimen/levelup_location_rewards_image_size" android:layout_height="@dimen/levelup_location_rewards_image_size" android:layout_margin="8.0dip" android:src="@drawable/lock" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_weight="1.0">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/levelup_location_rewards_no_rewards_title" style="@style/levelup_location_rewards_title" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:text="@string/levelup_location_rewards_no_rewards_description" style="@style/levelup_location_rewards_description" />
+    </LinearLayout>
+</LinearLayout>

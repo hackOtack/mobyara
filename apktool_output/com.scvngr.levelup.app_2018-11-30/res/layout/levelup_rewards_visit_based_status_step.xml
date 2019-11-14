@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:padding="@dimen/levelup_padding_inner" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/levelup_space_between_elements" style="@style/levelup_status_levels_individual_status_container"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.scvngr.levelup.ui.view.WebImageView android:id="@id/levelup_rewards_visit_based_status_step_image" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/levelup_status_levels_individual_status_icon" />
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_space_between_elements" android:layout_weight="1.0">
+        <TextView android:textAppearance="@android:style/TextAppearance.Large" android:id="@id/levelup_rewards_visit_based_status_step_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_status_levels_individual_status_name" />
+        <TextView android:textAppearance="@android:style/TextAppearance" android:id="@id/levelup_rewards_visit_based_status_step_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_status_levels_individual_status_subtitle" />
+        <TextView android:textAppearance="@android:style/TextAppearance" android:id="@id/levelup_rewards_visit_based_status_step_description" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_status_levels_individual_status_description" />
+    </LinearLayout>
+</LinearLayout>

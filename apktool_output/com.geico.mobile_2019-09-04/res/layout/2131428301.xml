@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <include id="@id/2131298810" layout="@layout/2131428182" />
+        <View id="@id/2131297601" background="@drawable/APKTOOL_DUMMY_c" visibility="gone" layout_height="8.0dip" style="@style/2131820783" />
+        <include id="@id/2131299222" layout="@layout/2131428302" />
+        <include id="@id/2131299061" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginTop="4.0dip" layout_marginRight="4.0dip" layout_marginBottom="8.0dip" layout="@layout/2131428226" />
+        <ProgressBar id="@id/2131299214" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" indeterminate="true" indeterminateOnly="true" layout_centerInParent="true" style="?android:progressBarStyleLarge" />
+        <android.support.v7.widget.RecyclerView id="@id/2131298520" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+        <include layout="@layout/2131427784" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

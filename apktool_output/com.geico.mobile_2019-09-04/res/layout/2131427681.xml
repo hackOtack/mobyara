@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout id="@id/2131297337" background="#ff154995" layout_width="fill_parent" layout_height="60.0dip">
+        <TextView textSize="24.0sp" textColor="#ffffffff" layout_gravity="center_vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" text="GEICO Emergency Roadside Service" singleLine="true" />
+    </FrameLayout>
+    <LinearLayout orientation="horizontal" paddingLeft="@dimen/2131165336" paddingTop="8.0dip" paddingRight="@dimen/2131165336" layout_width="fill_parent" layout_height="wrap_content">
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView id="@id/2131297335" layout_width="wrap_content" layout_height="wrap_content" text="Policy Number" style="@style/2131820756" />
+            <TextView id="@id/2131297336" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820758" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+            <TextView id="@id/2131297333" layout_width="wrap_content" layout_height="wrap_content" text="Policy Holder" style="@style/2131820756" />
+            <TextView id="@id/2131297334" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820758" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout paddingLeft="@dimen/2131165336" paddingTop="@dimen/2131165336" paddingRight="@dimen/2131165336" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView id="@id/2131297338" layout_width="wrap_content" layout_height="wrap_content" text="Vehicles covered by Emergency Roadside Service" layout_alignParentLeft="true" layout_alignParentTop="true" style="@style/2131820756" />
+        <ScrollView scrollbarAlwaysDrawVerticalTrack="false" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="fill_parent" layout_below="@id/2131297338" layout_alignParentLeft="true" fadeScrollbars="true">
+            <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131297339" layout_width="wrap_content" layout_height="wrap_content" numColumns="1" divider="@null" dividerHeight="0.0dip" />
+        </ScrollView>
+        <Button id="@id/2131297332" layout_width="wrap_content" layout_height="wrap_content" text="GET HELP NOW" layout_alignParentRight="true" layout_alignParentBottom="true" onClick="onErsCourtesyCardGetHelpButtonClicked" style="@style/2131820980" />
+        <ImageView id="@id/2131297330" paddingRight="@dimen/2131165336" paddingBottom="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2c4" layout_above="@id/2131297332" layout_alignParentRight="true" onClick="onErsCourtesyCardBadgeClicked" />
+    </RelativeLayout>
+</LinearLayout>

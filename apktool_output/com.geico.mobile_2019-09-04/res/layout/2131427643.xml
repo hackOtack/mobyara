@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginRight="4.0dip" 2130968673="@color/2131100004" style="@style/2131820827" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131298611" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton id="@id/2131297203" background="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" layout_alignTop="@id/2131299300" layout_alignParentRight="true" onClick="onTabOneClicked" contentDescription="What's Wrong Edit Image Button" />
+        <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131299300" layout_width="fill_parent" layout_height="wrap_content" layout_toLeftOf="@id/2131297203" layout_alignParentTop="true" lineSpacingExtra="4.0dip" contentDescription="What's Wrong Text" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

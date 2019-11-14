@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298719" layout_width="fill_parent" layout_height="wrap_content" onClick="onShowServiceTypeListClicked"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView id="@id/2131299297" padding="8.0dip" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2ea" tint="#ffef5621" contentDescription="Navigate To Previous Page Image" />
+        <TextView textAppearance="@style/2131820994" layout_gravity="center_vertical" id="@id/2131299298" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" contentDescription="What's Wrong Title Text" layout_marginStart="16.0dip" />
+    </LinearLayout>
+    <View id="@id/2131299299" background="#ffd3d6d7" layout_width="fill_parent" layout_height="1.0dip" />
+</LinearLayout>

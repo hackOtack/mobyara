@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_onboarding_tutorial_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View style="@style/levelup_spacer" />
+    <ImageView android:id="@id/levelup_fragment_onboarding_tutorial_image" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin" />
+    <View style="@style/levelup_spacer" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:layout_gravity="center" android:id="@id/levelup_fragment_onboarding_tutorial_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:layout_gravity="center" android:id="@id/levelup_fragment_onboarding_tutorial_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/levelup_layout_margin" />
+    <View style="@style/levelup_spacer" />
+</LinearLayout>

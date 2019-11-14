@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131820619" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored" />
+    <style name="2131820620" parent="@android:style/TextAppearance.Material.Widget.Button.Colored" />
+    <style name="2131820819" parent="@style/2131820739">
+        <item name="android:alertDialogTheme">@style/2131820818</item>
+        <item name="android:timePickerDialogTheme">@style/2131820830</item>
+        <item name="android:datePickerDialogTheme">@style/2131820830</item>
+    </style>
+    <style name="2131820911" parent="@style/2131820912" />
+    <style name="2131820912" parent="@style/2131820819">
+        <item name="@attr/APKTOOL_DUMMY_c9">@color/2131100004</item>
+    </style>
+    <style name="2131821054" parent="@style/2131821053" />
+    <style name="2131821057" parent="@style/2131821052" />
+    <style name="2131821059" parent="@style/2131821058" />
+    <style name="2131821061" parent="@style/2131821060" />
+    <style name="2131820818" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:buttonStyle">@style/2131820980</item>
+        <item name="android:tint">?APKTOOL_DUMMY_c9</item>
+        <item name="android:colorAccent">?APKTOOL_DUMMY_c6</item>
+        <item name="2130968661">@style/2131820980</item>
+    </style>
+    <style name="2131820830" parent="@style/2131821088">
+        <item name="android:tint">?APKTOOL_DUMMY_c9</item>
+        <item name="android:colorControlActivated">?APKTOOL_DUMMY_c6</item>
+        <item name="android:colorAccent">?APKTOOL_DUMMY_c6</item>
+    </style>
+</resources>

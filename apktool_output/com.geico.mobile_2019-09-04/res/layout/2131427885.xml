@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298682" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820783"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Understanding Your Auto Insurance" />
+    <TextView textAppearance="@style/2131820756" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Auto accidents can happen-yes, even to the best of us. An auto insurance policy can help cover repairs to your vehicle and medical costs in the event of an accident. Think of it as your firewall against economic disaster should you be found at fault for property damage or injuries to other people." />
+    <ImageView src="@drawable/2131231462" style="@style/2131820832" />
+    <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="What are the coverages?" />
+    <TextView text="@string/2131756187" style="@style/2131820759" />
+    <TextView text="@string/2131756238" style="@style/2131820759" />
+    <TextView text="@string/2131756264" style="@style/2131820759" />
+    <TextView text="Given the large number of uninsured motorists, this is very important coverage to have, even in states with no-fault insurance." drawableLeft="@drawable/2131231261" style="@style/2131820759" />
+    <TextView text="@string/2131756199" style="@style/2131820759" />
+    <TextView text="@string/2131756197" style="@style/2131820759" />
+    <TextView text="To keep your premiums low, select as large a deductible as you feel comfortable paying out of pocket. For older cars, consider dropping this coverage, since coverage is normally limited to the cash value of your car." drawableLeft="@drawable/2131231261" style="@style/2131820759" />
+    <TextView text="@string/2131756249" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="GEICO also offers:" />
+    <TextView text="Emergency Roadside Service" style="@style/2131820759" />
+    <TextView text="Rental Reimbursement" style="@style/2131820759" />
+    <TextView text="Mechanical Breakdown Insurance" style="@style/2131820759" />
+    <TextView textAppearance="@style/2131820838" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Have more questions?" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131296616" layout_width="fill_parent" layout_height="wrap_content" text="Call (800) 861-8380 to speak to an agent." />
+</LinearLayout>

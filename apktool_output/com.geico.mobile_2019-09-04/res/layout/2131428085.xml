@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_height="fill_parent" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment name="o.wR" id="@id/2131296296" layout_width="fill_parent" layout_height="wrap_content" />
+</ScrollView>

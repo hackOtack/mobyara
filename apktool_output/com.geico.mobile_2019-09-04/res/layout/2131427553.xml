@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout orientation="vertical" id="@id/2131297043" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820838" id="@id/2131297981" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" layout_toRightOf="@id/2131297687" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296448" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131297981" layout_alignLeft="@id/2131297981" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131297094" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_below="@id/2131296448" layout_alignLeft="@id/2131296448" />
+    <ImageView gravity="center" id="@id/2131297687" background="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2f5" minWidth="80.0dip" minHeight="80.0dip" layout_alignParentLeft="true" />
+    <TextView textAppearance="@style/2131820760" id="@id/2131298469" background="#ff977fcc" paddingLeft="4.0dip" paddingRight="4.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

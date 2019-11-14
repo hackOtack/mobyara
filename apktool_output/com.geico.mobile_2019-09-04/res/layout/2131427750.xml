@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131298616" layout_width="fill_parent" layout_height="wrap_content" layout_margin="16.0dip" text="Choose a Lyft option below to get a ride in minutes." />
+    <RelativeLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView textAppearance="@style/2131820754" id="@id/2131297514" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" layout_marginBottom="8.0dip" text="From" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131298995" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" layout_marginRight="16.0dip" text="To" layout_below="@id/2131297514" layout_alignLeft="@id/2131297514" layout_alignStart="@id/2131297514" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297513" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131297514" layout_alignTop="@id/2131297514" layout_toEndOf="@id/2131297514" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298994" layout_width="wrap_content" layout_height="wrap_content" layout_alignLeft="@id/2131297513" layout_alignTop="@id/2131298995" layout_alignStart="@id/2131297513" />
+    </RelativeLayout>
+</LinearLayout>

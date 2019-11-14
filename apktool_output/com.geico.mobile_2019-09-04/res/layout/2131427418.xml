@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" focusable="true" clickable="true" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820789" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView id="@id/2131296674" layout_width="wrap_content" layout_height="wrap_content" foreground="?android:selectableItemBackground" minWidth="@dimen/2131165330" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView id="@id/2131296930" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentTop="true" layout_centerInParent="true" />
+            <TextView textAppearance="@style/2131820756" gravity="left" id="@id/2131296932" paddingLeft="16.0dip" paddingTop="16.0dip" layout_width="fill_parent" layout_height="wrap_content" maxLines="2" minLines="2" layout_below="@id/2131296930" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131296931" paddingLeft="16.0dip" paddingBottom="@dimen/2131165329" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131296932" layout_alignLeft="@id/2131296932" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout theme="@style/2131820960" orientation="vertical" id="@id/2131296951" background="@drawable/2131231749" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout gravity="top" orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView layout_width="60.0dip" layout_height="60.0dip" layout_marginTop="8.0dip" layout_marginBottom="16.0dip" src="@drawable/APKTOOL_DUMMY_3cf" tint="#ffef5621" contentDescription="Emergency Roadside Service Image" />
+        <LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginTop="4.0dip">
+            <TextView textAppearance="@style/2131820756" id="@id/2131296953" layout_width="fill_parent" layout_height="wrap_content" text="Emergency Roadside Service" />
+            <TextView textAppearance="@style/2131820763" id="@id/2131296952" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820756" paddingTop="16.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="We're online. Tell us what's wrong. We'll send help." drawableLeft="@drawable/2131231314" drawablePadding="16.0dip" />
+    <LinearLayout gravity="center" orientation="horizontal" paddingBottom="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <Button id="@id/2131297347" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" text="GET HELP NOW" layout_weight="1.0" />
+        <Button textColor="#ffef5621" id="@id/2131297353" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" text="Roadside Card" layout_weight="1.0" style="@style/2131820980" />
+    </LinearLayout>
+</LinearLayout>

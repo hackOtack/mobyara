@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297186" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820997" id="@id/2131297179" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Paperless Preferences" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131297182" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" text="Paperless Policy" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297183" layout_width="fill_parent" layout_height="wrap_content" />
+</LinearLayout>

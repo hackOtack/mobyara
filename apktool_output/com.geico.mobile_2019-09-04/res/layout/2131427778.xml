@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cccis.mobile.sdk.android.qephotocapture.views.GalleryLayout orientation="vertical" id="@id/2131297541" layout_width="80.0dip" layout_height="125.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent">
+        <ImageView id="@id/2131297745" layout_width="80.0dip" layout_height="80.0dip" scaleType="centerCrop" adjustViewBounds="true" layout_centerInParent="true" />
+        <com.cccis.sdk.android.common.view.RegularTextView textSize="9.0dip" gravity="center_horizontal" layout_gravity="center_horizontal" id="@id/2131297746" visibility="invisible" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+</com.cccis.mobile.sdk.android.qephotocapture.views.GalleryLayout>

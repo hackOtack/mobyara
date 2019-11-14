@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131297165" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include id="@id/2131298810" layout="@layout/2131428182" />
+    <View id="@id/2131297601" background="@drawable/APKTOOL_DUMMY_c" visibility="gone" layout_height="8.0dip" style="@style/2131820783" />
+    <LinearLayout gravity="center_vertical" orientation="horizontal" id="@id/2131297159" background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <ImageView layout_gravity="top" id="@id/2131296435" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" src="@drawable/APKTOOL_DUMMY_7c" tint="?APKTOOL_DUMMY_c9" minWidth="60.0dip" minHeight="60.0dip" />
+        <TextView id="@id/2131297151" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginRight="16.0dip" text="Need a quote? Adding %s?" layout_alignParentTop="true" style="@style/2131820994" />
+        <Button id="@id/2131298461" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="4.0dip" text="quote first" />
+        <Button id="@id/2131296438" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" text="Add Now" />
+        <Button id="@id/2131296622" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="4.0dip" text="Make Changes" />
+    </LinearLayout>
+    <View background="@drawable/APKTOOL_DUMMY_c" layout_width="fill_parent" layout_height="8.0dip" />
+</LinearLayout>

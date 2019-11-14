@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout style="@style/levelup_lock_keypad_row">
+        <Button android:tag="@string/levelup_lock_key_1" android:text="@string/levelup_lock_key_1" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_2" android:text="@string/levelup_lock_key_2" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_3" android:text="@string/levelup_lock_key_3" style="@style/levelup_button_lock_key" />
+    </LinearLayout>
+    <LinearLayout style="@style/levelup_lock_keypad_row">
+        <Button android:tag="@string/levelup_lock_key_4" android:text="@string/levelup_lock_key_4" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_5" android:text="@string/levelup_lock_key_5" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_6" android:text="@string/levelup_lock_key_6" style="@style/levelup_button_lock_key" />
+    </LinearLayout>
+    <LinearLayout style="@style/levelup_lock_keypad_row">
+        <Button android:tag="@string/levelup_lock_key_7" android:text="@string/levelup_lock_key_7" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_8" android:text="@string/levelup_lock_key_8" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_9" android:text="@string/levelup_lock_key_9" style="@style/levelup_button_lock_key" />
+    </LinearLayout>
+    <LinearLayout style="@style/levelup_lock_keypad_row">
+        <Button android:clickable="false" style="@style/levelup_button_lock_key" />
+        <Button android:tag="@string/levelup_lock_key_0" android:text="@string/levelup_lock_key_0" style="@style/levelup_button_lock_key" />
+        <ImageButton android:id="@id/levelup_lock_key_backspace" android:contentDescription="@string/levelup_keypad_key_backspace_description" style="@style/levelup_button_lock_backspace" />
+    </LinearLayout>
+</merge>

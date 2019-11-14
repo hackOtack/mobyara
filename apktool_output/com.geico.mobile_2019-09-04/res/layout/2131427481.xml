@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.TextInputLayout layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="fill_parent" layout_height="wrap_content">
+        <EditText id="@id/2131296675" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content" hint="Card Number" maxLines="1" maxLength="16" inputType="number" />
+        <ImageButton id="@id/2131296669" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip" src="@drawable/APKTOOL_DUMMY_12a" tint="#ff154995" layout_centerVertical="true" layout_alignParentEnd="true" />
+    </RelativeLayout>
+</android.support.design.widget.TextInputLayout>

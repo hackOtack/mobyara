@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/loyalty_progress_gauge_min_height" android:layout_weight="4.0">
+        <com.scvngr.levelup.ui.view.ProgressGauge android:id="@id/loyalty_progress_gauge" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/loyalty_progress_gauge_min_height" android:layout_centerInParent="true" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <TextView android:id="@id/loyalty_progress_current_spend" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_current_spend" />
+            <TextView android:id="@id/loyalty_progress_spend_total" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_must_spend" />
+            <TextView android:id="@id/loyalty_progress_earn" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_loyalty_progress_earn" />
+        </LinearLayout>
+    </RelativeLayout>
+    <TextView android:id="@id/loyalty_available_credit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/levelup_loyalty_progress_available_credit" />
+    <View android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" />
+</merge>

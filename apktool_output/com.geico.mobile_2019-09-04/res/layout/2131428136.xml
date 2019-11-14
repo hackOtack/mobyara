@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment id="@id/2131298386" layout_width="0.0dip" layout_height="0.0dip" class="com.geico.mobile.android.ace.geicoAppPresentation.getAQuote.AceQuotePrefillNavigationFragment" />
+        <LinearLayout id="@id/2131298462" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_marginBottom="8.0dip">
+            <TextView textAppearance="@style/2131820994" textColor="#ff4789b6" id="@id/2131298465" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+        <android.support.v7.widget.RecyclerView id="@id/2131298520" scrollbars="none" layout_width="fill_parent" layout_height="wrap_content" />
+        <include layout="@layout/2131428135" />
+    </LinearLayout>
+</ScrollView>

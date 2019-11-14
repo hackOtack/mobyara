@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" id="@id/2131297673" paddingLeft="8.0dip" paddingRight="8.0dip" clickable="false" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout orientation="vertical" id="@id/2131297218" layout_width="wrap_content" layout_height="wrap_content">
+        <ImageView id="@id/2131297634" layout_width="wrap_content" layout_height="wrap_content" layout_margin="8.0dip" src="@drawable/APKTOOL_DUMMY_1a1" layout_alignTop="@id/2131297645" layout_alignParentRight="true" onClick="onContactsButtonClicked" />
+        <EditText id="@id/2131297645" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" hint="To" singleLine="true" layout_toLeftOf="@id/2131297634" inputType="textEmailAddress" style="@style/2131820875" />
+        <TextView textStyle="bold" textColor="#ff103873" id="@id/2131297678" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Cards To Be Emailed" layout_below="@id/2131297645" style="@style/2131820997" />
+    </RelativeLayout>
+    <fragment name="o.mi" id="@id/2131299189" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_below="@id/2131297218" />
+</RelativeLayout>

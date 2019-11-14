@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="@dimen/2131165451"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="vertical" id="@id/2131297553" layout_width="wrap_content" layout_height="wrap_content">
+            <include layout="@layout/2131427830" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165456">
+            <TextView textColor="#ff000000" id="@id/2131297643" layout_width="wrap_content" layout_height="wrap_content" text="This is a courtesy card and may not be" style="@style/2131821004" />
+            <TextView textColor="#ff000000" id="@id/2131297644" layout_width="wrap_content" layout_height="wrap_content" text="accepted as valid proof of insurance." style="@style/2131821004" />
+            <TextView textColor="#ff103873" id="@id/2131297081" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131756040" style="@style/2131821004" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView textColor="#ff000000" gravity="center" id="@id/2131296859" layout_width="fill_parent" layout_height="wrap_content" textAllCaps="true" style="@style/2131821004" />
+</LinearLayout>

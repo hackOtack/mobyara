@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip">
+        <TextView layout_width="fill_parent" layout_height="wrap_content" text="Welcome to GEICO Explore!" style="@style/2131820790" />
+        <TextView textColor="#ff444444" layout_width="fill_parent" layout_height="wrap_content" text="An augmented reality experience" style="@style/2131820994" />
+        <TextView layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="What is augmented reality?" style="@style/2131821111" />
+        <android.support.v7.widget.CardView id="@id/2131299294" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099808" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout gravity="center_vertical" orientation="vertical" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820995" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" text="AR adds texture to your world." />
+                <TextView textAppearance="@style/2131820994" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="Using your camera, AR adds virtual elements to the physical world." />
+                <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="wrap_content">
+                    <ImageView id="@id/2131298715" paddingBottom="16.0dip" visibility="visible" layout_width="0.0dip" layout_height="0.0dip" src="@drawable/APKTOOL_DUMMY_20c" scaleType="fitCenter" contentDescription="See a demo" 2130968833="2131298157" 2130968838="3:2" 2130968852="2131298157" 2130968856="2131298157" 2130968861="2131298157" 2130968866="@dimen/2131165408" />
+                </android.support.constraint.ConstraintLayout>
+                <TextView textAppearance="@style/2131820758" textColor="#ff4ba449" id="@id/2131298714" background="#ffffffff" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Got It" textAllCaps="true" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <TextView textAppearance="@style/2131821111" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="What can you do in GEICO Explore?" />
+        <android.support.v7.widget.CardView id="@id/2131299291" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131100005" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout gravity="center_vertical" orientation="vertical" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820995" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" text="Find the destinations near you." />
+                <TextView textAppearance="@style/2131820994" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="With 5 different options, you'll find great new points of interest around you." />
+                <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="wrap_content">
+                    <ImageView id="@id/2131299292" layout_width="0.0dip" layout_height="0.0dip" layout_marginBottom="8.0dip" scaleType="fitCenter" contentDescription="What can I find?" 2130968833="2131298157" 2130968838="3:2" 2130968852="2131298157" 2130968856="2131298157" 2130968861="2131298157" 2130968866="@dimen/2131165408" />
+                </android.support.constraint.ConstraintLayout>
+                <TextView textAppearance="@style/2131820758" textColor="#ff977fcc" id="@id/2131299290" background="#ffffffff" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Got It" textAllCaps="true" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView id="@id/2131298770" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099704" 2130968675="@dimen/2131165286" 2130968678="true">
+            <LinearLayout gravity="center_vertical" orientation="vertical" paddingTop="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView textAppearance="@style/2131820995" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginTop="8.0dip" layout_marginRight="16.0dip" text="Mark and find your car." />
+                <TextView textAppearance="@style/2131820994" textColor="#ffffffff" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="16.0dip" layout_marginRight="16.0dip" layout_marginBottom="16.0dip" text="When you park in those large lots, let us help you find your car." />
+                <android.support.constraint.ConstraintLayout layout_width="fill_parent" layout_height="wrap_content">
+                    <ImageView id="@id/2131298771" paddingBottom="16.0dip" layout_width="0.0dip" layout_height="0.0dip" src="@drawable/APKTOOL_DUMMY_20e" scaleType="fitCenter" contentDescription="Show me how" 2130968833="2131298157" 2130968838="3:2" 2130968852="2131298157" 2130968856="2131298157" 2130968861="2131298157" 2130968866="@dimen/2131165408" />
+                </android.support.constraint.ConstraintLayout>
+                <TextView textAppearance="@style/2131820758" textColor="#ff3773ca" id="@id/2131298769" background="#ffffffff" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Show me how" textAllCaps="true" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <TextView textAppearance="@style/2131821111" gravity="center" paddingTop="24.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Ready to get started?" />
+        <Button textColor="#ffffffff" id="@id/2131298826" background="#ff3773ca" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Let's go" />
+    </LinearLayout>
+</ScrollView>

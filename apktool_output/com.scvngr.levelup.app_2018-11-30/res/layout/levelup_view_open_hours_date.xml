@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/levelup_layout_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/levelup_view_openhours_label" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/levelup_open_hours" />
+    <TextView android:id="@id/levelup_view_openhours_period" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.0" style="@style/levelup_open_hours" />
+</LinearLayout>

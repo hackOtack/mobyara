@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar theme="@style/2131821103" gravity="center" id="@id/2131298998" background="#ffef7014" layout_width="fill_parent" layout_height="?android:actionBarSize" elevation="4.0dip" 2130968706="0.0dip" 2130968710="0.0dip" 2130968944="@style/2131821108" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131298999" visibility="gone" layout_width="60.0dip" layout_height="fill_parent" />
+    <com.cccis.sdk.android.common.view.BoldTextView textSize="17.0dip" layout_gravity="center" id="@id/2131299080" layout_width="wrap_content" layout_height="wrap_content" />
+    <RelativeLayout layout_gravity="center|right" padding="4.0dip" visibility="gone" layout_width="wrap_content" layout_height="wrap_content">
+        <com.cccis.sdk.android.common.view.RegularTextButton gravity="center|right" id="@id/2131297843" layout_width="wrap_content" layout_height="wrap_content" textAllCaps="false" />
+    </RelativeLayout>
+    <LinearLayout gravity="center_vertical" layout_gravity="right" orientation="horizontal" id="@id/2131296447" paddingRight="10.0dip" layout_width="wrap_content" layout_height="fill_parent" />
+</android.support.v7.widget.Toolbar>

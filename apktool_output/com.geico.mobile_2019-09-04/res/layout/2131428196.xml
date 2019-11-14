@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" clickable="true" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <ImageView gravity="center_vertical" id="@id/2131298901" layout_width="60.0dip" layout_height="60.0dip" layout_marginRight="16.0dip" layout_alignParentLeft="true" />
+        <LinearLayout orientation="vertical" id="@id/2131298907" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginRight="8.0dip" layout_toLeftOf="@id/2131298900" layout_toRightOf="@id/2131298901" layout_alignTop="@id/2131298901">
+            <TextView textAppearance="@style/2131820756" id="@id/2131298906" layout_width="fill_parent" layout_height="wrap_content" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131298905" layout_width="fill_parent" layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131298900" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentTop="true" layout_alignParentRight="true">
+            <ImageButton id="@id/2131298903" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" src="@drawable/APKTOOL_DUMMY_311" tint="#ff60574a" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include layout="@layout/2131428197" />
+</LinearLayout>

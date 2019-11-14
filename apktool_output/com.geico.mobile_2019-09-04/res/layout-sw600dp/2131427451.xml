@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView scrollbarAlwaysDrawVerticalTrack="false" id="@id/2131296474" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+        <fragment id="@id/2131296830" layout_width="fill_parent" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.contactGeico.AceContactInPersonFragment" />
+        <fragment layout_gravity="center_horizontal" id="@id/2131296472" layout_width="568.0dip" layout_height="wrap_content" class="com.geico.mobile.android.ace.geicoAppPresentation.contactGeico.agentSearch.AceAgentSearchResultsFragment" />
+    </com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>
+</ScrollView>

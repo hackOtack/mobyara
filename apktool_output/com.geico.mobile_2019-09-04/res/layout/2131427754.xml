@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout fitsSystemWindows="true" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_gravity="end|bottom|center" id="@id/2131297484" background="#99ffffff" clickable="true" layout_width="fill_parent" layout_height="fill_parent" onClick="onCloseImageButtonClicked">
+        <android.support.design.widget.FloatingActionButton id="@id/2131296780" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/2131231264" layout_alignParentRight="true" layout_alignParentBottom="true" contentDescription="" layout_alignParentEnd="true" 2130968638="@color/2131099867" />
+        <View id="@id/2131296692" layout_width="wrap_content" layout_height="wrap_content" layout_alignLeft="@id/2131296780" layout_alignTop="@id/2131296780" layout_alignRight="@id/2131296780" />
+        <ImageButton id="@id/2131298216" layout_marginBottom="0.0dip" src="@drawable/APKTOOL_DUMMY_224" layout_above="@id/2131296692" contentDescription="" transitionName="payPlanImageButton" style="@style/2131821311" />
+        <Button id="@id/2131298215" layout_width="wrap_content" layout_height="wrap_content" text="Change Pay Plan" layout_toLeftOf="@id/2131298216" layout_alignTop="@id/2131298216" textAllCaps="false" transitionName="payPlanButton" />
+        <ImageButton id="@id/2131296434" src="@drawable/APKTOOL_DUMMY_21e" layout_above="@id/2131298216" contentDescription="" transitionName="addDriverImageButton" style="@style/2131821311" />
+        <Button id="@id/2131296433" layout_width="wrap_content" layout_height="wrap_content" text="Add Driver" layout_toLeftOf="@id/2131296434" layout_alignTop="@id/2131296434" layout_alignBottom="@id/2131296434" textAllCaps="false" transitionName="addDriverButton" />
+        <ImageButton id="@id/2131296443" src="@drawable/APKTOOL_DUMMY_21f" layout_above="@id/2131296434" contentDescription="" transitionName="addVehicleImageButton" style="@style/2131821311" />
+        <Button id="@id/2131296442" layout_width="wrap_content" layout_height="wrap_content" text="Add Vehicle" layout_toLeftOf="@id/2131296443" layout_alignTop="@id/2131296443" layout_alignBottom="@id/2131296443" textAllCaps="false" transitionName="addVehicleButton" />
+        <ImageButton id="@id/2131296860" src="@drawable/APKTOOL_DUMMY_221" layout_above="@id/2131296443" contentDescription="" transitionName="coverageButton" style="@style/2131821311" />
+        <Button id="@id/2131297190" layout_width="wrap_content" layout_height="wrap_content" text="Edit Coverage" layout_toLeftOf="@id/2131296860" layout_alignTop="@id/2131296860" textAllCaps="false" transitionName="editCoverageButton" />
+        <ImageButton id="@id/2131297635" background="@android:color/transparent" src="@drawable/APKTOOL_DUMMY_222" layout_above="@id/2131296860" contentDescription="" transitionName="idCardImageButton" style="@style/2131821311" />
+        <Button id="@id/2131297219" layout_width="wrap_content" layout_height="wrap_content" text="Email ID Cards" layout_toLeftOf="@id/2131297635" layout_alignTop="@id/2131297635" textAllCaps="false" transitionName="emailIdCardsButton" />
+    </RelativeLayout>
+    <android.support.design.widget.FloatingActionButton layout_gravity="end|bottom|center" id="@id/2131296779" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" src="@drawable/2131231267" scaleType="center" onClick="onCloseImageButtonClicked" contentDescription="" transitionName="fab_transition" 2130968638="@color/2131099867" />
+</android.support.design.widget.CoordinatorLayout>

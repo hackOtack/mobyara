@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427934" />
+    <include layout="@layout/2131427616" />
+    <android.support.v4.view.ViewPager id="@id/2131299244" layout_width="fill_parent" layout_height="fill_parent" 2130968825="@string/2131755134" />
+</android.support.design.widget.CoordinatorLayout>

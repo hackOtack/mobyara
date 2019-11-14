@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout layout_width="wrap_content" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="@drawable/2131231577" gravity="center" id="@id/2131298989" background="@drawable/2131231576" layout_width="wrap_content" layout_height="wrap_content" text="Set Location" style="@style/2131820873" />
+    <ImageView layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="-1.0dip" src="@drawable/2131231759" tint="#ff977fcc" layout_below="@id/2131298989" layout_centerHorizontal="true" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceRelativeLayout>

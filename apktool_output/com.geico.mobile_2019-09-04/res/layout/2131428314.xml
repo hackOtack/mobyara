@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131299271" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout id="@id/2131297314" background="@drawable/2131231824" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131821111" textColor="#ffffffff" id="@id/2131297317" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="We're Sorry" layout_alignParentLeft="true" />
+        <ImageView id="@id/2131297315" padding="8.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_81" layout_alignParentRight="true" layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <RelativeLayout background="@drawable/2131231472" padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131297314">
+        <TextView textAppearance="@style/2131820756" id="@id/2131297316" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="We are unable to process your request at this time." />
+        <Button textColor="#ffffffff" id="@id/2131297313" background="@drawable/2131230852" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" text="Return Home" layout_below="@id/2131297316" onClick="onReturnHomeButtonClicked" />
+    </RelativeLayout>
+</LinearLayout>

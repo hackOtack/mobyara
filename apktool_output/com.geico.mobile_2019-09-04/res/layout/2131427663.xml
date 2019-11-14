@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296834" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820994" id="@id/2131297154" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" text="Driver Info" contentDescription="Driver Info Title Text" />
+    <CheckBox textAppearance="@style/2131820756" id="@id/2131296836" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" checked="false" text="Contact person is the same as driver." drawableLeft="@android:color/transparent" drawablePadding="16.0dip" onClick="onContactPersonIsDriverClicked" contentDescription="Contact Person is Driver Checkbox" />
+    <Spinner id="@id/2131297160" layout_width="fill_parent" layout_height="wrap_content" contentDescription="Driver Spinner" />
+    <View id="@id/2131297161" background="#ffd3d6d7" layout_width="fill_parent" layout_height="0.5dip" layout_marginBottom="8.0dip" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131297476" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" hint="First Name" maxLines="1" singleLine="true" maxLength="30" inputType="text" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131297763" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" hint="Last Name" maxLines="1" singleLine="true" maxLength="30" inputType="text" />
+    <TextView textAppearance="@style/2131820994" id="@id/2131296833" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Mobile #" contentDescription="Contact Info Title Text" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296823" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" hint="First Name" maxLines="1" singleLine="true" inputType="text" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296835" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" hint="Last Name" maxLines="1" singleLine="true" inputType="text" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.clearableEditText.AceClearableEditText textAppearance="@style/2131820756" id="@id/2131296839" layout_width="fill_parent" layout_height="wrap_content" hint="Phone Number" maxLines="1" singleLine="true" maxLength="14" inputType="phone" contentDescription="Phone Number Edit Text" />
+</LinearLayout>

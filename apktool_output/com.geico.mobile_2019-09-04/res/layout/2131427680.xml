@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingLeft="@dimen/2131165336" paddingTop="@dimen/2131165336" paddingRight="@dimen/2131165336" paddingBottom="8.0dip" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff103873" id="@id/2131297328" layout_width="wrap_content" layout_height="wrap_content" text="Using Emergency Roadside Service" style="@style/2131820838" />
+    <View id="@id/2131297324" background="#ff103873" layout_width="fill_parent" layout_height="1.0dip" layout_marginTop="8.0dip" layout_marginBottom="16.0dip" />
+    <TextView id="@id/2131297327" layout_width="fill_parent" layout_height="0.0dip" text="@string/2131755711" layout_weight="1.0" style="@style/2131820756" />
+    <Button layout_gravity="right" id="@id/2131297326" layout_width="wrap_content" layout_height="wrap_content" text="GET HELP NOW" onClick="onErsCourtesyCardGetHelpButtonClicked" style="@style/2131820980" />
+</LinearLayout>

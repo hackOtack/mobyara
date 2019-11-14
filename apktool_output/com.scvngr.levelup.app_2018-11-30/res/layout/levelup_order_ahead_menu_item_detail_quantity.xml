@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="@dimen/levelup_padding_top" android:paddingRight="@dimen/levelup_padding_end" android:paddingBottom="@dimen/levelup_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/levelup_order_ahead_menu_item_detail_quantity_remove" android:padding="@dimen/levelup_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin" android:src="@drawable/levelup_order_ahead_menu_item_detail_quantity_remove" />
+    <TextView android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:id="@id/levelup_order_ahead_menu_item_detail_quantity_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/levelup_order_ahead_menu_item_detail_quantity_text" />
+    <ImageView android:id="@id/levelup_order_ahead_menu_item_detail_quantity_add" android:padding="@dimen/levelup_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/levelup_layout_margin" android:src="@drawable/levelup_order_ahead_menu_item_detail_quantity_add" />
+</LinearLayout>

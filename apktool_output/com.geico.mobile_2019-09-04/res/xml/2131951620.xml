@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory title="When scanning for barcodes, decode…">
+        <CheckBoxPreference title="1D Product" key="preferences_decode_1D_product" defaultValue="true" />
+        <CheckBoxPreference title="1D Industrial" key="preferences_decode_1D_industrial" defaultValue="true" />
+        <CheckBoxPreference title="QR Codes" key="preferences_decode_QR" defaultValue="true" />
+        <CheckBoxPreference title="Data Matrix" key="preferences_decode_Data_Matrix" defaultValue="true" />
+        <CheckBoxPreference title="Aztec" key="preferences_decode_Aztec" defaultValue="false" />
+        <CheckBoxPreference title="PDF417 (β)" key="preferences_decode_PDF417" defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory title="When a barcode is found…">
+        <CheckBoxPreference title="Beep" key="preferences_play_beep" defaultValue="true" />
+        <CheckBoxPreference title="Vibrate" key="preferences_vibrate" defaultValue="false" />
+        <CheckBoxPreference title="Copy to clipboard" key="preferences_copy_to_clipboard" defaultValue="true" />
+        <CheckBoxPreference title="Open web pages automatically" key="preferences_auto_open_web" defaultValue="false" />
+        <CheckBoxPreference title="Remember duplicates" key="preferences_remember_duplicates" summary="Store multiple scans of the same barcode in History" defaultValue="false" />
+        <CheckBoxPreference title="Add to History" key="preferences_history" summary="Store your scans in History" defaultValue="true" />
+        <CheckBoxPreference title="Retrieve more info" key="preferences_supplemental" summary="Try to retrieve more information about the barcode contents" defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory title="General settings">
+        <ListPreference entries="@array/2130903128" title="Use front light" key="preferences_front_light_mode" summary="Improves scanning in low light on some phones, but may cause glare. Does not work on all phones." defaultValue="OFF" entryValues="@array/2130903129" />
+        <CheckBoxPreference title="Use auto focus" key="preferences_auto_focus" defaultValue="true" />
+        <CheckBoxPreference title="Invert scan" key="preferences_invert_scan" summary="Scan for white barcodes on black background. Not available on some devices." defaultValue="false" />
+        <CheckBoxPreference title="Bulk scan mode" key="preferences_bulk_mode" summary="Scan and save many barcodes continuously" defaultValue="false" />
+        <CheckBoxPreference title="No automatic rotation" key="preferences_orientation" defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory title="Result settings">
+        <EditTextPreference title="Custom search URL" key="preferences_custom_product_search" summary="Substitutions: %s = contents, %f = format, %t = type" />
+        <ListPreference entries="@array/2130903098" title="Search country" key="preferences_search_country" defaultValue="-" entryValues="@array/2130903098" />
+    </PreferenceCategory>
+    <PreferenceCategory title="Device Bug Workarounds">
+        <CheckBoxPreference title="No continuous focus" key="preferences_disable_continuous_focus" summary="Use only standard focus mode" defaultValue="true" />
+        <CheckBoxPreference title="No exposure" key="preferences_disable_exposure" defaultValue="true" />
+        <CheckBoxPreference title="No metering" key="preferences_disable_metering" defaultValue="true" />
+        <CheckBoxPreference title="No barcode scene mode" key="preferences_disable_barcode_scene_mode" defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

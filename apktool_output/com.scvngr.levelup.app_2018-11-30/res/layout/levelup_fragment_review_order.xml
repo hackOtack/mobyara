@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:id="@id/levelup_fragment_review_order" android:background="@color/light_gray2" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" app:layout_constraintBottom_toTopOf="@id/levelup_fragment_review_order_submit_button_frame_shadow" app:layout_constraintTop_toTopOf="parent">
+        <include android:visibility="gone" layout="@layout/levelup_view_loading_large" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/levelup_fragment_content" android:padding="@dimen/padding0" android:layout_width="fill_parent" android:layout_height="0.0dip" android:animateLayoutChanges="true" app:layout_constraintBottom_toTopOf="@id/levelup_fragment_review_order_submit_button_frame_shadow" app:layout_constraintTop_toTopOf="parent">
+        <android.support.v7.widget.RecyclerView android:id="@id/levelup_fragment_review_order_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <View android:id="@id/levelup_fragment_review_order_submit_button_frame_shadow" android:background="#ffcccccc" android:layout_width="fill_parent" android:layout_height="1.0dip" app:layout_constraintBottom_toTopOf="@id/levelup_fragment_review_order_submit_button_frame" />
+    <FrameLayout android:id="@id/levelup_fragment_review_order_submit_button_frame" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent">
+        <Button android:id="@id/levelup_fragment_review_order_submit_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin2" android:layout_marginTop="@dimen/margin1" android:layout_marginRight="@dimen/margin2" android:layout_marginBottom="@dimen/margin1" android:text="@string/levelup_review_order_place_order" android:layout_marginStart="@dimen/margin2" android:layout_marginEnd="@dimen/margin2" style="@style/Button.Primary.Large" />
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

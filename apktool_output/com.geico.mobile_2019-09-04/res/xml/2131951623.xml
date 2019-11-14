@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut icon="@drawable/APKTOOL_DUMMY_3b4" enabled="true">
+        <intent targetPackage="com.geico.mobile" action="android.intent.action.VIEW" data="com.geico.genius:/QUICK_ACTION?action=KATE_QUICK_ACTION_PARAMETER" targetClass="com.geico.mobile.android.ace.geicoAppPresentation.geniusLinks.AceGeniusLinkLandingActivity" />
+    </shortcut>
+    <shortcut icon="@drawable/APKTOOL_DUMMY_3b2" enabled="true">
+        <intent targetPackage="com.geico.mobile" action="android.intent.action.VIEW" data="com.geico.genius:/QUICK_ACTION?action=BILLING_QUICK_ACTION_PARAMETER" targetClass="com.geico.mobile.android.ace.geicoAppPresentation.geniusLinks.AceGeniusLinkLandingActivity" />
+    </shortcut>
+    <shortcut icon="@drawable/APKTOOL_DUMMY_3b5" enabled="true">
+        <intent targetPackage="com.geico.mobile" action="android.intent.action.VIEW" data="com.geico.genius:/QUICK_ACTION?action=ROADSIDE_QUICK_ACTION_PARAMETER" targetClass="com.geico.mobile.android.ace.geicoAppPresentation.geniusLinks.AceGeniusLinkLandingActivity" />
+    </shortcut>
+    <shortcut icon="@drawable/APKTOOL_DUMMY_3b3" enabled="true">
+        <intent targetPackage="com.geico.mobile" action="android.intent.action.VIEW" data="com.geico.genius:/QUICK_ACTION?action=ID_CARD_QUICK_ACTION_PARAMETER" targetClass="com.geico.mobile.android.ace.geicoAppPresentation.geniusLinks.AceGeniusLinkLandingActivity" />
+    </shortcut>
+</shortcuts>

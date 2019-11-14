@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox id="@id/2131297288" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" checked="true" text="Enroll in Paperless Billing" paddingStart="30.0dip" />
+    <TextView id="@id/2131298148" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="When you enroll in Paperless Billing, you will receive a courtesy email whenever paperless bills are available for review. You will no longer receive the documents through the mail." />
+    <TextView id="@id/2131298075" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="Please make sure that you notify GEICO if your email address changes." />
+    <TextView id="@id/2131297221" layout_width="fill_parent" layout_height="wrap_content" text="You will receive an email confirming your enrollment. Please make sure to add the &quot;geicomail.com&quot; domains to your email &quot;safe list.&quot; By tapping &quot;Yes, I wish to enroll&quot; you are agreeing to the &quot;Terms and Conditions.&quot;" />
+    <Button id="@id/2131299303" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165265" text="Yes, I wish to enroll" onClick="onWishToEnrollClicked" />
+    <Button id="@id/2131298962" layout_width="fill_parent" layout_height="wrap_content" text="No, Thank You" onClick="onNoThankYouButtonClicked" style="@style/2131821002" />
+</LinearLayout>

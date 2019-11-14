@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820754" id="@id/2131299073" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Tutorials" layout_alignParentTop="true" contentDescription="Tutorials Section Header" />
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" layout_below="@id/2131299073" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout id="@id/2131299327" paddingLeft="16.0dip" paddingRight="16.0dip" layout_width="fill_parent" layout_height="wrap_content" onClick="onYoutubeClicked" layout_alignParentStart="true">
+            <ImageView id="@id/2131299328" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" src="@null" layout_alignParentTop="true" contentDescription="How to use the GEICO Mobile app image" layout_marginEnd="16.0dip" layout_alignParentStart="true" />
+            <TextView textAppearance="@style/2131820756" id="@id/2131299329" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="How to use the GEICO Mobile app" layout_alignParentTop="true" layout_marginStart="8.0dip" layout_toEndOf="@id/2131299328" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

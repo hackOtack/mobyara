@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" background="@drawable/2131231480" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="?android:textAppearanceLarge" textStyle="bold" textColor="#ffffffff" gravity="center_horizontal" layout_gravity="center_vertical" id="@id/2131298989" visibility="invisible" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginBottom="10.0dip" />
+    <TextView textAppearance="?android:textAppearanceLarge" textStyle="bold" textColor="#ffffffff" gravity="center_horizontal" layout_gravity="center_vertical" id="@id/2131298883" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginTop="10.0dip" layout_marginRight="30.0dip" layout_marginBottom="30.0dip" />
+    <ImageView id="@id/2131297025" layout_width="fill_parent" layout_height="0.0dip" src="@drawable/APKTOOL_DUMMY_2f9" layout_weight="1.0" />
+    <LinearLayout layout_gravity="bottom" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="30.0dip" layout_marginBottom="30.0dip" baselineAligned="false">
+        <TextView textAppearance="?android:textAppearanceMedium" textColor="#ffffffff" gravity="center_horizontal" layout_gravity="center_vertical" id="@id/2131297490" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginTop="10.0dip" layout_marginRight="30.0dip" layout_marginBottom="10.0dip" />
+        <TextView textAppearance="?android:textAppearanceSmall" textColor="#ffffffff" gravity="center_horizontal" layout_gravity="center_vertical" id="@id/2131297491" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="30.0dip" layout_marginTop="10.0dip" layout_marginRight="30.0dip" layout_marginBottom="10.0dip" />
+        <Button layout_gravity="center_horizontal" id="@id/2131297019" background="#ff361f88" paddingLeft="50.0dip" paddingTop="1.0dip" paddingRight="50.0dip" paddingBottom="1.0dip" layout_width="wrap_content" layout_height="fill_parent" layout_marginTop="10.0dip" minHeight="30.0dip" text="Got It" />
+    </LinearLayout>
+</LinearLayout>

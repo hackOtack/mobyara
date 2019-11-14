@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent" baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="left" orientation="vertical" id="@id/2131299045" background="#fff1f0ec" layout_width="0.0dip" layout_height="fill_parent" layout_weight="90.0">
+        <FrameLayout layout_gravity="center" id="@id/2131299042" layout_width="fill_parent" layout_height="fill_parent">
+            <fragment id="@id/2131299041" layout_width="fill_parent" layout_height="fill_parent" class="o.AK" />
+            <android.support.v4.view.ViewPager gravity="center" layout_gravity="center" id="@id/2131299043" paddingLeft="@dimen/2131165449" paddingRight="@dimen/2131165449" layout_width="fill_parent" layout_height="fill_parent" />
+            <ImageView layout_gravity="bottom|center|right" id="@id/2131299021" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_2c8" />
+        </FrameLayout>
+        <FrameLayout layout_gravity="center" id="@id/2131299020" visibility="gone" layout_width="fill_parent" layout_height="fill_parent">
+            <fragment id="@id/2131299019" layout_width="fill_parent" layout_height="fill_parent" class="o.AM" />
+        </FrameLayout>
+    </FrameLayout>
+    <include id="@id/2131299044" layout="@layout/2131428220" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="horizontal" background="@drawable/2131231106" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820840" id="@id/2131296754" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="4.0dip" />
+    <LinearLayout orientation="vertical" id="@id/2131296745" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" layout_below="@id/2131296754" layout_alignParentLeft="true">
+        <TextView textAppearance="@style/2131820756" id="@id/2131296750" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" text="\#" />
+        <TextView textAppearance="@style/2131820763" id="@id/2131298560" layout_width="fill_parent" layout_height="wrap_content" text="Incident Date" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298559" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout gravity="right" orientation="horizontal" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131296745" layout_below="@id/2131296754" layout_alignParentRight="true">
+        <ImageView id="@id/2131296738" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_8c" tint="#ff154995" />
+        <ImageView id="@id/2131296739" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1e0" tint="?APKTOOL_DUMMY_c9" />
+    </LinearLayout>
+</RelativeLayout>

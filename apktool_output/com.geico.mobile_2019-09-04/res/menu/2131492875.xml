@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@id/2131297925" title="Dismiss Offer" />
+    <item id="@id/2131297926" title="Learn More" />
+    <item id="@id/2131297927" title="Remind Me Later" />
+</menu>

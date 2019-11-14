@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent" layout_marginTop="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" paddingLeft="20.0dip" paddingRight="20.0dip" layout_width="fill_parent" layout_height="fill_parent" layout_alignParentBottom="true">
+        <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextButton id="@id/2131296600" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="10.0dip" text="Retake" layout_weight="1.0" style="@style/2131821317" />
+        <com.cccis.mobile.sdk.android.qephotocapture.views.BoldTextButton id="@id/2131296603" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="10.0dip" text="Use Photo" layout_weight="1.0" style="@style/2131821313" />
+    </LinearLayout>
+</RelativeLayout>

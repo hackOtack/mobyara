@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" padding="@dimen/2131165271" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" id="@id/2131297257" layout_width="fill_parent" layout_height="48.0dip" layout_marginBottom="8.0dip">
+        <Switch id="@id/2131297266" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="10.0dip" />
+        <TextView textAppearance="@style/2131821021" textColor="#ff000000" id="@id/2131297265" tag="enableTouchIdFieldText" layout_width="wrap_content" layout_height="wrap_content" text="Enable Renewal Update Eligibility" />
+    </LinearLayout>
+</LinearLayout>

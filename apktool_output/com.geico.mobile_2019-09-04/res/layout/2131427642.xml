@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView id="@id/2131298612" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginRight="4.0dip" 2130968673="@color/2131100004" style="@style/2131820827" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton id="@id/2131297200" background="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" layout_alignTop="@id/2131298614" layout_alignBottom="@id/2131298614" layout_alignParentRight="true" onClick="onEditTowDestinationButtonClicked" contentDescription="Tow Destination Edit Image Button" />
+        <TextView textAppearance="@style/2131820756" textColor="#ffef5621" id="@id/2131298614" layout_width="fill_parent" layout_height="wrap_content" text="Tow Destination" layout_toLeftOf="@id/2131297200" />
+        <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131298613" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131298614" contentDescription="Tow Destination Text" />
+        <Button theme="@style/2131820826" id="@id/2131296723" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" text="Choose Tow Destination" layout_below="@id/2131298614" onClick="onChooseTowDestinationButtonClicked" style="@style/2131821002" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

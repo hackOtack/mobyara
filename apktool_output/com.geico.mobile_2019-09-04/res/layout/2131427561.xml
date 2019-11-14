@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/2131820787"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297931" style="@style/2131820788" />
+    <LinearLayout id="@id/2131296607" style="@style/2131820786">
+        <Button id="@id/2131298369" style="@style/2131820785" />
+        <Button id="@id/2131298012" style="@style/2131820785" />
+        <Button id="@id/2131298013" style="@style/2131820785" />
+    </LinearLayout>
+</LinearLayout>

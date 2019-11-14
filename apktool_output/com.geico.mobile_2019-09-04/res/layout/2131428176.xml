@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" focusable="true" focusableInTouchMode="true" layout_width="fill_parent" layout_height="fill_parent" xmlns:card_view="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427932" />
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" layout_margin="8.0dip" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <LinearLayout orientation="horizontal" id="@id/2131298685" layout_width="fill_parent" layout_height="fill_parent">
+            <ImageView layout_gravity="center" id="@id/2131296548" padding="12.0dip" layout_width="48.0dip" layout_height="48.0dip" src="@drawable/2131231401" tint="#fff2f0ec" />
+            <android.support.v7.widget.SearchView id="@id/2131298689" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0" iconifiedByDefault="true" 2130968798="false" 2130968962="@null" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

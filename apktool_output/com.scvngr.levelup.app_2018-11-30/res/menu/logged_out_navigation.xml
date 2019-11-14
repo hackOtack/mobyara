@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/button_nav_bar_places" android:id="@id/navigation_places" android:title="@string/levelup_title_all_locations_list" app:showAsAction="ifRoom" />
+</menu>

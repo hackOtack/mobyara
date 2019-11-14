@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" focusableInTouchMode="true" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textAppearance="@style/2131820994" id="@id/2131296918" padding="@dimen/2131165265" layout_width="fill_parent" layout_height="wrap_content" text="Current Payment Plan" />
+        <RelativeLayout layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821206">
+            <TextView textAppearance="@style/2131820756" id="@id/2131296917" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Current Payment Plan" />
+            <Button id="@id/2131297197" layout_width="wrap_content" layout_height="wrap_content" text="Change Plan" layout_alignParentRight="true" style="@style/2131820980" />
+        </RelativeLayout>
+        <RelativeLayout padding="8.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <android.support.v7.widget.CardView id="@id/2131298240" layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+                <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                    <TextView textAppearance="@style/2131820994" id="@id/2131298672" padding="@dimen/2131165265" layout_width="wrap_content" layout_height="wrap_content" text="Scheduled Payments" />
+                    <TextView textAppearance="@style/2131820754" id="@id/2131298809" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165336" layout_marginTop="@dimen/2131165336" layout_marginRight="@dimen/2131165336" text="Due to your special payment arrangement, additional payment plan options are not available online." layout_below="@id/2131298672" />
+                    <TextView textAppearance="@style/2131820754" textColorLink="#ff154995" id="@id/2131296623" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Please call 1-877-206-0215, and we will be happy to assist you with this information." layout_below="@id/2131298809" />
+                    <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableListView id="@id/2131298241" layout_width="fill_parent" layout_height="wrap_content" divider="@null" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

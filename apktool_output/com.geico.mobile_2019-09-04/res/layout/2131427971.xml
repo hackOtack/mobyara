@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent" layout_margin="16.0dip">
+        <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" layout="@layout/2131427678" />
+        <TextView id="@id/2131298053" layout_width="wrap_content" layout_height="wrap_content" text="Name on Card" />
+        <TextView textAppearance="@style/2131820758" id="@id/2131298051" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="4.0dip" />
+        <TextView textAppearance="@style/2131820994" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" text="Choose Address Type" />
+        <RadioGroup orientation="vertical" id="@id/2131296454" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" checkedButton="@id/2131298874">
+            <RadioButton id="@id/2131298874" layout_width="fill_parent" layout_height="wrap_content" text="Street" paddingStart="16.0dip" />
+            <RadioButton id="@id/2131296265" layout_width="fill_parent" layout_height="wrap_content" text="PO Box" paddingStart="16.0dip" />
+        </RadioGroup>
+        <android.support.design.widget.TextInputLayout id="@id/2131298302" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+            <EditText id="@id/2131298301" layout_width="fill_parent" layout_height="wrap_content" hint="PO Box" maxLength="6" digits="abcdefghijklmnopqrstuvwxyz1234567890-" inputType="textNoSuggestions" />
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout id="@id/2131298872" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+            <EditText id="@id/2131298871" layout_width="fill_parent" layout_height="wrap_content" hint="Street Address" maxLength="30" inputType="textNoSuggestions" />
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout id="@id/2131296517" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+            <EditText id="@id/2131296516" layout_width="fill_parent" layout_height="wrap_content" hint="Apt #" maxLength="6" inputType="textNoSuggestions" />
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout id="@id/2131299333" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" 2130968792="@style/2131820756">
+            <EditText id="@id/2131299330" layout_width="fill_parent" layout_height="wrap_content" hint="Zip Code" maxLength="5" inputType="number" />
+        </android.support.design.widget.TextInputLayout>
+        <LinearLayout orientation="horizontal" id="@id/2131296728" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="12.0dip">
+            <android.support.design.widget.TextInputLayout id="@id/2131296731" layout_width="0.0dip" layout_height="wrap_content" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" layout_weight="2.0" 2130968792="@style/2131820756">
+                <EditText id="@id/2131296726" layout_width="fill_parent" layout_height="wrap_content" hint="City" maxLength="30" inputType="textNoSuggestions" />
+            </android.support.design.widget.TextInputLayout>
+            <View background="#ffbab4ab" layout_width="1.0dip" layout_height="fill_parent" layout_marginLeft="10.0dip" layout_marginRight="10.0dip" />
+            <LinearLayout orientation="vertical" layout_width="0.0dip" layout_height="wrap_content" layout_weight="1.0">
+                <TextView textAppearance="@style/2131820755" id="@id/2131298830" layout_width="fill_parent" layout_height="wrap_content" text="State" />
+                <Spinner id="@id/2131298829" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/levelup_order_ahead_completed_order_order_item" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_section"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/levelup_order_ahead_completed_order_order_item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_order_item_title" />
+    <TextView android:id="@id/levelup_order_ahead_completed_order_order_item_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_completed_order_order_item_subtitle" />
+</LinearLayout>

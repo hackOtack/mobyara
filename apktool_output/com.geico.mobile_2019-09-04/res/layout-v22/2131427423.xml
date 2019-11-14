@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296567" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" background="@drawable/2131230879" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginRight="20.0dip" layout_marginBottom="20.0dip">
+        <LinearLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_174" />
+            <TextView textSize="20.0sp" layout_gravity="center" id="@id/2131296817" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Your payment plan has been updated." style="@style/2131820838" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_margin="5.0dip">
+            <TextView textStyle="bold" id="@id/2131296818" layout_width="wrap_content" layout_height="wrap_content" text="Confirmation #:" layout_weight="1.0" style="@style/2131820875" />
+            <TextView id="@id/2131296819" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820834" />
+        </LinearLayout>
+        <TableLayout id="@id/2131296808" layout_width="fill_parent" layout_height="wrap_content">
+            <TableRow padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+                <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="New payment plan:" layout_weight="1.0" style="@style/2131820875" />
+                <TextView gravity="right" id="@id/2131298026" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820875" />
+            </TableRow>
+            <View gravity="top" background="#ffbab4ab" layout_width="fill_parent" layout_height="1.0dip" />
+            <TableRow id="@id/2131298671" padding="12.0dip" layout_width="wrap_content" layout_height="wrap_content" weightSum="1.0">
+                <TextView textStyle="bold" layout_width="fill_parent" layout_height="wrap_content" text="Next scheduled due date:" layout_weight="1.0" style="@style/2131820875" />
+                <TextView gravity="right" id="@id/2131296999" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820875" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+    <TextView textColor="#ff000000" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Details" textAllCaps="true" />
+    <LinearLayout orientation="vertical" id="@id/2131296535" background="@drawable/2131230879" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131297216" layout_width="wrap_content" layout_height="wrap_content" text="An email confirmation has been sent to" drawablePadding="16.0dip" drawableTint="@color/2131099818" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131297900" background="@drawable/2131230879" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131297132" layout_width="wrap_content" layout_height="wrap_content" text="Don't worry! You do not need to take any further action at this time. We will email you within one hour if we need any additional information or to let you know that your request has been completed." drawablePadding="16.0dip" drawableTint="@color/2131099818" />
+        <TextView textColor="#ff000000" id="@id/2131298968" layout_width="wrap_content" layout_height="wrap_content" text="Thanks for your patience." drawablePadding="16.0dip" drawableTint="@color/2131099818" />
+        <TextView textColor="#ff000000" id="@id/2131298967" layout_width="wrap_content" layout_height="wrap_content" text="Thank you for choosing GEICO Mobile!" drawablePadding="16.0dip" drawableTint="@color/2131099818" />
+    </LinearLayout>
+    <Button id="@id/2131296565" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="32.0dip" text="Return Home" onClick="onPolicyDashboardButtonClicked" style="@style/2131820938" />
+    <Button id="@id/2131299239" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="View Payment Schedule" onClick="onViewScheduledPaymentClicked" style="@style/2131820982" />
+</LinearLayout>

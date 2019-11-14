@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" paddingBottom="@dimen/2131165329" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView id="@id/2131296767" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131099737" 2130968677="false">
+        <LinearLayout orientation="horizontal" id="@id/2131296766" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="16.0dip">
+            <ImageView id="@id/2131296760" paddingLeft="16.0dip" paddingTop="16.0dip" paddingRight="16.0dip" paddingBottom="16.0dip" layout_width="wrap_content" layout_height="wrap_content" src="@android:drawable/ic_dialog_alert" tint="#ffffffff" />
+            <LinearLayout orientation="vertical" paddingTop="5.0dip" paddingRight="10.0dip" paddingBottom="5.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="@dimen/2131165337" layout_marginRight="16.0dip">
+                <TextView textAppearance="@style/2131820760" textStyle="bold" textColor="#ffffffff" id="@id/2131296736" layout_width="wrap_content" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820757" textColorLink="#ffffffff" id="@id/2131296733" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="5.0dip" />
+                <TextView textColor="#ffef7014" gravity="center" background="@drawable/2131230831" padding="@dimen/2131165337" layout_width="fill_parent" layout_height="0.0dip" layout_marginTop="16.0dip" layout_marginBottom="16.0dip" text="Get Started" layout_weight="1.0" textAllCaps="true" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

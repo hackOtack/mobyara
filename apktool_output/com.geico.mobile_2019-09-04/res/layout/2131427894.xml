@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What's covered?" style="@style/2131820882" />
+    <TextView text="Motorcycle insurance provides coverage for damage to your bike and accessories due to accidents or theft." style="@style/2131820881" />
+    <TextView text="What types of motorcycles does GEICO insure?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Sport bikes" style="@style/2131820773" />
+        <TextView text="Cruisers" style="@style/2131820773" />
+        <TextView text="Dirt bikes &amp; Enduros" style="@style/2131820773" />
+        <TextView text="Scooters" style="@style/2131820773" />
+        <TextView text="Trikes" style="@style/2131820773" />
+        <TextView text="Touring and some custom bikes" style="@style/2131820773" />
+    </LinearLayout>
+</LinearLayout>

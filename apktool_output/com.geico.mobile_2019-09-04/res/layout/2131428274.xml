@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout layout_width="fill_parent" layout_height="wrap_content" contentDescription="User"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textColor="#ff154995" id="@id/2131296276" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" text="About You" layout_alignParentLeft="true" contentDescription="User Heading Text" style="@style/2131820758" />
+    <include gravity="center_vertical" id="@id/2131296441" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" layout_below="@id/2131296276" layout_alignParentLeft="true" layout="@layout/2131428270" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131299131" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="8.0dip" layout_marginBottom="8.0dip" text="Name" layout_toRightOf="@id/2131296441" layout_alignTop="@id/2131296441" contentDescription="User Name Label" labelFor="@id/2131299132" />
+    <TextView textAppearance="@style/2131820758" id="@id/2131299132" layout_width="fill_parent" layout_height="wrap_content" layout_toRightOf="@id/2131296441" layout_below="@id/2131299131" contentDescription="User Name Text" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131299134" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Cell Phone Number" layout_below="@id/2131296441" layout_alignLeft="@id/2131296441" contentDescription="Mobile Phone Label" labelFor="@id/2131299135" />
+    <LinearLayout orientation="horizontal" id="@id/2131298270" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" weightSum="1.0" layout_below="@id/2131299134">
+        <EditText textAppearance="@style/2131820758" id="@id/2131299135" layout_width="0.0dip" layout_height="wrap_content" layout_weight="0.45" contentDescription="Mobile Phone Edit" style="@style/2131820916" />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820754" id="@id/2131299119" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_marginBottom="8.0dip" text="Work Address" layout_below="@id/2131298270" layout_alignLeft="@id/2131296441" contentDescription="Work Address Label" labelFor="@id/2131299120" />
+    <LinearLayout orientation="horizontal" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" weightSum="1.0" layout_below="@id/2131299119">
+        <TextView textSize="14.0sp" ellipsize="end" id="@id/2131299120" focusable="false" focusableInTouchMode="false" clickable="false" layout_width="0.0dip" layout_height="wrap_content" text="444 street lane , west fields WV 20192" cursorVisible="false" maxLines="1" lines="1" layout_weight="0.85" contentDescription="Work Address Edit" style="@style/2131820700" />
+        <ImageView layout_gravity="center" id="@id/2131296775" layout_width="0.0dip" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_186" tint="#ff000000" layout_weight="0.15" />
+    </LinearLayout>
+</RelativeLayout>

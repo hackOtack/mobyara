@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout id="@id/2131297674" padding="20.0dip" clickable="false" layout_width="wrap_content" layout_height="wrap_content" layout_margin="15.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297676" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" />
+    <RelativeLayout orientation="vertical" id="@id/2131297675" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="10.0dip" layout_marginTop="15.0dip" layout_marginRight="10.0dip" layout_marginBottom="15.0dip" layout_below="@id/2131297676">
+        <TextView textAppearance="@style/2131820756" id="@id/2131297156" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131297155" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" layout_below="@id/2131297156" />
+        <TextView textAppearance="@style/2131820756" id="@id/2131296448" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="15.0dip" maxLines="3" minLines="1" layout_below="@id/2131297155" />
+    </RelativeLayout>
+    <TextView textAppearance="@style/2131820756" id="@id/2131297677" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="10.0dip" text="You should receive the cards in a few minutes." layout_below="@id/2131297675" />
+</RelativeLayout>

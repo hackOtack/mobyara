@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298044" background="#ffffffff" visibility="gone" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Your billing documents are not currently available to review. We apologize for this inconvenience." />
+    <Button theme="@style/2131820937" id="@id/2131298596" layout_width="fill_parent" layout_height="wrap_content" layout_margin="@dimen/2131165336" text="Return Home" />
+</LinearLayout>

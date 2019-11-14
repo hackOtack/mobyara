@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AlertDialogLayout gravity="start|center|top" orientation="vertical" id="@id/2131298158" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427339" />
+    <FrameLayout id="@id/2131296846" layout_width="fill_parent" layout_height="wrap_content" minHeight="48.0dip">
+        <View layout_gravity="top" id="@id/2131298679" background="?2130968694" visibility="gone" layout_width="fill_parent" layout_height="1.0dip" />
+        <android.support.v4.widget.NestedScrollView id="@id/2131298680" clipToPadding="false" layout_width="fill_parent" layout_height="wrap_content">
+            <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+                <android.widget.Space id="@id/2131298947" visibility="gone" layout_width="fill_parent" layout_height="18.0dip" />
+                <TextView id="@android:id/message" paddingLeft="?2130968727" paddingRight="?2130968727" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131821028" />
+                <android.widget.Space id="@id/2131298946" visibility="gone" layout_width="fill_parent" layout_height="18.0dip" />
+            </LinearLayout>
+        </android.support.v4.widget.NestedScrollView>
+        <View layout_gravity="bottom" id="@id/2131298678" background="?2130968694" visibility="gone" layout_width="fill_parent" layout_height="1.0dip" />
+    </FrameLayout>
+    <FrameLayout id="@id/2131296923" layout_width="fill_parent" layout_height="wrap_content" minHeight="48.0dip">
+        <FrameLayout id="@id/2131296921" layout_width="fill_parent" layout_height="wrap_content" />
+    </FrameLayout>
+    <include layout_width="fill_parent" layout_height="wrap_content" layout="@layout/2131427337" />
+</android.support.v7.widget.AlertDialogLayout>

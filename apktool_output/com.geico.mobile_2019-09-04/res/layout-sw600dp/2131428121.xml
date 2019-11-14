@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView scrollbarAlwaysDrawVerticalTrack="false" id="@id/2131296353" background="#ff3773ca" layout_width="fill_parent" layout_height="fill_parent" fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131428120" />
+</android.support.v4.widget.NestedScrollView>

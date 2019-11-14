@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout clickable="true" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView layout_width="wrap_content" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout orientation="horizontal" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+            <ImageView gravity="center_vertical" id="@id/2131297153" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="16.0dip" src="@drawable/2131231149" layout_alignParentLeft="true" />
+            <LinearLayout gravity="center_vertical" orientation="vertical" id="@id/2131299212" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8.0dip" layout_toLeftOf="@id/2131297152" layout_toRightOf="@id/2131297153">
+                <TextView textAppearance="@style/2131820994" id="@id/2131297157" layout_width="fill_parent" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131297162" layout_width="fill_parent" layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout orientation="vertical" id="@id/2131297152" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentTop="true" layout_alignParentRight="true">
+                <ImageButton id="@id/2131297193" clickable="true" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" src="@drawable/APKTOOL_DUMMY_311" tint="#ff60574a" />
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout gravity="center_vertical" orientation="horizontal" background="@drawable/2131231749" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427495" />
+    <LinearLayout gravity="right" orientation="vertical" id="@id/2131298362" paddingLeft="16.0dip" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentRight="true">
+        <include layout="@layout/2131427492" />
+        <include layout="@layout/2131427498" />
+    </LinearLayout>
+    <LinearLayout gravity="center|left" orientation="vertical" id="@id/2131298363" layout_width="wrap_content" layout_height="wrap_content" layout_toLeftOf="@id/2131298362" layout_toRightOf="@id/2131296937">
+        <include layout="@layout/2131427496" />
+        <include layout="@layout/2131427515" />
+        <include layout="@layout/2131427514" />
+        <include layout="@layout/2131427494" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298347" clickable="true" layout_width="fill_parent" layout_height="wrap_content" 2130968673="@color/2131100004" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="wrap_content">
+        <include layout="@layout/2131428195" />
+        <include layout="@layout/2131428194" />
+    </LinearLayout>
+    <include layout="@layout/2131428197" />
+</LinearLayout>

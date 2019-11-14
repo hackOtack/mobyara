@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <android.support.v7.widget.RecyclerView android:id="@id/levelup_fragment_order_ahead_menu_item_detail_recycler" android:background="@android:color/transparent" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <View android:layout_gravity="bottom" style="@style/levelup_order_ahead_general_footer_shadow" />
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:background="@color/levelup_order_ahead_footer_background" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_menu_item_footer">
+            <Button android:id="@id/levelup_order_ahead_menu_item_detail_add_to_cart" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_general_button" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/levelup_order_ahead_menu_item_detail_edit_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <Button android:id="@id/levelup_order_ahead_menu_item_detail_update" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="@dimen/levelup_layout_margin" android:layout_weight="1.0" style="@style/levelup_order_ahead_general_button" />
+                <Button android:id="@id/levelup_order_ahead_menu_item_detail_remove" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin" android:text="@string/levelup_order_ahead_menu_item_detail_footer_remove" android:layout_weight="1.0" style="@style/levelup_order_ahead_general_button" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

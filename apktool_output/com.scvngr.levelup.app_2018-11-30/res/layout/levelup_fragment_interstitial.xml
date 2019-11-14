@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.scvngr.levelup.ui.view.WebImageViewWithSummaryOverlay android:id="@id/levelup_interstitial_image" android:layout_width="fill_parent" style="@style/levelup_web_image_with_overlay" />
+        <TextView android:id="@android:id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" />
+        <LinearLayout android:orientation="vertical" android:id="@id/levelup_fragment_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/levelup_layout_margin_start" android:layout_marginTop="@dimen/levelup_layout_margin_top" android:layout_marginRight="@dimen/levelup_layout_margin_end" android:layout_marginBottom="@dimen/levelup_layout_margin_bottom" />
+    </LinearLayout>
+</ScrollView>

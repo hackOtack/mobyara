@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView id="@id/2131297618" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="4.0dip" text="Home Phone" style="@style/2131820876" />
+    <TextView id="@id/2131297619" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="8.0dip" style="@style/2131820994" />
+    <TextView id="@id/2131297954" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="4.0dip" text="Mobile Phone" style="@style/2131820876" />
+    <TextView id="@id/2131297955" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="8.0dip" style="@style/2131820994" />
+    <TextView id="@id/2131299307" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="4.0dip" text="Work Phone" style="@style/2131820876" />
+    <TextView id="@id/2131299308" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" layout_marginBottom="8.0dip" style="@style/2131820994" />
+    <TextView id="@id/2131298268" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginTop="8.0dip" layout_marginRight="@dimen/2131165271" layout_marginBottom="8.0dip" text="The changes you made to your phone number(s) will apply to each policy below." style="@style/2131820754" />
+    <TableLayout id="@id/2131298305" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="@dimen/2131165271" layout_marginRight="@dimen/2131165271" />
+    <View id="@id/2131298303" background="#ffbab4ab" visibility="gone" layout_width="fill_parent" layout_height="0.5dip" layout_marginTop="4.0dip" layout_marginBottom="4.0dip" />
+</LinearLayout>

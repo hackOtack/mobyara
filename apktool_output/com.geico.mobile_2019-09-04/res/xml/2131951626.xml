@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resouces
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <UrbanAirshipActionButtonGroup id="ua_yes_no_foreground">
+        <UrbanAirshipActionButton label="@string/2131757334" icon="@drawable/APKTOOL_DUMMY_419" foreground="true" id="yes" />
+        <UrbanAirshipActionButton label="@string/2131757322" icon="@drawable/APKTOOL_DUMMY_41e" foreground="false" id="no" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_yes_no_background">
+        <UrbanAirshipActionButton label="@string/2131757334" icon="@drawable/APKTOOL_DUMMY_419" foreground="false" id="yes" />
+        <UrbanAirshipActionButton label="@string/2131757322" icon="@drawable/APKTOOL_DUMMY_41e" foreground="false" id="no" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_accept_decline_foreground">
+        <UrbanAirshipActionButton label="@string/2131757309" icon="@drawable/APKTOOL_DUMMY_419" foreground="true" id="accept" />
+        <UrbanAirshipActionButton label="@string/2131757315" icon="@drawable/APKTOOL_DUMMY_41e" foreground="false" id="decline" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_accept_decline_background">
+        <UrbanAirshipActionButton label="@string/2131757309" icon="@drawable/APKTOOL_DUMMY_419" foreground="false" id="accept" />
+        <UrbanAirshipActionButton label="@string/2131757315" icon="@drawable/APKTOOL_DUMMY_41e" foreground="false" id="decline" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_download_share">
+        <UrbanAirshipActionButton label="@string/2131757317" icon="@drawable/APKTOOL_DUMMY_41f" foreground="true" id="download" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_remind_share">
+        <UrbanAirshipActionButton label="@string/2131757326" icon="@drawable/APKTOOL_DUMMY_425" foreground="false" id="remind" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_opt_in_share">
+        <UrbanAirshipActionButton label="@string/2131757323" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="opt_in" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_opt_out_share">
+        <UrbanAirshipActionButton label="@string/2131757324" icon="@drawable/APKTOOL_DUMMY_42d" foreground="false" id="opt_out" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_follow_share">
+        <UrbanAirshipActionButton label="@string/2131757318" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="follow" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_unfollow_share">
+        <UrbanAirshipActionButton label="@string/2131757333" icon="@drawable/APKTOOL_DUMMY_42d" foreground="false" id="unfollow" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_shop_now_share">
+        <UrbanAirshipActionButton label="@string/2131757331" icon="@drawable/APKTOOL_DUMMY_41c" foreground="true" id="shop_now" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_buy_now_share">
+        <UrbanAirshipActionButton label="@string/2131757313" icon="@drawable/APKTOOL_DUMMY_41c" foreground="true" id="buy_now" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_more_like_less_like">
+        <UrbanAirshipActionButton label="@string/2131757321" icon="@drawable/APKTOOL_DUMMY_42c" foreground="false" id="more_like" />
+        <UrbanAirshipActionButton label="@string/2131757319" icon="@drawable/APKTOOL_DUMMY_42b" foreground="false" id="less_like" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_like_dislike">
+        <UrbanAirshipActionButton label="@string/2131757320" icon="@drawable/APKTOOL_DUMMY_42c" foreground="false" id="like" />
+        <UrbanAirshipActionButton label="@string/2131757316" icon="@drawable/APKTOOL_DUMMY_42b" foreground="false" id="dislike" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_like_share">
+        <UrbanAirshipActionButton label="@string/2131757320" icon="@drawable/APKTOOL_DUMMY_42c" foreground="false" id="like" />
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_shop_now">
+        <UrbanAirshipActionButton label="@string/2131757331" icon="@drawable/APKTOOL_DUMMY_41c" foreground="true" id="shop_now" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_buy_now">
+        <UrbanAirshipActionButton label="@string/2131757313" icon="@drawable/APKTOOL_DUMMY_41c" foreground="true" id="buy_now" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_follow">
+        <UrbanAirshipActionButton label="@string/2131757318" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="follow" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_unfollow">
+        <UrbanAirshipActionButton label="@string/2131757333" icon="@drawable/APKTOOL_DUMMY_42d" foreground="false" id="unfollow" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_opt_in">
+        <UrbanAirshipActionButton label="@string/2131757323" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="opt_in" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_opt_out">
+        <UrbanAirshipActionButton label="@string/2131757324" icon="@drawable/APKTOOL_DUMMY_42d" foreground="false" id="opt_out" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_remind_me_later">
+        <UrbanAirshipActionButton label="@string/2131757326" icon="@drawable/APKTOOL_DUMMY_425" foreground="false" id="remind" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_share">
+        <UrbanAirshipActionButton label="@string/2131757330" icon="@drawable/APKTOOL_DUMMY_42a" foreground="true" id="share" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_download">
+        <UrbanAirshipActionButton label="@string/2131757317" icon="@drawable/APKTOOL_DUMMY_41f" foreground="true" id="download" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_like">
+        <UrbanAirshipActionButton label="@string/2131757320" icon="@drawable/APKTOOL_DUMMY_42c" foreground="false" id="like" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_icons_up_down">
+        <UrbanAirshipActionButton icon="@drawable/APKTOOL_DUMMY_42c" description="thumbs up icon" foreground="false" id="up" />
+        <UrbanAirshipActionButton icon="@drawable/APKTOOL_DUMMY_42b" description="thumbs down icon" foreground="false" id="down" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_icons_happy_sad">
+        <UrbanAirshipActionButton icon="@drawable/APKTOOL_DUMMY_422" description="happy icon" foreground="false" id="happy" />
+        <UrbanAirshipActionButton icon="@drawable/APKTOOL_DUMMY_426" description="sad icon" foreground="false" id="sad" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_add_calendar_remind">
+        <UrbanAirshipActionButton label="@string/2131757311" icon="@drawable/APKTOOL_DUMMY_420" foreground="true" id="add_calendar" />
+        <UrbanAirshipActionButton label="@string/2131757326" icon="@drawable/APKTOOL_DUMMY_425" foreground="false" id="remind" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_add">
+        <UrbanAirshipActionButton label="@string/2131757310" icon="@drawable/APKTOOL_DUMMY_41a" foreground="true" id="add" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_save">
+        <UrbanAirshipActionButton label="@string/2131757327" icon="@drawable/APKTOOL_DUMMY_427" foreground="false" id="save" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_follow_save">
+        <UrbanAirshipActionButton label="@string/2131757318" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="follow" />
+        <UrbanAirshipActionButton label="@string/2131757327" icon="@drawable/APKTOOL_DUMMY_427" foreground="false" id="save" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_opt_in_remind">
+        <UrbanAirshipActionButton label="@string/2131757323" icon="@drawable/APKTOOL_DUMMY_421" foreground="false" id="opt_in" />
+        <UrbanAirshipActionButton label="@string/2131757326" icon="@drawable/APKTOOL_DUMMY_425" foreground="false" id="remind" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_more_info">
+        <UrbanAirshipActionButton label="@string/2131757332" icon="@drawable/APKTOOL_DUMMY_423" foreground="true" id="more_info" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_rate_remind">
+        <UrbanAirshipActionButton label="@string/2131757325" foreground="true" id="rate" />
+        <UrbanAirshipActionButton label="@string/2131757326" icon="@drawable/APKTOOL_DUMMY_425" foreground="false" id="remind" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_rate">
+        <UrbanAirshipActionButton label="@string/2131757325" foreground="true" id="rate" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_search">
+        <UrbanAirshipActionButton label="@string/2131757328" icon="@drawable/APKTOOL_DUMMY_428" foreground="true" id="search" />
+    </UrbanAirshipActionButtonGroup>
+    <UrbanAirshipActionButtonGroup id="ua_book">
+        <UrbanAirshipActionButton label="@string/2131757312" icon="@drawable/APKTOOL_DUMMY_41b" foreground="true" id="book" />
+    </UrbanAirshipActionButtonGroup>
+</resouces>

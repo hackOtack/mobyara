@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" padding="16.0dip" clickable="true" layout_width="fill_parent" layout_height="wrap_content" onClick="onRecoveryAccountClicked"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView id="@id/2131298489" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_74" tint="?APKTOOL_DUMMY_c9" layout_alignParentLeft="true" layout_centerVertical="true" />
+    <LinearLayout orientation="vertical" id="@id/2131298491" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131298489" layout_alignParentTop="true">
+        <LinearLayout orientation="horizontal" id="@id/2131298501" layout_width="wrap_content" layout_height="wrap_content">
+            <TextView textAppearance="@style/2131820754" id="@id/2131298500" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="5.0dip" text="User ID:" />
+            <TextView textAppearance="@style/2131820754" id="@id/2131298502" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="5.0dip" />
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@id/2131298492" layout_width="wrap_content" layout_height="wrap_content" layout_toRightOf="@id/2131298489" layout_alignParentTop="true" layout_alignParentRight="true" />
+    </LinearLayout>
+    <RadioButton id="@id/2131296266" clickable="false" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentTop="true" layout_alignParentRight="true" layout_centerVertical="true" />
+</RelativeLayout>

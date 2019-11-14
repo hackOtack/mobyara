@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView id="@id/2131298606" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="4.0dip" layout_marginRight="4.0dip" 2130968673="@color/2131100004" style="@style/2131820827" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout layout_width="fill_parent" layout_height="wrap_content">
+        <ImageButton id="@id/2131297194" background="#ffffffff" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/APKTOOL_DUMMY_1d6" layout_alignTop="@id/2131298608" layout_alignBottom="@id/2131298608" layout_alignParentRight="true" onClick="onTabThreeClicked" contentDescription="Key Location Edit Image Button" />
+        <TextView textAppearance="@style/2131820756" textColor="#ffef5621" id="@id/2131298608" layout_width="fill_parent" layout_height="wrap_content" text="Key Location" layout_toLeftOf="@id/2131297194" />
+        <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131298607" layout_width="fill_parent" layout_height="wrap_content" layout_marginTop="16.0dip" layout_below="@id/2131298608" contentDescription="Key Location Text" />
+        <Spinner id="@id/2131297758" layout_width="fill_parent" layout_height="wrap_content" layout_below="@id/2131298607" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

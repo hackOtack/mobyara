@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296386" padding="16.0dip" layout_height="wrap_content" style="@style/2131820886"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" layout="@layout/2131427678" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip">
+        <TextView textAppearance="@style/2131820838" id="@id/2131296388" visibility="visible" layout_width="wrap_content" layout_height="wrap_content" text="Enter Your Information" />
+        <TextView textAppearance="@style/2131820838" id="@id/2131298040" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Looks like your account isn't set up." />
+        <TextView textAppearance="@style/2131820756" id="@id/2131298297" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" text="Please enter your information." />
+    </LinearLayout>
+    <TextView textAppearance="@style/2131820754" id="@id/2131296410" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Policy Number" />
+    <EditText id="@id/2131296411" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="8.0dip" singleLine="true" maxLength="10" inputType="number" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296409" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="16.0dip" text="Where can I find it?" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296383" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Date of Birth" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.framework.AceDateOfBirth id="@id/2131296384" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" />
+    <TextView textAppearance="@style/2131820754" id="@id/2131296427" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Mailing Zip Code" />
+    <EditText id="@id/2131296428" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" hint="5 digits" singleLine="true" maxLength="5" inputType="number" />
+    <LinearLayout orientation="vertical" id="@id/2131298791" visibility="gone" layout_height="wrap_content" style="@style/2131820886">
+        <TextView textAppearance="@style/2131820838" id="@id/2131298789" layout_width="wrap_content" layout_height="wrap_content" text="We found your policy!" />
+        <TextView textAppearance="@style/2131820997" id="@id/2131298792" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="For your security, enter the last 4 digits of your SSN:" />
+        <TextView textAppearance="@style/2131820754" id="@id/2131296422" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="8.0dip" text="Social Security # (last 4 digits only)" />
+        <EditText id="@id/2131296423" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="16.0dip" singleLine="true" maxLength="4" inputType="numberPassword" />
+    </LinearLayout>
+    <LinearLayout style="@style/2131820885">
+        <Button id="@id/2131296385" layout_width="0.0dip" layout_height="wrap_content" text="Continue" layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

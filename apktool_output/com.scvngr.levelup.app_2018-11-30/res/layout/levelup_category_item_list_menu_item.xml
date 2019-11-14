@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/levelup_order_ahead_menu_item_layout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/levelup_category_item_list_menu_item_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/levelup_order_ahead_menu_item_title" />
+    <TextView android:gravity="end" android:id="@id/levelup_category_item_list_menu_item_price" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/levelup_order_ahead_menu_item_price" />
+</LinearLayout>

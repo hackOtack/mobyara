@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/levelup_item_order_click" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/levelup_navigation_item" />
+    <android.support.constraint.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/CardContent" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <TextView android:id="@id/levelup_item_order_quantity" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintStart_toStartOf="parent" style="@style/Body2Gray1" />
+        <TextView android:ellipsize="end" android:id="@id/levelup_item_order_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin2" android:layout_marginRight="@dimen/margin2" android:maxLines="1" android:layout_marginStart="@dimen/margin2" android:layout_marginEnd="@dimen/margin2" app:layout_constraintEnd_toStartOf="@id/levelup_item_order_price" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toEndOf="@id/levelup_item_order_quantity" style="@style/Body2Gray1" />
+        <TextView android:ellipsize="end" android:id="@id/levelup_item_order_subtitle" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/margin2" android:layout_marginTop="@dimen/margin1" android:layout_marginRight="@dimen/margin2" android:maxLines="2" android:layout_marginStart="@dimen/margin2" android:layout_marginEnd="@dimen/margin2" app:layout_constraintEnd_toStartOf="@id/levelup_item_order_price" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toEndOf="@id/levelup_item_order_quantity" app:layout_constraintTop_toBottomOf="@id/levelup_item_order_title" style="@style/Body1Gray4" />
+        <TextView android:id="@id/levelup_item_order_price" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintEnd_toEndOf="parent" style="@style/SubheadingGray1" />
+    </android.support.constraint.ConstraintLayout>
+</FrameLayout>

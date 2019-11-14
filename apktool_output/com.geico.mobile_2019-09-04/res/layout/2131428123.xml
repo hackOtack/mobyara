@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout clickable="true" layout_width="fill_parent" layout_height="wrap_content" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="@dimen/2131165578" foreground="?android:selectableItemBackground" minWidth="@dimen/2131165330" 2130968673="@color/2131100004" 2130968675="@dimen/2131165286" 2130968678="true">
+        <RelativeLayout background="#ffffffff" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_centerInParent="true">
+            <ImageView gravity="center_vertical" id="@id/2131298505" layout_width="wrap_content" layout_height="wrap_content" layout_margin="16.0dip" tint="#ff154995" layout_alignParentLeft="true" />
+            <LinearLayout gravity="center_vertical" orientation="vertical" id="@id/2131298514" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="8.0dip" layout_toRightOf="@id/2131298505">
+                <TextView textAppearance="@style/2131820994" textColor="#ff000000" id="@id/2131298509" layout_width="fill_parent" layout_height="wrap_content" />
+                <TextView textAppearance="@style/2131820754" id="@id/2131298510" layout_width="fill_parent" layout_height="wrap_content" />
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

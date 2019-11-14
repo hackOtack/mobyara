@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item state_enabled="false" drawable="@drawable/2131231709" />
+    <item state_enabled="true" state_pressed="true" drawable="@drawable/2131231712" />
+    <item state_focused="true" state_enabled="true" drawable="@drawable/2131231711" />
+    <item state_enabled="true" drawable="@drawable/2131231176" />
+</selector>

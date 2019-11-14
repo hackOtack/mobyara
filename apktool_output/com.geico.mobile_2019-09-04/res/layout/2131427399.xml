@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow id="@id/2131297825" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView textAppearance="@style/2131820756" id="@id/2131297002" layout_width="0.0dip" layout_height="wrap_content" layout_column="1" layout_weight="0.4" />
+    <TextView textAppearance="@style/2131820756" id="@id/2131297622" layout_width="0.0dip" layout_height="wrap_content" layout_column="2" layout_weight="0.6" layout_marginStart="8.0dip" />
+</TableRow>

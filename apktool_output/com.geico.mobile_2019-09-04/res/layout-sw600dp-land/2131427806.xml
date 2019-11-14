@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout orientation="horizontal" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout layout_gravity="center" layout_width="fill_parent" layout_height="fill_parent" layout_weight="90.0">
+        <include layout_width="fill_parent" layout_height="fill_parent" layout="@layout/2131427808" />
+    </FrameLayout>
+    <include id="@id/2131297654" layout="@layout/2131427836" />
+</com.geico.mobile.android.ace.geicoAppPresentation.framework.AceLinearLayout>

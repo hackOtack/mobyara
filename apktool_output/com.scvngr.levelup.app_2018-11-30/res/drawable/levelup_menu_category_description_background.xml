@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="@dimen/levelup_order_ahead_category_item_description_border" android:color="@color/levelup_order_ahead_category_item_description_background_border" />
+            <solid android:color="@color/levelup_order_ahead_category_item_description_background" />
+        </shape>
+    </item>
+    <item android:top="@dimen/levelup_order_ahead_category_item_description_border" android:bottom="@dimen/levelup_order_ahead_category_item_description_border">
+        <shape android:shape="rectangle">
+            <stroke android:width="@dimen/levelup_order_ahead_category_item_description_border" android:color="@color/levelup_order_ahead_category_item_description_background" />
+        </shape>
+    </item>
+</layer-list>

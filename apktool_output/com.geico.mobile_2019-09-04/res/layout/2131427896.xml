@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout layout_gravity="center" orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView text="What possessions does renters insurance cover?" style="@style/2131820882" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Clothing" style="@style/2131820773" />
+        <TextView text="Furniture" style="@style/2131820773" />
+        <TextView text="A television or entertainment system" style="@style/2131820773" />
+        <TextView text="A computer" style="@style/2131820773" />
+    </LinearLayout>
+    <TextView text="What else am I protected from?" style="@style/2131820882" />
+    <TextView text="Some policies may include coverage for losses from:" style="@style/2131820881" />
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content" layout_marginStart="@dimen/2131165336">
+        <TextView text="Fire or Lightning" style="@style/2131820761" />
+        <TextView text="Windstorm" style="@style/2131820761" />
+        <TextView text="Vandalism or Theft" style="@style/2131820761" />
+    </LinearLayout>
+</LinearLayout>

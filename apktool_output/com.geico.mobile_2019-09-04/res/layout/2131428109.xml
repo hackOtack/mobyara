@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297311" layout_width="wrap_content" layout_height="wrap_content">
+        <include layout="@layout/2131427678" />
+    </LinearLayout>
+    <include id="@id/2131298372" layout="@layout/2131428108" />
+    <android.support.v7.widget.CardView layout_width="fill_parent" layout_height="wrap_content" foreground="?android:selectableItemBackground" 2130968675="@dimen/2131165286" 2130968678="true" xmlns:card_view="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content">
+            <LinearLayout gravity="center_horizontal" orientation="vertical" id="@id/2131296922" background="#ffffffff" layout_width="fill_parent" layout_height="wrap_content">
+                <TextView id="@id/2131296994" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" style="@style/2131820873" />
+                <FrameLayout layout_width="fill_parent" layout_height="185.0dip" layout_marginBottom="2.0dip" layout_alignParentLeft="true" layout_alignParentBottom="true">
+                    <LinearLayout orientation="vertical" id="@id/2131298371" layout_width="fill_parent" layout_height="fill_parent" />
+                </FrameLayout>
+                <TextView textAppearance="@style/2131820756" id="@id/2131297174" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" />
+                <TextView textAppearance="@style/2131820756" id="@id/2131297175" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="@dimen/2131165265" layout_marginTop="10.0dip" layout_marginRight="5.0dip" layout_marginBottom="10.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <Button layout_gravity="right" id="@id/2131298373" layout_width="wrap_content" layout_height="wrap_content" text="Postpone Payment" onClick="onPostponePaymentButtonClicked" style="@style/2131820937" />
+</LinearLayout>

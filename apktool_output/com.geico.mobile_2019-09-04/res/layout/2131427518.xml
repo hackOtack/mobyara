@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout theme="@style/2131820933" gravity="center_vertical" orientation="horizontal" id="@id/2131296970" background="@drawable/2131231749" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/2131427513" />
+    <LinearLayout orientation="vertical" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="16.0dip">
+        <include layout="@layout/2131427516" />
+        <include layout="@layout/2131427514" />
+        <include layout="@layout/2131427511" />
+        <include layout="@layout/2131427512" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="vertical" id="@id/2131297122" layout_width="fill_parent" layout_height="wrap_content" style="@style/2131820889">
+            <TextView id="@id/2131297123" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginTop="5.0dip" text="Policy Term" style="@style/2131820877" />
+            <LinearLayout orientation="horizontal" id="@id/2131297125" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginTop="5.0dip">
+                <Spinner id="@id/2131297124" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="5.0dip" layout_weight="0.6" />
+                <com.geico.mobile.android.ace.geicoAppPresentation.scrollableView.AceScrollableExpandableListView orientation="vertical" id="@id/2131297126" layout_width="fill_parent" layout_height="wrap_content" groupIndicator="@null" childDivider="#00000000" divider="#00000000" layout_weight="0.4" />
+            </LinearLayout>
+        </LinearLayout>
+        <include layout="@layout/2131427968" />
+    </LinearLayout>
+</ScrollView>

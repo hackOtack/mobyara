@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button id="@id/2131297841" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="10.0dip" text="Log In" onClick="onLogInClicked" />
+    <Button id="@id/2131298849" layout_width="fill_parent" layout_height="wrap_content" text="Still can't remember?" onClick="onStillCantRememberClicked" style="@style/2131820980" />
+</LinearLayout>

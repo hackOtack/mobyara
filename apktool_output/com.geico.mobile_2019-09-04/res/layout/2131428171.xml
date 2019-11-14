@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131298664" descendantFocusability="blocksDescendants" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131298660" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <android.support.v4.widget.Space layout_width="fill_parent" layout_height="16.0dip" />
+        <TextView textStyle="bold" id="@id/2131298661" layout_width="fill_parent" layout_height="wrap_content" text="The following ID cards are saved on this device and may not reflect changes to your policy." />
+        <android.support.v4.widget.Space layout_width="fill_parent" layout_height="16.0dip" />
+        <RelativeLayout id="@id/2131298663" layout_width="fill_parent" layout_height="wrap_content" layout_marginRight="16.0dip">
+            <Button id="@id/2131297844" layout_width="wrap_content" layout_height="wrap_content" text="Log in" layout_alignParentRight="true" onClick="onLoginClicked" />
+        </RelativeLayout>
+        <android.support.v4.widget.Space layout_width="fill_parent" layout_height="16.0dip" />
+    </LinearLayout>
+    <LinearLayout orientation="horizontal" id="@id/2131298666" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textStyle="bold" layout_gravity="center_vertical" id="@id/2131298353" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" style="@style/2131820994" />
+    </LinearLayout>
+    <LinearLayout orientation="vertical" id="@id/2131298665" visibility="gone" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textStyle="bold" layout_gravity="center_vertical" id="@id/2131299180" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" />
+    </LinearLayout>
+    <View id="@id/2131297113" background="#ffbab4ab" layout_width="fill_parent" layout_height="0.5dip" />
+</LinearLayout>

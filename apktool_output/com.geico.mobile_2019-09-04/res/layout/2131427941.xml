@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" id="@id/2131296564" layout_width="fill_parent" layout_height="wrap_content" xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.constraint.ConstraintLayout background="@drawable/2131230879" layout_width="fill_parent" layout_height="wrap_content" layout_marginLeft="20.0dip" layout_marginRight="20.0dip" layout_marginBottom="20.0dip">
+        <ImageView id="@id/2131296718" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="@dimen/2131165336" src="@drawable/APKTOOL_DUMMY_174" layout_marginStart="@dimen/2131165336" 2130968858="2131298157" 2130968861="2131298157" />
+        <TextView textSize="20.0sp" gravity="center_vertical" layout_width="wrap_content" layout_height="wrap_content" text="Payment accepted." layout_marginStart="@dimen/2131165336" 2130968833="@id/2131296718" 2130968857="@id/2131296718" 2130968861="@id/2131296718" style="@style/2131820838" />
+        <TextView textStyle="bold" id="@id/2131296818" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16.0dip" text="Confirmation #:" layout_marginStart="5.0dip" 2130968858="2131298157" 2130968860="@id/2131296718" style="@style/2131820875" />
+        <TextView id="@id/2131296819" layout_width="0.0dip" layout_height="wrap_content" layout_marginStart="5.0dip" layout_marginEnd="5.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131296818" style="@style/2131820834" />
+        <TextView textStyle="bold" id="@id/2131296501" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Amount:" layout_marginStart="12.0dip" layout_marginEnd="12.0dip" 2130968840="@id/2131296502" 2130968858="2131298157" 2130968860="@id/2131296819" style="@style/2131820875" />
+        <TextView gravity="end" id="@id/2131296502" layout_width="0.0dip" layout_height="wrap_content" layout_marginEnd="12.0dip" 2130968839="2131298157" 2130968857="@id/2131296501" 2130968861="@id/2131296501" style="@style/2131820875" />
+        <View gravity="top" id="@id/2131296500" background="#ffbab4ab" layout_width="0.0dip" layout_height="1.0dip" layout_marginTop="12.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131296501" />
+        <TextView textStyle="bold" id="@id/2131296998" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Date:" layout_marginStart="12.0dip" layout_marginEnd="12.0dip" 2130968840="@id/2131296999" 2130968858="2131298157" 2130968860="@id/2131296500" style="@style/2131820875" />
+        <TextView gravity="end" id="@id/2131296999" layout_width="0.0dip" layout_height="wrap_content" layout_marginEnd="12.0dip" 2130968839="2131298157" 2130968857="@id/2131296998" 2130968861="@id/2131296998" style="@style/2131820875" />
+        <View gravity="top" id="@id/2131296997" background="#ffbab4ab" layout_width="0.0dip" layout_height="1.0dip" layout_marginTop="12.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131296998" />
+        <TextView textStyle="bold" id="@id/2131297987" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Account Holder:" layout_marginStart="12.0dip" layout_marginEnd="12.0dip" 2130968840="@id/2131297988" 2130968858="2131298157" 2130968860="@id/2131296997" style="@style/2131820875" />
+        <TextView gravity="end" id="@id/2131297988" layout_width="0.0dip" layout_height="wrap_content" layout_marginEnd="12.0dip" 2130968839="2131298157" 2130968857="@id/2131297987" 2130968861="@id/2131297987" style="@style/2131820875" />
+        <View gravity="top" id="@id/2131297986" background="#ffbab4ab" layout_width="0.0dip" layout_height="1.0dip" layout_marginTop="12.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131297988" />
+        <TextView textStyle="bold" id="@id/2131298079" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="12.0dip" text="Account No:" layout_marginStart="12.0dip" layout_marginEnd="12.0dip" 2130968840="@id/2131298082" 2130968858="2131298157" 2130968860="@id/2131297986" style="@style/2131820875" />
+        <TextView gravity="end" id="@id/2131298082" layout_width="0.0dip" layout_height="wrap_content" layout_marginEnd="12.0dip" 2130968839="2131298157" 2130968857="@id/2131298079" 2130968861="@id/2131298079" style="@style/2131820875" />
+        <View gravity="top" id="@id/2131298078" background="#ffbab4ab" layout_width="0.0dip" layout_height="1.0dip" layout_marginTop="12.0dip" 2130968839="2131298157" 2130968858="2131298157" 2130968860="@id/2131298079" />
+    </android.support.constraint.ConstraintLayout>
+    <TextView textStyle="bold" id="@id/2131299103" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="If you wish to update your Automatic Payment Information, please click below." style="@style/2131820875" />
+    <TextView textStyle="bold" id="@id/2131297284" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="If you wish to enroll in Automatic Payments, please click below." style="@style/2131820875" />
+    <Button id="@id/2131299102" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" text="Update Automatic Payment" style="@style/2131820938" />
+    <Button id="@id/2131297286" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Enroll in Autopay" onClick="onEnrollAutoPayClicked" style="@style/2131820938" />
+    <TextView textColor="#ff000000" id="@id/2131298069" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Notification Settings" textAllCaps="true" />
+    <LinearLayout orientation="vertical" background="@drawable/2131230879" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131298841" layout_width="wrap_content" layout_height="wrap_content" text="Stay connected with GEICO by signing up for text message alerts!" />
+    </LinearLayout>
+    <Button id="@id/2131297291" padding="16.0dip" visibility="gone" layout_width="fill_parent" layout_height="wrap_content" text="Enroll In Text Alerts" onClick="onEnrollInTextAlertsButtonClicked" style="@style/2131820938" />
+    <TextView textColor="#ff000000" padding="16.0dip" layout_width="wrap_content" layout_height="wrap_content" text="Details" textAllCaps="true" />
+    <LinearLayout orientation="vertical" background="@drawable/2131230879" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content">
+        <TextView textColor="#ff000000" id="@id/2131298966" layout_width="wrap_content" layout_height="wrap_content" text="An email confirmation has been sent to" />
+        <TextView textColor="#ff000000" id="@id/2131299317" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131757643" />
+    </LinearLayout>
+    <Button id="@id/2131296565" padding="16.0dip" layout_width="fill_parent" layout_height="wrap_content" layout_marginBottom="32.0dip" text="Return Home" onClick="onPolicyDashboardButtonClicked" style="@style/2131820938" />
+</LinearLayout>

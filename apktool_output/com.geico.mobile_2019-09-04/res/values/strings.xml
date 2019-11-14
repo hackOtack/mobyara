@@ -1,0 +1,2733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="2131755010">false</string>
+    <string name="2131755013">A PO Box number is required.</string>
+    <string name="2131755015">true</string>
+    <string name="2131755016">true</string>
+    <string name="2131755017">Please tell us how many flat tires you have.</string>
+    <string name="2131755018">Take Me to My Quote</string>
+    <string name="2131755020">Cancel</string>
+    <string name="2131755021">Continue</string>
+    <string name="2131755022">This application requires the latest version of ARCore.</string>
+    <string name="2131755023">This feature requires the latest version of ARCore.</string>
+    <string name="2131755024">Installing ARCore…</string>
+    <string name="2131755026">a driver</string>
+    <string name="2131755027">A GEICO Representative will assist you with your towing options when they call to confirm your request.</string>
+    <string name="2131755028">Navigate home</string>
+    <string name="2131755029">Navigate up</string>
+    <string name="2131755030">More options</string>
+    <string name="2131755031">Done</string>
+    <string name="2131755032">See all</string>
+    <string name="2131755033">Choose an app</string>
+    <string name="2131755034">OFF</string>
+    <string name="2131755035">ON</string>
+    <string name="2131755036">sans-serif</string>
+    <string name="2131755037">sans-serif-medium</string>
+    <string name="2131755038">sans-serif-medium</string>
+    <string name="2131755039">sans-serif</string>
+    <string name="2131755040">sans-serif</string>
+    <string name="2131755041">sans-serif</string>
+    <string name="2131755042">sans-serif</string>
+    <string name="2131755043">sans-serif-light</string>
+    <string name="2131755044">sans-serif</string>
+    <string name="2131755045">sans-serif</string>
+    <string name="2131755046">sans-serif</string>
+    <string name="2131755047">sans-serif-medium</string>
+    <string name="2131755048">Search…</string>
+    <string name="2131755049">Clear query</string>
+    <string name="2131755050">Search query</string>
+    <string name="2131755051">Search</string>
+    <string name="2131755052">Submit query</string>
+    <string name="2131755053">Voice search</string>
+    <string name="2131755054">Share with</string>
+    <string name="2131755055">Share with %s</string>
+    <string name="2131755056">Collapse</string>
+    <string name="2131755060">Access them any time in the app.</string>
+    <string name="2131755063">Account Info</string>
+    <string name="2131755068">Continue</string>
+    <string name="2131755069">help</string>
+    <string name="2131755070">Settings</string>
+    <string name="2131755072">Make This Driver Active</string>
+    <string name="2131755075">Add</string>
+    <string name="2131755076">Add Additional Photos</string>
+    <string name="2131755079">Add New Payment Method</string>
+    <string name="2131755081">Add to Contacts</string>
+    <string name="2131755083">Additional</string>
+    <string name="2131755085">y</string>
+    <string name="2131755086">Address copied</string>
+    <string name="2131755087">For any questions please contact:</string>
+    <string name="2131755091">Alert</string>
+    <string name="2131755092">"Align Driver's License Barcode within the rectangular scan area and hold steady."</string>
+    <string name="2131755093">Align VIN barcode within the rectangular scan area and hold your device steady.</string>
+    <string name="2131755105">An analyst is reviewing your response for possible improvements to our Mobile App Experience.</string>
+    <string name="2131755109">an operator</string>
+    <string name="2131755110">Normal Animation</string>
+    <string name="2131755111">Answers to security questions cannot contain special characters.</string>
+    <string name="2131755112">Please enter a valid answer for question #1.</string>
+    <string name="2131755113">Please enter a valid answer for question #2.</string>
+    <string name="2131755116">App Exclusive</string>
+    <string name="2131755117">GEICO Mobile</string>
+    <string name="2131755120">Got It</string>
+    <string name="2131755121">Enable Location</string>
+    <string name="2131755128">Library</string>
+    <string name="2131755129">app_name</string>
+    <string name="2131755130">auth</string>
+    <string name="2131755131">Applications</string>
+    <string name="2131755132">1.0</string>
+    <string name="2131755133">app_version</string>
+    <string name="2131755134">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="2131755139">Are you sure?</string>
+    <string name="2131755141">Ask Kate</string>
+    <string name="2131755142">Attention</string>
+    <string name="2131755143">ATTENTION</string>
+    <string name="2131755144">ATV</string>
+    <string name="2131755145">ATV Insurance</string>
+    <string name="2131755148">Auto</string>
+    <string name="2131755149">Collector Auto</string>
+    <string name="2131755150">Auto Insurance</string>
+    <string name="2131755151">Auto Policy</string>
+    <string name="2131755152">"New Customer
+Auto Quote"</string>
+    <string name="2131755154">Please note this is a <b>one time change</b>". Future payment dates have not been changed. "</string>
+    <string name="2131755162">If you leave this page all the information entered so far will be lost.</string>
+    <string name="2131755163">Are you sure you want to exit?</string>
+    <string name="2131755164" />
+    <string name="2131755166">Based On Your Recent Policy Changes</string>
+    <string name="2131755168">View Billing</string>
+    <string name="2131755169">%1$s: %2$s</string>
+    <string name="2131755172">Billing Representative</string>
+    <string name="2131755173">Billing Schedule</string>
+    <string name="2131755174">Billing Summary</string>
+    <string name="2131755175">Please verify date of birth. The date cannot be in the future.</string>
+    <string name="2131755176">Please enter a valid date of birth.</string>
+    <string name="2131755177">Day is missing a valid value.</string>
+    <string name="2131755178">Year in date of birth is missing a value.</string>
+    <string name="2131755179">Date of birth is required.</string>
+    <string name="2131755180">"Please verify date of birth. The year must be 4 numeric digits that begin with a '19' or '20'."</string>
+    <string name="2131755181">Photo taken is blurry, would you like to retake?</string>
+    <string name="2131755182">Boat</string>
+    <string name="2131755183">Boat Insurance</string>
+    <string name="2131755185">CPE</string>
+    <string name="2131755186">HB</string>
+    <string name="2131755187">SED</string>
+    <string name="2131755188">UTV</string>
+    <string name="2131755189">PU</string>
+    <string name="2131755190">SHO</string>
+    <string name="2131755191">LNG</string>
+    <string name="2131755192">VAN</string>
+    <string name="2131755193">WGN</string>
+    <string name="2131755194">fonts/bold.otf</string>
+    <string name="2131755196">Book Parking</string>
+    <string name="2131755197">Book a Ride</string>
+    <string name="2131755199">Bookmarks</string>
+    <string name="2131755200">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="2131755203">Bring Home the Savings!</string>
+    <string name="2131755206">Business Owners</string>
+    <string name="2131755207">Add to calendar</string>
+    <string name="2131755208">Add contact</string>
+    <string name="2131755209">Book Search</string>
+    <string name="2131755210">Cancel</string>
+    <string name="2131755211">Custom search</string>
+    <string name="2131755212">Dial number</string>
+    <string name="2131755213">Send email</string>
+    <string name="2131755214">Get directions</string>
+    <string name="2131755215">Send MMS</string>
+    <string name="2131755216">OK</string>
+    <string name="2131755217">Open browser</string>
+    <string name="2131755218">Product search</string>
+    <string name="2131755219">Search contents</string>
+    <string name="2131755220">Application</string>
+    <string name="2131755221">Bookmark</string>
+    <string name="2131755222">Share via email</string>
+    <string name="2131755223">Share via SMS</string>
+    <string name="2131755224">Clipboard</string>
+    <string name="2131755225">Contact</string>
+    <string name="2131755226">Show map</string>
+    <string name="2131755227">Send SMS</string>
+    <string name="2131755228">Web search</string>
+    <string name="2131755229">Connect to Network</string>
+    <string name="2131755230">By Phone</string>
+    <string name="2131755231">Call</string>
+    <string name="2131755233">CALL GEICO ROADSIDE ASSISTANCE</string>
+    <string name="2131755234">CALL NOW</string>
+    <string name="2131755235">Call To Make Changes</string>
+    <string name="2131755236">To make changes, please call us at 1-877-206-0215.</string>
+    <string name="2131755238">Call Towing</string>
+    <string name="2131755239">Camera</string>
+    <string name="2131755240">GEICO Mobile would like to access your camera to take and upload photos.</string>
+    <string name="2131755244">Access to your camera and location is needed in order to take pictures of your vehicle.</string>
+    <string name="2131755245">Camera and Location permissions needed.</string>
+    <string name="2131755246">Access to your camera is needed in order to take pictures of your vehicle.</string>
+    <string name="2131755247">Camera permission needed.</string>
+    <string name="2131755251">Cancel</string>
+    <string name="2131755252">Cancel a Payment</string>
+    <string name="2131755254">Cancel or Make a Payment</string>
+    <string name="2131755255">Cancel Payment</string>
+    <string name="2131755256">Cancel, Postpone, or Make a Payment</string>
+    <string name="2131755258">"Effective: %s
+Cancelled"</string>
+    <string name="2131755259">Cancelled: %s</string>
+    <string name="2131755261">Car</string>
+    <string name="2131755262">Car Buying Service</string>
+    <string name="2131755270">Cash Only</string>
+    <string name="2131755271">Some gas stations offer lower prices to customers who pay with cash. Only enable this feature if you want to pay with cash.</string>
+    <string name="2131755273">tel:(800)841-3000</string>
+    <string name="2131755274">apict.mycccportal.com</string>
+    <string name="2131755275" />
+    <string name="2131755276">https</string>
+    <string name="2131755277">v1</string>
+    <string name="2131755278">apidev.aws.mycccportal.com</string>
+    <string name="2131755279" />
+    <string name="2131755280">https</string>
+    <string name="2131755281">v1</string>
+    <string name="2131755282">apiint.aws.mycccportal.com</string>
+    <string name="2131755283" />
+    <string name="2131755284">https</string>
+    <string name="2131755285">v1</string>
+    <string name="2131755286">api.mycccportal.com</string>
+    <string name="2131755287" />
+    <string name="2131755288">https</string>
+    <string name="2131755289">v1</string>
+    <string name="2131755290">apiqa.aws.mycccportal.com</string>
+    <string name="2131755291" />
+    <string name="2131755292">https</string>
+    <string name="2131755293">v1</string>
+    <string name="2131755297">Change Mailing Address</string>
+    <string name="2131755298">"GEICO Mobile doesn't have permission to send you notifications. Please change your notification settings."</string>
+    <string name="2131755303">%1$d / %2$d</string>
+    <string name="2131755304">%1$d Characters Left</string>
+    <string name="2131755305">%1$d</string>
+    <string name="2131755307">" "<i>Type your question here</i>" "</string>
+    <string name="2131755308"><i>Type here and send when your agent joins</i></string>
+    <string name="2131755309">End Chat</string>
+    <string name="2131755310">If you end this chat, this conversation will not be saved.</string>
+    <string name="2131755311">Chat is unavailable at this time.</string>
+    <string name="2131755314">Message failure, please resend</string>
+    <string name="2131755318">Check My Claim</string>
+    <string name="2131755323">Choose a New Photo</string>
+    <string name="2131755324">Choose a Policy</string>
+    <string name="2131755328">Choose class</string>
+    <string name="2131755336">Choose Tow Destination</string>
+    <string name="2131755339">Choose Your Vehicle</string>
+    <string name="2131755340">Choose Your Vehicle Color</string>
+    <string name="2131755342">City is required.</string>
+    <string name="2131755345">Claim Assistance</string>
+    <string name="2131755346">Appointment</string>
+    <string name="2131755349">Rental</string>
+    <string name="2131755350">Repairs</string>
+    <string name="2131755352">Documents</string>
+    <string name="2131755354">Injury Info</string>
+    <string name="2131755355">Claim number is required.</string>
+    <string name="2131755356">Please enter a valid 16-digit claim number.</string>
+    <string name="2131755357">Payments</string>
+    <string name="2131755358">Personal Info</string>
+    <string name="2131755359">Service Choice</string>
+    <string name="2131755360">Summary</string>
+    <string name="2131755361">Claims Team</string>
+    <string name="2131755362">Claim Number</string>
+    <string name="2131755363">Claim Number</string>
+    <string name="2131755364">Please enter a valid first name.</string>
+    <string name="2131755365">Please enter a valid last name.</string>
+    <string name="2131755367">Your Claims</string>
+    <string name="2131755372">Claims Representative</string>
+    <string name="2131755374">client_version</string>
+    <string name="2131755375">CLOSE</string>
+    <string name="2131755379">AUTH-102</string>
+    <string name="com.crashlytics.android.build_id">742b4383-9699-420a-ba60-8ff102d86a2e</string>
+    <string name="2131755382">Combined TTL(1 - 30)</string>
+    <string name="2131755385">Commercial Auto</string>
+    <string name="2131755386">Enable</string>
+    <string name="2131755387">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="2131755388">Enable Google Play services</string>
+    <string name="2131755389">Install</string>
+    <string name="2131755390">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="2131755391">Get Google Play services</string>
+    <string name="2131755392">Google Play services availability</string>
+    <string name="2131755393">Google Play services error</string>
+    <string name="2131755394">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="2131755395">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="2131755396">Update</string>
+    <string name="2131755397">"%1$s won't run unless you update Google Play services."</string>
+    <string name="2131755398">Update Google Play services</string>
+    <string name="2131755399">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="2131755400">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="2131755401">Open on phone</string>
+    <string name="2131755402">Sign in</string>
+    <string name="2131755403">Sign in with Google</string>
+    <string name="2131755404">Company Name</string>
+    <string name="2131755405">Company Code</string>
+    <string name="2131755406">To maintain your current coverages, you must sign eForms now.</string>
+    <string name="2131755408">Complete Forms</string>
+    <string name="2131755409">Condo/Co-Op</string>
+    <string name="2131755410">estimate_key</string>
+    <string name="2131755411">image_collection_key</string>
+    <string name="2131755412">defaultDBName</string>
+    <string name="2131755413">defaultDBPassphrase</string>
+    <string name="2131755417">Confirm Vehicle</string>
+    <string name="2131755418">Congrats on Going Green</string>
+    <string name="2131755420">No Internet Connection Detected</string>
+    <string name="2131755428">Contact Us</string>
+    <string name="2131755429">Contact info</string>
+    <string name="2131755430">Email address</string>
+    <string name="2131755431">Geographic coordinates</string>
+    <string name="2131755432">Phone number</string>
+    <string name="2131755433">SMS address</string>
+    <string name="2131755434">Plain text</string>
+    <string name="2131755435">/{app}/{version}</string>
+    <string name="2131755436">/{version}/{app}</string>
+    <string name="2131755437">Continue</string>
+    <string name="2131755441">Continue Without Damages</string>
+    <string name="2131755442">Continue</string>
+    <string name="2131755443">Conversations</string>
+    <string name="2131755447">Coverage</string>
+    <string name="2131755449">Coverage</string>
+    <string name="2131755452">Coverage information is not available at this time, please try again later.</string>
+    <string name="2131755456">Create New File</string>
+    <string name="2131755460">Credit Card</string>
+    <string name="2131755465"><i>Current Password</i></string>
+    <string name="2131755467">Current Password is a required field.</string>
+    <string name="2131755476">Cycle</string>
+    <string name="2131755477">Cycle Policy</string>
+    <string name="2131755480">Welcome %s</string>
+    <string name="2131755484">Date of Birth</string>
+    <string name="2131755486">MMM dd, yyyy HH:mm:ss</string>
+    <string name="2131755496">/logon</string>
+    <string name="2131755500">Delete</string>
+    <string name="2131755501">An email address cannot be deleted unless it is replaced.</string>
+    <string name="2131755502">Deny</string>
+    <string name="2131755503" />
+    <string name="2131755504">auth</string>
+    <string name="2131755505">mobile-business-event</string>
+    <string name="2131755506">cccapi</string>
+    <string name="2131755507">config</string>
+    <string name="2131755508">feedback</string>
+    <string name="2131755509">quickest</string>
+    <string name="2131755510">mobileadvance</string>
+    <string name="2131755511">mobsdk</string>
+    <string name="2131755512">notification</string>
+    <string name="2131755513">predictmoi</string>
+    <string name="2131755514">push</string>
+    <string name="2131755515">quickval</string>
+    <string name="2131755516">vehicle</string>
+    <string name="2131755517">Locate the damage on your vehicle. Position yourself head on with the damage as depicted in the example above. Then capture the photo.</string>
+    <string name="2131755518">Position yourself center with the damages as shown in the example above. Then capture the photo.</string>
+    <string name="2131755519">Locate the damage on your vehicle. Position yourself to the left of the damage as shown in the example above. Then capture the photo</string>
+    <string name="2131755520">Position yourself to your left of the damages as shown in the example above. Then capture the photo.</string>
+    <string name="2131755521">Capture a close up of the entire damaged area from the right.</string>
+    <string name="2131755522">Position yourself to your right of the damages as shown in the example above. Then capture the photo.</string>
+    <string name="2131755523">Capture this 6 digit number located behind the steering wheel on the dashboard. Be aware you may need to turn on your car if odometer is electronic.</string>
+    <string name="2131755524">"Capture a photo of the vehicle's mileage located on the dashboard. You may need to turn on your vehicle if odometer is electronic."</string>
+    <string name="2131755525">Position yourself at the appropriate angle and distance so your vehicle fits into the capture area as shown in the example above. Then capture the photo.</string>
+    <string name="2131755526">Fit your vehicle into the outline as shown in the example above. Then capture the photo.</string>
+    <string name="2131755527">Capture the complete VIN. This 17 character code is located inside of the driver side doorjamb or on the driver side interior dash.</string>
+    <string name="2131755528">Scan the barcode located on the driver side door or the interior frame.</string>
+    <string name="2131755529">Destinations</string>
+    <string name="2131755533">We do not currently support your device. Please try again with a mobile phone.</string>
+    <string name="2131755534">device_id</string>
+    <string name="2131755535">device_make</string>
+    <string name="2131755536">device_manufacturer</string>
+    <string name="2131755537">device_model</string>
+    <string name="2131755538">Power saving mode detected and GPS is in a turned off state. Loaction informaiton may be inaccurate without using GPS.</string>
+    <string name="2131755539">Please try again</string>
+    <string name="2131755540">Retake</string>
+    <string name="2131755541">Warning!</string>
+    <string name="2131755542">Invalid VIN!</string>
+    <string name="2131755543">Use Photo</string>
+    <string name="2131755551">Discard</string>
+    <string name="2131755552">"Congratulations! You're saving:"</string>
+    <string name="2131755553">Discounts</string>
+    <string name="2131755554">Discounts &amp; Premium Reductions</string>
+    <string name="2131755555">Discounts information is not available at this time, please try again later.</string>
+    <string name="2131755556">Discover</string>
+    <string name="2131755557">Discover GEICO Explore</string>
+    <string name="2131755558">Dismiss</string>
+    <string name="2131755561">DiVA dialog title goes here</string>
+    <string name="2131755562">DiVA Icon</string>
+    <string name="2131755566">Give me a moment ...</string>
+    <string name="2131755571">Do you want to continue?</string>
+    <string name="2131755572">Do you want to replace the existing %1$s in Download?</string>
+    <string name="2131755580">"DON'T SEE ALL YOUR POLICIES?"</string>
+    <string name="2131755583">Download</string>
+    <string name="2131755585">Download ID Cards</string>
+    <string name="2131755586">Close drawer</string>
+    <string name="2131755587">Open drawer</string>
+    <string name="2131755589">Driver</string>
+    <string name="2131755591">"Driver's license number has been updated."</string>
+    <string name="2131755593">Drivers</string>
+    <string name="2131755594">Drivers</string>
+    <string name="2131755596">Due: %s</string>
+    <string name="2131755597">Due</string>
+    <string name="2131755598">"Due to the vehicle's damages, we'll need to connect you to our Accident Towing unit to help assist you."</string>
+    <string name="2131755599">"Due to the vehicle's damages, you will need to speak with our Accident Tow unit to help assist you. Please call 1-877-609-4703 for further assistance."</string>
+    <string name="2131755600">Edit</string>
+    <string name="2131755605">Edit %s Name</string>
+    <string name="2131755607">Edit Education/Occupation</string>
+    <string name="2131755608">Edit Finance Information</string>
+    <string name="2131755609">Edit ID Card Info</string>
+    <string name="2131755610">Edit License Number</string>
+    <string name="2131755611">Edit Marital Status</string>
+    <string name="2131755613">Edit Photo</string>
+    <string name="2131755616">Edit Social Security Number</string>
+    <string name="2131755618">Edit Vehicle Information</string>
+    <string name="2131755619">Edit Vehicle Photo</string>
+    <string name="2131755620">Edit Vehicle Usage</string>
+    <string name="2131755622">Effective: %1$s - %2$s</string>
+    <string name="2131755624" />
+    <string name="2131755625">http://eligibility.api.{0}.cccis.com:8080/eligibility</string>
+    <string name="2131755626">make</string>
+    <string name="2131755627">model</string>
+    <string name="2131755628">year</string>
+    <string name="2131755629">application</string>
+    <string name="2131755630">bodyTypeCode</string>
+    <string name="2131755631">PA</string>
+    <string name="2131755632">http://eligibility.api.{0}.cccis.com:8080/eligibility</string>
+    <string name="2131755633">vin</string>
+    <string name="2131755636">Email Address is missing a valid value.</string>
+    <string name="2131755638">Email ID Cards</string>
+    <string name="2131755641">Verify the e-mail address. Character(s) such as comma, semi-colon and space are invalid in an e-mail address.</string>
+    <string name="2131755642">Email is temporarily unavailable. Please try again later.</string>
+    <string name="2131755643">"We'll send an email with a link to reset your password to:"</string>
+    <string name="2131755644">Get an Email</string>
+    <string name="2131755645">The emails you entered are not identical. Please re-enter your email address.</string>
+    <string name="2131755649">Email Updated</string>
+    <string name="2131755650" />
+    <string name="2131755653">Emergency Roadside Service</string>
+    <string name="2131755655" />
+    <string name="2131755659">Enable Fingerprint Login</string>
+    <string name="2131755665">Enable Screen Unlock to Log in</string>
+    <string name="2131755669">true</string>
+    <string name="2131755670">true</string>
+    <string name="2131755671">true</string>
+    <string name="2131755675">ENROLL</string>
+    <string name="2131755676">Use your Screen Unlock for faster, easier access to your account for future logins.</string>
+    <string name="2131755677">Your Screen Unlock is currently linked to %1$s; do you wish to link it to %2$s instead?</string>
+    <string name="2131755678">Activate Screen Unlock</string>
+    <string name="2131755679">Enroll in</string>
+    <string name="2131755680">Enroll in Autopay</string>
+    <string name="2131755685">Enroll in Paperless Billing</string>
+    <string name="2131755686">Never lose a paper bill again.</string>
+    <string name="2131755687">Enroll in Paperless Policy</string>
+    <string name="2131755694">Enrolled</string>
+    <string name="2131755698">Enter Destination</string>
+    <string name="2131755702">Enter VIN Manually</string>
+    <string name="2131755703">Please Enter VIN:</string>
+    <string name="2131755704">Choose an environment</string>
+    <string name="2131755705">Error</string>
+    <string name="2131755710">Please enter a vehicle location</string>
+    <string name="2131755711">Emergency Roadside Service is help when you need it the most. Request assistance <b> directly from your GEICO Mobile app </b>" and stay up to date with the progress of your Roadside Service.
+
+\u0009\u0009• 24/7 assistance
+\u0009\u0009• GPS locator 
+\u0009\u0009• Quick response 
+\u0009\u0009• Easy, personalized experience "</string>
+    <string name="2131755712">1-800-424-3426</string>
+    <string name="2131755713"><b>Email:</b>"
+towingrefund@geico.com
+"<b>Fax:</b>"
+1-866-954-3761
+"<b> Address:</b>"
+GEICO Emergency Road Service
+P.O. Box 8075
+Macon, GA. 31208-8075 "</string>
+    <string name="2131755718">Roadside Assistance</string>
+    <string name="2131755722">You have unsigned form(s) that require immediate attention to maintain your current coverages. Please sign your forms now.</string>
+    <string name="2131755723">Estimate.pdf</string>
+    <string name="2131755726">GEICO EULA</string>
+    <string name="2131755729">GEICO Explore</string>
+    <string name="2131755731">Some discounts, coverages, payment plans and features are not available in all states, in all GEICO companies, or in all situations. Boat and PWC coverages are underwritten by GEICO Marine Insurance Company. Commercial auto coverage is underwritten by Government Employees Insurance Company. Business operations and property coverages, and in some cases commercial auto coverage, are provided through GEICO Insurance Agency, Inc., either under an arrangement with Berkshire Hathaway affiliates or with non-affiliated insurers. Homeowners, renters and condo coverages are written through non-affiliated insurance companies and are secured through the GEICO Insurance Agency, Inc. Identity Theft Protection is provided by Generali Global Assistance, Inc. (GGA) and Generali Insurance Company US Branch, and is secured through the GEICO Insurance Agency, Inc. GEICO has no control over the privacy practices of GGA and assumes no responsibility in connection with your use of its website. Any information you provide directly to GGA is subject to the privacy policy posted on the GGA website. Motorcycle and ATV coverages are underwritten by GEICO Indemnity Company. GEICO contracts with various membership entities and other organizations, but these entities do not underwrite the offered insurance products. Discount amount varies in some states. One group discount applicable per policy. Coverage is individual. In New York a premium reduction may be available. GEICO may not be involved in a formal relationship with each organization; however, you still may qualify for a special discount based on your membership, employment or affiliation with those organizations. The GEICO Mobile app and site received #1 rankings according to Dynatrace’s 2018 Q1 Mobile Insurance Scorecard. Customer satisfaction based on an independent study conducted by Alan Newman Research, 2018. GEICO is a registered service mark of Government Employees Insurance Company, Washington, DC 20076; a Berkshire Hathaway Inc. subsidiary. ©2019 GEICO</string>
+    <string name="2131755732">Please <b>be aware of your surroundings</b>" while using GEICO Explore. "</string>
+    <string name="2131755736">" "<b>Do not use the app while driving.</b>" "</string>
+    <string name="2131755738">Explore Game</string>
+    <string name="2131755742">We can also help with umbrella, term life and flood insurance. Identity Theft Protection and travel insurance, too!</string>
+    <string name="2131755743">We can help you cover the full replacement value of your belongings, even if they are left in your vehicle away from home!</string>
+    <string name="2131755744">"GEICO makes everything super easy!
+Easy to switch. Easy to manage. Easy to save."</string>
+    <string name="2131755745">Bundling your home and auto policies is a breeze!</string>
+    <string name="2131755746">We could help you save money on homeowners, renters or condo insurance!</string>
+    <string name="2131755747">"Let’s go!
+There are 5 house keys around you to find."</string>
+    <string name="2131755748">MORE THAN CAR INSURANCE</string>
+    <string name="2131755749">COVERAGE FOR BELONGINGS</string>
+    <string name="2131755750">EASY</string>
+    <string name="2131755751">CONVENIENCE</string>
+    <string name="2131755752">GREAT SAVINGS</string>
+    <string name="2131755753">"-Look for the house keys in all directions (360°)
+-House keys are hidden just around you, so no need to walk around."</string>
+    <string name="2131755755">We can help with home, boat and motorcycle insurance. Identity Theft Protection and business insurance, too!</string>
+    <string name="2131755756">If you’re an alumni or member of the 800+ organizations we partner with, you could get a special discount!</string>
+    <string name="2131755757">"GEICO makes everything super easy!
+Easy to switch. Easy to manage. Easy to save."</string>
+    <string name="2131755758">You can reach our friendly licensed GEICO agents 24/7!</string>
+    <string name="2131755759">We designed the #1 auto insurance app with your convenience in mind!</string>
+    <string name="2131755760">"Let’s go!
+There are 5 presents around you to find."</string>
+    <string name="2131755761">"HAPPY BIRTHDAY!
+Find the gifts!"</string>
+    <string name="2131755762">MORE THAN CAR INSURANCE</string>
+    <string name="2131755763">MEMBER &amp; ALUMNI DISCOUNTS</string>
+    <string name="2131755764">EASY</string>
+    <string name="2131755765">ACCESSIBILITY</string>
+    <string name="2131755766">GEICO MOBILE APP</string>
+    <string name="2131755767">"1) Look for the presents in all directions (360°)
+2) Presents are hidden just around you, so no need to walk around."</string>
+    <string name="2131755768">From Good Driver Discount to Safety Feature Discounts, we’ve got many ways to help you save!</string>
+    <string name="2131755769">"GEICO makes everything super easy!
+Easy to understand. Easy to manage. Easy to save."</string>
+    <string name="2131755770">We designed the #1 auto insurance app with your convenience in mind!</string>
+    <string name="2131755771">Because you’re already insured with GEICO, we already have a lot of the info needed to get a quote, saving you even more time!</string>
+    <string name="2131755772" />
+    <string name="2131755773">"Let’s go!
+There are 5 GEICO letters around you to find."</string>
+    <string name="2131755774">OUTSTANDING CUSTOMER SERVICE</string>
+    <string name="2131755775">CASH FLOW</string>
+    <string name="2131755776">GEICO MOBILE APP</string>
+    <string name="2131755777">INFO ON HAND</string>
+    <string name="2131755778">EASY</string>
+    <string name="2131755779">"-Look for the GEICO letters in all directions (360°)
+-Letters are hidden just around you, so no need to walk around."</string>
+    <string name="2131755780">You found C</string>
+    <string name="2131755781">You found E</string>
+    <string name="2131755782">You found G</string>
+    <string name="2131755783">You found I</string>
+    <string name="2131755784">You found O</string>
+    <string name="2131755785">Ready to play?!</string>
+    <string name="2131755788">You’re a rock star!</string>
+    <string name="2131755789">Woah! You’re almost there!</string>
+    <string name="2131755790">You’re on a roll!</string>
+    <string name="2131755791">Nice! You found another one!</string>
+    <string name="2131755792">You found one!</string>
+    <string name="2131755795">Some discounts, coverages, payment plans and features are not available in all states, in all GEICO companies, or in all situations. Flood and Term Life coverages are written through non-affiliated insurance companies and are secured through the GEICO Insurance Agency, Inc. Homeowners, renters and condo coverages are written through non-affiliated insurance companies and are secured through the GEICO Insurance Agency, Inc. ExactCare is provided through Berkshire Hathaway Global Insurance Services, LLC. ExactCare and AirCare are underwritten by Berkshire Hathaway Specialty Insurance Company. Both coverages are secured through the GEICO Insurance Agency, Inc. Identity Theft Protection is provided by Generali Global Assistance, Inc. (GGA) and Generali Insurance Company US Branch, and is secured through the GEICO Insurance Agency, Inc. GEICO has no control over the privacy practices of GGA and assumes no responsibility in connection with your use of its website. Any information you provide directly to GGA is subject to the privacy policy posted on the GGA website. The GEICO Personal Umbrella Policy is provided by Government Employees Insurance Company and is available to qualified Government Employees Insurance Company and GEICO General Insurance Company policyholders and other eligible persons. The GEICO Mobile app and site received #1 rankings according to Dynatrace’s 2018 Q1 Mobile Insurance Scorecard. Customer satisfaction based on an independent study conducted by Alan Newman Research, 2018. GEICO is a registered service mark of Government Employees Insurance Company, Washington, DC 20076; a Berkshire Hathaway Inc. subsidiary. ©2019 GEICO</string>
+    <string name="2131755796">Some of the <b>objects are real</b> and could cause injury.</string>
+    <string name="2131755797">Some discounts, coverages, payment plans and features are not available in all states, in all GEICO companies, or in all situations. The GEICO Mobile app and site received #1 rankings according to Dynatrace’s 2018 Q1 Mobile Insurance Scorecard. Customer satisfaction based on an independent study conducted by Alan Newman Research, 2018. GEICO is a registered service mark of Government Employees Insurance Company, Washington, DC 20076; a Berkshire Hathaway Inc. subsidiary. ©2019 GEICO</string>
+    <string name="2131755801">Fax ID Cards</string>
+    <string name="2131755804">Miscellaneous</string>
+    <string name="2131755805">Features</string>
+    <string name="2131755807">File a Claim</string>
+    <string name="2131755810">Find a Ride</string>
+    <string name="2131755814">Find Gas</string>
+    <string name="2131755816">Find Inspection Locations</string>
+    <string name="2131755817">Find Parking</string>
+    <string name="2131755818">Find a Ride</string>
+    <string name="firebase_database_url">https://geico-app-android.firebaseio.com</string>
+    <string name="2131755831">First name is required.</string>
+    <string name="2131755833">AUTO</string>
+    <string name="2131755834">AUTO</string>
+    <string name="2131755835">OFF</string>
+    <string name="2131755836">ON</string>
+    <string name="2131755840">Flood</string>
+    <string name="2131755850">You have entered an invalid User ID. The only special characters allowed are the @ (at), _ (underscore), . (period) or - (dash). Make sure it is at least six characters and does not match the policy number. Spaces are invalid. Please try again.</string>
+    <string name="2131755855">From</string>
+    <string name="2131755861">Gallery</string>
+    <string name="2131755862">GEICO Mobile would like to access your photo gallery to upload photos.</string>
+    <string name="2131755863">Gallery Upload Failure</string>
+    <string name="gcm_defaultSenderId">733064816918</string>
+    <string name="2131755866">GEICO Mobile</string>
+    <string name="2131755867">When it comes to making insurance easy and helping you save money, GEICO can help!</string>
+    <string name="2131755868">GEICO for your home is your key to peace of mind.</string>
+    <string name="2131755869">1-877-206-0215</string>
+    <string name="2131755870">tel:1-877-206-0215</string>
+    <string name="2131755871">When it comes to making insurance easy and understanding what you want, GEICO gets it.</string>
+    <string name="2131755873">GEICO has sent you a list of service providers to your email on file. If you require additional assistance, please call us at 1-800-424-3426.</string>
+    <string name="2131755874">GEICO has the information in your request. If we require additional information, an agent will call you.</string>
+    <string name="2131755875">GEICO is processing your request. Please be patient while we actively locate a service provider to help you.</string>
+    <string name="2131755876">GEICO Mobile</string>
+    <string name="2131755877">GEICO Related Policies</string>
+    <string name="2131755878">GEICO Service</string>
+    <string name="2131755881">General Liability</string>
+    <string name="2131755882" />
+    <string name="2131755883" />
+    <string name="2131755885">Get a Quote</string>
+    <string name="2131755886">"New Customers
+Get a Quote"</string>
+    <string name="2131755887">Top Products for You</string>
+    <string name="2131755891">Get Additional Discounts</string>
+    <string name="2131755892">See Additional Savings</string>
+    <string name="2131755896">Get Help Faster in the App</string>
+    <string name="2131755898">Get $1 million in extra protection for just &lt;b>&lt;font color=%1$d>$%2$s&lt;/font>&lt;/b> a year.</string>
+    <string name="2131755902">Get Started</string>
+    <string name="2131755904">Glass Damage</string>
+    <string name="2131755905">Go Back</string>
+    <string name="2131755906">Go to Settings</string>
+    <string name="2131755911">market://details?id=com.geico.mobile</string>
+    <string name="google_api_key">AIzaSyD7Z7dAP8gc88HxxzUwjock34IKasrouoE</string>
+    <string name="google_app_id">1:733064816918:android:da6a0a6199b3cc21</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD7Z7dAP8gc88HxxzUwjock34IKasrouoE</string>
+    <string name="google_storage_bucket">geico-app-android.appspot.com</string>
+    <string name="2131755918">Got It</string>
+    <string name="2131755920">Allow</string>
+    <string name="2131755923">Your policy will renew %1$s!</string>
+    <string name="2131755924">Happy Anniversary! You have been our valued customer for %1$d years.</string>
+    <string name="2131755930">Header</string>
+    <string name="2131755931">content</string>
+    <string name="2131755932">correlationId</string>
+    <string name="2131755933">DAMAGE PHOTOS</string>
+    <string name="2131755934">environment</string>
+    <string name="2131755935">INFORMATION PHOTOS</string>
+    <string name="2131755936">sessionToken</string>
+    <string name="2131755937">Authorization</string>
+    <string name="2131755938">signature</string>
+    <string name="2131755939">signingKey</string>
+    <string name="2131755940">VEHICLE PHOTOS</string>
+    <string name="2131755942">Hello world!</string>
+    <string name="2131755943">Help Center</string>
+    <string name="2131755944">Tap Anywhere To Dismiss</string>
+    <string name="2131755945">If you are unable to take a photo as directed, capture area to the best of your ability.</string>
+    <string name="2131755948">"Here's what to expect: You will begin receiving your policy documents in the mail. Your documents are also available online for review."</string>
+    <string name="2131755951">"Here's what to expect: Your policy statements will now be sent via email. You will no longer receive paper documents by mail."</string>
+    <string name="2131755954">true</string>
+    <string name="2131755956">Please enter <b>"'Other Location'"</b>" "</string>
+    <string name="2131755957">Clear</string>
+    <string name="2131755958">Clear history</string>
+    <string name="2131755959">Barcode Scanner history</string>
+    <string name="2131755960">Empty</string>
+    <string name="2131755961">No barcode scans have been recorded</string>
+    <string name="2131755962">Send history</string>
+    <string name="2131755963">History</string>
+    <string name="2131755966">Homeowners</string>
+    <string name="2131755967">Homeowners Insurance</string>
+    <string name="2131755976">How was your experience?</string>
+    <string name="2131755977">https://correlation.api.{0}.cccis.com/correlationid</string>
+    <string name="2131755978">CT</string>
+    <string name="2131755979">https://damage.api.{0}.cccis.com/api_portal/session_identity_token</string>
+    <string name="2131755983">I Accept</string>
+    <string name="2131755991">ID Cards</string>
+    <string name="2131755992">ID Cards</string>
+    <string name="2131755998">Effective Date</string>
+    <string name="2131755999">Email</string>
+    <string name="2131756000">You must be logged in to email ID cards. Would you like to log in now?</string>
+    <string name="2131756003">Error opening PDF file.</string>
+    <string name="2131756004">Expiration Date</string>
+    <string name="2131756005">Fax</string>
+    <string name="2131756006">You must be logged in to fax ID cards. Would you like to log in now?</string>
+    <string name="2131756012">Mail</string>
+    <string name="2131756013">Mail ID Cards</string>
+    <string name="2131756014">You must be logged in to mail ID cards. Would you like to log in now?</string>
+    <string name="2131756022">ID Cards Missing</string>
+    <string name="2131756024">A PDF reader is required to view your official ID cards.</string>
+    <string name="2131756026">Print</string>
+    <string name="2131756027">Print ID Cards</string>
+    <string name="2131756028">You must be logged in to print ID cards. Would you like to log in now?</string>
+    <string name="2131756032">Save &amp; Share</string>
+    <string name="2131756033">Share ID Cards</string>
+    <string name="2131756034">You must be logged in to share ID cards. Would you like to log in now?</string>
+    <string name="2131756036">Unable to Open</string>
+    <string name="2131756040">" "<u>View your official ID card</u>" "</string>
+    <string name="2131756046">Identity Protection</string>
+    <string name="2131756047">Identity TTL(1 - 1440)</string>
+    <string name="2131756048">If greater than three car lengths from the road, tow truck may not be able to assist.</string>
+    <string name="2131756049">If you cancel this request the information you have provided thus far will not be saved. Would you like to cancel this request?</string>
+    <string name="2131756052">If you recently had to use your ERS and paid out-of-pocket for the service, submit the original copy of the road service bill<b>(including your policy number).</b>"
+
+We will reimburse you based on the limits of your coverage. "</string>
+    <string name="2131756057">"Due to the vehicle's damages, we'll need to connect you to our Accident Towing unit to help assist you."</string>
+    <string name="2131756058">"I'm having a problem answering your question at this time. Please use the Help Center."</string>
+    <string name="2131756060">In the meantime you can still access:</string>
+    <string name="2131756063">The email you entered cannot be validated. Please re-enter your email address.</string>
+    <string name="2131756069">Insurance</string>
+    <string name="2131756070">GE</string>
+    <string name="2131756071">SDKT</string>
+    <string name="2131756072">SDKT</string>
+    <string name="2131756073">GE</string>
+    <string name="2131756074">SDKT</string>
+    <string name="2131756075">Internal Server Error</string>
+    <string name="2131756076">Internet Connection Unavailable. Please connect to the internet to complete this action.</string>
+    <string name="2131756077">Verify your Internet Connection and Retry.</string>
+    <string name="2131756078">"We're sorry, we were unable to find a local agent within 50 miles of your current location."</string>
+    <string name="2131756079">"We're sorry, we were unable to find a local agent within 50 miles of %1$s. Please try another location"</string>
+    <string name="2131756082">Verify e-mail address. Character(s) such as comma, semi-colon and space are invalid in an e-mail address.</string>
+    <string name="2131756083">Please enter a valid fax number</string>
+    <string name="2131756084">You have entered an invalid vehicle color. Please try again.</string>
+    <string name="2131756085">The phone number entered is invalid. Please verify.</string>
+    <string name="2131756089">Invalid VIN!</string>
+    <string name="2131756090">Please enter a valid 5 digit ZIP code</string>
+    <string name="2131756099">There was a problem, please try again.</string>
+    <string name="2131756125">It appears that you may not have ERS coverage for this vehicle. We can still provide you help, but it may not be covered under your policy.</string>
+    <string name="2131756127">"It's taking longer than expected. Please be patient while we actively process your request."</string>
+    <string name="2131756128">"It's taking longer than expected to locate a service provider to help you. Please be patient while we actively process your request."</string>
+    <string name="2131756130">Check my bill</string>
+    <string name="2131756131">Pay my bill</string>
+    <string name="2131756132">How can we help you with your bill?</string>
+    <string name="2131756133">Manage my claim</string>
+    <string name="2131756134">Manage my glass claim</string>
+    <string name="2131756135">Report a claim</string>
+    <string name="2131756136">Report glass damage</string>
+    <string name="2131756137">Do you need assistance with a claim?</string>
+    <string name="2131756138">Cancel my request</string>
+    <string name="2131756139">Check my request status</string>
+    <string name="2131756140">Request Roadside Assistance</string>
+    <string name="2131756141">Request Tow Assistance</string>
+    <string name="2131756142">How do you need help?</string>
+    <string name="2131756145">Add or update my policy</string>
+    <string name="2131756146">Cancel my policy</string>
+    <string name="2131756147">Change my address</string>
+    <string name="2131756148">Get proof of insurance</string>
+    <string name="2131756149">Make a payment</string>
+    <string name="2131756150">How can we help you with your policy?</string>
+    <string name="2131756151">Motorcycle &amp; ATV</string>
+    <string name="2131756152">Auto</string>
+    <string name="2131756153">Boat/PWC</string>
+    <string name="2131756154">Condo</string>
+    <string name="2131756156">Homeowners</string>
+    <string name="2131756157">RV</string>
+    <string name="2131756158">Renters</string>
+    <string name="2131756159">What kind of quote are you looking for?</string>
+    <string name="2131756160">Umbrella</string>
+    <string name="2131756161">Jewelry</string>
+    <string name="2131756167">GEICO will automatically recognize this device from now on. If your device is lost or stolen, please change your password online or call customer service. GEICO strongly recommends enabling your device’s lock screen security for added protection.</string>
+    <string name="2131756171">Landlord</string>
+    <string name="2131756173">Last name is required.</string>
+    <string name="2131756174">Last Login: %s</string>
+    <string name="2131756175">Lat:</string>
+    <string name="2131756178">A guest slipped &amp; <b>injured</b>" himself in your kitchen "</string>
+    <string name="2131756179">A <b>thief broke</b>" into your town house "</string>
+    <string name="2131756180">" "<b>Accessories coverage</b>" provides protection for your accessories. You must, however, carry comprehensive or collision coverage on your policy. Accessories may include: saddlebags, backrests, seats, chrome pieces and CB radios. If needed, additional coverage can be purchased. Collision coverage provides protection for your helmet as well. (Coverage amounts vary by state.) "</string>
+    <string name="2131756182">" "<b>"You're active on social media."</b>" Someone might claim that your social media post is false and damaging to their reputation. They could sue you for libel. "</string>
+    <string name="2131756185">" "<b>Bodily injury liability</b>" Coverage insures you against certain damages if you injure or kill someone while operating your motorcycle and also provides you with a legal defense if another party in the accident files a lawsuit against you. We have multiple limits of protection from which to choose. "</string>
+    <string name="2131756186">" "<b>Bodily injury liability coverage</b>" - insures you against certain damages if you injure or kill someone while operating your ATV and in most cases, provides you with a legal defense if another party in the accident files a lawsuit against you. "</string>
+    <string name="2131756187">" "<b>Bodily injury liability</b>" provides protection if you injure or kill someone while operating your car. It also provides for a legal defense if another party in the accident files a lawsuit against you. "</string>
+    <string name="2131756188">" "<b>Broad coverage for damage</b>" to your house and any permanent structures on your property (unless the cause of the damage is specifically excluded in your policy). "</string>
+    <string name="2131756195">" "<b>Collision coverage</b>" pays for covered damage to your motorcycle when it hits, or is hit by, another vehicle. "</string>
+    <string name="2131756196">" "<b>Collision coverage</b>" - pays for covered damage to your ATV when it hits, or is hit by, another vehicle or other object. This coverage is available with a $500 or $1,000 deductible. "</string>
+    <string name="2131756197">" "<b>Collision coverage</b>" pays for damage to your car when your car hits, or is hit by, another vehicle or other object. "</string>
+    <string name="2131756198">" "<b>You commute through high-traffic areas.</b>" After a multi-car accident, you might have to pay for injuries to several drivers. "</string>
+    <string name="2131756199">" "<b>Comprehensive physical damage coverage</b>" pays for losses resulting from incidents other than collision. For example, comprehensive insurance covers damage to your car if it is stolen; or damaged by flood, fire or animals. To keep your premiums low, select as high a deductible as you feel comfortable paying out of pocket. "</string>
+    <string name="2131756200">" "<b>Comprehensive physical damage coverage</b>" pays for covered losses resulting from incidents other than collision, such as theft, fire or vandalism. "</string>
+    <string name="2131756201">" "<b>Comprehensive physical damage coverage</b>" - pays for covered losses resulting from incidents other than collision - such as theft, fire or vandalism. This coverage is available with a $500 or $1,000 deductible and is limited to damage that affects the structure or safe operation of the vehicle. "</string>
+    <string name="2131756202">Umbrella insurance can <b>cover situations and expenses that your other policies might not</b>", like the cost of your legal defense. "</string>
+    <string name="2131756205">Coverage for <b>personal liability</b>" exposures that arise from being a homeowner. "</string>
+    <string name="2131756213">Damage to your <b>personal property</b>" due to causes specified in your policy. (Yep, it's those \"named peril\" again!) "</string>
+    <string name="2131756216">" "<b>"You live in a region that's prone to dangerous weather."</b>" Snow and ice can cause major accidents. "</string>
+    <string name="2131756218">" "<b>"Nobody's safe from accidents or lawsuits."</b>" If someone slips and falls in your home, they could sue you.
+
+You're at a "<b>higher risk</b>" for accidents or lawsuits if: "</string>
+    <string name="2131756230"><b>"Umbrella insurance can kick in after you've reached the limits on your other policies."</b>"
+
+Imagine that you injure another driver in a car accident. They sue you for $500,000 in medical bills and lost wages. But your auto policy only covers up to $300,000.
+
+An umbrella policy could "<b>cover the additional $200,000—</b>"and help save you from financial hardship. "</string>
+    <string name="2131756232">"If you're a renter, you may not think you need insurance at all. But you may not realize that your landlord's "<b>"policy doesn't cover"</b> any of your <b>personal property</b>". What would happen if: "</string>
+    <string name="2131756236">Limited coverage—usually $500 - $2,000—for <b>jewelry stolen</b>" from your home. (Most policies don't cover lost jewelry.) If you need greater coverage for your prized collection, you might need a homeowners policy endorsement. "</string>
+    <string name="2131756237">" "<u>Learn More</u>" "</string>
+    <string name="2131756238">" "<b>Medical payments, no-fault or personal injury protection coverage</b>" usually pays for the medical expenses of the injured driver and passengers in your car. There may also be coverage if you are injured by a vehicle as a pedestrian. "</string>
+    <string name="2131756239">" "<b>Medical payments coverage</b>" - in most states you can select medical coverage for yourself and your passengers. "</string>
+    <string name="2131756240">" "<b>Medical payments, no-fault or personal injury protection</b>" coverage provide medical coverage for yourself and your passengers. You may select medical coverage in most states. "</string>
+    <string name="2131756243">" "<b>"You're near retirement."</b>" Your savings may make you a target for lawsuits. "</string>
+    <string name="2131756247"><b>Please note:</b>"
+The above is meant as general information and as general policy descriptions to help you understand the different types of coverages.
+
+These descriptions do not refer to any specific contract of insurance and they do not modify any definitions, exclusions or any other provision expressly stated in any contracts of insurance.
+
+We encourage you to speak to your insurance representative and to read your policy contract to fully understand your coverages. "</string>
+    <string name="2131756249">" "<b>Property damage liability</b>" protects you if your car damages someone else's property. It also provides you with legal defense if another party files a lawsuit against you. It is a good idea to purchase enough of this insurance to cover the amount of damage your car might do to another vehicle or object. "</string>
+    <string name="2131756250">" "<b>Property damage liability coverage</b>" - insures you against certain damages caused to someone else's property while operating your ATV and in most cases, provides you with a legal defense for such claims if another party files a lawsuit against you. "</string>
+    <string name="2131756251">" "<b>Property damage liability coverage</b>" insures you against certain damages caused to someone else's property while operating your motorcycle and provides you with a legal defense for such claims if another party files a lawsuit against you. We have multiple limits of protection from which to choose. "</string>
+    <string name="2131756255">"The home you're renting suffered "<b>water damage</b>" "</string>
+    <string name="2131756256">"these are the kinds of threats that might cause you to lose sleep, if you didn't have the protection of homeowners insurance coverage. Fortunately, a homeowners policy will cover "<b> damage to your home </b>" and personal property due to a variety of causes (called \"named peril\" in insurance lingo). The personal liability portion of a homeowners policy provides coverage, for example if your litigious brother-in-law slips down your steps on a rainy day and injures himself.
+
+Each homeowners insurance policy offers different protection, but standard policies usually provide: "</string>
+    <string name="2131756261">Umbrella insurance offers a <b>high overall value</b>". It can add $1 million* in coverage to several policies. "</string>
+    <string name="2131756262">" "<b>Uninsured/Underinsured motorists coverage</b>" - insures you against certain damages in the event of an accident that occurs on a public road or highway where you are struck by someone with no insurance coverage or limits that are lower than yours. The uninsured vehicle must be a vehicle that is designed to be insured and registered for use on a public road or highway (such as a car, truck, or motorcycle). "</string>
+    <string name="2131756263">" "<b>Uninsured/Underinsured motorist coverage</b>" pays for injuries caused by an uninsured driver in a crash that is not your fault. "</string>
+    <string name="2131756264">" "<b>Uninsured motorists coverage</b>" pays for your injuries caused by an uninsured driver or, in some states, a hit-and-run driver. In some states, there is also uninsured motorist coverage for damage to your vehicle. "</string>
+    <string name="2131756271">Umbrella insurance can give you <b>$1 million* in coverage on top of your auto and homeowners policies. </b>" An umbrella policy pays out to other people if you accidentally injure them or damage their property.
+
+Umbrella insurance "<b>could save you from losing your home or going into debt</b>" in case of a major liability claim. "</string>
+    <string name="2131756281">Without an umbrella policy, <b>you could lose your home</b>" and savings if you're involved in a major claim. "</string>
+    <string name="2131756283">" "<b>You have young drivers on your auto policy.</b>" Worried when you turn the car keys over to your teenager? "</string>
+    <string name="2131756284">Your apartment building <b>burned down</b>" "</string>
+    <string name="2131756285">Your coverage will also include <b>liability protection</b>, which covers injury to another person on your property. If necessary, your policy can <b>even pay for your legal defense</b>" in these circumstances.
+Many landlords actually require tenants to purchase renters insurance with specific liability limits, especially if they own pets. "</string>
+    <string name="2131756288">your policy will <b>include medical payments coverage</b>" that pays for medical expenses of people who don't live with you, but who are injured on your property. "</string>
+    <string name="2131756289">"Your renters policy will state exactly what you're insured against. In the insurance world, it's known as "<b>\"named peril\"</b>" coverage.
+The named perils in your renters policy may include: "</string>
+    <string name="2131756290">Leave</string>
+    <string name="2131756297">Filament Android</string>
+    <string name="2131756300">Life</string>
+    <string name="2131756314">We need access to your location to execute this feature.</string>
+    <string name="2131756317">You must enable this setting to continue.</string>
+    <string name="2131756318">Please enable the GPS to continue.</string>
+    <string name="2131756319">"Don't Allow"</string>
+    <string name="2131756320">OK</string>
+    <string name="2131756321">\@ would Like to Use Your Current Location</string>
+    <string name="2131756322">GPS is turned off</string>
+    <string name="2131756323">Access to your location is needed in order to take pictures of your vehicle.</string>
+    <string name="2131756324">Location permission needed.</string>
+    <string name="2131756325">Locations are not available yet. Please try again.</string>
+    <string name="2131756331">Are you sure you want to Log Out?</string>
+    <string name="2131756332">Log Out</string>
+    <string name="2131756333">Log in</string>
+    <string name="2131756335">Log In</string>
+    <string name="2131756338">Your request to update your %1$s has been processed.</string>
+    <string name="2131756340">Update Password</string>
+    <string name="2131756341">Update Security Questions</string>
+    <string name="2131756342">Update User ID</string>
+    <string name="2131756343">Login Update</string>
+    <string name="2131756344">Log in with your Screen Unlock</string>
+    <string name="2131756345">The information you entered was not found in our system. Please try again.</string>
+    <string name="2131756346">Could Not Sign In</string>
+    <string name="2131756347">Log In Required</string>
+    <string name="2131756348">Logon Methods</string>
+    <string name="2131756349">Log Out</string>
+    <string name="2131756350">You have successfully logged out.</string>
+    <string name="2131756351">Are you sure you want to log out? Your saved credentials will be deleted.</string>
+    <string name="2131756352">Log Out Warning</string>
+    <string name="2131756353">Expired session token</string>
+    <string name="2131756354">Unable to Complete Request</string>
+    <string name="2131756355">Long:</string>
+    <string name="2131756357">Lyft is not available here</string>
+    <string name="2131756360">You will be redirected to the Lyft app to book your ride. Information that you provide to Lyft is subject to the privacy policy posted on its website.</string>
+    <string name="2131756364">Make a Payment</string>
+    <string name="2131756366">Make Changes</string>
+    <string name="2131756367">Make Payment</string>
+    <string name="2131756370">Make a Payment</string>
+    <string name="2131756371">You authorize a payment today for the amount due.</string>
+    <string name="2131756372">Make a payment of %1$s.</string>
+    <string name="2131756377">An email confirmation has been sent to %1$s.</string>
+    <string name="2131756386">Make your documents easy to keep up with.</string>
+    <string name="2131756387">Manage Billing</string>
+    <string name="2131756391">Manage Pay Plan</string>
+    <string name="2131756395">Account ending in %s</string>
+    <string name="2131756397">Maximum Accounts</string>
+    <string name="2131756398">You currently have the maximum number of stored accounts. By storing this new account you will be replacing an existing account</string>
+    <string name="2131756399">ct.mcep.cccis.com</string>
+    <string name="2131756400" />
+    <string name="2131756401">https</string>
+    <string name="2131756402">v1</string>
+    <string name="2131756403">rest.mcep.cccis.com</string>
+    <string name="2131756404" />
+    <string name="2131756405">https</string>
+    <string name="2131756406">v1</string>
+    <string name="2131756407">mcep-qa-mapis-00-138981838.us-east-1.elb.amazonaws.com</string>
+    <string name="2131756408" />
+    <string name="2131756409">https</string>
+    <string name="2131756410">v1</string>
+    <string name="2131756416">MEH, COULD BE BETTER</string>
+    <string name="2131756417">Use MECARD</string>
+    <string name="2131756418">Use vCard</string>
+    <string name="2131756419">Help</string>
+    <string name="2131756420">History</string>
+    <string name="2131756421">Settings</string>
+    <string name="2131756422">Share</string>
+    <string name="2131756423">Access to your camera and location is required in order to take pictures of your vehicle.</string>
+    <string name="2131756425">Methods</string>
+    <string name="2131756430">Mobile Home</string>
+    <string name="2131756437">Motorcycle</string>
+    <string name="2131756438">Motorcycle Insurance</string>
+    <string name="2131756441">Motorcycles</string>
+    <string name="2131756442">Bulk mode: barcode scanned and saved</string>
+    <string name="2131756443">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="2131756444">Format</string>
+    <string name="2131756445">Metadata</string>
+    <string name="2131756446">Hi</string>
+    <string name="2131756447">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="2131756448">Time</string>
+    <string name="2131756449">Type</string>
+    <string name="2131756450">Could not encode a barcode from the data provided.</string>
+    <string name="2131756451">Error</string>
+    <string name="2131756452">Google</string>
+    <string name="2131756453">Google</string>
+    <string name="2131756454">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="2131756455">Invalid value</string>
+    <string name="2131756456">Redirect</string>
+    <string name="2131756457">Sorry, this book is not searchable.</string>
+    <string name="2131756458">Sorry, the search encountered a problem.</string>
+    <string name="2131756459">No page returned</string>
+    <string name="2131756460">Page</string>
+    <string name="2131756461">Results</string>
+    <string name="2131756462">Searching book…</string>
+    <string name="2131756463">Snippet not available</string>
+    <string name="2131756464">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="2131756465">Or type some text and press Enter</string>
+    <string name="2131756466">Are you sure?</string>
+    <string name="2131756467">Sorry, the SD card is not accessible.</string>
+    <string name="2131756472">My Policy</string>
+    <string name="2131756473">Name</string>
+    <string name="2131756475">Need a quote? Adding %s?</string>
+    <string name="2131756476">Need a quote? Adding a motorcycle?</string>
+    <string name="2131756477">Need a quote? Adding a vehicle?</string>
+    <string name="2131756480">Need Help Icon</string>
+    <string name="2131756481">Please verify that you have a cellular or WiFi connection.</string>
+    <string name="2131756485">New Password is a required field.</string>
+    <string name="2131756488">New Quote</string>
+    <string name="2131756493">Next Bill</string>
+    <string name="2131756497">Next Withdrawal Date: %s</string>
+    <string name="2131756498">Next withdrawal date is %1$s in the amount of %2$s.</string>
+    <string name="2131756499">No</string>
+    <string name="2131756501">NO COMMENT</string>
+    <string name="2131756503">Currently, no discounts or premium reductions are applied to your policy.</string>
+    <string name="2131756504">Currently, no discounts are applied to your policy.</string>
+    <string name="2131756505">"Currently, no discounts or premium reductions are applied to your policy. 
+To see what discounts or premium reductions you may be eligible for select 'See Additional Savings' button."</string>
+    <string name="2131756506">"Currently, no discounts are applied to your policy. 
+To see what discounts you may be eligible for select 'Get Additional Discounts' button."</string>
+    <string name="2131756514">No Restraint Device</string>
+    <string name="2131756519">No, Thanks</string>
+    <string name="2131756522">No Thanks</string>
+    <string name="2131756523">Unfortunately this application requires GPS functionality in order to continue.</string>
+    <string name="2131756524">OK</string>
+    <string name="2131756525">Need GPS To Continue</string>
+    <string name="2131756526">No Thanks</string>
+    <string name="2131756527">None</string>
+    <string name="2131756530">Not Applicable</string>
+    <string name="2131756531">Not Now</string>
+    <string name="2131756533">Not right now</string>
+    <string name="2131756539">Notification Settings</string>
+    <string name="2131756542">Now calling %1$s</string>
+    <string name="2131756547">OK</string>
+    <string name="2131756550">123456</string>
+    <string name="2131756556">Please enter a valid name of account holder.</string>
+    <string name="2131756560">Please enter a valid name of Cardholder.</string>
+    <string name="2131756561">Please enter a valid Card Number.</string>
+    <string name="2131756562">Length of card number is invalid.</string>
+    <string name="2131756563">Please enter a valid account number.</string>
+    <string name="2131756564">Please enter a valid 9 digit Routing Number.</string>
+    <string name="2131756565">Card expiration month is required.</string>
+    <string name="2131756566">Card expiration year is required.</string>
+    <string name="2131756568">Please enter a valid Name. The first position must be a letter.</string>
+    <string name="2131756569">Open Settings</string>
+    <string name="2131756570">-6118750</string>
+    <string name="2131756571">Operator</string>
+    <string name="2131756572">Operators</string>
+    <string name="2131756573">Operators</string>
+    <string name="2131756578">Other</string>
+    <string name="2131756587">VEHICLE PHOTOS</string>
+    <string name="2131756588">Driver Side Front</string>
+    <string name="2131756589">Tap anywhere to close.</string>
+    <string name="2131756590">Tap Anywhere to Dismiss</string>
+    <string name="2131756591">Stand at the corner depicted and capture the entire vehicle.</string>
+    <string name="2131756592">OVERRIDE_DRIVE_EASY_ALERT_PREFERENCE_KEY</string>
+    <string name="2131756593">Overseas</string>
+    <string name="2131756594">Overview</string>
+    <string name="2131756595">"Thank you, you're paid in full."</string>
+    <string name="2131756597">www.photo_analytics.api.palestra.cccis.com</string>
+    <string name="2131756598">8080</string>
+    <string name="2131756599">http</string>
+    <string name="2131756600">v5</string>
+    <string name="2131756601">www.photo_analytics.api.palestra.cccis.com</string>
+    <string name="2131756602">8080</string>
+    <string name="2131756603">http</string>
+    <string name="2131756604">v5</string>
+    <string name="2131756605">www.photo_analytics.api.palestra.cccis.com</string>
+    <string name="2131756606">8080</string>
+    <string name="2131756607">http</string>
+    <string name="2131756608">v5</string>
+    <string name="2131756609">www.photo_analytics.api.palestra.cccis.com</string>
+    <string name="2131756610">8080</string>
+    <string name="2131756611">http</string>
+    <string name="2131756612">v5</string>
+    <string name="2131756613">www.photo_analytics.api.palestra.cccis.com</string>
+    <string name="2131756614">8080</string>
+    <string name="2131756615">http</string>
+    <string name="2131756616">v5</string>
+    <string name="2131756617">Paid in full</string>
+    <string name="2131756619">Paperless Billing</string>
+    <string name="2131756620">Paperless Options</string>
+    <string name="2131756621">Paperless Policy</string>
+    <string name="2131756624">You will be redirected to the ParkWhiz website to book your parking. Information that you provide to ParkWhiz is subject to the privacy policy posted on its website.</string>
+    <string name="2131756627">Find Parking</string>
+    <string name="2131756630">" "<i>Password</i>" "</string>
+    <string name="2131756631">Please enter your password.</string>
+    <string name="2131756632">"Choose a password that's not easy to guess."</string>
+    <string name="2131756634">Please enter your password hint.</string>
+    <string name="2131756635">The password hint cannot be the same as the password. Please enter a valid password hint.</string>
+    <string name="2131756636">Password hint contains invalid characters.</string>
+    <string name="2131756637">Please use a password that is 8-16 characters in length.</string>
+    <string name="2131756638">The password may include the special characters ! @ # $ % ^ &amp; * ( ) – _ within it. Spaces are invalid. Please try again.</string>
+    <string name="2131756639">The password must contain at least one letter. Please try again.</string>
+    <string name="2131756640">The password must contain at least one number. Please try again.</string>
+    <string name="2131756641">The passwords you entered do not match. Please try again.</string>
+    <string name="2131756644">Choose a password that is not similar to your User ID, policy number or email address.</string>
+    <string name="2131756647">Password</string>
+    <string name="2131756648">Toggle password visibility</string>
+    <string name="2131756650">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="2131756651">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="2131756652">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="2131756653">M3.27,4.27 L19.74,20.74</string>
+    <string name="2131756658">Pay Now</string>
+    <string name="2131756660">Payment Accepted</string>
+    <string name="2131756661">Your Account - Action Required</string>
+    <string name="2131756666">Payment Due</string>
+    <string name="2131756667">Payment History</string>
+    <string name="2131756669">Your payment of $%1$s is due on %2$s</string>
+    <string name="2131756672">Your policy is pending cancellation due to non-payment on %1$s</string>
+    <string name="2131756673">Your payment of $%1$s will be withdrawn on %2$s</string>
+    <string name="2131756674">Payment History, Statements &amp; Documents</string>
+    <string name="2131756675">If you make a payment at this time it will be in addition to your automatic payment for %s that is already in process. Are you sure you wish to make an extra payment?</string>
+    <string name="2131756676">Payment Overdue</string>
+    <string name="2131756677">Pending Cancellation</string>
+    <string name="2131756678">Checking Account</string>
+    <string name="2131756679">Enroll in Automatic Payments</string>
+    <string name="2131756680">Payment Methods</string>
+    <string name="2131756681">Your payment is overdue.</string>
+    <string name="2131756682">Payment Plan, Billing Schedule, and Paperless Billing</string>
+    <string name="2131756683">Payment Plan</string>
+    <string name="2131756684"><b>Payment postponed.</b></string>
+    <string name="2131756685">Payment Schedule</string>
+    <string name="2131756687">Payment Plan Change Authorization</string>
+    <string name="2131756693">Perks</string>
+    <string name="2131756694">"This application needs your camera and location permissions in order to proceed. Please go to this application's settings and enable camera and location permissions to continue."</string>
+    <string name="2131756695">Unable to proceed.</string>
+    <string name="2131756696">GEICO application access</string>
+    <string name="2131756697">"This application requires access to this device's @"</string>
+    <string name="2131756698">You cannot continue without enabling the above permission(s). Go to your phone’s settings to enable access.</string>
+    <string name="2131756699">Enabling Audio is required to continue.</string>
+    <string name="2131756700">Enabling Camera is required to continue.</string>
+    <string name="2131756701">Enabling Location is required to continue.</string>
+    <string name="2131756702">"Enabling Photos is required to share images you've previously taken of your vehicle."</string>
+    <string name="2131756703">Permission Requested</string>
+    <string name="2131756704">Permission Requested</string>
+    <string name="2131756705">Audio</string>
+    <string name="2131756706">Camera</string>
+    <string name="2131756707">Location</string>
+    <string name="2131756708">Photos</string>
+    <string name="2131756710">This application requires the following permission(s) to continue:</string>
+    <string name="2131756714">Personal Property Scanner</string>
+    <string name="2131756715">Personal Watercraft</string>
+    <string name="2131756717">Pet</string>
+    <string name="2131756718">Phone Number</string>
+    <string name="2131756719">The phone number entered is invalid. Please verify.</string>
+    <string name="2131756720">Please enter a valid 10-digit phone number.</string>
+    <string name="2131756721">Phone Number is required.</string>
+    <string name="2131756726">Edit Additional Photos</string>
+    <string name="2131756734">Position yourself head on with the damage. Make sure the damage fits in the camera frame. Then capture the photo.</string>
+    <string name="2131756735">Position yourself to the left of the damage. Make sure the damage fits into the camera frame at an angle from your left side. Then capture the photo.</string>
+    <string name="2131756736">Position yourself to the right of the damage. Make sure the damage fits into the camera frame at an angle from your right side. Then capture the photo.</string>
+    <string name="2131756737">"Position your camera at the front driver's side corner of the vehicle. Make sure the entire vehicle and license plate (if applicable) is in the frame. Then take the photo."</string>
+    <string name="2131756738">"Position your camera at the front passenger's side corner of the vehicle. Make sure the entire vehicle and license plate (if applicable) is in the frame. Then take the photo."</string>
+    <string name="2131756739">"Position your camera at the rear driver's side corner of the vehicle. Make sure the entire vehicle and license plate (if applicable) is in the frame. Then take the photo."</string>
+    <string name="2131756740">"Position your camera at the rear passenger's side corner of the vehicle. Make sure the entire vehicle and license plate (if applicable) is in the frame. Then take the photo."</string>
+    <string name="2131756741">Take a photo of the complete VIN. This 17 character code is located on the inside of the driver side door jamb or on the driver side interior dash.</string>
+    <string name="2131756743">Damage Center</string>
+    <string name="2131756744">Damage from your left</string>
+    <string name="2131756745">Damage from your right</string>
+    <string name="2131756747">Replace from Camera</string>
+    <string name="2131756748">Replace from Gallery</string>
+    <string name="2131756753">Easy Photo Estimate is no longer available. If you need assistance, please contact the Claims Department at (800)841–3000.</string>
+    <string name="2131756755">Upload Failed</string>
+    <string name="2131756757">Upload Successful</string>
+    <string name="2131756762">Retake</string>
+    <string name="2131756763">Use Photo</string>
+    <string name="2131756764">Photo taken is blurry, would you like to retake?</string>
+    <string name="2131756765">Take Photos</string>
+    <string name="2131756766">SUV or Truck</string>
+    <string name="2131756767">Clear search</string>
+    <string name="2131756768">Search</string>
+    <string name="2131756769">Plan</string>
+    <string name="2131756770">platform_name</string>
+    <string name="2131756771">platform_version</string>
+    <string name="2131756774">Please call 1-800-424-3426 from your phone for assistance.</string>
+    <string name="2131756775">Please choose a valid payment date.</string>
+    <string name="2131756776">Please Confirm</string>
+    <string name="2131756777">Please confirm your password.</string>
+    <string name="2131756778">Please enter a 5 digit zip code.</string>
+    <string name="2131756779">Please enter a valid city.</string>
+    <string name="2131756780">Please enter a valid street address.</string>
+    <string name="2131756781">Please enter a valid Vehicle Year</string>
+    <string name="2131756784">Please enter both a contact name and a valid contact number.</string>
+    <string name="2131756785">Please enter both a first and a last name.</string>
+    <string name="2131756786">Please enter Fax To information</string>
+    <string name="2131756787">Please enter the address of the tow destination.</string>
+    <string name="2131756792">Please provide a street address.</string>
+    <string name="2131756793">Please provide vehicle Year, Make and Model.</string>
+    <string name="2131756795">Please select a location for your keys.</string>
+    <string name="2131756798">Please select a vehicle color.</string>
+    <string name="2131756801">Please select the type of gas your vehicle uses.</string>
+    <string name="2131756802">Please select your RV/Trailer Class.</string>
+    <string name="2131756803">Please select your type of vehicle.</string>
+    <string name="2131756805">Please take your photo</string>
+    <string name="2131756806">Please tap \"Set Location\" on the map to confirm your current location.</string>
+    <string name="2131756807">Please tell us where your keys are located.</string>
+    <string name="2131756811">%1$s #%2$s</string>
+    <string name="2131756812">Policy Documents</string>
+    <string name="2131756817">Policy Number</string>
+    <string name="2131756818">The policy number you entered does not match our records. Please try again.</string>
+    <string name="2131756819">\#%s</string>
+    <string name="2131756820">Please enter your 10-digit policy number without spaces or dashes</string>
+    <string name="2131756822">Please enter a valid policy number.</string>
+    <string name="2131756823">The policy number has to be 10 digits.</string>
+    <string name="2131756826">Policy Renewal</string>
+    <string name="2131756828">Policy Status</string>
+    <string name="2131756829">Link Auto Policy</string>
+    <string name="2131756830">Link Motorcycle Policy</string>
+    <string name="2131756831">Link Additional Policies</string>
+    <string name="2131756833">via %s</string>
+    <string name="2131756838">POST DATED PAYMENT EXISTS</string>
+    <string name="2131756840">Postpone</string>
+    <string name="2131756841">Postpone or Make a Payment</string>
+    <string name="2131756842">Postpone Payment</string>
+    <string name="2131756843">Postpone Payment is not available at this time.</string>
+    <string name="2131756844">Postpone Payment is Unavailable. More Info.</string>
+    <string name="2131756847">powered by</string>
+    <string name="2131756848">When a barcode is found…</string>
+    <string name="2131756849">Use auto focus</string>
+    <string name="2131756850">Open web pages automatically</string>
+    <string name="2131756851">Scan and save many barcodes continuously</string>
+    <string name="2131756852">Bulk scan mode</string>
+    <string name="2131756853">Copy to clipboard</string>
+    <string name="2131756854" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="2131756855">Custom search URL</string>
+    <string name="2131756856">1D Industrial</string>
+    <string name="2131756857">1D Product</string>
+    <string name="2131756858">Aztec</string>
+    <string name="2131756859">Data Matrix</string>
+    <string name="2131756860">PDF417 (β)</string>
+    <string name="2131756861">QR Codes</string>
+    <string name="2131756862">Device Bug Workarounds</string>
+    <string name="2131756863">No barcode scene mode</string>
+    <string name="2131756864">Use only standard focus mode</string>
+    <string name="2131756865">No continuous focus</string>
+    <string name="2131756866">No exposure</string>
+    <string name="2131756867">No metering</string>
+    <string name="2131756868">Automatic</string>
+    <string name="2131756869">Off</string>
+    <string name="2131756870">On</string>
+    <string name="2131756871">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="2131756872">Use front light</string>
+    <string name="2131756873">General settings</string>
+    <string name="2131756874">Store your scans in History</string>
+    <string name="2131756875">Add to History</string>
+    <string name="2131756876">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="2131756877">Invert scan</string>
+    <string name="2131756878">Settings</string>
+    <string name="2131756879">No automatic rotation</string>
+    <string name="2131756880">Beep</string>
+    <string name="2131756881">Store multiple scans of the same barcode in History</string>
+    <string name="2131756882">Remember duplicates</string>
+    <string name="2131756883">Result settings</string>
+    <string name="2131756884">When scanning for barcodes, decode…</string>
+    <string name="2131756885">Search country</string>
+    <string name="2131756886">Try to retrieve more information about the barcode contents</string>
+    <string name="2131756887">Retrieve more info</string>
+    <string name="2131756888">Vibrate</string>
+    <string name="2131756891">Premium Extras</string>
+    <string name="2131756902">Proceed</string>
+    <string name="2131756905">Professional Liability</string>
+    <string name="2131756907">Get Proof of Insurance</string>
+    <string name="2131756911">Property Cards</string>
+    <string name="2131756912">Property Location</string>
+    <string name="2131756914">Protect your valuables for pennies a day.</string>
+    <string name="2131756917">PROXY_ENABLED_KEY_SHARED_PREF</string>
+    <string name="2131756918">PROXY_HOST_KEY_SHARED_PREF</string>
+    <string name="2131756919">PROXY_PORT_KEY_SHARED_PREF</string>
+    <string name="2131756920">You are currently managing another policy. You must log off before you can view your billing information.</string>
+    <string name="2131756921">Not Now</string>
+    <string name="2131756922">You are not receiving notifications for this policy. Would you like to enable notifications?</string>
+    <string name="2131756923">You have chosen not to receive notifications for this policy.</string>
+    <string name="2131756925">You are currently managing another policy. You must logoff before you can access notifications for other policy.</string>
+    <string name="2131756926">Log Off</string>
+    <string name="2131756927">Alert</string>
+    <string name="2131756928">You will now receive notifications for this policy.</string>
+    <string name="2131756929">Notifications</string>
+    <string name="2131756931">/register</string>
+    <string name="2131756932">/v2/login</string>
+    <string name="2131756933">Please select security question #1.</string>
+    <string name="2131756934">Please select security question #2.</string>
+    <string name="2131756936">"%1$s
+Ending in
+%2$s"</string>
+    <string name="2131756937">"Pay %1$s 
+with %2$s"</string>
+    <string name="2131756938">Tap here to pay %1$s with %2$s</string>
+    <string name="2131756939">Quote/Add Cycles</string>
+    <string name="2131756940">Quote/Add Drivers</string>
+    <string name="2131756941">Quote/Add Operators</string>
+    <string name="2131756942">Quote/Add Vehicles</string>
+    <string name="2131756943">Do you want to start a new %1$s Quote or recall a previous quote?</string>
+    <string name="2131756944">%1$s Quote</string>
+    <string name="2131756946">Auto Quote%s</string>
+    <string name="2131756947">Boat Quote%s</string>
+    <string name="2131756948">Cycle Quote%s</string>
+    <string name="2131756949">Homeowners Quote%s</string>
+    <string name="2131756951">Renters Quote%s</string>
+    <string name="2131756953">Saved on %s</string>
+    <string name="2131756954">Quotes</string>
+    <string name="2131756957" />
+    <string name="2131756963">Recall Notice</string>
+    <string name="2131756964">Recall Quote</string>
+    <string name="2131756967">Online Password Hint &amp; Security Questions</string>
+    <string name="2131756968">Re-enter</string>
+    <string name="2131756977">Registration</string>
+    <string name="2131756978">Take a clear photo of your registration card, usually found in the glove compartment.</string>
+    <string name="2131756980">fonts/regular.ttf</string>
+    <string name="2131756986">Remove %s</string>
+    <string name="2131756987">Remove Vehicle</string>
+    <string name="2131756989">Renters</string>
+    <string name="2131756990">Renters Insurance</string>
+    <string name="2131756992">Replace File</string>
+    <string name="2131756993">Replace Vehicle</string>
+    <string name="2131756996">Report a Claim</string>
+    <string name="2131756998">Report Glass Damage</string>
+    <string name="2131756999">Roadside Assistance</string>
+    <string name="2131757001">Would you like to download the Lyft app and continue with your Lyft Ride request?</string>
+    <string name="2131757004">Re-scan</string>
+    <string name="2131757014">Found contact info</string>
+    <string name="2131757015">Found calendar event</string>
+    <string name="2131757016">Found email address</string>
+    <string name="2131757017">Found geographic coordinates</string>
+    <string name="2131757018">Found book</string>
+    <string name="2131757019">Found product</string>
+    <string name="2131757020">Found SMS address</string>
+    <string name="2131757021">Found phone number</string>
+    <string name="2131757022">Found plain text</string>
+    <string name="2131757023">Found URL</string>
+    <string name="2131757024">Found WLAN Configuration</string>
+    <string name="2131757025">Would you like to resume from a saved draft?</string>
+    <string name="2131757026">Retake</string>
+    <string name="2131757027">Retake Photo</string>
+    <string name="2131757028">Retrieve Auto Quote</string>
+    <string name="2131757030">Retrieving Your Information</string>
+    <string name="2131757032">Retry</string>
+    <string name="2131757038">Review Bill</string>
+    <string name="2131757042">Please enter a valid starting location</string>
+    <string name="2131757043">Please enter a valid destination</string>
+    <string name="2131757044">Ridesharing</string>
+    <string name="2131757046">"Roadside
+Assistance"</string>
+    <string name="2131757051">Roadside Card</string>
+    <string name="2131757053">Roadside Representative</string>
+    <string name="2131757054">Roadside Service</string>
+    <string name="2131757055">RV</string>
+    <string name="2131757056">RV or Trailer</string>
+    <string name="2131757060">Sales Representative</string>
+    <string name="2131757068">Saved Quotes</string>
+    <string name="2131757069">Ready to make a change? Pick up where you left off.</string>
+    <string name="2131757071">Google Book Search</string>
+    <string name="2131757072">"Scan Driver's License Barcode"</string>
+    <string name="2131757073">Scan VIN barcode</string>
+    <string name="2131757074">Scanning...</string>
+    <string name="2131757076">Use your lock screen method to log in.</string>
+    <string name="2131757077">Use your fingerprint or lock screen method to log in.</string>
+    <string name="2131757079">Android</string>
+    <string name="2131757080">2.0</string>
+    <string name="2131757081">Search</string>
+    <string name="2131757087">Security Questions</string>
+    <string name="2131757090">See a demo</string>
+    <string name="2131757094">Send A Message</string>
+    <string name="2131757095">Send an Email</string>
+    <string name="2131757105">Service Representative</string>
+    <string name="2131757106">CCCAPI</string>
+    <string name="2131757107">CT</string>
+    <string name="2131757108">PROD@CCCAPI</string>
+    <string name="2131757109">DEV</string>
+    <string name="2131757110">INT</string>
+    <string name="2131757111">PROD</string>
+    <string name="2131757112">QA</string>
+    <string name="2131757113">MCEP</string>
+    <string name="2131757114">PA</string>
+    <string name="2131757117">Session Timeout</string>
+    <string name="2131757119">Session TTL(1 - 30)</string>
+    <string name="2131757123">Settings</string>
+    <string name="2131757128">Share the love!</string>
+    <string name="2131757129">com.cccis.mobile.app.android.nwqe.SHAREDPREFKEY</string>
+    <string name="2131757134">Show me how</string>
+    <string name="2131757137">Sign Now</string>
+    <string name="2131757140">Skip</string>
+    <string name="2131757145">Social Security # (last 4 digits only)</string>
+    <string name="2131757146">Please enter the last 4 digits of your social security number.</string>
+    <string name="2131757150">Special Insurance Offers</string>
+    <string name="2131757151">Special Offers</string>
+    <string name="2131757153">As low as $%1$s/month</string>
+    <string name="2131757157">Complete your question using the keyboard then press enter ...</string>
+    <string name="2131757158">Listening ...</string>
+    <string name="2131757161">Start a New Claim</string>
+    <string name="2131757167">State is required.</string>
+    <string name="2131757169">Statements &amp; Docs</string>
+    <string name="2131757170">Statements</string>
+    <string name="2131757171">Statements &amp; Documents</string>
+    <string name="2131757175">999+</string>
+    <string name="2131757176">Stay</string>
+    <string name="2131757179">Stay Logged In</string>
+    <string name="2131757180">Stay Logged In?</string>
+    <string name="2131757182">We need storage access to share your ID Cards.</string>
+    <string name="2131757183">%1$s ending in %2$s</string>
+    <string name="2131757190">No</string>
+    <string name="2131757191">Yes</string>
+    <string name="2131757193">System Exception</string>
+    <string name="2131757197">Tap below to authorize this payment &amp; continue.</string>
+    <string name="2131757198">Tap to Confirm</string>
+    <string name="2131757199">Tap anywhere to .</string>
+    <string name="2131757200">"Tell us what happened. It takes 5 minutes or less. We'll send help right away."</string>
+    <string name="2131757201">Tell us where you are:</string>
+    <string name="2131757202">Terms and Conditions</string>
+    <string name="2131757203">Terms Of Use</string>
+    <string name="2131757204">Text And App Notification Options</string>
+    <string name="2131757205">"We'll send a 6 digit code via text to:"</string>
+    <string name="2131757206">Get a Text</string>
+    <string name="2131757207">Adjuster</string>
+    <string name="2131757208">Email</string>
+    <string name="2131757209">of</string>
+    <string name="2131757210">Office</string>
+    <string name="2131757211">Sign Out</string>
+    <string name="2131757215">Thank you for your payment.</string>
+    <string name="2131757221">There is no Roadside Assistance coverage for this vehicle. You can continue the request to get a list of providers in your area to pay out of pocket.</string>
+    <string name="2131757224">Website Terms and Conditions</string>
+    <string name="2131757228">Damage - Center</string>
+    <string name="2131757229">Damage - Center</string>
+    <string name="2131757230">Damage - Left Angle</string>
+    <string name="2131757231">Damage - Your Left</string>
+    <string name="2131757232">Damage - Right Angle</string>
+    <string name="2131757233">Damage - Your Right</string>
+    <string name="2131757234">Driver Side Front</string>
+    <string name="2131757235">Driver Side Front</string>
+    <string name="2131757236">Driver Side Rear</string>
+    <string name="2131757237">Driver Side Rear</string>
+    <string name="2131757238">Odometer</string>
+    <string name="2131757239">Odometer</string>
+    <string name="2131757240">Passenger Side Front</string>
+    <string name="2131757241">Pass. Side Front</string>
+    <string name="2131757242">Passenger Side Rear</string>
+    <string name="2131757243">Pass. Side Rear</string>
+    <string name="2131757244">VIN</string>
+    <string name="2131757245">VIN</string>
+    <string name="2131757247">EmptyActivity</string>
+    <string name="2131757248">OverlayActivity</string>
+    <string name="2131757249">PhotoCaptureActivity</string>
+    <string name="2131757250">Damage - Center</string>
+    <string name="2131757251">Damage - Left Angle</string>
+    <string name="2131757252">Damage - Your Left</string>
+    <string name="2131757253">Damage - Right Angle</string>
+    <string name="2131757254">Damage - Your Right</string>
+    <string name="2131757255">Driver Side Front</string>
+    <string name="2131757256">Driver Side Rear</string>
+    <string name="2131757257">Odometer</string>
+    <string name="2131757258">Passenger Side Front</string>
+    <string name="2131757259">Passenger Side Rear</string>
+    <string name="2131757260">Camera Permission</string>
+    <string name="2131757261">Permissions needed to proceed.</string>
+    <string name="2131757262">Vehicle Identification Number</string>
+    <string name="2131757263">To</string>
+    <string name="2131757264">To restart your policy, please call 1-800-841-3000.</string>
+    <string name="2131757267">TOTALLY AWESOME!</string>
+    <string name="2131757271">Tow Destination is required.</string>
+    <string name="2131757273">The tow truck can only accommodate 2 passengers; we can help you Find a Ride once your report is complete.</string>
+    <string name="2131757274">Towing &amp; Labor</string>
+    <string name="2131757277">Towing and Labor is help when you need it the most. Request assistance <b> directly from your GEICO Mobile app </b>" and stay up to date with the progress of your Towing and Labor request.
+
+\u0009\u0009• 24/7 assistance
+\u0009\u0009• GPS locator 
+\u0009\u0009• Quick response 
+\u0009\u0009• Easy, personalized experience "</string>
+    <string name="2131757278">Towing Card</string>
+    <string name="2131757280">Transaction Completed</string>
+    <string name="2131757282">Travel</string>
+    <string name="2131757284">TrueCar</string>
+    <string name="2131757287">TVR Options</string>
+    <string name="2131757290">Cancel</string>
+    <string name="2131757291">Channel copied to clipboard!</string>
+    <string name="2131757292">Channel ID</string>
+    <string name="2131757293">Urban Airship Channel</string>
+    <string name="2131757294">Connection Error</string>
+    <string name="2131757295">Content Error</string>
+    <string name="2131757296">General app updates</string>
+    <string name="2131757297">Notifications</string>
+    <string name="2131757298">Delete</string>
+    <string name="2131757303">No messages</string>
+    <string name="2131757304">Mark Read</string>
+    <string name="2131757305">Unable to load message. Please try again later.</string>
+    <string name="2131757306">The selected message is no longer available.</string>
+    <string name="2131757307">Message Center</string>
+    <string name="2131757308">No messages selected</string>
+    <string name="2131757309">Accept</string>
+    <string name="2131757310">Add</string>
+    <string name="2131757311">Add to Calendar</string>
+    <string name="2131757312">Book Now</string>
+    <string name="2131757313">Buy Now</string>
+    <string name="2131757314">Copy</string>
+    <string name="2131757315">Decline</string>
+    <string name="2131757316">Dislike</string>
+    <string name="2131757317">Download</string>
+    <string name="2131757318">Follow</string>
+    <string name="2131757319">Less Like This</string>
+    <string name="2131757320">Like</string>
+    <string name="2131757321">More Like This</string>
+    <string name="2131757322">No</string>
+    <string name="2131757323">Opt-in</string>
+    <string name="2131757324">Opt-out</string>
+    <string name="2131757325">Rate Now</string>
+    <string name="2131757326">Remind Me Later</string>
+    <string name="2131757327">Save</string>
+    <string name="2131757328">Search</string>
+    <string name="2131757329">Send Info</string>
+    <string name="2131757330">Share</string>
+    <string name="2131757331">Shop Now</string>
+    <string name="2131757332">Tell Me More</string>
+    <string name="2131757333">Unfollow</string>
+    <string name="2131757334">Yes</string>
+    <string name="2131757335">OK</string>
+    <string name="2131757336">Open</string>
+    <string name="2131757337">Tap %1$2s to rate it on the app store.</string>
+    <string name="2131757338">No Thanks</string>
+    <string name="2131757339">Rate</string>
+    <string name="2131757340">Enjoying %1$2s?</string>
+    <string name="2131757341">This App</string>
+    <string name="2131757342">Refresh</string>
+    <string name="2131757343">Retry</string>
+    <string name="2131757344">Select All</string>
+    <string name="2131757345">Select None</string>
+    <string name="2131757346">Share</string>
+    <string name="2131757347">Umbrella</string>
+    <string name="2131757349">Umbrella Insurance</string>
+    <string name="2131757357">Unable to determine your current location. Please retry.</string>
+    <string name="2131757358">We were unable to print your ID cards. Please try again or visit GEICO.com.</string>
+    <string name="2131757360">We were unable to share your ID cards. Please try again or visit GEICO.com.</string>
+    <string name="2131757361">We are unable to save your changes at this time. Please try again at a later time. If you need additional assistance, call us at 1-877-206-0215</string>
+    <string name="2131757362">We were unable to update your email address. Please try again later. If you need additional assistance, call 1-877-206-0215</string>
+    <string name="2131757363">We were unable to update your phone number. Please try again later. If you need additional assistance, call 1-877-206-0215</string>
+    <string name="2131757364">We were unable to process your request at this time.  Please try again.</string>
+    <string name="2131757365">Unable to complete request</string>
+    <string name="2131757366">You have not made any changes.</string>
+    <string name="2131757368">Unenroll</string>
+    <string name="2131757369">Unenroll Automatic Payment</string>
+    <string name="2131757382">Unenroll from Paperless Policy</string>
+    <string name="2131757383">Unenrolled</string>
+    <string name="2131757386">Unknown Server Error</string>
+    <string name="2131757387">Unless you log in, we may not be able to determine the Emergency Road Service coverage for your vehicle. We can still provide roadside assistance, however, you may be responsible for the cost.</string>
+    <string name="2131757388">UNLOCK</string>
+    <string name="2131757390">Unlock Vehicle Care for oil change reminders, recall alerts, and more.</string>
+    <string name="2131757392">You have unsigned form(s)</string>
+    <string name="2131757393">update</string>
+    <string name="2131757394">I hereby authorize GEICO to initiate recurring charges for insurance premiums, and any associated fees, to the credit card I have specified above. I understand that any changes to my policy could result in changes to the amount of the charges.</string>
+    <string name="2131757395">I hereby authorize GEICO to initiate debits electronically, by paper means or by any other commercially accepted method, to my checking account. I authorize my financial institution to debit the same such account. I also understand that if changes are made to my policy it may involve an adjustment to the debit amount.</string>
+    <string name="2131757397">When switching your automatic payment method, the scheduled payment on %1$s will not be processed. This amount will be included with the next scheduled payment unless you wish to make a one-time payment with a check/credit card. To complete this change please select continue.</string>
+    <string name="2131757398">Updating to a Checking Account</string>
+    <string name="2131757403">Update Autopay Account</string>
+    <string name="2131757407">Please select one or more policies to which this change will apply.</string>
+    <string name="2131757409">Update Payment Methods</string>
+    <string name="2131757411">Update Stored Payment Methods</string>
+    <string name="2131757413">"Oh, hello! We've updated GEICO Mobile. Please install the latest version to access your policy information."</string>
+    <string name="2131757414">Upgrade Now</string>
+    <string name="2131757416">Upload Error</string>
+    <string name="2131757418">We are unable to process your request. Please try again later.</string>
+    <string name="2131757419">/carrier_token</string>
+    <string name="2131757420">/api_portal</string>
+    <string name="2131757421">/damage</string>
+    <string name="2131757422">/claims/notify/getnotifications/latest</string>
+    <string name="2131757423">/claims/uploadimg</string>
+    <string name="2131757424">/claims/estimate</string>
+    <string name="2131757425">/v3/api/proc?cmd=getpredictedestimate</string>
+    <string name="2131757426">https://damage.api.{0}.cccis.com/damage?result=VALIDATION</string>
+    <string name="2131757427">/identity_token</string>
+    <string name="2131757428">/retake/getimages</string>
+    <string name="2131757429">/session_token</string>
+    <string name="2131757430">/session_identity_token</string>
+    <string name="2131757431">/status/current</string>
+    <string name="2131757432">/stdvehicle</string>
+    <string name="2131757433">/claims/tcor</string>
+    <string name="2131757434">/v3/api/proc?cmd=uploadimg</string>
+    <string name="2131757435">/v3/api/proc?cmd=validatephoto&amp;imageKey=</string>
+    <string name="2131757436">/v3/api/proc?cmd=vindecode&amp;vin=</string>
+    <string name="2131757437">/v3/api/proc?cmd=supportedvin&amp;vin=</string>
+    <string name="2131757439">Use the app</string>
+    <string name="2131757441">Your fingerprint is currently linked to %1$s; do you want to link it to %2$s instead?</string>
+    <string name="2131757442">Use Photo</string>
+    <string name="2131757443">User ID is missing a valid value.</string>
+    <string name="2131757444">You have entered an invalid User ID. The only special characters allowed are the _ (underscore), . (period) or - (dash). Make sure it is at least six characters and is not all numbers. Spaces are invalid. Please try again.</string>
+    <string name="2131757447">User ID</string>
+    <string name="2131757455">Vehicle Care</string>
+    <string name="2131757456">"To unlock Vehicle Care, we'll share your VIN and email with CARFAX® to create a myCARFAX account."</string>
+    <string name="2131757457">"'Cancel' on the Vehicle Care Enroll Modal"</string>
+    <string name="2131757459">"'Got it' on the Vehicle Care Enroll Modal"</string>
+    <string name="2131757465">ID / Property Cards</string>
+    <string name="2131757466">Vehicle Identification Number</string>
+    <string name="2131757474">"Vehicle Trouble? We're here 24/7"</string>
+    <string name="2131757475">Vehicles</string>
+    <string name="2131757478">Verify Your Address</string>
+    <string name="2131757481">View</string>
+    <string name="2131757484">View All Offers</string>
+    <string name="2131757486">View All Saved Quotes</string>
+    <string name="2131757488">View Autopay Account</string>
+    <string name="2131757490">View Discounts</string>
+    <string name="2131757491">View Discounts &amp; Premium Reductions</string>
+    <string name="2131757492">View/Edit Coverage</string>
+    <string name="2131757493">View ID Cards</string>
+    <string name="2131757494">View More Offers</string>
+    <string name="2131757496">View Policy</string>
+    <string name="2131757497">View Your Property Cards</string>
+    <string name="2131757498">View Recent Claims</string>
+    <string name="2131757501">View Your Vehicle ID Cards</string>
+    <string name="2131757502">View Your Saved ID Cards</string>
+    <string name="2131757504">Vin</string>
+    <string name="2131757505">VIN Not Available</string>
+    <string name="2131757506">Capture the complete VIN. This 17 character code is located inside of the driver side doorjamb or on the driver side interior dash.</string>
+    <string name="2131757507">Tap Anywhere To Dismiss</string>
+    <string name="2131757508">Vehicle Identification Number</string>
+    <string name="2131757509">INFORMATION PHOTOS</string>
+    <string name="2131757510">Scan VIN</string>
+    <string name="2131757511">Vin Scan</string>
+    <string name="2131757512">Capture the complete VIN. This 17 character code is located on inside the driver side door jamb or on the driver side interior dash.</string>
+    <string name="2131757513">Tap To Dismiss</string>
+    <string name="2131757514">Scanning will occur automatically.</string>
+    <string name="2131757515">VIN Barcode or QR Code</string>
+    <string name="2131757520">Voice services not currently available. Please type your question.</string>
+    <string name="2131757523">We apologize for the inconvenience. Access to GEICO Mobile is temporarily unavailable.</string>
+    <string name="2131757524">We are app-solutely delighted to have you as our customer%s.</string>
+    <string name="2131757526">"We're Sorry"</string>
+    <string name="2131757527">"We're sorry. There's been an error and we cannot process your request at this time. Please call 1-800-424-3426 for Emergency Roadside Assistance."</string>
+    <string name="2131757528">"We're sorry. There's been an error and we cannot process your request at this time. Please call %s for Emergency Roadside Assistance."</string>
+    <string name="2131757529">"We're sorry. There's been an error while downloading the file."</string>
+    <string name="2131757530">"We're sorry. There's been an error while uploading the file."</string>
+    <string name="2131757531">We’re unable to connect to your claim. Please call <b>(800) 841-3000</b>" to continue. "</string>
+    <string name="2131757532">We are unable to access your policy in GEICO Mobile at this time. Please follow the below link to log in and electronically sign your required documents. GEICO Mobile will be available within 24 hours after your documents have been completed.</string>
+    <string name="2131757533">We are unable to process your request at this time.</string>
+    <string name="2131757537">"We love that you enjoyed your experience.
+Feel free to leave us a review in the Play Store."</string>
+    <string name="2131757541">" "<i>We will provide an estimated time of arrival after your request has been processed and provider has been notified. </i>" "</string>
+    <string name="2131757544">"Hi %s,
+welcome back!"</string>
+    <string name="2131757548">"Hi %s,
+welcome to the GEICO Family!"</string>
+    <string name="2131757559">What can I find?</string>
+    <string name="2131757575">Where are your keys?</string>
+    <string name="2131757576">Where can I find it?</string>
+    <string name="2131757577">Where can I find it?</string>
+    <string name="2131757578">Where will you leave your keys?</string>
+    <string name="2131757580">Requesting connection to network…</string>
+    <string name="2131757586">Withdrawal Date</string>
+    <string name="2131757594">Yes</string>
+    <string name="2131757597">Yes, please!</string>
+    <string name="2131757599">Yes!</string>
+    <string name="2131757601">"You're All Set"</string>
+    <string name="2131757605">You are enrolled in %s!</string>
+    <string name="2131757607">You are now enrolled in paperless policy.</string>
+    <string name="2131757609">You are now unenrolled from paperless policy.</string>
+    <string name="2131757611">"You don't have the Lyft app yet.
+But no worries!"</string>
+    <string name="2131757616">You have an exclusive offer waiting!</string>
+    <string name="2131757617">You Have a Bill Waiting</string>
+    <string name="2131757619">"You've Found Your ID Cards"</string>
+    <string name="2131757627">Your stored account has been added.</string>
+    <string name="2131757628">Your stored account has been deleted.</string>
+    <string name="2131757631">Your Attention Required</string>
+    <string name="2131757634">Your Bills</string>
+    <string name="2131757637">Your Destination</string>
+    <string name="2131757639">Your digital ID Cards are just a click away!</string>
+    <string name="2131757640">eForms Signed</string>
+    <string name="2131757641">Your electronic form(s) are complete.</string>
+    <string name="2131757643">Your financial institution may take <b>1-3 business days</b> to process the payment.</string>
+    <string name="2131757645">Your ID cards are unavailable for viewing.</string>
+    <string name="2131757646">Your Information has been updated</string>
+    <string name="2131757651">Your Payment Is Due</string>
+    <string name="2131757654">Your Pickup Location</string>
+    <string name="2131757655">Your Policies</string>
+    <string name="2131757656">Your Policy</string>
+    <string name="2131757658">Your policy has recently renewed. Would you like to view ID cards for your current policy term?</string>
+    <string name="2131757660">Your policy is pending cancellation</string>
+    <string name="2131757662">Your request will still be processed but you will not be able to return to the confirmation page.</string>
+    <string name="2131757663">Your Settings</string>
+    <string name="2131757667">"You're enrolled in automatic payments."</string>
+    <string name="2131757672">Zip Code</string>
+    <string name="2131757673">Please enter a 5-digit zip code.</string>
+    <string name="2131757674">Please enter a valid 5-digit zip code.</string>
+    <string name="2131757675">Zip code is required.</string>
+    <string name="2131757676">Barcode Scanner</string>
+    <string name="2131757677">Cancel</string>
+    <string name="2131757678">OK</string>
+    <string name="2131757679">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="2131757680">Default Format</string>
+    <string name="2131757681">Default Meta</string>
+    <string name="2131757682">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="2131757683">Default Time</string>
+    <string name="2131757684">Default Type</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33">false</item>
+    <item type="string" name="APKTOOL_DUMMY_35">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45">false</item>
+    <item type="string" name="APKTOOL_DUMMY_46">false</item>
+    <item type="string" name="APKTOOL_DUMMY_48">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50">false</item>
+    <item type="string" name="APKTOOL_DUMMY_51">false</item>
+    <item type="string" name="APKTOOL_DUMMY_52">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58">false</item>
+    <item type="string" name="APKTOOL_DUMMY_59">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60">false</item>
+    <item type="string" name="APKTOOL_DUMMY_62">false</item>
+    <item type="string" name="APKTOOL_DUMMY_63">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_72">false</item>
+    <item type="string" name="APKTOOL_DUMMY_73">false</item>
+    <item type="string" name="APKTOOL_DUMMY_74">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76">false</item>
+    <item type="string" name="APKTOOL_DUMMY_77">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_80">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_96">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_100">false</item>
+    <item type="string" name="APKTOOL_DUMMY_101">false</item>
+    <item type="string" name="APKTOOL_DUMMY_102">false</item>
+    <item type="string" name="APKTOOL_DUMMY_103">false</item>
+    <item type="string" name="APKTOOL_DUMMY_104">false</item>
+    <item type="string" name="APKTOOL_DUMMY_105">false</item>
+    <item type="string" name="APKTOOL_DUMMY_108">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_120">false</item>
+    <item type="string" name="APKTOOL_DUMMY_123">false</item>
+    <item type="string" name="APKTOOL_DUMMY_124">false</item>
+    <item type="string" name="APKTOOL_DUMMY_125">false</item>
+    <item type="string" name="APKTOOL_DUMMY_126">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_130">false</item>
+    <item type="string" name="APKTOOL_DUMMY_131">false</item>
+    <item type="string" name="APKTOOL_DUMMY_133">false</item>
+    <item type="string" name="APKTOOL_DUMMY_134">false</item>
+    <item type="string" name="APKTOOL_DUMMY_135">false</item>
+    <item type="string" name="APKTOOL_DUMMY_137">false</item>
+    <item type="string" name="APKTOOL_DUMMY_138">false</item>
+    <item type="string" name="APKTOOL_DUMMY_139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_13f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_141">false</item>
+    <item type="string" name="APKTOOL_DUMMY_142">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144">false</item>
+    <item type="string" name="APKTOOL_DUMMY_145">false</item>
+    <item type="string" name="APKTOOL_DUMMY_146">false</item>
+    <item type="string" name="APKTOOL_DUMMY_147">false</item>
+    <item type="string" name="APKTOOL_DUMMY_149">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_150">false</item>
+    <item type="string" name="APKTOOL_DUMMY_153">false</item>
+    <item type="string" name="APKTOOL_DUMMY_154">false</item>
+    <item type="string" name="APKTOOL_DUMMY_157">false</item>
+    <item type="string" name="APKTOOL_DUMMY_159">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_169">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_174">false</item>
+    <item type="string" name="APKTOOL_DUMMY_177">false</item>
+    <item type="string" name="APKTOOL_DUMMY_178">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_196">false</item>
+    <item type="string" name="APKTOOL_DUMMY_197">false</item>
+    <item type="string" name="APKTOOL_DUMMY_198">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_19f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_218">false</item>
+    <item type="string" name="APKTOOL_DUMMY_219">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_227">false</item>
+    <item type="string" name="APKTOOL_DUMMY_228">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_230">false</item>
+    <item type="string" name="APKTOOL_DUMMY_231">false</item>
+    <item type="string" name="APKTOOL_DUMMY_232">false</item>
+    <item type="string" name="APKTOOL_DUMMY_235">false</item>
+    <item type="string" name="APKTOOL_DUMMY_236">false</item>
+    <item type="string" name="APKTOOL_DUMMY_237">false</item>
+    <item type="string" name="APKTOOL_DUMMY_238">false</item>
+    <item type="string" name="APKTOOL_DUMMY_239">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_240">false</item>
+    <item type="string" name="APKTOOL_DUMMY_244">false</item>
+    <item type="string" name="APKTOOL_DUMMY_246">false</item>
+    <item type="string" name="APKTOOL_DUMMY_248">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_251">false</item>
+    <item type="string" name="APKTOOL_DUMMY_252">false</item>
+    <item type="string" name="APKTOOL_DUMMY_253">false</item>
+    <item type="string" name="APKTOOL_DUMMY_254">false</item>
+    <item type="string" name="APKTOOL_DUMMY_256">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_261">false</item>
+    <item type="string" name="APKTOOL_DUMMY_265">false</item>
+    <item type="string" name="APKTOOL_DUMMY_267">false</item>
+    <item type="string" name="APKTOOL_DUMMY_272">false</item>
+    <item type="string" name="APKTOOL_DUMMY_273">false</item>
+    <item type="string" name="APKTOOL_DUMMY_275">false</item>
+    <item type="string" name="APKTOOL_DUMMY_277">false</item>
+    <item type="string" name="APKTOOL_DUMMY_278">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_280">false</item>
+    <item type="string" name="APKTOOL_DUMMY_283">false</item>
+    <item type="string" name="APKTOOL_DUMMY_284">false</item>
+    <item type="string" name="APKTOOL_DUMMY_286">false</item>
+    <item type="string" name="APKTOOL_DUMMY_288">false</item>
+    <item type="string" name="APKTOOL_DUMMY_289">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_290">false</item>
+    <item type="string" name="APKTOOL_DUMMY_292">false</item>
+    <item type="string" name="APKTOOL_DUMMY_293">false</item>
+    <item type="string" name="APKTOOL_DUMMY_294">false</item>
+    <item type="string" name="APKTOOL_DUMMY_298">false</item>
+    <item type="string" name="APKTOOL_DUMMY_299">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_311">false</item>
+    <item type="string" name="APKTOOL_DUMMY_312">false</item>
+    <item type="string" name="APKTOOL_DUMMY_316">false</item>
+    <item type="string" name="APKTOOL_DUMMY_317">false</item>
+    <item type="string" name="APKTOOL_DUMMY_318">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_320">false</item>
+    <item type="string" name="APKTOOL_DUMMY_321">false</item>
+    <item type="string" name="APKTOOL_DUMMY_323">false</item>
+    <item type="string" name="APKTOOL_DUMMY_324">false</item>
+    <item type="string" name="APKTOOL_DUMMY_325">false</item>
+    <item type="string" name="APKTOOL_DUMMY_327">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_330">false</item>
+    <item type="string" name="APKTOOL_DUMMY_331">false</item>
+    <item type="string" name="APKTOOL_DUMMY_332">false</item>
+    <item type="string" name="APKTOOL_DUMMY_333">false</item>
+    <item type="string" name="APKTOOL_DUMMY_334">false</item>
+    <item type="string" name="APKTOOL_DUMMY_336">false</item>
+    <item type="string" name="APKTOOL_DUMMY_338">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_341">false</item>
+    <item type="string" name="APKTOOL_DUMMY_342">false</item>
+    <item type="string" name="APKTOOL_DUMMY_343">false</item>
+    <item type="string" name="APKTOOL_DUMMY_344">false</item>
+    <item type="string" name="APKTOOL_DUMMY_345">false</item>
+    <item type="string" name="APKTOOL_DUMMY_346">false</item>
+    <item type="string" name="APKTOOL_DUMMY_347">false</item>
+    <item type="string" name="APKTOOL_DUMMY_348">false</item>
+    <item type="string" name="APKTOOL_DUMMY_349">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_350">false</item>
+    <item type="string" name="APKTOOL_DUMMY_351">false</item>
+    <item type="string" name="APKTOOL_DUMMY_352">false</item>
+    <item type="string" name="APKTOOL_DUMMY_353">false</item>
+    <item type="string" name="APKTOOL_DUMMY_354">false</item>
+    <item type="string" name="APKTOOL_DUMMY_359">false</item>
+    <item type="string" name="APKTOOL_DUMMY_360">false</item>
+    <item type="string" name="APKTOOL_DUMMY_367">false</item>
+    <item type="string" name="APKTOOL_DUMMY_368">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_370">false</item>
+    <item type="string" name="APKTOOL_DUMMY_371">false</item>
+    <item type="string" name="APKTOOL_DUMMY_372">false</item>
+    <item type="string" name="APKTOOL_DUMMY_375">false</item>
+    <item type="string" name="APKTOOL_DUMMY_376">false</item>
+    <item type="string" name="APKTOOL_DUMMY_377">false</item>
+    <item type="string" name="APKTOOL_DUMMY_379">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_383">false</item>
+    <item type="string" name="APKTOOL_DUMMY_384">false</item>
+    <item type="string" name="APKTOOL_DUMMY_385">false</item>
+    <item type="string" name="APKTOOL_DUMMY_386">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_391">false</item>
+    <item type="string" name="APKTOOL_DUMMY_392">false</item>
+    <item type="string" name="APKTOOL_DUMMY_395">false</item>
+    <item type="string" name="APKTOOL_DUMMY_396">false</item>
+    <item type="string" name="APKTOOL_DUMMY_397">false</item>
+    <item type="string" name="APKTOOL_DUMMY_398">false</item>
+    <item type="string" name="APKTOOL_DUMMY_399">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_403">false</item>
+    <item type="string" name="APKTOOL_DUMMY_405">false</item>
+    <item type="string" name="APKTOOL_DUMMY_406">false</item>
+    <item type="string" name="APKTOOL_DUMMY_407">false</item>
+    <item type="string" name="APKTOOL_DUMMY_409">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_40d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_412">false</item>
+    <item type="string" name="APKTOOL_DUMMY_413">false</item>
+    <item type="string" name="APKTOOL_DUMMY_415">false</item>
+    <item type="string" name="APKTOOL_DUMMY_416">false</item>
+    <item type="string" name="APKTOOL_DUMMY_417">false</item>
+    <item type="string" name="APKTOOL_DUMMY_418">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_420">false</item>
+    <item type="string" name="APKTOOL_DUMMY_421">false</item>
+    <item type="string" name="APKTOOL_DUMMY_422">false</item>
+    <item type="string" name="APKTOOL_DUMMY_423">false</item>
+    <item type="string" name="APKTOOL_DUMMY_424">false</item>
+    <item type="string" name="APKTOOL_DUMMY_430">false</item>
+    <item type="string" name="APKTOOL_DUMMY_431">false</item>
+    <item type="string" name="APKTOOL_DUMMY_436">false</item>
+    <item type="string" name="APKTOOL_DUMMY_437">false</item>
+    <item type="string" name="APKTOOL_DUMMY_438">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_43f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_440">false</item>
+    <item type="string" name="APKTOOL_DUMMY_441">false</item>
+    <item type="string" name="APKTOOL_DUMMY_442">false</item>
+    <item type="string" name="APKTOOL_DUMMY_444">false</item>
+    <item type="string" name="APKTOOL_DUMMY_445">false</item>
+    <item type="string" name="APKTOOL_DUMMY_446">false</item>
+    <item type="string" name="APKTOOL_DUMMY_447">false</item>
+    <item type="string" name="APKTOOL_DUMMY_448">false</item>
+    <item type="string" name="APKTOOL_DUMMY_449">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_44f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_450">false</item>
+    <item type="string" name="APKTOOL_DUMMY_451">false</item>
+    <item type="string" name="APKTOOL_DUMMY_452">false</item>
+    <item type="string" name="APKTOOL_DUMMY_453">false</item>
+    <item type="string" name="APKTOOL_DUMMY_454">false</item>
+    <item type="string" name="APKTOOL_DUMMY_455">false</item>
+    <item type="string" name="APKTOOL_DUMMY_456">false</item>
+    <item type="string" name="APKTOOL_DUMMY_457">false</item>
+    <item type="string" name="APKTOOL_DUMMY_458">false</item>
+    <item type="string" name="APKTOOL_DUMMY_459">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_45e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_461">false</item>
+    <item type="string" name="APKTOOL_DUMMY_46f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_470">false</item>
+    <item type="string" name="APKTOOL_DUMMY_47b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_482">false</item>
+    <item type="string" name="APKTOOL_DUMMY_483">false</item>
+    <item type="string" name="APKTOOL_DUMMY_484">false</item>
+    <item type="string" name="APKTOOL_DUMMY_485">false</item>
+    <item type="string" name="APKTOOL_DUMMY_486">false</item>
+    <item type="string" name="APKTOOL_DUMMY_488">false</item>
+    <item type="string" name="APKTOOL_DUMMY_489">false</item>
+    <item type="string" name="APKTOOL_DUMMY_48a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_48c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_490">false</item>
+    <item type="string" name="APKTOOL_DUMMY_491">false</item>
+    <item type="string" name="APKTOOL_DUMMY_495">false</item>
+    <item type="string" name="APKTOOL_DUMMY_497">false</item>
+    <item type="string" name="APKTOOL_DUMMY_498">false</item>
+    <item type="string" name="APKTOOL_DUMMY_49d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_49e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_49f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_503">false</item>
+    <item type="string" name="APKTOOL_DUMMY_504">false</item>
+    <item type="string" name="APKTOOL_DUMMY_505">false</item>
+    <item type="string" name="APKTOOL_DUMMY_506">false</item>
+    <item type="string" name="APKTOOL_DUMMY_507">false</item>
+    <item type="string" name="APKTOOL_DUMMY_508">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_510">false</item>
+    <item type="string" name="APKTOOL_DUMMY_511">false</item>
+    <item type="string" name="APKTOOL_DUMMY_512">false</item>
+    <item type="string" name="APKTOOL_DUMMY_513">false</item>
+    <item type="string" name="APKTOOL_DUMMY_514">false</item>
+    <item type="string" name="APKTOOL_DUMMY_515">false</item>
+    <item type="string" name="APKTOOL_DUMMY_516">false</item>
+    <item type="string" name="APKTOOL_DUMMY_517">false</item>
+    <item type="string" name="APKTOOL_DUMMY_518">false</item>
+    <item type="string" name="APKTOOL_DUMMY_519">false</item>
+    <item type="string" name="APKTOOL_DUMMY_51b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_51c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_526">false</item>
+    <item type="string" name="APKTOOL_DUMMY_527">false</item>
+    <item type="string" name="APKTOOL_DUMMY_528">false</item>
+    <item type="string" name="APKTOOL_DUMMY_529">false</item>
+    <item type="string" name="APKTOOL_DUMMY_52a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_52e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_530">false</item>
+    <item type="string" name="APKTOOL_DUMMY_531">false</item>
+    <item type="string" name="APKTOOL_DUMMY_533">false</item>
+    <item type="string" name="APKTOOL_DUMMY_544">false</item>
+    <item type="string" name="APKTOOL_DUMMY_546">false</item>
+    <item type="string" name="APKTOOL_DUMMY_547">false</item>
+    <item type="string" name="APKTOOL_DUMMY_549">false</item>
+    <item type="string" name="APKTOOL_DUMMY_54a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_54b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_54d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_550">false</item>
+    <item type="string" name="APKTOOL_DUMMY_551">false</item>
+    <item type="string" name="APKTOOL_DUMMY_555">false</item>
+    <item type="string" name="APKTOOL_DUMMY_556">false</item>
+    <item type="string" name="APKTOOL_DUMMY_557">false</item>
+    <item type="string" name="APKTOOL_DUMMY_558">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_55f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_560">false</item>
+    <item type="string" name="APKTOOL_DUMMY_561">false</item>
+    <item type="string" name="APKTOOL_DUMMY_564">false</item>
+    <item type="string" name="APKTOOL_DUMMY_565">false</item>
+    <item type="string" name="APKTOOL_DUMMY_566">false</item>
+    <item type="string" name="APKTOOL_DUMMY_568">false</item>
+    <item type="string" name="APKTOOL_DUMMY_569">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_57f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_588">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_58f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_590">false</item>
+    <item type="string" name="APKTOOL_DUMMY_591">false</item>
+    <item type="string" name="APKTOOL_DUMMY_592">false</item>
+    <item type="string" name="APKTOOL_DUMMY_593">false</item>
+    <item type="string" name="APKTOOL_DUMMY_594">false</item>
+    <item type="string" name="APKTOOL_DUMMY_597">false</item>
+    <item type="string" name="APKTOOL_DUMMY_598">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_600">false</item>
+    <item type="string" name="APKTOOL_DUMMY_601">false</item>
+    <item type="string" name="APKTOOL_DUMMY_602">false</item>
+    <item type="string" name="APKTOOL_DUMMY_604">false</item>
+    <item type="string" name="APKTOOL_DUMMY_605">false</item>
+    <item type="string" name="APKTOOL_DUMMY_607">false</item>
+    <item type="string" name="APKTOOL_DUMMY_608">false</item>
+    <item type="string" name="APKTOOL_DUMMY_609">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_60f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_617">false</item>
+    <item type="string" name="APKTOOL_DUMMY_61e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_61f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_620">false</item>
+    <item type="string" name="APKTOOL_DUMMY_621">false</item>
+    <item type="string" name="APKTOOL_DUMMY_623">false</item>
+    <item type="string" name="APKTOOL_DUMMY_624">false</item>
+    <item type="string" name="APKTOOL_DUMMY_625">false</item>
+    <item type="string" name="APKTOOL_DUMMY_626">false</item>
+    <item type="string" name="APKTOOL_DUMMY_627">false</item>
+    <item type="string" name="APKTOOL_DUMMY_628">false</item>
+    <item type="string" name="APKTOOL_DUMMY_629">false</item>
+    <item type="string" name="APKTOOL_DUMMY_62a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_634">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_64f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_651">false</item>
+    <item type="string" name="APKTOOL_DUMMY_652">false</item>
+    <item type="string" name="APKTOOL_DUMMY_654">false</item>
+    <item type="string" name="APKTOOL_DUMMY_655">false</item>
+    <item type="string" name="APKTOOL_DUMMY_659">false</item>
+    <item type="string" name="APKTOOL_DUMMY_662">false</item>
+    <item type="string" name="APKTOOL_DUMMY_663">false</item>
+    <item type="string" name="APKTOOL_DUMMY_665">false</item>
+    <item type="string" name="APKTOOL_DUMMY_666">false</item>
+    <item type="string" name="APKTOOL_DUMMY_669">false</item>
+    <item type="string" name="APKTOOL_DUMMY_66e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_66f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_670">false</item>
+    <item type="string" name="APKTOOL_DUMMY_671">false</item>
+    <item type="string" name="APKTOOL_DUMMY_673">false</item>
+    <item type="string" name="APKTOOL_DUMMY_676">false</item>
+    <item type="string" name="APKTOOL_DUMMY_677">false</item>
+    <item type="string" name="APKTOOL_DUMMY_678">false</item>
+    <item type="string" name="APKTOOL_DUMMY_679">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_67f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_68e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_690">false</item>
+    <item type="string" name="APKTOOL_DUMMY_691">false</item>
+    <item type="string" name="APKTOOL_DUMMY_692">false</item>
+    <item type="string" name="APKTOOL_DUMMY_693">false</item>
+    <item type="string" name="APKTOOL_DUMMY_694">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_700">false</item>
+    <item type="string" name="APKTOOL_DUMMY_704">false</item>
+    <item type="string" name="APKTOOL_DUMMY_708">false</item>
+    <item type="string" name="APKTOOL_DUMMY_709">false</item>
+    <item type="string" name="APKTOOL_DUMMY_70a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_70d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_70e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_70f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_710">false</item>
+    <item type="string" name="APKTOOL_DUMMY_715">false</item>
+    <item type="string" name="APKTOOL_DUMMY_718">false</item>
+    <item type="string" name="APKTOOL_DUMMY_719">false</item>
+    <item type="string" name="APKTOOL_DUMMY_71b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_720">false</item>
+    <item type="string" name="APKTOOL_DUMMY_722">false</item>
+    <item type="string" name="APKTOOL_DUMMY_723">false</item>
+    <item type="string" name="APKTOOL_DUMMY_724">false</item>
+    <item type="string" name="APKTOOL_DUMMY_725">false</item>
+    <item type="string" name="APKTOOL_DUMMY_727">false</item>
+    <item type="string" name="APKTOOL_DUMMY_72d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_72e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_759">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_75f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_760">false</item>
+    <item type="string" name="APKTOOL_DUMMY_761">false</item>
+    <item type="string" name="APKTOOL_DUMMY_762">false</item>
+    <item type="string" name="APKTOOL_DUMMY_763">false</item>
+    <item type="string" name="APKTOOL_DUMMY_764">false</item>
+    <item type="string" name="APKTOOL_DUMMY_765">false</item>
+    <item type="string" name="APKTOOL_DUMMY_767">false</item>
+    <item type="string" name="APKTOOL_DUMMY_768">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_771">false</item>
+    <item type="string" name="APKTOOL_DUMMY_773">false</item>
+    <item type="string" name="APKTOOL_DUMMY_774">false</item>
+    <item type="string" name="APKTOOL_DUMMY_77c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_782">false</item>
+    <item type="string" name="APKTOOL_DUMMY_787">false</item>
+    <item type="string" name="APKTOOL_DUMMY_791">false</item>
+    <item type="string" name="APKTOOL_DUMMY_796">false</item>
+    <item type="string" name="APKTOOL_DUMMY_798">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ec">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_801">false</item>
+    <item type="string" name="APKTOOL_DUMMY_802">false</item>
+    <item type="string" name="APKTOOL_DUMMY_803">false</item>
+    <item type="string" name="APKTOOL_DUMMY_805">false</item>
+    <item type="string" name="APKTOOL_DUMMY_806">false</item>
+    <item type="string" name="APKTOOL_DUMMY_807">false</item>
+    <item type="string" name="APKTOOL_DUMMY_808">false</item>
+    <item type="string" name="APKTOOL_DUMMY_809">false</item>
+    <item type="string" name="APKTOOL_DUMMY_80a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_80b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_80e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_813">false</item>
+    <item type="string" name="APKTOOL_DUMMY_816">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_81e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_820">false</item>
+    <item type="string" name="APKTOOL_DUMMY_821">false</item>
+    <item type="string" name="APKTOOL_DUMMY_823">false</item>
+    <item type="string" name="APKTOOL_DUMMY_824">false</item>
+    <item type="string" name="APKTOOL_DUMMY_825">false</item>
+    <item type="string" name="APKTOOL_DUMMY_828">false</item>
+    <item type="string" name="APKTOOL_DUMMY_829">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_82f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_830">false</item>
+    <item type="string" name="APKTOOL_DUMMY_83b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_83c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_83e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_840">false</item>
+    <item type="string" name="APKTOOL_DUMMY_841">false</item>
+    <item type="string" name="APKTOOL_DUMMY_842">false</item>
+    <item type="string" name="APKTOOL_DUMMY_844">false</item>
+    <item type="string" name="APKTOOL_DUMMY_845">false</item>
+    <item type="string" name="APKTOOL_DUMMY_846">false</item>
+    <item type="string" name="APKTOOL_DUMMY_847">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_850">false</item>
+    <item type="string" name="APKTOOL_DUMMY_852">false</item>
+    <item type="string" name="APKTOOL_DUMMY_853">false</item>
+    <item type="string" name="APKTOOL_DUMMY_855">false</item>
+    <item type="string" name="APKTOOL_DUMMY_856">false</item>
+    <item type="string" name="APKTOOL_DUMMY_857">false</item>
+    <item type="string" name="APKTOOL_DUMMY_858">false</item>
+    <item type="string" name="APKTOOL_DUMMY_85b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_85c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_85d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_860">false</item>
+    <item type="string" name="APKTOOL_DUMMY_862">false</item>
+    <item type="string" name="APKTOOL_DUMMY_863">false</item>
+    <item type="string" name="APKTOOL_DUMMY_864">false</item>
+    <item type="string" name="APKTOOL_DUMMY_867">false</item>
+    <item type="string" name="APKTOOL_DUMMY_868">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_870">false</item>
+    <item type="string" name="APKTOOL_DUMMY_874">false</item>
+    <item type="string" name="APKTOOL_DUMMY_875">false</item>
+    <item type="string" name="APKTOOL_DUMMY_876">false</item>
+    <item type="string" name="APKTOOL_DUMMY_879">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_880">false</item>
+    <item type="string" name="APKTOOL_DUMMY_881">false</item>
+    <item type="string" name="APKTOOL_DUMMY_882">false</item>
+    <item type="string" name="APKTOOL_DUMMY_883">false</item>
+    <item type="string" name="APKTOOL_DUMMY_884">false</item>
+    <item type="string" name="APKTOOL_DUMMY_885">false</item>
+    <item type="string" name="APKTOOL_DUMMY_888">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_89e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_924">false</item>
+    <item type="string" name="APKTOOL_DUMMY_926">false</item>
+    <item type="string" name="APKTOOL_DUMMY_927">false</item>
+    <item type="string" name="APKTOOL_DUMMY_928">false</item>
+    <item type="string" name="APKTOOL_DUMMY_929">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_937">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_940">false</item>
+    <item type="string" name="APKTOOL_DUMMY_941">false</item>
+    <item type="string" name="APKTOOL_DUMMY_942">false</item>
+    <item type="string" name="APKTOOL_DUMMY_943">false</item>
+    <item type="string" name="APKTOOL_DUMMY_944">false</item>
+    <item type="string" name="APKTOOL_DUMMY_945">false</item>
+    <item type="string" name="APKTOOL_DUMMY_948">false</item>
+    <item type="string" name="APKTOOL_DUMMY_949">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_954">false</item>
+    <item type="string" name="APKTOOL_DUMMY_957">false</item>
+    <item type="string" name="APKTOOL_DUMMY_958">false</item>
+    <item type="string" name="APKTOOL_DUMMY_959">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_960">false</item>
+    <item type="string" name="APKTOOL_DUMMY_962">false</item>
+    <item type="string" name="APKTOOL_DUMMY_964">false</item>
+    <item type="string" name="APKTOOL_DUMMY_967">false</item>
+    <item type="string" name="APKTOOL_DUMMY_969">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_980">false</item>
+    <item type="string" name="APKTOOL_DUMMY_985">false</item>
+    <item type="string" name="APKTOOL_DUMMY_986">false</item>
+    <item type="string" name="APKTOOL_DUMMY_988">false</item>
+    <item type="string" name="APKTOOL_DUMMY_989">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_992">false</item>
+    <item type="string" name="APKTOOL_DUMMY_994">false</item>
+    <item type="string" name="APKTOOL_DUMMY_995">false</item>
+    <item type="string" name="APKTOOL_DUMMY_996">false</item>
+    <item type="string" name="APKTOOL_DUMMY_997">false</item>
+    <item type="string" name="APKTOOL_DUMMY_998">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a00">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a01">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a02">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a03">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a04">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a05">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a06">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a10">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a13">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a14">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a15">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a16">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a17">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a18">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a20">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a22">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a23">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a24">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a26">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a28">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a32">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a34">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a35">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a36">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a37">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a38">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a39">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a40">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a41">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a43">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a44">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a46">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a50">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a51">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a52">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a54">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a55">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a59">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a60">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a61">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a62">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a64">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a65">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a66">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a67">false</item>
+</resources>

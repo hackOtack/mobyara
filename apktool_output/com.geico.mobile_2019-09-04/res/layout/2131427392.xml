@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout orientation="vertical" background="#ff000000" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fragment name="com.cccis.mobile.sdk.android.qephotocapture.QECameraPreviewFragment" id="@id/2131298402" layout_width="fill_parent" layout_height="fill_parent" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_alignParentLeft="true" layout_alignParentTop="true" layout_alignParentStart="true" />
+    <LinearLayout orientation="vertical" id="@id/2131298591" layout_width="fill_parent" layout_height="fill_parent">
+        <LinearLayout orientation="horizontal" id="@id/2131296638" layout_width="fill_parent" layout_height="wrap_content">
+            <View id="@id/2131296639" background="@drawable/2131231020" layout_width="wrap_content" layout_height="wrap_content" />
+            <RelativeLayout id="@id/2131298404" layout_width="wrap_content" layout_height="wrap_content">
+                <ImageView id="@id/2131297693" visibility="invisible" layout_width="fill_parent" layout_height="wrap_content" />
+                <ImageView id="@id/2131296636" visibility="invisible" layout_width="fill_parent" layout_height="fill_parent" />
+            </RelativeLayout>
+            <View id="@id/2131296640" background="@drawable/2131231020" layout_width="wrap_content" layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout gravity="center" orientation="vertical" background="#ffe7e8e9" layout_width="fill_parent" layout_height="0.0dip" layout_weight="3.0">
+            <ImageView id="@id/2131296444" background="#ffffffff" layout_width="100.0dip" layout_height="100.0dip" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" src="@drawable/APKTOOL_DUMMY_13d" />
+        </LinearLayout>
+        <FrameLayout id="@id/2131296598" background="#ffe7e8e9" layout_width="fill_parent" layout_height="0.0dip" layout_marginLeft="0.0dip" layout_marginTop="0.0dip" layout_weight="2"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </LinearLayout>
+    <View id="@id/2131297990" background="@drawable/2131231020" layout_width="fill_parent" layout_height="0.0dip" layout_alignParentBottom="true" />
+    <include layout="@layout/2131428211" />
+</RelativeLayout>

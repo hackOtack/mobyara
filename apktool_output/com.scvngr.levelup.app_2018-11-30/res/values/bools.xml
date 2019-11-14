@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="com_appboy_handle_push_deep_links_automatically">true</bool>
+    <bool name="com_appboy_push_gcm_messaging_registration_enabled">false</bool>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">false</bool>
+    <bool name="levelup_enable_multi_credit_card_picker">true</bool>
+    <bool name="levelup_enable_payment_preference_selection">false</bool>
+    <bool name="levelup_ignore_refunded_by_order_ahead_notifications">false</bool>
+    <bool name="levelup_is_crashlytics_enabled">true</bool>
+    <bool name="levelup_is_gift_card_enabled">false</bool>
+    <bool name="levelup_is_google_maps_enabled">true</bool>
+    <bool name="levelup_is_location_map_enabled">true</bool>
+    <bool name="levelup_is_multi_merchant_whitelabel">true</bool>
+    <bool name="levelup_is_onboarding_tutorial_enabled">false</bool>
+    <bool name="levelup_is_order_ahead_contact_info_enabled">true</bool>
+    <bool name="levelup_is_order_ahead_contact_info_required">true</bool>
+    <bool name="levelup_is_order_ahead_dollar_tipping_enabled">false</bool>
+    <bool name="levelup_is_order_ahead_ready_time_picker_enabled">false</bool>
+    <bool name="levelup_is_order_ahead_tip_picker_enabled">true</bool>
+    <bool name="levelup_sandbox_enabled">false</bool>
+    <bool name="levelup_test">false</bool>
+</resources>

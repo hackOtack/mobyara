@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" layout_width="fill_parent" layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView id="@id/2131299279" layout_width="wrap_content" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+    <GridView id="@id/2131297003" layout_width="wrap_content" layout_height="wrap_content" stretchMode="columnWidth" numColumns="7" />
+</LinearLayout>

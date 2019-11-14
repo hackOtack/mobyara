@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item id="@id/2131297388" title="Perks" />
+    <item id="@id/2131298007" title="Help Center" />
+    <item id="@id/2131297402" title="Feedback" />
+    <item id="@id/2131298553" title="Report a Bug" />
+    <item id="@id/2131297782" title="Legal" />
+</menu>

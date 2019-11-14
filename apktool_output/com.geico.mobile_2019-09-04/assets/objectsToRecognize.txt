@@ -1,0 +1,17 @@
+backpack
+bed
+chair
+couch
+dining table
+handbag
+keyboard
+laptop
+microwave
+monitor
+mouse
+oven
+phone
+refrigerator
+suitcase
+table
+toaster

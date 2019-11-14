@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout orientation="vertical" tag="layout-sw600dp/postpone_payment_navigation_fragment_layout_0" layout_width="fill_parent" layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout orientation="vertical" id="@id/2131297311" tag="binding_1" layout_width="fill_parent" layout_height="wrap_content">
+        <include layout="@layout/2131427678" />
+    </LinearLayout>
+    <include id="@id/2131298372" layout="@layout/2131428108" />
+    <com.geico.mobile.android.ace.geicoAppPresentation.calendar.mvvm.view.AceDatePickerView layout_width="fill_parent" layout_height="wrap_content" />
+    <Button layout_gravity="end" id="@id/2131298373" layout_width="wrap_content" layout_height="wrap_content" text="Postpone Payment" onClick="onPostponePaymentButtonClicked" style="@style/2131820937" />
+</LinearLayout>
