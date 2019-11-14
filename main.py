@@ -56,6 +56,7 @@ def check_rule(file_dir, rule_name):
                     rule_instance.strings_map[str] = False
                 else:
                     logger.info("rule %s was fired" %str)
+                    #print(yara_result)
                     rule_instance.strings_map[str] = True
             finally:
                 os.remove(str + '.yara')
